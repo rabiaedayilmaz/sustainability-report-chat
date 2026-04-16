@@ -1,0 +1,107 @@
+# docker-compose.yml — orchestrates the API + a local Ollama for the LLM.
+#
+# Qdrant is consumed as a managed service (Qdrant Cloud), so no Qdrant
+# container is needed. Set QDRANT_URL / QDRANT_API_KEY in your .env file.
+#
+# Quickstart:
+#   1. cp .env.example .env  &&  edit Qdrant credentials
+#   2. docker compose up --build -d
+#   3. docker compose exec ollama ollama pull qwen3:8b   # pull the LLM model
+#   4. curl http://localhost:8000/health
+#   5. curl -X POST http://localhost:8000/ask \
+#         -H 'Content-Type: application/json' \
+#         -d '{"question":"What are the 2024 emissions targets?"}'
+#
+# Monitoring stack (Prometheus + Grafana) is OPT-IN via the 'monitoring' profile:
+#   docker compose --profile monitoring up --build -d
+#   open http://localhost:3000  (admin / admin by default)
+#
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: rag-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list >/dev/null 2>&1 || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag-api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      # Override the Ollama URL so the API hits the sibling container, not localhost.
+      OLLAMA_BASE_URL: http://ollama:11434
+      # Force CPU inside the container (override to 'cuda' if you build with GPU support).
+      EMBEDDING_DEVICE: cpu
+    depends_on:
+      ollama:
+        condition: service_healthy
+    volumes:
+      # Persist large model caches across rebuilds.
+      - hf_cache:/root/.cache/huggingface
+      - paddle_cache:/root/.paddlex
+      # Optionally mount data/ if you want to re-index from inside the container.
+      - ./data:/app/data:ro
+    restart: unless-stopped
+
+  # ============================================================ monitoring
+  # Both services run only when started with: --profile monitoring
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: rag-prometheus
+    profiles: ["monitoring"]
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus_data:/prometheus
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+      - "--web.enable-lifecycle"
+      - "--web.console.libraries=/usr/share/prometheus/console_libraries"
+      - "--web.console.templates=/usr/share/prometheus/consoles"
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: rag-grafana
+    profiles: ["monitoring"]
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_USER: ${GRAFANA_USER:-admin}
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
+      GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_AUTH_ANONYMOUS_ENABLED: "false"
+      GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH: /var/lib/grafana/dashboards/rag.json
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+      - grafana_data:/var/lib/grafana
+    depends_on:
+      - prometheus
+    restart: unless-stopped
+
+volumes:
+  ollama_models:
+  hf_cache:
+  paddle_cache:
+  prometheus_data:
+  grafana_data:
