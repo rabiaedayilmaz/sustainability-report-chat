@@ -18,6 +18,7 @@ from fastapi import FastAPI, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
+from src.agent import RAGAgent
 from src.config import get_settings
 from src.pipeline import RAGPipeline
 from src.utils.log import logger, setup_logging
@@ -70,6 +71,31 @@ class SourceItem(BaseModel):
 class AskResponse(BaseModel):
     answer: str
     sources: List[SourceItem]
+
+
+# ----- /agent ---------------------------------------------------------------
+class AgentRequest(BaseModel):
+    """Body of ``POST /agent`` — the tool-using variant of /ask."""
+
+    question: str = Field(..., min_length=1, max_length=4000)
+    max_iterations: Optional[int] = Field(
+        None, ge=1, le=10,
+        description="Cap the agent loop. Default 5; raise for complex multi-hop questions.",
+    )
+
+
+class AgentStep(BaseModel):
+    name: str
+    arguments: Dict[str, Any]
+    result_summary: str
+
+
+class AgentResponse(BaseModel):
+    answer: str
+    sources: List[SourceItem]
+    steps: List[AgentStep] = Field(default_factory=list, description="Tools the agent called, in order.")
+    iterations: int
+    stopped_reason: Literal["final_answer", "max_iterations", "error"]
 
 
 class ComponentCheck(BaseModel):
@@ -282,6 +308,35 @@ async def ask(req: AskRequest) -> AskResponse:
     return AskResponse(
         answer=result.answer,
         sources=[SourceItem(**s) for s in result.sources],
+    )
+
+
+@app.post("/agent", response_model=AgentResponse, tags=["rag"])
+async def agent_endpoint(req: AgentRequest) -> AgentResponse:
+    """Tool-using agent over the same RAG corpus.
+
+    Use this instead of /ask when one round of retrieval isn't enough — e.g.
+    comparison queries ("compare 2020 vs 2024 emissions"), exploratory
+    questions ("what years do you cover?"), or multi-step reasoning. Returns
+    the same shape as /ask plus a ``steps`` list so callers can audit what
+    tools the agent invoked.
+    """
+    pipeline = _require_pipeline()
+    agent = RAGAgent(pipeline, max_iterations=req.max_iterations)
+    try:
+        result = await agent.run(req.question)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    except RuntimeError as exc:
+        raise HTTPException(status_code=502, detail=str(exc)) from exc
+
+    return AgentResponse(
+        answer=result.answer,
+        sources=[SourceItem(**s) for s in result.sources],
+        steps=[AgentStep(name=s.name, arguments=s.arguments, result_summary=s.result_summary)
+               for s in result.steps],
+        iterations=result.iterations,
+        stopped_reason=result.stopped_reason,
     )
 
 # .venv/bin/uvicorn app:app --host 0.0.0.0 --port 8000 --reload
