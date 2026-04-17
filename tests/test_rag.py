@@ -416,7 +416,6 @@ class StubPipeline:
     - ``aask`` records its last call (so filter pass-through can be asserted)
       and returns a canned answer + stubbed sources, mirroring the real
       pipeline's RAGAnswer contract.
-    - ``health`` returns a dict in the shape /ready expects.
     """
 
     class _Settings:
@@ -574,28 +573,6 @@ def test_ask_runtime_error_maps_to_502(client, stub_pipeline) -> None:
     r = client.post("/ask", json={"question": "anything"})
     assert r.status_code == 502
     assert "ollama down" in r.json()["detail"]
-
-
-# -------------------------------------------------- /ready probe
-
-
-def test_ready_returns_200_when_all_components_up(client) -> None:
-    r = client.get("/ready")
-    assert r.status_code == 200
-    assert r.json() == {"status": "ready", "failing": []}
-
-
-def test_ready_returns_503_with_failing_list_when_dep_down(client, stub_pipeline) -> None:
-    stub_pipeline._health = {
-        "qdrant":   {"status": "up"},
-        "ollama":   {"status": "down", "error": "conn refused"},
-        "embedder": {"status": "up"},
-    }
-    r = client.get("/ready")
-    assert r.status_code == 503
-    body = r.json()
-    assert body["status"] == "not_ready"
-    assert body["failing"] == ["ollama"]
 
 
 def test_ask_returns_503_when_pipeline_not_initialised() -> None:

@@ -18,7 +18,7 @@ curl -X POST http://localhost:8000/ask \
 - **Auto year extraction** from natural questions (no `--year` flag needed; `latest`, `FY2023`, comparison queries all handled)
 - **Numbered citations** `[N]` mapped to verifiable source snippets (~500 chars each)
 - **Tool-using agent** (`/agent`) for multi-step / comparison queries via Ollama's native tool calling
-- **Production health**: `/live` (cheap), `/ready` (deps), `/health` (verbose with latency per component)
+- **Production health**: `/health` (verbose with latency per component)
 - **Idempotent ingest** with deterministic UUID v5 chunk IDs and on-disk version manifest
 - **Single Dockerfile** + `docker-compose` orchestration (Qdrant Cloud + local Ollama + API)
 - **CI/CD** via GitHub Actions (lint + pytest + Docker build), 23 unit tests
@@ -37,7 +37,7 @@ flowchart LR
     subgraph API["FastAPI :8000"]
         Ask["POST /ask<br/>single-shot"]
         Agent["POST /agent<br/>tool-using loop"]
-        Meta["/live · /ready · /health · /docs"]
+        Meta["/health · /docs"]
     end
 
     subgraph Pipeline["RAG Pipeline (in-process)"]
@@ -159,13 +159,11 @@ Available tools:
 - `list_available_years()` — coverage check
 - `compare_years(question, years[])` — N parallel retrievals
 
-### Health endpoints
+### Health endpoint
 
 | Endpoint | When to use | Returns |
 |---|---|---|
-| `GET /live` | Liveness probe (k8s `livenessProbe`, Docker `HEALTHCHECK`) | Always 200 if process alive |
-| `GET /ready` | Readiness probe (load balancer routing) | 503 with `failing[]` if any dep is down |
-| `GET /health` | Human/dashboard | Verbose per-component status with latency |
+| `GET /health` | Human/dashboard | Verbose per-component status with latency; 503 if all components are down |
 
 ---
 
@@ -196,7 +194,7 @@ Changing `EMBEDDING_MODEL`, `EMBEDDING_*`, `CHUNK_*` invalidates the index — t
 
 ```
 sustainability-report-chat/
-├── app.py                          # FastAPI: /ask /agent /health /live /ready
+├── app.py                          # FastAPI: /ask /agent /health
 ├── start.sh                        # Bootstrap (compose + ollama pull + healthcheck)
 ├── Dockerfile                      # Single image, multi-arch
 ├── docker-compose.yml              # API + Ollama
@@ -298,7 +296,7 @@ The single-image build deploys cleanly to any container platform. Sized choices 
 |---|---|---|
 | **App Runner** | `apprunner.yaml` pointing at the image; secrets from Secrets Manager | Easiest. Auto-scales to zero. Caveat: 12-min cold starts on first scale-up due to embedding model load. Mitigate by setting `MinSize: 1`. |
 | **ECS Fargate** | Task definition with the image, env from Parameter Store/SSM | Bring-your-own ALB. Pair with EFS volume for HF model cache to avoid re-downloads. |
-| **EKS** | Standard `Deployment + Service + Ingress`. Use the included `/live` and `/ready` for `livenessProbe` / `readinessProbe`. Mount a PVC for `/root/.cache/huggingface` and `/root/.paddlex`. | Use this if you already run K8s. |
+| **EKS** | Standard `Deployment + Service + Ingress`. Use `/health` for the probes. Mount a PVC for `/root/.cache/huggingface` and `/root/.paddlex`. | Use this if you already run K8s. |
 
 For Ollama: either a sidecar (same pod / task) or a separate GPU node group. **Production** typically swaps Ollama for a hosted LLM (Bedrock Claude, OpenAI) — the `pipeline._generate` is one HTTP call, easy to retarget by swapping the system prompt + endpoint.
 

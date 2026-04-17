@@ -111,18 +111,6 @@ class HealthResponse(BaseModel):
     checks: Dict[str, ComponentCheck]
 
 
-class LivenessResponse(BaseModel):
-    status: Literal["alive"] = "alive"
-    service: str = SERVICE_NAME
-    version: str = SERVICE_VERSION
-    uptime_seconds: float
-
-
-class ReadinessResponse(BaseModel):
-    status: Literal["ready", "not_ready"]
-    failing: List[str] = Field(default_factory=list, description="Names of components reporting down.")
-
-
 # =========================================================== lifespan
 class _State:
     """Module-level singleton container for the loaded pipeline + uptime tracking."""
@@ -230,44 +218,6 @@ async def health(response: Response) -> HealthResponse:
         uptime_seconds=_uptime(),
         checks=checks,
     )
-
-
-@app.get(
-    "/live",
-    response_model=LivenessResponse,
-    tags=["meta"],
-    summary="Liveness probe — process is responding (does not check dependencies)",
-)
-async def live() -> LivenessResponse:
-    """Cheap probe for Kubernetes ``livenessProbe`` / Docker ``HEALTHCHECK``.
-
-    Does not touch Qdrant or Ollama; succeeds as long as the API process can
-    serve requests. A failure here means the container should be restarted.
-    """
-    return LivenessResponse(uptime_seconds=_uptime())
-
-
-@app.get(
-    "/ready",
-    response_model=ReadinessResponse,
-    tags=["meta"],
-    summary="Readiness probe — service can actually serve /ask",
-    responses={503: {"description": "At least one critical dependency is down."}},
-)
-async def ready(response: Response) -> ReadinessResponse:
-    """Readiness probe for Kubernetes ``readinessProbe``.
-
-    Returns ``ready`` (HTTP 200) only when every dependency required by /ask
-    (Qdrant + Ollama + embedder) is healthy. Otherwise returns ``not_ready``
-    with HTTP 503 and the list of failing components.
-    """
-    pipeline = _require_pipeline()
-    raw = pipeline.health()
-    failing = [name for name, c in raw.items() if c.get("status") != "up"]
-    if failing:
-        response.status_code = 503
-        return ReadinessResponse(status="not_ready", failing=failing)
-    return ReadinessResponse(status="ready")
 
 
 @app.post("/ask", response_model=AskResponse, tags=["rag"])

@@ -6,7 +6,7 @@
 #   2. Brings up the docker-compose stack (Ollama + API)
 #   3. Waits for Ollama to report healthy
 #   4. Pulls the LLM model named in OLLAMA_MODEL if it isn't already present
-#   5. Waits for the API to pass /live
+#   5. Waits for the API to pass /health
 #   6. Optionally re-indexes PDFs into Qdrant   (--reindex)
 #   7. Prints a sample curl so you can sanity-check
 #
@@ -87,13 +87,13 @@ else
 fi
 
 # ---------------------------------------------------------------- wait for API
-log "Waiting for API /live (max ${TIMEOUT_API}s — first boot loads embedding model)..."
+log "Waiting for API /health (max ${TIMEOUT_API}s — first boot loads embedding model)..."
 deadline=$((SECONDS + TIMEOUT_API))
-until curl -fs http://localhost:8000/live >/dev/null 2>&1; do
-    [[ $SECONDS -ge $deadline ]] && die "API did not become live in ${TIMEOUT_API}s — check 'docker compose logs api'"
+until curl -fs http://localhost:8000/health >/dev/null 2>&1; do
+    [[ $SECONDS -ge $deadline ]] && die "API did not become healthy in ${TIMEOUT_API}s — check 'docker compose logs api'"
     sleep 3
 done
-log "API is live."
+log "API is up."
 
 # ---------------------------------------------------------------- optional reindex
 if [[ "$ACTION" == "reindex" || "$ACTION" == "recreate" ]]; then
