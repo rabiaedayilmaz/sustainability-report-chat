@@ -36,13 +36,23 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - name: Install lightweight test deps
-        # We install only the minimum needed by the dependency-free unit tests
-        # (chunker, query_parser, version, manifest). Heavy deps like
-        # paddleocr / sentence-transformers are NOT required for these tests.
+      - name: Install test deps
+        # tests/test_rag.py imports FastAPI app + pipeline modules at collection
+        # time, so we need their import-time dependencies available. We still
+        # avoid OCR runtime deps (paddleocr/paddlepaddle) because tests do not
+        # execute OCR paths.
         run: |
           pip install --upgrade pip
-          pip install pytest pydantic pydantic-settings
+          pip install \
+            pytest \
+            fastapi \
+            httpx \
+            pydantic \
+            pydantic-settings \
+            numpy \
+            pymupdf \
+            qdrant-client \
+            sentence-transformers
       - name: Run pytest
         env:
           # Settings need these to load even if tests don't hit Qdrant.
