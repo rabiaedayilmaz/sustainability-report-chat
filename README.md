@@ -314,13 +314,6 @@ For Ollama: either a sidecar (same pod / task) or a separate GPU node group. **P
 
 `docker compose up -d` is production-shaped. Put nginx / Traefik in front for TLS termination + auth. The Qdrant Cloud connection works from any egress-capable host.
 
-### Common follow-ups
-
-- **Embeddings on GPU**: build a CUDA Docker variant and set `EMBEDDING_DEVICE=cuda`. Speeds up ingest 10×, query embedding becomes negligible.
-- **Hosted LLM**: replace `_generate`/`_agenerate` with Anthropic/OpenAI/Bedrock client. Keep the same prompt template. Removes the heaviest container (Ollama).
-- **Self-hosted Qdrant**: add a Qdrant container to docker-compose; wire to a persistent volume; consider sharding when `count > 1M` chunks.
-- **Vector cache**: for high-QPS, an in-process LRU on `embed_query` results pays off — questions repeat heavily in chat UIs.
-
 ---
 
 ## Design choices (and what we deliberately skipped)
