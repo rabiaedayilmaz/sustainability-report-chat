@@ -12,7 +12,7 @@ from __future__ import annotations
 
 import json
 from dataclasses import asdict, dataclass, field
-from typing import Any, List, Optional, Tuple
+from typing import Any, List, Tuple
 
 import httpx
 

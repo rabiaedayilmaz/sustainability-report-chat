@@ -1,11 +1,12 @@
 import os
 import re
-import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
+import requests
+from bs4 import BeautifulSoup
+
 BASE_URL = "https://www.nttdata.com/global/en/about-us/sustainability/report"
-DATA_DIR = "data" 
+DATA_DIR = "data"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -22,14 +23,14 @@ def download_file(url, year):
     # data/YEAR formatında klasör oluştur
     folder = os.path.join(DATA_DIR, year)
     os.makedirs(folder, exist_ok=True)
-    
+
     # Dosya adını URL'den al
     filename = url.split("/")[-1].split("?")[0]  # Query string'i temizle
-    
+
     # Eğer .pdf uzantısı yoksa ekle
     if not filename.lower().endswith('.pdf'):
         filename += '.pdf'
-    
+
     filepath = os.path.join(folder, filename)
 
     # Dosya zaten varsa atla
@@ -41,29 +42,29 @@ def download_file(url, year):
         print(f"[DOWNLOAD] {year}/{filename}")
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
-        
+
         # PDF olduğunu doğrula
         content_type = response.headers.get('Content-Type', '')
         if 'pdf' not in content_type.lower():
             print(f"[WARNING] {filename} - Not a PDF (Content-Type: {content_type})")
-        
+
         with open(filepath, "wb") as f:
             f.write(response.content)
         print(f"[SUCCESS] {year}/{filename} - {len(response.content)} bytes")
-        
+
     except Exception as e:
-        print(f"[ERROR] {filename} - {str(e)}")
+        print(f"[ERROR] {filename} - {e}")
 
 
 def scrape():
     print(f"Scraping: {BASE_URL}\n")
-    
+
     try:
         response = requests.get(BASE_URL, headers=headers, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
     except Exception as e:
-        print(f"[ERROR] Could not fetch page: {str(e)}")
+        print(f"[ERROR] Could not fetch page: {e}")
         return
 
     # Tüm linkleri bul
@@ -86,16 +87,16 @@ def scrape():
 
         # Önce link metninden yıl çıkarmayı dene
         year = extract_year_from_text(text)
-        
+
         # Bulamazsan URL'den dene
         if not year:
             year = extract_year_from_text(href)
-        
+
         # Hala bulamadıysan dosya adından dene
         if not year:
             filename = href.split("/")[-1]
             year = extract_year_from_text(filename)
-        
+
         # Son çare: "unknown" klasörüne koy
         if not year:
             year = "unknown"

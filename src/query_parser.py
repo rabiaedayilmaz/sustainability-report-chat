@@ -13,7 +13,6 @@ from typing import Iterable, Optional, Set
 
 from .utils.log import logger
 
-
 # Most-specific pattern first; the third matches bare 4-digit years anywhere.
 _YEAR_PATTERNS: tuple[re.Pattern[str], ...] = (
     re.compile(r"\bFY\s*(20\d{2})\b", re.IGNORECASE),

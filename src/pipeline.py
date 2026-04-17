@@ -17,7 +17,6 @@ from .utils.log import logger
 from .vector_store import QdrantVectorStore, SearchHit
 from .version import CODE_VERSION, SCHEMA_VERSION, IndexVersion
 
-
 SYSTEM_PROMPT = (
     "You are a precise sustainability analyst answering questions about"
     "Business Solutions sustainability reports.\n\n"
