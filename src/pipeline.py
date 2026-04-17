@@ -14,16 +14,6 @@ from .manifest import IngestManifest
 from .pdf_processor import PDFProcessor
 from .query_parser import YearExtractor
 from .utils.log import logger
-from .utils.metrics import (
-    ASK_TOTAL,
-    CHUNKS_INDEXED,
-    EMBED_LATENCY,
-    HITS_PER_QUERY,
-    LLM_LATENCY,
-    RETRIEVAL_LATENCY,
-    Timer,
-    set_index_info,
-)
 from .vector_store import QdrantVectorStore, SearchHit
 from .version import CODE_VERSION, SCHEMA_VERSION, IndexVersion
 
@@ -86,14 +76,6 @@ class RAGPipeline:
             embedding_dim=self.embedder.dim,
             chunk_size=self.settings.chunk_size,
             chunk_overlap=self.settings.chunk_overlap,
-        )
-        # Stamp the index identity onto the Prometheus gauge so /metrics has it
-        # available immediately, before the first /ask call.
-        set_index_info(
-            embedding_model=self.version.embedding_model,
-            embedding_dim=self.version.embedding_dim,
-            schema_version=self.version.schema_version,
-            fingerprint=self.version.fingerprint(),
         )
 
     # ================================================================ ingest
@@ -164,10 +146,8 @@ class RAGPipeline:
         }
 
     def _flush(self, chunks: List[Chunk]) -> None:
-        with Timer(EMBED_LATENCY, labels={"kind": "passage"}):
-            vectors = self.embedder.embed_passages([c.text for c in chunks])
+        vectors = self.embedder.embed_passages([c.text for c in chunks])
         self.store.upsert(chunks, vectors)
-        CHUNKS_INDEXED.inc(len(chunks))
 
     # ============================================================== retrieve
     def retrieve(
@@ -177,18 +157,14 @@ class RAGPipeline:
         year: str | None = None,
         source: str | None = None,
     ) -> List[SearchHit]:
-        with Timer(RETRIEVAL_LATENCY):
-            with Timer(EMBED_LATENCY, labels={"kind": "query"}):
-                qv = self.embedder.embed_query(question)
-            hits = self.store.search(
-                vector=qv,
-                top_k=top_k or self.settings.retrieval_top_k,
-                year=year,
-                source=source,
-                score_threshold=self.settings.retrieval_score_threshold,
-            )
-        HITS_PER_QUERY.observe(len(hits))
-        return hits
+        qv = self.embedder.embed_query(question)
+        return self.store.search(
+            vector=qv,
+            top_k=top_k or self.settings.retrieval_top_k,
+            year=year,
+            source=source,
+            score_threshold=self.settings.retrieval_score_threshold,
+        )
 
     # ============================================================== generate
     @staticmethod
@@ -221,13 +197,12 @@ class RAGPipeline:
 
     def _generate(self, question: str, hits: Sequence[SearchHit]) -> str:
         try:
-            with Timer(LLM_LATENCY):
-                r = httpx.post(
-                    self._ollama_url(),
-                    json=self._build_payload(question, hits),
-                    timeout=self.settings.ollama_timeout,
-                )
-                r.raise_for_status()
+            r = httpx.post(
+                self._ollama_url(),
+                json=self._build_payload(question, hits),
+                timeout=self.settings.ollama_timeout,
+            )
+            r.raise_for_status()
         except httpx.HTTPError as exc:
             raise RuntimeError(
                 f"Ollama call failed ({exc}). Is the daemon running at "
@@ -238,10 +213,9 @@ class RAGPipeline:
 
     async def _agenerate(self, question: str, hits: Sequence[SearchHit]) -> str:
         try:
-            with Timer(LLM_LATENCY):
-                async with httpx.AsyncClient(timeout=self.settings.ollama_timeout) as client:
-                    r = await client.post(self._ollama_url(), json=self._build_payload(question, hits))
-                    r.raise_for_status()
+            async with httpx.AsyncClient(timeout=self.settings.ollama_timeout) as client:
+                r = await client.post(self._ollama_url(), json=self._build_payload(question, hits))
+                r.raise_for_status()
         except httpx.HTTPError as exc:
             raise RuntimeError(
                 f"Ollama call failed ({exc}). Is the daemon running at "
@@ -300,16 +274,10 @@ class RAGPipeline:
     ) -> RAGAnswer:
         question = self._validate_question(question)
         year = self._resolve_year(question, year)
-        try:
-            hits = self.retrieve(question, top_k=top_k, year=year, source=source)
-            if not hits:
-                ASK_TOTAL.labels(status="no_hits").inc()
-                return RAGAnswer(answer=self._NO_HITS_ANSWER, sources=[])
-            answer = self._generate(question, hits)
-        except Exception:
-            ASK_TOTAL.labels(status="error").inc()
-            raise
-        ASK_TOTAL.labels(status="success").inc()
+        hits = self.retrieve(question, top_k=top_k, year=year, source=source)
+        if not hits:
+            return RAGAnswer(answer=self._NO_HITS_ANSWER, sources=[])
+        answer = self._generate(question, hits)
         return RAGAnswer(answer=answer, sources=self._hits_to_sources(hits))
 
     async def aask(
@@ -321,16 +289,10 @@ class RAGPipeline:
     ) -> RAGAnswer:
         question = self._validate_question(question)
         year = self._resolve_year(question, year)
-        try:
-            hits = self.retrieve(question, top_k=top_k, year=year, source=source)
-            if not hits:
-                ASK_TOTAL.labels(status="no_hits").inc()
-                return RAGAnswer(answer=self._NO_HITS_ANSWER, sources=[])
-            answer = await self._agenerate(question, hits)
-        except Exception:
-            ASK_TOTAL.labels(status="error").inc()
-            raise
-        ASK_TOTAL.labels(status="success").inc()
+        hits = self.retrieve(question, top_k=top_k, year=year, source=source)
+        if not hits:
+            return RAGAnswer(answer=self._NO_HITS_ANSWER, sources=[])
+        answer = await self._agenerate(question, hits)
         return RAGAnswer(answer=answer, sources=self._hits_to_sources(hits))
 
     # =============================================================== health

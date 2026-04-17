@@ -15,10 +15,6 @@ pydantic-settings>=2.3.0
 fastapi>=0.115.0
 uvicorn[standard]>=0.30.0
 
-# --- monitoring ---
-prometheus-client>=0.20.0
-prometheus-fastapi-instrumentator>=7.0.0
-
 # --- scraping (download_pdfs.py) ---
 requests>=2.31.0
 beautifulsoup4>=4.12.0

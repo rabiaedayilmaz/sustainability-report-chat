@@ -23,15 +23,6 @@ from src.config import get_settings
 from src.pipeline import RAGPipeline
 from src.utils.log import logger, setup_logging
 
-# Prometheus instrumentation is optional at import time so the API still boots
-# in environments where the package is missing (e.g. a slim test container).
-try:
-    from prometheus_fastapi_instrumentator import Instrumentator
-    _PROMETHEUS_AVAILABLE = True
-except ImportError:  # pragma: no cover
-    Instrumentator = None  # type: ignore[assignment]
-    _PROMETHEUS_AVAILABLE = False
-
 SERVICE_NAME = "sustainability-rag"
 SERVICE_VERSION = "1.0.0"
 
@@ -175,14 +166,6 @@ app.add_middleware(
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
-
-# Prometheus: HTTP-level metrics (request count, latency, in-flight) on /metrics.
-# RAG-level metrics (retrieval/llm/embed latency, ask outcomes) are registered
-# on the same default registry by src.utils.metrics, so they appear here too.
-if _PROMETHEUS_AVAILABLE:
-    Instrumentator(
-        excluded_handlers=["/metrics", "/live"],  # keep cardinality + scrape noise low
-    ).instrument(app).expose(app, endpoint="/metrics", include_in_schema=False)
 
 
 def _require_pipeline() -> RAGPipeline:
