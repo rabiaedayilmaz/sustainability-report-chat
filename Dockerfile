@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.6
 #
-# Single-image build for the NTT DATA Sustainability RAG service.
+# Single-image build for the Sustainability RAG service.
 # - Embedding model + PaddleOCR models are downloaded on first run and cached
 #   under /root/.cache/huggingface and /root/.paddlex (mount as volumes in
 #   docker-compose to persist across rebuilds).

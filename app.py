@@ -30,7 +30,7 @@ class AskRequest(BaseModel):
     model_config = {
         "json_schema_extra": {
             "example": {
-                "question": "What are NTT DATA's 2024 emissions targets?",
+                "question": "What are 2024 emissions targets?",
                 "top_k": 6,
                 "year": "2024",
             }
@@ -131,8 +131,8 @@ async def lifespan(_app: FastAPI):
 # app
 settings = get_settings()
 app = FastAPI(
-    title="NTT DATA Sustainability RAG",
-    description="Retrieval-augmented Q&A over NTT DATA Business Solutions sustainability reports.",
+    title="Sustainability RAG",
+    description="Retrieval-augmented Q&A over sustainability reports.",
     version=SERVICE_VERSION,
     lifespan=lifespan,
 )

@@ -115,5 +115,5 @@ log "Try it:"
 cat <<'EOF'
     curl -s -X POST http://localhost:8000/ask \
       -H 'Content-Type: application/json' \
-      -d '{"question":"What are NTT DATA 2024 emissions targets?"}' | jq .
+      -d '{"question":"What are 2024 emissions targets?"}' | jq .
 EOF

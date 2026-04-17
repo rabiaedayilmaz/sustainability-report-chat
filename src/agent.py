@@ -21,7 +21,7 @@ from .utils.log import logger
 
 # =============================================================== prompt
 AGENT_SYSTEM_PROMPT = (
-    "You are a sustainability analyst answering questions about NTT DATA "
+    "You are a sustainability analyst answering questions "
     "sustainability reports. You have a small toolbox to retrieve evidence:\n\n"
     "  - search_reports: dense retrieval over chunked reports, optionally "
     "filtered by year.\n"
@@ -52,7 +52,7 @@ def tool_definitions() -> list[dict]:
             "function": {
                 "name": "search_reports",
                 "description": (
-                    "Retrieve relevant text chunks from indexed NTT DATA "
+                    "Retrieve relevant text chunks from indexed"
                     "sustainability reports. Returns chunks with source PDF, "
                     "year, page number, and similarity score. Use this for "
                     "any factual question about reports."

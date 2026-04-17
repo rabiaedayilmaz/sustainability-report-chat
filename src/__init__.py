@@ -1,4 +1,4 @@
-"""Sustainability Report Chat — RAG over NTT DATA Business Solutions reports."""
+"""Sustainability Report Chat — RAG over reports."""
 
 from .config import Settings, get_settings
 

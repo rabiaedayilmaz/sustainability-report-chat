@@ -33,7 +33,7 @@ from src.vector_store import SearchHit
 
 def _make_hit(
     *,
-    text: str = "NTT DATA reported FY2024 Scope 1 emissions of 48,218 t-CO2e.",
+    text: str = "Reported FY2024 Scope 1 emissions of 48,218 t-CO2e.",
     source: str = "sr2025db_all_en.pdf",
     year: str = "2025",
     page_num: int = 42,

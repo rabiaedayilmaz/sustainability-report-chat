@@ -1,13 +1,13 @@
 # Sustainability Report Chat
 
-> Retrieval-augmented Q&A over **22 NTT DATA sustainability reports (2009–2025)**.
+> Retrieval-augmented Q&A over **22 sustainability reports (2009–2025)**.
 > Local LLM (Ollama), managed Qdrant, FastAPI, opt-in tool-using agent.
 
 ```bash
 ./start.sh
 curl -X POST http://localhost:8000/ask \
      -H 'Content-Type: application/json' \
-     -d '{"question":"What are NTT DATA 2024 emissions targets?"}'
+     -d '{"question":"What are 2024 emissions targets?"}'
 ```
 
 ---
@@ -105,14 +105,14 @@ uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 ```bash
 curl -X POST http://localhost:8000/ask \
   -H 'Content-Type: application/json' \
-  -d '{"question":"What are NTT DATA 2024 emissions targets?"}'
+  -d '{"question":"What are 2024 emissions targets?"}'
 ```
 
 Response shape:
 
 ```json
 {
-  "answer": "NTT DATA's NET-ZERO Vision 2040 includes net-zero for data centers by 2030 [1], offices by 2035 [1], and supply chain by 2040 [1]. Targets were SBTi-certified in March 2024 [1] ...",
+  "answer": "NET-ZERO Vision 2040 includes net-zero for data centers by 2030 [1], offices by 2035 [1], and supply chain by 2040 [1]. Targets were SBTi-certified in March 2024 [1] ...",
   "sources": [
     {
       "ref": 1,
@@ -121,7 +121,7 @@ Response shape:
       "page_num": 22,
       "chunk_id": "sr2024.pdf::p22::c2",
       "score": 0.898,
-      "snippet": "ombination with NTT Ltd., NTT DATA has revised its goal..."
+      "snippet": "ombination with Ltd., has revised its goal..."
     }
   ]
 }
@@ -139,7 +139,7 @@ For comparison or multi-step questions. Same input shape; response adds `steps` 
 ```bash
 curl -X POST http://localhost:8000/agent \
   -H 'Content-Type: application/json' \
-  -d '{"question":"Compare NTT DATA scope 1+2 emissions targets between 2020 and 2024."}'
+  -d '{"question":"Compare scope 1+2 emissions targets between 2020 and 2024."}'
 ```
 
 ```json
@@ -216,7 +216,7 @@ sustainability-report-chat/
 │       └── log.py                  # setup_logging() + shared logger
 │
 ├── scripts/
-│   ├── download_pdfs.py            # NTT DATA PDF scraper
+│   ├── download_pdfs.py            # PDF scraper
 │   ├── index_pdfs.py               # Ingest CLI
 │   ├── search.py                   # One-shot Q CLI (auto-year)
 │   └── interactive.py              # REPL with :year / :health / :sources
