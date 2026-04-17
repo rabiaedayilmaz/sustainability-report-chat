@@ -1,8 +1,3 @@
-# docker-compose.yml — orchestrates the API + a local Ollama for the LLM.
-#
-# Qdrant is consumed as a managed service (Qdrant Cloud), so no Qdrant
-# container is needed. Set QDRANT_URL / QDRANT_API_KEY in your .env file.
-#
 # Quickstart:
 #   1. cp .env.example .env  &&  edit Qdrant credentials
 #   2. docker compose up --build -d
