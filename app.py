@@ -1,12 +1,3 @@
-"""FastAPI service exposing the sustainability-report RAG pipeline.
-
-Endpoints:
-    POST /ask      → {question, top_k?, year?, source?} → {answer, sources}
-    GET  /health   → pipeline + dependency status
-
-Run locally:
-    uvicorn app:app --reload --port 8000
-"""
 from __future__ import annotations
 
 import time
@@ -27,7 +18,7 @@ SERVICE_NAME = "sustainability-rag"
 SERVICE_VERSION = "1.0.0"
 
 
-# =============================================================== DTOs
+# data type objects
 class AskRequest(BaseModel):
     """Body of ``POST /ask``."""
 
@@ -64,7 +55,6 @@ class AskResponse(BaseModel):
     sources: List[SourceItem]
 
 
-# ----- /agent ---------------------------------------------------------------
 class AgentRequest(BaseModel):
     """Body of ``POST /agent`` — the tool-using variant of /ask."""
 
@@ -111,7 +101,6 @@ class HealthResponse(BaseModel):
     checks: Dict[str, ComponentCheck]
 
 
-# =========================================================== lifespan
 class _State:
     """Module-level singleton container for the loaded pipeline + uptime tracking."""
 
@@ -139,7 +128,7 @@ async def lifespan(_app: FastAPI):
         _State.pipeline = None
 
 
-# ================================================================ app
+# app
 settings = get_settings()
 app = FastAPI(
     title="NTT DATA Sustainability RAG",
@@ -151,7 +140,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credentials=False,
-    allow_methods=["GET", "POST"],
+    allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
 
@@ -162,7 +151,6 @@ def _require_pipeline() -> RAGPipeline:
     return _State.pipeline
 
 
-# =========================================================== endpoints
 def _uptime() -> float:
     return round(time.time() - _State.start_time, 2)
 
@@ -187,6 +175,7 @@ def _to_component_check(raw: Dict[str, Any]) -> ComponentCheck:
     )
 
 
+# endpoints
 @app.get(
     "/health",
     response_model=HealthResponse,

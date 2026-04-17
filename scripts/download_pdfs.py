@@ -5,14 +5,13 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 BASE_URL = "https://www.nttdata.com/global/en/about-us/sustainability/report"
-DATA_DIR = "data"  # Ana klasör
+DATA_DIR = "data" 
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
 def extract_year_from_text(text):
-    """Metinden yıl bilgisini çıkar"""
     # 4 haneli yıl ara (2000-2029 arası)
     match = re.search(r'(20[0-2][0-9])', text)
     if match:
@@ -20,7 +19,6 @@ def extract_year_from_text(text):
     return None
 
 def download_file(url, year):
-    """PDF dosyasını yıl klasörüne indir"""
     # data/YEAR formatında klasör oluştur
     folder = os.path.join(DATA_DIR, year)
     os.makedirs(folder, exist_ok=True)
@@ -58,7 +56,6 @@ def download_file(url, year):
 
 
 def scrape():
-    """Ana scraping fonksiyonu"""
     print(f"Scraping: {BASE_URL}\n")
     
     try:
