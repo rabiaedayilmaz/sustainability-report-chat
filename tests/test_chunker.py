@@ -1,4 +1,3 @@
-"""Pure-Python tests for TextChunker — no Qdrant / no embedder needed."""
 from __future__ import annotations
 
 from src.chunker import Chunk, TextChunker

@@ -31,9 +31,6 @@ from src.query_parser import YearExtractor
 from src.vector_store import SearchHit
 
 
-# ---------------------------------------------------------------- helpers
-
-
 def _make_hit(
     *,
     text: str = "NTT DATA reported FY2024 Scope 1 emissions of 48,218 t-CO2e.",
@@ -96,7 +93,7 @@ class _FakeResponse:
         return self._payload
 
 
-# ==================================================== _validate_question
+# validate_question
 
 
 def test_validate_question_strips_whitespace() -> None:
@@ -128,9 +125,7 @@ def test_validate_question_rejects_non_string() -> None:
         RAGPipeline._validate_question(None)  # type: ignore[arg-type]
 
 
-# ======================================================= _format_context
-
-
+# format_context
 def test_format_context_numbers_blocks_one_indexed() -> None:
     hits = [_make_hit(text="alpha body"), _make_hit(text="beta body", page_num=43)]
     out = RAGPipeline._format_context(hits)
@@ -152,9 +147,7 @@ def test_format_context_empty_hits() -> None:
     assert RAGPipeline._format_context([]) == ""
 
 
-# ======================================================= _hits_to_sources
-
-
+# hits_to_sources
 def test_hits_to_sources_assigns_sequential_refs() -> None:
     sources = RAGPipeline._hits_to_sources([
         _make_hit(text="a"), _make_hit(text="b"), _make_hit(text="c"),
@@ -186,7 +179,7 @@ def test_hits_to_sources_preserves_metadata() -> None:
     assert s["chunk_id"] == hit.chunk_id
 
 
-# ========================================================== _resolve_year
+# resolve_year
 
 
 def test_resolve_year_explicit_wins_over_question() -> None:
@@ -205,7 +198,7 @@ def test_resolve_year_returns_none_when_nothing_matches() -> None:
     assert p._resolve_year("tell me about sustainability", explicit=None) is None
 
 
-# ============================================== Ollama integration (mocked)
+# Ollama integration
 
 
 def test_build_payload_includes_model_prompt_system_and_options() -> None:
