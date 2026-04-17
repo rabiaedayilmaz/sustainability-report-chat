@@ -12,10 +12,6 @@
 #         -H 'Content-Type: application/json' \
 #         -d '{"question":"What are the 2024 emissions targets?"}'
 #
-# Monitoring stack (Prometheus + Grafana) is OPT-IN via the 'monitoring' profile:
-#   docker compose --profile monitoring up --build -d
-#   open http://localhost:3000  (admin / admin by default)
-#
 
 services:
   ollama:
@@ -58,50 +54,7 @@ services:
       - ./data:/app/data:ro
     restart: unless-stopped
 
-  # ============================================================ monitoring
-  # Both services run only when started with: --profile monitoring
-  prometheus:
-    image: prom/prometheus:latest
-    container_name: rag-prometheus
-    profiles: ["monitoring"]
-    ports:
-      - "9090:9090"
-    volumes:
-      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
-      - prometheus_data:/prometheus
-    command:
-      - "--config.file=/etc/prometheus/prometheus.yml"
-      - "--storage.tsdb.path=/prometheus"
-      - "--web.enable-lifecycle"
-      - "--web.console.libraries=/usr/share/prometheus/console_libraries"
-      - "--web.console.templates=/usr/share/prometheus/consoles"
-    depends_on:
-      - api
-    restart: unless-stopped
-
-  grafana:
-    image: grafana/grafana:latest
-    container_name: rag-grafana
-    profiles: ["monitoring"]
-    ports:
-      - "3000:3000"
-    environment:
-      GF_SECURITY_ADMIN_USER: ${GRAFANA_USER:-admin}
-      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_PASSWORD:-admin}
-      GF_USERS_ALLOW_SIGN_UP: "false"
-      GF_AUTH_ANONYMOUS_ENABLED: "false"
-      GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH: /var/lib/grafana/dashboards/rag.json
-    volumes:
-      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
-      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
-      - grafana_data:/var/lib/grafana
-    depends_on:
-      - prometheus
-    restart: unless-stopped
-
 volumes:
   ollama_models:
   hf_cache:
   paddle_cache:
-  prometheus_data:
-  grafana_data:

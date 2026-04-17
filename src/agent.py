@@ -18,7 +18,6 @@ import httpx
 
 from .pipeline import RAGPipeline
 from .utils.log import logger
-from .utils.metrics import LLM_LATENCY, Timer
 
 # =============================================================== prompt
 AGENT_SYSTEM_PROMPT = (
@@ -176,10 +175,9 @@ class RAGAgent:
             },
         }
         try:
-            with Timer(LLM_LATENCY):
-                async with httpx.AsyncClient(timeout=self.pipeline.settings.ollama_timeout) as client:
-                    r = await client.post(self._chat_url(), json=payload)
-                    r.raise_for_status()
+            async with httpx.AsyncClient(timeout=self.pipeline.settings.ollama_timeout) as client:
+                r = await client.post(self._chat_url(), json=payload)
+                r.raise_for_status()
         except httpx.HTTPError as exc:
             raise RuntimeError(
                 f"Ollama /api/chat failed ({exc}). Is the daemon running and "

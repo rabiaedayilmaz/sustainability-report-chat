@@ -1,10 +1,10 @@
 # Sustainability Report Chat
 
 > Retrieval-augmented Q&A over **22 NTT DATA sustainability reports (2009–2025)**.
-> Local LLM (Ollama), managed Qdrant, FastAPI, Prometheus + Grafana, opt-in tool-using agent.
+> Local LLM (Ollama), managed Qdrant, FastAPI, opt-in tool-using agent.
 
 ```bash
-./start.sh --with-monitoring
+./start.sh
 curl -X POST http://localhost:8000/ask \
      -H 'Content-Type: application/json' \
      -d '{"question":"What are NTT DATA 2024 emissions targets?"}'
@@ -19,7 +19,6 @@ curl -X POST http://localhost:8000/ask \
 - **Numbered citations** `[N]` mapped to verifiable source snippets (~500 chars each)
 - **Tool-using agent** (`/agent`) for multi-step / comparison queries via Ollama's native tool calling
 - **Production health**: `/live` (cheap), `/ready` (deps), `/health` (verbose with latency per component)
-- **Prometheus metrics** + 11-panel **Grafana dashboard** (opt-in via profile)
 - **Idempotent ingest** with deterministic UUID v5 chunk IDs and on-disk version manifest
 - **Single Dockerfile** + `docker-compose` orchestration (Qdrant Cloud + local Ollama + API)
 - **CI/CD** via GitHub Actions (lint + pytest + Docker build), 23 unit tests
@@ -38,7 +37,7 @@ flowchart LR
     subgraph API["FastAPI :8000"]
         Ask["POST /ask<br/>single-shot"]
         Agent["POST /agent<br/>tool-using loop"]
-        Meta["/live · /ready · /health · /metrics · /docs"]
+        Meta["/live · /ready · /health · /docs"]
     end
 
     subgraph Pipeline["RAG Pipeline (in-process)"]
@@ -53,11 +52,6 @@ flowchart LR
 
     Retr <--> Qdrant[("Qdrant Cloud<br/>nttdata_sustainability<br/>~8 400 chunks")]
     LLM  <--> Ollama[("Ollama<br/>qwen3:8b")]
-
-    subgraph Mon["Monitoring (opt-in: --profile monitoring)"]
-        Prom["Prometheus :9090"] --> Graf["Grafana :3000<br/>RAG dashboard"]
-    end
-    API -.->|/metrics scrape| Prom
 ```
 
 ### Ingest (offline, run once per data refresh)
@@ -81,7 +75,7 @@ flowchart LR
 ```bash
 git clone <repo> && cd sustainability-report-chat
 cp .env.example .env          # edit QDRANT_URL + QDRANT_API_KEY
-./start.sh --with-monitoring  # boot api + ollama + prometheus + grafana
+./start.sh                    # boot api + ollama
 ./start.sh --recreate         # one-time index of the PDFs in data/
 ```
 
@@ -91,9 +85,6 @@ After boot:
 |---|---|
 | http://localhost:8000/docs | Swagger UI — try `/ask`, `/agent`, `/health` |
 | http://localhost:8000/health | Verbose health (per-component latency) |
-| http://localhost:8000/metrics | Prometheus exposition format |
-| http://localhost:9090 | Prometheus UI (target health, ad-hoc PromQL) |
-| http://localhost:3000 | Grafana (admin / admin by default — change in `.env`) |
 
 ### Manual (no docker)
 
@@ -196,7 +187,6 @@ Available tools:
 | `OLLAMA_MODEL` | `qwen3:8b` | Must support tool calling for `/agent` |
 | `RETRIEVAL_TOP_K` | `6` | Default; `--top-k` per-query override |
 | `LOG_LEVEL` | `INFO` | `DEBUG` \| `INFO` \| `WARNING` \| `ERROR` |
-| `GRAFANA_USER` / `GRAFANA_PASSWORD` | `admin` / `admin` | Only used with `--profile monitoring` |
 
 Changing `EMBEDDING_MODEL`, `EMBEDDING_*`, `CHUNK_*` invalidates the index — the fingerprint changes; `vector_store._assert_dim_matches()` will raise on mismatch. Re-ingest with `--recreate`.
 
@@ -206,10 +196,10 @@ Changing `EMBEDDING_MODEL`, `EMBEDDING_*`, `CHUNK_*` invalidates the index — t
 
 ```
 sustainability-report-chat/
-├── app.py                          # FastAPI: /ask /agent /health /live /ready /metrics
+├── app.py                          # FastAPI: /ask /agent /health /live /ready
 ├── start.sh                        # Bootstrap (compose + ollama pull + healthcheck)
 ├── Dockerfile                      # Single image, multi-arch
-├── docker-compose.yml              # API + Ollama, opt-in Prometheus + Grafana
+├── docker-compose.yml              # API + Ollama
 ├── requirements.txt
 ├── .env.example
 │
@@ -225,8 +215,7 @@ sustainability-report-chat/
 │   ├── version.py                  # IndexVersion + fingerprint()
 │   ├── manifest.py                 # IngestManifest (per-run snapshot)
 │   └── utils/
-│       ├── log.py                  # setup_logging() + shared logger
-│       └── metrics.py              # Prometheus counters/histograms + Timer
+│       └── log.py                  # setup_logging() + shared logger
 │
 ├── scripts/
 │   ├── download_pdfs.py            # NTT DATA PDF scraper
@@ -236,12 +225,9 @@ sustainability-report-chat/
 │
 ├── tests/                          # pytest, dep-light (no Qdrant/embedder needed)
 │   ├── test_chunker.py
+│   ├── test_rag.py
 │   ├── test_year_extractor.py
 │   └── test_versioning.py
-│
-├── monitoring/
-│   ├── prometheus.yml
-│   └── grafana/{provisioning,dashboards}/
 │
 ├── .github/workflows/ci.yml        # lint + pytest + docker build
 └── data/
@@ -267,33 +253,6 @@ Coverage:
 - `test_versioning.py` — fingerprint stability, change-on-mutation, manifest roundtrip
 
 For integration testing against real Qdrant + Ollama, the live smoke tests in `start.sh` already exercise `/health`, `/ask`, `/agent` end-to-end.
-
----
-
-## Monitoring
-
-Bring up Prometheus + Grafana with a single flag:
-
-```bash
-./start.sh --with-monitoring
-open http://localhost:3000   # admin / admin
-```
-
-The "RAG — Sustainability Report Chat" dashboard is auto-provisioned (set as default home) with 11 panels:
-
-| Panel | What it tells you |
-|---|---|
-| `/ask` success rate | Coloured stat — green ≥95%, orange 80–95%, red <80% |
-| Ask total / Chunks indexed / Uptime | At-a-glance counters |
-| `/ask` rate by outcome | success / no_hits / error timeseries |
-| Hits returned per query | p50 + p95 of returned chunk count |
-| Retrieval latency | p50/p95/p99 of `rag_retrieval_seconds` |
-| LLM latency | p50/p95/p99 of `rag_llm_seconds` (the long pole) |
-| Embedding latency by kind | query vs passage |
-| HTTP requests by handler/status | from prometheus-fastapi-instrumentator |
-| Index identity | `rag_index_info` — embedding model, dim, fingerprint |
-
-All metrics are also available raw at `/metrics` (Prometheus exposition format).
 
 ---
 
@@ -355,7 +314,7 @@ For Ollama: either a sidecar (same pod / task) or a separate GPU node group. **P
 
 ### Self-hosted / on-prem
 
-`docker compose --profile monitoring up -d` is production-shaped — Prometheus + Grafana included. Put nginx / Traefik in front for TLS termination + auth. The Qdrant Cloud connection works from any egress-capable host.
+`docker compose up -d` is production-shaped. Put nginx / Traefik in front for TLS termination + auth. The Qdrant Cloud connection works from any egress-capable host.
 
 ### Common follow-ups
 

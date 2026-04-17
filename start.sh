@@ -14,9 +14,7 @@
 #   ./start.sh                          # boot only (API + Ollama)
 #   ./start.sh --reindex                # boot + run scripts/index_pdfs.py inside the API container
 #   ./start.sh --recreate               # full re-index (drops the Qdrant collection first)
-#   ./start.sh --with-monitoring        # also bring up Prometheus + Grafana
-#   ./start.sh --reindex --with-monitoring  # combine flags
-#   ./start.sh --down                   # tear the stack down (incl. monitoring)
+#   ./start.sh --down                   # tear the stack down
 #
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -33,23 +31,16 @@ TIMEOUT_API=180       # seconds (first boot loads multilingual-e5-large)
 
 # ---------------------------------------------------------------- args
 ACTION="up"
-WITH_MONITORING=0
 for arg in "$@"; do
     case "$arg" in
         --reindex)         ACTION="reindex" ;;
         --recreate)        ACTION="recreate" ;;
-        --down)            ACTION="down" ;;
-        --with-monitoring) WITH_MONITORING=1 ;;
+        --down)             ACTION="down" ;;
         -h|--help)         sed -n '2,20p' "$0"; exit 0 ;;
         "" ) ;;
         * ) die "Unknown flag: $arg (try --help)" ;;
     esac
 done
-
-COMPOSE_PROFILES=()
-if [[ "$WITH_MONITORING" == "1" ]]; then
-    COMPOSE_PROFILES+=(--profile monitoring)
-fi
 
 # ---------------------------------------------------------------- prerequisites
 command -v docker >/dev/null || die "docker is required but not on PATH"
@@ -67,15 +58,15 @@ fi
 
 # ---------------------------------------------------------------- tear-down
 if [[ "$ACTION" == "down" ]]; then
-    log "Stopping stack (including monitoring profile, if running)..."
-    $COMPOSE --profile monitoring down
+    log "Stopping stack..."
+    $COMPOSE down
     log "Done."
     exit 0
 fi
 
 # ---------------------------------------------------------------- boot
-log "Building + starting containers${WITH_MONITORING:+ (with monitoring)}..."
-$COMPOSE "${COMPOSE_PROFILES[@]}" up --build -d
+log "Building + starting containers..."
+$COMPOSE up --build -d
 
 log "Waiting for Ollama (max ${TIMEOUT_OLLAMA}s)..."
 deadline=$((SECONDS + TIMEOUT_OLLAMA))
@@ -118,12 +109,7 @@ log "Stack is up:"
 echo "    API     → http://localhost:8000"
 echo "    Docs    → http://localhost:8000/docs"
 echo "    Health  → http://localhost:8000/health"
-echo "    Metrics → http://localhost:8000/metrics"
 echo "    Ollama  → http://localhost:11434"
-if [[ "$WITH_MONITORING" == "1" ]]; then
-    echo "    Prometheus → http://localhost:9090"
-    echo "    Grafana    → http://localhost:3000   (default: admin / admin — set GRAFANA_PASSWORD in .env)"
-fi
 echo
 log "Try it:"
 cat <<'EOF'

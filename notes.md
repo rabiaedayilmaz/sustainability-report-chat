@@ -23,18 +23,6 @@ curl -X POST http://localhost:8000/ask \
 ./start.sh --recreate     # boot + drop+reindex
 ./start.sh --down         # tear down
 
-# Monitoring ile başlat
-./start.sh --with-monitoring
-
-# Veya birlikte
-./start.sh --reindex --with-monitoring
-
-# Sadece monitoring eklemek istersen (zaten api+ollama up'sa)
-docker compose --profile monitoring up -d
-
-# Hepsini kapat
-./start.sh --down            # monitoring profile'ı dahil tüm konteynerleri durdurur
-
 3 tool:
 
 search_reports(question, year?, top_k?) — single-call retrieval
