@@ -1,9 +1,3 @@
-"""Extract structured filters (currently just year) from a free-text question.
-
-Kept dependency-free on purpose: spaCy / dateparser would pull >100 MB for
-something we can solve precisely with a handful of regexes against a known
-vocabulary (the report years actually present on disk).
-"""
 from __future__ import annotations
 
 import re

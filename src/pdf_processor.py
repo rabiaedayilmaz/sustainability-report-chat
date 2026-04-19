@@ -59,15 +59,7 @@ class PDFProcessor:
             return False
 
     def _ensure_engine(self) -> Any:
-        """Lazily build a single PaddleOCR engine; disable OCR for the run if it can't init.
-
-        PaddleOCR's constructor signature has shifted across major releases:
-          * 3.x  → ``use_textline_orientation`` (no ``show_log``)
-          * 2.x  → ``use_angle_cls`` (+ optional ``show_log``)
-        We try the most modern variant first and fall through to legacy ones,
-        catching anything (3.x argparse raises plain ``Exception`` subclasses
-        with messages like "Unknown argument: show_log").
-        """
+        """Lazily build a single PaddleOCR engine; disable OCR for the run if it can't init.        """
         if not self._ocr_available:
             return None
         if self._ocr_engine is not None:
@@ -130,14 +122,7 @@ class PDFProcessor:
 
     @staticmethod
     def _flatten_paddle_result(result: Any) -> str:
-        """Walk PaddleOCR's nested output and return joined text lines.
-
-        Tolerates the major output formats:
-          * 2.x ``ocr()``      → ``[[ [box, (text, score)], ... ], ...]``
-          * 3.x ``predict()``  → ``[{"rec_texts": [...], ...}, ...]``
-          * other dict shapes used by intermediate releases
-        Anything unrecognised is silently skipped.
-        """
+        """Walk PaddleOCR's nested output and return joined text lines."""
         if not result:
             return ""
 
