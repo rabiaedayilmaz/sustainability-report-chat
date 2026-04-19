@@ -51,7 +51,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--recreate-cache",
         action="store_true",
-        help="Re-extract PDFs even if a cached JSONL already exists.",
+        help="Re-extract PDFs even if a cached page directory already exists.",
+    )
+    parser.add_argument(
+        "--keep-cache",
+        action="store_true",
+        help="Do not delete a PDF's cached pages after they have been embedded.",
     )
     parser.add_argument(
         "--embedder",
@@ -102,6 +107,7 @@ def main() -> int:
         stats = pipeline.embed_from_cache(
             data_dir=data_dir,
             recreate=args.recreate,
+            keep_cache=args.keep_cache,
         )
         print(
             f"Embed done. pages={stats['pages']} chunks={stats['chunks']} "
@@ -112,6 +118,7 @@ def main() -> int:
             data_dir=data_dir,
             recreate=args.recreate,
             recreate_cache=args.recreate_cache,
+            keep_cache=args.keep_cache,
         )
         print(
             f"Done. pages={stats['pages']} chunks={stats['chunks']} "

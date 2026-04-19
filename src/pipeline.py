@@ -175,16 +175,21 @@ class RAGPipeline:
         *,
         recreate: bool = False,
         progress: bool = True,
+        keep_cache: bool = False,
     ) -> dict:
         """Phase 2 — stream cached pages, chunk, embed, upsert into Qdrant.
 
-        Requires :meth:`extract_to_cache` to have run previously (or the cache
-        directory to be populated some other way). PaddleOCR is never loaded
-        here, so only the embedding model and the Qdrant client sit in RAM.
+        Requires :meth:`extract_to_cache` to have run previously. Iterates one
+        PDF cache at a time: flushes all its chunks, then (unless
+        ``keep_cache``) deletes that PDF's ``.txt`` files before moving on, so
+        peak disk usage stays around a single PDF's worth of text.
+
+        PaddleOCR is never loaded here — only the embedding model and the
+        Qdrant client sit in RAM.
         """
         data_dir = Path(data_dir or self.settings.data_dir)
-        caches = pdf_cache.list_caches(data_dir)
-        if not caches:
+        cache_dirs = pdf_cache.list_cached_dirs(data_dir)
+        if not cache_dirs:
             logger.warning(
                 "No cached pages under %s — run extract_to_cache first.", data_dir
             )
@@ -210,17 +215,23 @@ class RAGPipeline:
             finally:
                 buffer.clear()
 
-        page_iter = pdf_cache.iter_cached_pages(data_dir)
-        if progress and _tqdm is not None:
-            page_iter = _tqdm(page_iter, desc="Embed", unit="pg")
+        pdf_iter = cache_dirs
+        if progress and _tqdm is not None and cache_dirs:
+            pdf_iter = _tqdm(cache_dirs, desc="Embed", unit="pdf")
 
-        for page in page_iter:
-            n_pages += 1
-            buffer.extend(self.chunker.chunk_page(page))
-            if len(buffer) >= self.INGEST_BATCH:
+        for cache_dir in pdf_iter:
+            before_failed = n_failed_batches
+            for page in pdf_cache.iter_pages_in_dir(cache_dir):
+                n_pages += 1
+                buffer.extend(self.chunker.chunk_page(page))
+                if len(buffer) >= self.INGEST_BATCH:
+                    _try_flush()
+            # Force-flush at PDF boundary so the delete below is safe.
+            if buffer:
                 _try_flush()
-        if buffer:
-            _try_flush()
+            # Only remove this PDF's cache if every batch for it succeeded.
+            if not keep_cache and n_failed_batches == before_failed:
+                pdf_cache.remove_cache(cache_dir)
 
         total = self.store.count()
         logger.info(
@@ -231,7 +242,7 @@ class RAGPipeline:
         manifest = IngestManifest.build(
             collection=self.store.collection,
             version=self.version,
-            pdf_count=len(caches),
+            pdf_count=len(cache_dirs),
             page_count=n_pages,
             chunk_count=n_chunks,
             failed_batches=n_failed_batches,
@@ -252,6 +263,7 @@ class RAGPipeline:
         recreate: bool = False,
         *,
         recreate_cache: bool = False,
+        keep_cache: bool = False,
     ) -> dict:
         """Convenience wrapper: run extract then embed in the same process.
 
@@ -260,7 +272,7 @@ class RAGPipeline:
         still loads after Paddle is released.
         """
         ex = self.extract_to_cache(data_dir, recreate_cache=recreate_cache)
-        em = self.embed_from_cache(data_dir, recreate=recreate)
+        em = self.embed_from_cache(data_dir, recreate=recreate, keep_cache=keep_cache)
         return {
             **em,
             "pdfs_extracted": ex["pdfs_written"],
