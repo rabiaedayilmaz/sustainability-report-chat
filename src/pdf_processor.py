@@ -12,6 +12,11 @@ import numpy as np
 from .config import Settings, get_settings
 from .utils.log import logger
 
+try:  # progress bar is optional — if tqdm is absent we fall back to plain iteration.
+    from tqdm.auto import tqdm as _tqdm
+except ImportError:  # pragma: no cover - exercised only when tqdm is missing
+    _tqdm = None
+
 
 # Cap on any side of a rendered page image. At 3 B/pixel this keeps a single
 # page under ~30 MB even if ocr_dpi combined with a huge media box would blow up.
@@ -213,12 +218,27 @@ class PDFProcessor:
             image = None  # drop the big array before walking the (small) result
         return self._flatten_paddle_result(result)
 
+    @staticmethod
+    def _wrap_progress(iterable, *, total: int | None, desc: str, unit: str, leave: bool, enabled: bool):
+        """Wrap ``iterable`` with a tqdm bar when progress is enabled and tqdm is available."""
+        if not enabled or _tqdm is None:
+            return iterable
+        return _tqdm(iterable, total=total, desc=desc, unit=unit, leave=leave)
+
     # ---------------------------------------------------------------- public
-    def process(self, pdf_path: Path | str, year: str | None = None) -> Iterator[Page]:
+    def process(
+        self,
+        pdf_path: Path | str,
+        year: str | None = None,
+        *,
+        progress: bool = False,
+    ) -> Iterator[Page]:
         """Yield cleaned pages from a single PDF, one page at a time.
 
         ``year`` is inferred from the parent directory name when not given,
-        matching the layout produced by ``scripts/download_pdfs.py``.
+        matching the layout produced by ``scripts/download_pdfs.py``. Pass
+        ``progress=True`` for a per-page tqdm bar; ``process_directory``
+        already turns this on.
         """
         pdf_path = Path(pdf_path)
         if year is None:
@@ -231,7 +251,16 @@ class PDFProcessor:
             return
 
         try:
-            for idx in range(1, doc.page_count + 1):
+            total = doc.page_count
+            page_nums = self._wrap_progress(
+                range(1, total + 1),
+                total=total,
+                desc=pdf_path.name[:40],
+                unit="pg",
+                leave=False,
+                enabled=progress,
+            )
+            for idx in page_nums:
                 via = "text"
                 cleaned = ""
                 try:
@@ -268,10 +297,28 @@ class PDFProcessor:
         finally:
             doc.close()
 
-    def process_directory(self, root: Path | str) -> Iterator[Page]:
-        """Walk ``root/<year>/*.pdf`` recursively and yield every cleaned page."""
+    def process_directory(
+        self,
+        root: Path | str,
+        *,
+        progress: bool = True,
+    ) -> Iterator[Page]:
+        """Walk ``root/<year>/*.pdf`` recursively and yield every cleaned page.
+
+        A tqdm bar over the PDFs (and a short-lived per-page bar) is shown by
+        default when tqdm is installed; pass ``progress=False`` to silence it
+        (e.g. when running in a non-interactive log).
+        """
         root = Path(root)
         pdfs = sorted(root.glob("**/*.pdf"))
         logger.info("Discovered %d PDFs under %s", len(pdfs), root)
-        for pdf_path in pdfs:
-            yield from self.process(pdf_path)
+        pdf_iter = self._wrap_progress(
+            pdfs,
+            total=len(pdfs),
+            desc="PDFs",
+            unit="pdf",
+            leave=True,
+            enabled=progress,
+        )
+        for pdf_path in pdf_iter:
+            yield from self.process(pdf_path, progress=progress)
