@@ -107,10 +107,35 @@ class RAGPipeline:
         return self._version
 
     def _release_ocr(self) -> None:
-        """Drop PaddleOCR + model weights before switching to the embed phase."""
-        if getattr(self.processor, "_ocr_engine", None) is not None:
-            self.processor._ocr_engine = None
-            gc.collect()
+        """Best-effort in-process release of PaddleOCR + Paddle modules.
+
+        Python references are dropped and ``gc.collect()`` is forced. Native
+        C++ allocations behind Paddle often stay with the process anyway — on
+        Linux we try ``malloc_trim`` to return them to the OS; on macOS no
+        such knob exists. For truly bounded peak RAM, run the extract and
+        embed phases in separate processes (the CLI's ``--phase all`` default
+        already does this by spawning a subprocess).
+        """
+        self.processor._ocr_engine = None
+        self.processor._ocr_available = False  # don't silently re-init later
+
+        # Drop the cached paddle / paddleocr modules so their weights can GC.
+        import sys as _sys
+        for name in list(_sys.modules):
+            if name == "paddle" or name.startswith("paddle.") \
+                    or name == "paddleocr" or name.startswith("paddleocr.") \
+                    or name.startswith("paddlex") or name.startswith("ppocr"):
+                _sys.modules.pop(name, None)
+
+        gc.collect()
+        gc.collect()
+
+        # Linux-only: ask glibc to return freed arenas to the kernel.
+        try:
+            import ctypes
+            ctypes.CDLL("libc.so.6").malloc_trim(0)
+        except (OSError, AttributeError):
+            pass
 
     # ================================================================ ingest
     def extract_to_cache(

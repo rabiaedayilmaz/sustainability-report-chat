@@ -1,18 +1,23 @@
 """Index every sustainability report PDF under ``data/`` into Qdrant.
 
-Two-phase pipeline — run them as separate invocations when memory is tight so
-PaddleOCR and the embedding model never live in the same process::
+Two-phase pipeline. ``--phase all`` (the default) runs the extract phase in
+a **child process** and embeds in the parent, so PaddleOCR's native
+allocations are fully reclaimed by the OS before the sentence-transformers
+model is loaded. That keeps peak RAM at max(OCR, embed) instead of
+(OCR + embed).
 
-    python scripts/index_pdfs.py --phase extract         # OCR -> JSONL cache
-    python scripts/index_pdfs.py --phase embed           # cache -> Qdrant
+Usage::
+
+    python scripts/index_pdfs.py                         # extract (subproc) + embed
+    python scripts/index_pdfs.py --recreate              # same, drop collection first
+    python scripts/index_pdfs.py --phase extract         # only OCR -> data/ocr/*.txt
+    python scripts/index_pdfs.py --phase embed           # only cache -> Qdrant
     python scripts/index_pdfs.py --phase embed --recreate  # drop + rebuild
-
-    python scripts/index_pdfs.py                         # both, in one process
-    python scripts/index_pdfs.py --recreate              # both, drop collection
 """
 from __future__ import annotations
 
 import argparse
+import subprocess
 import sys
 from pathlib import Path
 
@@ -39,8 +44,9 @@ def parse_args() -> argparse.Namespace:
         choices=["extract", "embed", "all"],
         default="all",
         help=(
-            "Which phase(s) to run. 'extract' writes JSONL caches via OCR; "
-            "'embed' reads caches and upserts to Qdrant; 'all' does both."
+            "Which phase(s) to run. 'extract' writes page .txt files via OCR; "
+            "'embed' reads them and upserts to Qdrant; 'all' runs extract in a "
+            "child process then embeds in the parent."
         ),
     )
     parser.add_argument(
@@ -64,8 +70,33 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Embedding backend override (defaults to EMBEDDING_BACKEND/.env).",
     )
+    parser.add_argument(
+        "--no-subprocess",
+        action="store_true",
+        help=(
+            "Force --phase all to stay in the same process. Uses less latency "
+            "but pays the 'OCR + embed in RAM together' cost."
+        ),
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     return parser.parse_args()
+
+
+def _run_extract_subprocess(args: argparse.Namespace) -> int:
+    """Invoke this same script with --phase extract in a fresh Python process.
+
+    On exit the OS reclaims everything Paddle allocated, including native
+    C++ buffers that ``del engine; gc.collect()`` cannot return to the heap.
+    """
+    argv = [sys.executable, str(Path(__file__).resolve()), "--phase", "extract"]
+    if args.data_dir is not None:
+        argv += ["--data-dir", str(args.data_dir)]
+    if args.recreate_cache:
+        argv += ["--recreate-cache"]
+    if args.verbose:
+        argv += ["-v"]
+    print(f"[all] spawning extract subprocess: {' '.join(argv)}")
+    return subprocess.call(argv)
 
 
 def main() -> int:
@@ -81,6 +112,16 @@ def main() -> int:
             settings.embedding_model = HARRIER_DEFAULT_MODEL
     data_dir = args.data_dir or settings.data_dir
 
+    # For --phase all: run extract as a child process, then embed in the parent.
+    # This is the path that actually keeps peak RAM low — native Paddle memory
+    # only goes back to the OS when that subprocess exits.
+    if args.phase == "all" and not args.no_subprocess:
+        rc = _run_extract_subprocess(args)
+        if rc != 0:
+            print(f"Extract subprocess exited with {rc}; skipping embed.")
+            return rc
+        args.phase = "embed"
+
     print(f"Phase: {args.phase} | data='{data_dir}' | collection='{settings.qdrant_collection}'")
     if args.phase in ("embed", "all"):
         print(
@@ -90,7 +131,7 @@ def main() -> int:
     if args.recreate and args.phase in ("embed", "all"):
         print("(Existing collection will be dropped first.)")
     if args.recreate_cache and args.phase in ("extract", "all"):
-        print("(Existing JSONL caches will be overwritten.)")
+        print("(Existing caches will be overwritten.)")
 
     pipeline = RAGPipeline(settings)
 
@@ -113,7 +154,7 @@ def main() -> int:
             f"Embed done. pages={stats['pages']} chunks={stats['chunks']} "
             f"collection_total={stats['collection_total']}"
         )
-    else:  # all
+    else:  # all with --no-subprocess
         stats = pipeline.ingest(
             data_dir=data_dir,
             recreate=args.recreate,
