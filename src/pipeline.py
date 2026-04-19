@@ -2,9 +2,16 @@
 from __future__ import annotations
 
 import gc
+import resource
+import sys
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import List, Sequence
+
+try:
+    import psutil as _psutil
+except ImportError:  # pragma: no cover
+    _psutil = None
 
 import httpx
 
@@ -157,6 +164,33 @@ class RAGPipeline:
         pdfs = pdf_cache.discover_pdfs(data_dir)
         logger.info("Extract phase: %d PDFs under %s", len(pdfs), data_dir)
 
+        # --- memory ceiling -----------------------------------------------
+        ceiling_mb = self.settings.ocr_memory_ceiling_mb
+        min_free_mb = self.settings.ocr_min_free_ram_mb
+
+        if ceiling_mb > 0:
+            ceiling_bytes = ceiling_mb * 1024 * 1024
+            try:
+                resource.setrlimit(resource.RLIMIT_AS, (ceiling_bytes, ceiling_bytes))
+                logger.info("Process RSS ceiling set to %d MB", ceiling_mb)
+            except (ValueError, resource.error) as exc:
+                logger.warning("Could not set RSS ceiling: %s", exc)
+
+        def _check_memory(pdf_path: Path) -> bool:
+            """Return False and log a warning if memory is tight; True = continue."""
+            if min_free_mb > 0 and _psutil is not None:
+                free_mb = _psutil.virtual_memory().available // (1024 * 1024)
+                if free_mb < min_free_mb:
+                    logger.error(
+                        "Free RAM %d MB < floor %d MB before %s — "
+                        "stopping extract to prevent system crash. "
+                        "Re-run to continue from here.",
+                        free_mb, min_free_mb, pdf_path.name,
+                    )
+                    return False
+            return True
+        # ------------------------------------------------------------------
+
         pdf_iter = pdfs
         if progress and _tqdm is not None and pdfs:
             pdf_iter = _tqdm(pdfs, desc="Extract", unit="pdf")
@@ -169,12 +203,21 @@ class RAGPipeline:
                 if not recreate_cache and pdf_cache.is_cached(data_dir, pdf_path):
                     n_skipped += 1
                     continue
+                if not _check_memory(pdf_path):
+                    break
                 try:
                     written = pdf_cache.write_pages(
                         data_dir,
                         pdf_path,
                         self.processor.process(pdf_path, progress=progress),
                     )
+                except MemoryError:
+                    logger.error(
+                        "MemoryError on %s — process ceiling (%d MB) hit. "
+                        "Re-run to continue.",
+                        pdf_path.name, ceiling_mb,
+                    )
+                    break
                 except Exception as exc:  # one bad PDF must not kill the whole run
                     logger.exception("Extract failed for %s: %s", pdf_path, exc)
                     continue

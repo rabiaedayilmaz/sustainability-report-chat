@@ -49,6 +49,24 @@ class Settings(BaseSettings):
     chunk_overlap: int = Field(120, ge=0, description="Chars of overlap between adjacent chunks.")
 
     # ----- PDF / OCR (PaddleOCR backend) -----
+    # Hard ceiling on process RSS before each PDF is extracted. The extract
+    # subprocess exits cleanly when this is exceeded — much safer than letting
+    # the OS kill things at the system level. Set to 0 to disable.
+    ocr_memory_ceiling_mb: int = Field(
+        3000,
+        ge=0,
+        description=(
+            "RSS limit (MB) for the extract process. "
+            "Process exits cleanly if exceeded. 0 = no limit."
+        ),
+    )
+    # Minimum free system RAM before processing the next PDF. Prevents swap
+    # exhaustion even if the process RSS hasn't hit the ceiling yet.
+    ocr_min_free_ram_mb: int = Field(
+        400,
+        ge=0,
+        description="Halt extraction if free system RAM drops below this (MB). 0 = no check.",
+    )
     enable_ocr: bool = Field(True)
     ocr_language: str = Field(
         "en",
