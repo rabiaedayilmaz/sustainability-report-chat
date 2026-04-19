@@ -1,7 +1,7 @@
 """E5-family embeddings via sentence-transformers."""
 from __future__ import annotations
 
-from typing import List, Sequence
+from typing import List, Protocol, Sequence
 
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -9,24 +9,34 @@ from sentence_transformers import SentenceTransformer
 from .config import Settings, get_settings
 from .utils.log import logger
 
+E5_DEFAULT_MODEL = "intfloat/multilingual-e5-large"
+HARRIER_DEFAULT_MODEL = "microsoft/harrier-oss-v1-0.6b"
 
-class E5Embedder:
-    """Wraps a sentence-transformers model with the required E5 prefixes.
 
-    The E5 family expects ``"query: ..."`` for search-time inputs and
-    ``"passage: ..."`` for documents being indexed. Mixing them up silently
-    degrades retrieval quality, so this class enforces the distinction.
-    """
+class Embedder(Protocol):
+    @property
+    def dim(self) -> int: ...
 
-    QUERY_PREFIX = "query: "
-    PASSAGE_PREFIX = "passage: "
+    def embed(self, texts: Sequence[str], is_query: bool = False) -> np.ndarray: ...
+
+    def embed_query(self, text: str) -> np.ndarray: ...
+
+    def embed_passages(self, texts: Sequence[str]) -> np.ndarray: ...
+
+
+class _BaseSTEmbedder:
+    """Common sentence-transformers wrapper with optional query/passage prefixes."""
+
+    QUERY_PREFIX = ""
+    PASSAGE_PREFIX = ""
 
     def __init__(self, settings: Settings | None = None) -> None:
         self.settings = settings or get_settings()
         logger.info(
-            "Loading embedding model %s on %s",
+            "Loading embedding model %s on %s (backend=%s)",
             self.settings.embedding_model,
             self.settings.embedding_device,
+            self.settings.embedding_backend,
         )
         self.model = SentenceTransformer(
             self.settings.embedding_model,
@@ -68,3 +78,25 @@ class E5Embedder:
 
     def embed_passages(self, texts: Sequence[str]) -> np.ndarray:
         return self.embed(texts, is_query=False)
+
+
+class E5Embedder(_BaseSTEmbedder):
+    """Wraps a sentence-transformers model with the required E5 prefixes.
+
+    The E5 family expects ``"query: ..."`` for search-time inputs and
+    ``"passage: ..."`` for documents being indexed. Mixing them up silently
+    degrades retrieval quality, so this class enforces the distinction.
+    """
+
+    QUERY_PREFIX = "query: "
+    PASSAGE_PREFIX = "passage: "
+
+class HarrierEmbedder(_BaseSTEmbedder):
+    """Harrier embeddings (no E5 query/passage prefixes)."""
+
+
+def create_embedder(settings: Settings | None = None) -> Embedder:
+    cfg = settings or get_settings()
+    if cfg.embedding_backend == "harrier":
+        return HarrierEmbedder(cfg)
+    return E5Embedder(cfg)

@@ -9,7 +9,7 @@ import httpx
 
 from .chunker import Chunk, TextChunker
 from .config import Settings, get_settings
-from .embedder import E5Embedder
+from .embedder import create_embedder
 from .manifest import IngestManifest
 from .pdf_processor import PDFProcessor
 from .query_parser import YearExtractor
@@ -65,7 +65,7 @@ class RAGPipeline:
         self.settings = settings or get_settings()
         self.processor = PDFProcessor(self.settings)
         self.chunker = TextChunker(self.settings)
-        self.embedder = E5Embedder(self.settings)
+        self.embedder = create_embedder(self.settings)
         self.store = QdrantVectorStore(self.embedder.dim, self.settings)
         self.year_extractor = YearExtractor.from_data_dir(self.settings.data_dir)
         self.version = IndexVersion(

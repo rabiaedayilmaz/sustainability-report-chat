@@ -36,6 +36,10 @@ class Settings(BaseSettings):
     )
 
     # ----- Embedding -----
+    embedding_backend: Literal["e5", "harrier"] = Field(
+        "e5",
+        description="Embedding backend strategy: 'e5' uses query/passage prefixes; 'harrier' uses plain text.",
+    )
     embedding_model: str = Field("intfloat/multilingual-e5-large")
     embedding_device: Literal["cpu", "cuda", "mps"] = Field("cpu")
     embedding_batch_size: int = Field(32, ge=1)
