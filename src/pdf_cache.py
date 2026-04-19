@@ -1,13 +1,12 @@
 """On-disk cache of extracted PDF pages, one ``.txt`` per page.
 
-Separating OCR (which writes the cache) from embedding (which reads and then
-deletes it) keeps PaddleOCR and the sentence-transformers model from
-coexisting in RAM — the combination is what pushes low-RAM machines into
-swap.
+Separating OCR (which writes the cache) from embedding (which reads it)
+keeps PaddleOCR and the sentence-transformers model from coexisting in RAM —
+the combination is what pushes low-RAM machines into swap.
 
 Layout::
 
-    <data_dir>/.cache/pages/<year>/<pdf_stem>/
+    <data_dir>/ocr/<year>/<pdf_stem>/
         p0001.txt          # page 1, extracted via native text
         p0002.ocr.txt      # page 2, extracted via OCR fallback
         ...
@@ -35,7 +34,7 @@ from typing import Iterator
 from .pdf_processor import Page
 from .utils.log import logger
 
-CACHE_SUBDIR = ".cache/pages"
+CACHE_SUBDIR = "ocr"
 _OCR_SUFFIX = ".ocr.txt"
 _PLAIN_SUFFIX = ".txt"
 _PAGE_NAME = re.compile(r"^p(\d{4,})(\.ocr)?\.txt$")
@@ -153,5 +152,5 @@ def discover_pdfs(data_dir: Path | str) -> list[Path]:
     return [
         p
         for p in sorted(data_dir.glob("**/*.pdf"))
-        if ".cache" not in p.parts
+        if CACHE_SUBDIR not in p.parts
     ]
