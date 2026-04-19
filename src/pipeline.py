@@ -175,14 +175,15 @@ class RAGPipeline:
         *,
         recreate: bool = False,
         progress: bool = True,
-        keep_cache: bool = False,
+        cleanup: bool = False,
     ) -> dict:
         """Phase 2 — stream cached pages, chunk, embed, upsert into Qdrant.
 
         Requires :meth:`extract_to_cache` to have run previously. Iterates one
-        PDF cache at a time: flushes all its chunks, then (unless
-        ``keep_cache``) deletes that PDF's ``.txt`` files before moving on, so
-        peak disk usage stays around a single PDF's worth of text.
+        PDF cache at a time and flushes its chunks at the PDF boundary. Pass
+        ``cleanup=True`` to delete each PDF's ``.txt`` files after a clean
+        flush; by default the cache is kept so extracted text can be
+        re-used or inspected.
 
         PaddleOCR is never loaded here — only the embedding model and the
         Qdrant client sit in RAM.
@@ -229,8 +230,8 @@ class RAGPipeline:
             # Force-flush at PDF boundary so the delete below is safe.
             if buffer:
                 _try_flush()
-            # Only remove this PDF's cache if every batch for it succeeded.
-            if not keep_cache and n_failed_batches == before_failed:
+            # Only remove this PDF's cache if requested AND every batch for it succeeded.
+            if cleanup and n_failed_batches == before_failed:
                 pdf_cache.remove_cache(cache_dir)
 
         total = self.store.count()
@@ -263,7 +264,7 @@ class RAGPipeline:
         recreate: bool = False,
         *,
         recreate_cache: bool = False,
-        keep_cache: bool = False,
+        cleanup: bool = False,
     ) -> dict:
         """Convenience wrapper: run extract then embed in the same process.
 
@@ -272,7 +273,7 @@ class RAGPipeline:
         still loads after Paddle is released.
         """
         ex = self.extract_to_cache(data_dir, recreate_cache=recreate_cache)
-        em = self.embed_from_cache(data_dir, recreate=recreate, keep_cache=keep_cache)
+        em = self.embed_from_cache(data_dir, recreate=recreate, cleanup=cleanup)
         return {
             **em,
             "pdfs_extracted": ex["pdfs_written"],

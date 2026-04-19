@@ -54,9 +54,9 @@ def parse_args() -> argparse.Namespace:
         help="Re-extract PDFs even if a cached page directory already exists.",
     )
     parser.add_argument(
-        "--keep-cache",
+        "--cleanup",
         action="store_true",
-        help="Do not delete a PDF's cached pages after they have been embedded.",
+        help="Delete each PDF's cached .txt pages after they have been embedded.",
     )
     parser.add_argument(
         "--embedder",
@@ -107,7 +107,7 @@ def main() -> int:
         stats = pipeline.embed_from_cache(
             data_dir=data_dir,
             recreate=args.recreate,
-            keep_cache=args.keep_cache,
+            cleanup=args.cleanup,
         )
         print(
             f"Embed done. pages={stats['pages']} chunks={stats['chunks']} "
@@ -118,7 +118,7 @@ def main() -> int:
             data_dir=data_dir,
             recreate=args.recreate,
             recreate_cache=args.recreate_cache,
-            keep_cache=args.keep_cache,
+            cleanup=args.cleanup,
         )
         print(
             f"Done. pages={stats['pages']} chunks={stats['chunks']} "
