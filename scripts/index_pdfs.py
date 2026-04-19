@@ -1,8 +1,14 @@
 """Index every sustainability report PDF under ``data/`` into Qdrant.
 
-Usage:
-    python scripts/index_pdfs.py            # incremental upsert
-    python scripts/index_pdfs.py --recreate # drop + rebuild collection
+Two-phase pipeline — run them as separate invocations when memory is tight so
+PaddleOCR and the embedding model never live in the same process::
+
+    python scripts/index_pdfs.py --phase extract         # OCR -> JSONL cache
+    python scripts/index_pdfs.py --phase embed           # cache -> Qdrant
+    python scripts/index_pdfs.py --phase embed --recreate  # drop + rebuild
+
+    python scripts/index_pdfs.py                         # both, in one process
+    python scripts/index_pdfs.py --recreate              # both, drop collection
 """
 from __future__ import annotations
 
@@ -29,9 +35,23 @@ def parse_args() -> argparse.Namespace:
         help="Override the data directory (default: settings.data_dir).",
     )
     parser.add_argument(
+        "--phase",
+        choices=["extract", "embed", "all"],
+        default="all",
+        help=(
+            "Which phase(s) to run. 'extract' writes JSONL caches via OCR; "
+            "'embed' reads caches and upserts to Qdrant; 'all' does both."
+        ),
+    )
+    parser.add_argument(
         "--recreate",
         action="store_true",
-        help="Drop the collection before re-ingesting (use after schema changes).",
+        help="Drop the Qdrant collection before embedding (use after schema changes).",
+    )
+    parser.add_argument(
+        "--recreate-cache",
+        action="store_true",
+        help="Re-extract PDFs even if a cached JSONL already exists.",
     )
     parser.add_argument(
         "--embedder",
@@ -56,20 +76,47 @@ def main() -> int:
             settings.embedding_model = HARRIER_DEFAULT_MODEL
     data_dir = args.data_dir or settings.data_dir
 
-    print(f"Indexing PDFs from '{data_dir}' into collection '{settings.qdrant_collection}'")
-    print(
-        f"Embedding backend/model: {settings.embedding_backend} / "
-        f"{settings.embedding_model} ({settings.embedding_device})"
-    )
-    if args.recreate:
+    print(f"Phase: {args.phase} | data='{data_dir}' | collection='{settings.qdrant_collection}'")
+    if args.phase in ("embed", "all"):
+        print(
+            f"Embedding backend/model: {settings.embedding_backend} / "
+            f"{settings.embedding_model} ({settings.embedding_device})"
+        )
+    if args.recreate and args.phase in ("embed", "all"):
         print("(Existing collection will be dropped first.)")
+    if args.recreate_cache and args.phase in ("extract", "all"):
+        print("(Existing JSONL caches will be overwritten.)")
 
     pipeline = RAGPipeline(settings)
-    stats = pipeline.ingest(data_dir=data_dir, recreate=args.recreate)
-    print(
-        f"Done. pages={stats['pages']} chunks={stats['chunks']} "
-        f"collection_total={stats['collection_total']}"
-    )
+
+    if args.phase == "extract":
+        stats = pipeline.extract_to_cache(
+            data_dir=data_dir,
+            recreate_cache=args.recreate_cache,
+        )
+        print(
+            f"Extract done. pdfs_written={stats['pdfs_written']} "
+            f"pdfs_cached={stats['pdfs_cached']} pages={stats['pages']}"
+        )
+    elif args.phase == "embed":
+        stats = pipeline.embed_from_cache(
+            data_dir=data_dir,
+            recreate=args.recreate,
+        )
+        print(
+            f"Embed done. pages={stats['pages']} chunks={stats['chunks']} "
+            f"collection_total={stats['collection_total']}"
+        )
+    else:  # all
+        stats = pipeline.ingest(
+            data_dir=data_dir,
+            recreate=args.recreate,
+            recreate_cache=args.recreate_cache,
+        )
+        print(
+            f"Done. pages={stats['pages']} chunks={stats['chunks']} "
+            f"collection_total={stats['collection_total']}"
+        )
     return 0
 
 
