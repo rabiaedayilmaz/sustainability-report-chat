@@ -31,14 +31,13 @@ COPY src/ ./src/
 COPY scripts/ ./scripts/
 COPY app.py .
 
-# Make sure cache dirs exist (volume mounts will overlay them).
 RUN mkdir -p /root/.cache/huggingface /root/.paddlex
 
 EXPOSE 8000
 
 HEALTHCHECK --interval=30s --timeout=10s --start-period=180s --retries=3 \
     CMD python -c "import urllib.request,sys; \
-        r=urllib.request.urlopen('http://localhost:8000/live', timeout=5); \
+        r=urllib.request.urlopen('http://localhost:8000/health', timeout=5); \
         sys.exit(0 if r.status==200 else 1)" || exit 1
 
 CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]

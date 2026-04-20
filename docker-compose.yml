@@ -1,29 +1,15 @@
 # Quickstart:
 #   1. cp .env.example .env  &&  edit Qdrant credentials
-#   2. docker compose up --build -d
-#   3. docker compose exec ollama ollama pull qwen3:8b   # pull the LLM model
-#   4. curl http://localhost:8000/health
-#   5. curl -X POST http://localhost:8000/ask \
+#   2. Mac'inde Ollama uygulamasının açık olduğundan emin ol (veya terminalden 'ollama serve' yap).
+#   3. Mac terminalinde modeli indir: ollama pull qwen3:8b
+#   4. docker compose up --build -d
+#   5. curl http://localhost:8000/health
+#   6. curl -X POST http://localhost:8000/ask \
 #         -H 'Content-Type: application/json' \
-#         -d '{"question":"What are the 2024 emissions targets?"}'
+#         -d '{"question":"What are the 2009 emissions targets?"}'
 #
 
 services:
-  ollama:
-    image: ollama/ollama:latest
-    container_name: rag-ollama
-    ports:
-      - "11434:11434"
-    volumes:
-      - ollama_models:/root/.ollama
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD-SHELL", "ollama list >/dev/null 2>&1 || exit 1"]
-      interval: 15s
-      timeout: 5s
-      retries: 5
-      start_period: 10s
-
   api:
     build:
       context: .
@@ -34,13 +20,10 @@ services:
     env_file:
       - .env
     environment:
-      # Override the Ollama URL so the API hits the sibling container, not localhost.
-      OLLAMA_BASE_URL: http://ollama:11434
-      # Force CPU inside the container (override to 'cuda' if you build with GPU support).
+      # DİKKAT: 'host.docker.internal' Docker container'ının senin Mac'ine ulaşmasını sağlar!
+      OLLAMA_BASE_URL: http://host.docker.internal:11434
+      # Container içindeki Embedding modelleri için CPU kullanmaya devam ediyoruz.
       EMBEDDING_DEVICE: cpu
-    depends_on:
-      ollama:
-        condition: service_healthy
     volumes:
       # Persist large model caches across rebuilds.
       - hf_cache:/root/.cache/huggingface
@@ -50,6 +33,5 @@ services:
     restart: unless-stopped
 
 volumes:
-  ollama_models:
   hf_cache:
   paddle_cache:

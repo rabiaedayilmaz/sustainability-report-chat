@@ -3,29 +3,43 @@
 > Retrieval-augmented Q&A over **22 sustainability reports (2009–2025)**.
 > Local LLM (Ollama), managed Qdrant, FastAPI, opt-in tool-using agent.
 
+
+## Quickstart: Docker
 ```bash
-./start.sh
-curl -X POST http://localhost:8000/ask \
-     -H 'Content-Type: application/json' \
-     -d '{"question":"What are 2024 emissions targets?"}'
+sh start.sh 
 ```
 
 ```bash
-./start.sh
+curl -X POST http://localhost:8000/ask \
+     -H 'Content-Type: application/json' \
+     -d '{"question":"What are 2009 emissions targets?"}'
+```
+
+```bash
+curl -X POST http://localhost:8000/agent \
+     -H 'Content-Type: application/json' \
+     -d '{"question":"Compare scope 1+2 emissions targets between 2009 and 2010"}'
+```
+
+## Quick Start: Local
+
+Service:
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
+Post:
+```bash
 curl -X POST http://localhost:8000/agent \
      -H 'Content-Type: application/json' \
      -d '{"question":"Compare scope 1+2 emissions targets between 2020 and 2024"}'
 ```
 
-## Quick Start
 OCR + embed:
 ```bash
 python scripts/index_pdfs.py --phase extract
 ```
-Service:
-```bash
-uvicorn app:app --host 0.0.0.0 --port 8000 --reload
-```
+
+Note: ./start.sh --reindex for reindexing vector db. ./start.sh --recreate for recreating vector db.
 
 ---
 

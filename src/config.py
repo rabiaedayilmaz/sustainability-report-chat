@@ -87,7 +87,7 @@ class Settings(BaseSettings):
     ollama_model: str = Field("qwen3:8b")
     ollama_temperature: float = Field(0.2, ge=0.0, le=2.0)
     ollama_num_ctx: int = Field(8192, ge=512)
-    ollama_timeout: float = Field(120.0, gt=0)
+    ollama_timeout: float = Field(1200.0, gt=0)
 
     # ----- Retrieval -----
     retrieval_top_k: int = Field(6, ge=1)

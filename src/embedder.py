@@ -10,7 +10,7 @@ from .config import Settings, get_settings
 from .utils.log import logger
 
 E5_DEFAULT_MODEL = "intfloat/multilingual-e5-large"
-HARRIER_DEFAULT_MODEL = "microsoft/harrier-oss-v1-0.6b"
+HARRIER_DEFAULT_MODEL = "harrier-oss-v1-270m"
 
 
 class Embedder(Protocol):

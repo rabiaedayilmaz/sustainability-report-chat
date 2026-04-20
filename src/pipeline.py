@@ -72,7 +72,7 @@ class RAGAnswer:
 class RAGPipeline:
     """Composition root that wires processor -> chunker -> embedder -> store -> LLM."""
 
-    INGEST_BATCH = 256
+    INGEST_BATCH = 4
     _NO_HITS_ANSWER = "I could not retrieve any relevant context from the reports."
 
     def __init__(self, settings: Settings | None = None) -> None:

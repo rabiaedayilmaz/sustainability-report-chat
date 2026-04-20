@@ -1,20 +1,19 @@
 #!/usr/bin/env bash
 # start.sh — one-shot bootstrap for the sustainability-report RAG service.
 #
-# What it does (idempotent — safe to re-run):
-#   1. Verifies prerequisites (docker, docker compose, .env)
-#   2. Brings up the docker-compose stack (Ollama + API)
-#   3. Waits for Ollama to report healthy
-#   4. Pulls the LLM model named in OLLAMA_MODEL if it isn't already present
-#   5. Waits for the API to pass /health
-#   6. Optionally re-indexes PDFs into Qdrant   (--reindex)
-#   7. Prints a sample curl so you can sanity-check
+# Bu versiyon Ollama'nın Docker container içinde değil, HOST makinende
+# (Mac'inde) çalıştığını varsayar. Ollama'yı sen başlatırsın, script
+# sadece API container'ını ayağa kaldırır.
 #
-# Usage:
-#   ./start.sh                          # boot only (API + Ollama)
-#   ./start.sh --reindex                # boot + run scripts/index_pdfs.py inside the API container
-#   ./start.sh --recreate               # full re-index (drops the Qdrant collection first)
-#   ./start.sh --down                   # tear the stack down
+# Ön koşullar:
+#   - Mac'inde Ollama uygulaması açık OLMALI  (veya: ollama serve)
+#   - İlk kullanımda modeli çek: ollama pull qwen3:8b
+#
+# Kullanım:
+#   ./start.sh                          # sadece API container'ını başlat
+#   ./start.sh --reindex                # başlat + PDF'leri index'e ekle
+#   ./start.sh --recreate               # başlat + Qdrant koleksiyonunu sıfırla ve yeniden index'le
+#   ./start.sh --down                   # stack'i durdur
 #
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -26,94 +25,99 @@ die()  { printf '\033[1;31m[start]\033[0m %s\n' "$*" >&2; exit 1; }
 
 ENV_FILE=".env"
 COMPOSE="docker compose"
-TIMEOUT_OLLAMA=60     # seconds
 TIMEOUT_API=180       # seconds (first boot loads multilingual-e5-large)
+
+# Ollama host'ta çalıştığı için erişim adresi farklı platformlarda değişir:
+#   Mac / Windows  → host.docker.internal (Docker Desktop tarafından çözümlenir)
+#   Linux          → 172.17.0.1 veya --network=host
+OLLAMA_HOST="${OLLAMA_HOST:-http://localhost:11434}"   # host'tan kontrol için
+OLLAMA_HOST_FROM_CONTAINER="${OLLAMA_HOST_FROM_CONTAINER:-http://host.docker.internal:11434}"
 
 # ---------------------------------------------------------------- args
 ACTION="up"
 for arg in "$@"; do
     case "$arg" in
-        --reindex)         ACTION="reindex" ;;
-        --recreate)        ACTION="recreate" ;;
-        --down)             ACTION="down" ;;
-        -h|--help)         sed -n '2,20p' "$0"; exit 0 ;;
-        "" ) ;;
-        * ) die "Unknown flag: $arg (try --help)" ;;
+        --reindex)  ACTION="reindex" ;;
+        --recreate) ACTION="recreate" ;;
+        --down)     ACTION="down" ;;
+        -h|--help)  sed -n '2,22p' "$0"; exit 0 ;;
+        "")  ;;
+        *)   die "Bilinmeyen flag: $arg (--help ile yardım alabilirsin)" ;;
     esac
 done
 
 # ---------------------------------------------------------------- prerequisites
-command -v docker >/dev/null || die "docker is required but not on PATH"
-$COMPOSE version >/dev/null 2>&1 || die "'docker compose' (v2) is required"
+command -v docker >/dev/null  || die "docker bulunamadı, PATH'e eklenmemiş"
+$COMPOSE version >/dev/null 2>&1 || die "'docker compose' (v2) gerekli"
+command -v curl >/dev/null    || die "curl bulunamadı, PATH'e eklenmemiş"
 
 if [[ ! -f "$ENV_FILE" ]]; then
     if [[ -f .env.example ]]; then
-        warn "$ENV_FILE not found — copying from .env.example."
-        warn "Edit it now to set QDRANT_URL and QDRANT_API_KEY before re-running."
+        warn "$ENV_FILE bulunamadı — .env.example'dan kopyalanıyor."
+        warn "QDRANT_URL ve QDRANT_API_KEY değerlerini düzenleyip tekrar çalıştır."
         cp .env.example "$ENV_FILE"
         exit 1
     fi
-    die "$ENV_FILE not found and no .env.example to copy from"
+    die "$ENV_FILE bulunamadı ve .env.example da yok"
 fi
 
 # ---------------------------------------------------------------- tear-down
 if [[ "$ACTION" == "down" ]]; then
-    log "Stopping stack..."
+    log "Stack durduruluyor..."
     $COMPOSE down
-    log "Done."
+    log "Tamam."
     exit 0
 fi
 
-# ---------------------------------------------------------------- boot
-log "Building + starting containers..."
-$COMPOSE up --build -d
+# ---------------------------------------------------------------- ollama sağlık kontrolü (host'ta)
+log "Host'taki Ollama kontrol ediliyor: $OLLAMA_HOST ..."
+if ! curl -fs "${OLLAMA_HOST}/api/tags" >/dev/null 2>&1; then
+    die "Ollama yanıt vermiyor ($OLLAMA_HOST). \
+Mac'inde Ollama uygulamasını aç veya terminalde 'ollama serve' komutunu çalıştır."
+fi
+log "Ollama host'ta çalışıyor."
 
-log "Waiting for Ollama (max ${TIMEOUT_OLLAMA}s)..."
-deadline=$((SECONDS + TIMEOUT_OLLAMA))
-until $COMPOSE exec -T ollama ollama list >/dev/null 2>&1; do
-    [[ $SECONDS -ge $deadline ]] && die "Ollama did not become ready in ${TIMEOUT_OLLAMA}s"
-    sleep 2
-done
-log "Ollama is up."
-
-# ---------------------------------------------------------------- model pull
+# ---------------------------------------------------------------- model kontrolü (host'ta)
 MODEL=$(grep -E '^OLLAMA_MODEL=' "$ENV_FILE" | head -1 | cut -d= -f2- | tr -d '"' || true)
 MODEL=${MODEL:-qwen3:8b}
-if $COMPOSE exec -T ollama ollama list | awk 'NR>1 {print $1}' | grep -qx "$MODEL"; then
-    log "Model '$MODEL' already pulled."
+
+log "Model kontrol ediliyor: '$MODEL' ..."
+TAGS_JSON=$(curl -fs "${OLLAMA_HOST}/api/tags")
+if echo "$TAGS_JSON" | grep -q "\"${MODEL}\""; then
+    log "Model '$MODEL' zaten mevcut."
 else
-    log "Pulling model '$MODEL' (one-time, may take a few GB)..."
-    $COMPOSE exec -T ollama ollama pull "$MODEL"
+    warn "Model '$MODEL' bulunamadı."
+    warn "Lütfen şu komutu çalıştır ve bitince tekrar dene:"
+    warn "    ollama pull ${MODEL}"
+    die "Gerekli model eksik, işlem durduruluyor."
 fi
 
+# ---------------------------------------------------------------- boot
+log "Container'lar build ediliyor ve başlatılıyor..."
+$COMPOSE up --build -d
+
 # ---------------------------------------------------------------- wait for API
-log "Waiting for API /health (max ${TIMEOUT_API}s — first boot loads embedding model)..."
+log "API /health bekleniyor (max ${TIMEOUT_API}s — ilk başlatmada embedding modeli yüklenir)..."
 deadline=$((SECONDS + TIMEOUT_API))
 until curl -fs http://localhost:8000/health >/dev/null 2>&1; do
-    [[ $SECONDS -ge $deadline ]] && die "API did not become healthy in ${TIMEOUT_API}s — check 'docker compose logs api'"
+    [[ $SECONDS -ge $deadline ]] && \
+        die "API ${TIMEOUT_API}s içinde sağlıklı hale gelmedi — kontrol: 'docker compose logs api'"
     sleep 3
 done
-log "API is up."
+log "API hazır."
 
 # ---------------------------------------------------------------- optional reindex
 if [[ "$ACTION" == "reindex" || "$ACTION" == "recreate" ]]; then
     flag=""
     [[ "$ACTION" == "recreate" ]] && flag="--recreate"
-    log "Running ingest inside the api container ($flag)..."
-    $COMPOSE exec -T api python scripts/index_pdfs.py $flag
+    log "Index işlemi başlatılıyor (api container içinde) $flag ..."
+    $COMPOSE exec -T api python scripts/index_pdfs.py --phase embed $flag
 fi
 
 # ---------------------------------------------------------------- summary
 echo
-log "Stack is up:"
-echo "    API     → http://localhost:8000"
-echo "    Docs    → http://localhost:8000/docs"
-echo "    Health  → http://localhost:8000/health"
-echo "    Ollama  → http://localhost:11434"
-echo
-log "Try it:"
-cat <<'EOF'
-    curl -s -X POST http://localhost:8000/ask \
-      -H 'Content-Type: application/json' \
-      -d '{"question":"What are 2024 emissions targets?"}' | jq .
-EOF
+log "Stack çalışıyor:"
+printf '    %-10s → %s\n' "API"    "http://localhost:8000"
+printf '    %-10s → %s\n' "Docs"   "http://localhost:8000/docs"
+printf '    %-10s → %s\n' "Health" "http://localhost:8000/health"
+printf '    %-10s → %s\n' "Ollama" "$OLLAMA_HOST (host'ta)"
