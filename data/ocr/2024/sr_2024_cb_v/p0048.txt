@@ -1,0 +1,89 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+AI-Powered Document Categorization that Expands Support for Social Causes
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Teaming: The Platform of Choice for Spanish Donors
+Smart X
+Co-Innovation
+Community
+Engagement
+• Across the world, innumerable small-scale social causes struggle to raise funds. At the same time, the World Giving Index states that the percentage of people who report giving to
+charity has risen about 10% globally in the last ten years, indicating a willingness to provide support. Technological solutions can help to connect these donors with causes.
+• Processing charitable donations can present challenges and concerns for recipients and donors. For recipients, ensuring recurrent income is essential to long-term stability, while donors
+want to know that payment processing is secure and commissions are minimized to ensure their donations make a difference.
+The Teaming Foundation was co-founded by NTT DATA
+in
+Spain
+
+to foster
+solidarity
+and
+drive
+social
+transformation through technology and collaboration. The
+platform operates on a unique model whereby individuals
+make recurring micro donations of EUR 1 per month, with
+no commission charged on these contributions. The
+project has provided funds to support the activities of
+numerous NGOs.
+Previously, staff had to manually sort and classify
+documents every time an NGO entered the program or
+requested new funds. A more efficient system was
+required to support the platform’s expansion by enhancing
+scalability.
+Business need
+Solution
+In
+2024,
+NTT
+DATA
+supported
+the
+introduction
+of
+automation into the Teaming Foundation’s platform for
+classifying and validating documents from NGOs, including
+banking documents and IDs. This reduced the number of
+tasks performed manually by staff, increasing processing
+capacity while also enhancing security. Today, AI analyzes
+80% of documents uploaded to the platform, ensuring
+greater efficiency and scalability.
+The Teaming Foundation can efficiently support more
+social causes, delivering higher-quality, more targeted
+assistance. In addition, more small-scale social causes that
+would otherwise struggle to raise funds due to limited time,
+resources, contacts, and training are now able to secure
+donations and receive assistance.
+Planned next steps include continuing to train the AI to
+further
+enhance
+efficiency by
+improving
+the
+system’s
+accuracy
+and
+reliability
+and
+expanding
+the
+approach
+adopted in Spain to other countries.
+Over EUR 62 million
+Teaming Foundation achievements
+(as of March 1, 2025)
+Manual review
+AI analyses
+* Projection based on Q4 results
+Impact
+Total amount raised
+Over 11,000
+NGOs and social causes supported
+Over 400,000
+Active monthly donors

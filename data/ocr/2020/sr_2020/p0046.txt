@@ -1,0 +1,29 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Environmental Targets 
+ 
+ Greenhouse Gas Emission Reduction Targets and SBT Certification 
+The NTT DATA Group has established greenhouse gas emission reduction targets for the year 2030 and obtained certification 
+from the SBT1 initiative. We have set a 1.5°C target for both Scope 1 and Scope 2 emissions.2 
+Addressing climate change is one of the key ESG priorities set forth in the ESG Management section of the NTT DATA 
+Group’s Medium-Term Management Plan (fiscal 2019–2021). To date, the Group has reduced greenhouse gas emissions in 
+society by promoting green IT solutions. We have also continued reducing greenhouse gas emissions at our own facilities, 
+including our Green Data Center®. 
+→See “Addressing Climate Change” for more details. 
+ 
+1. The science-based targets (SBT) are aimed at keeping the temperature increase below 2°C compared with pre-industrial temperatures. 
+2. Scope 1: Direct greenhouse gas emissions by businesses themselves (fuel combustion, industrial processes) 
+Scope 2: Indirect emissions from the use of electricity, heat or steam supplied by other companies 
+Scope 3: Indirect emissions other than Scope 1 and Scope 2 (emissions of other companies related to the activities of an entity) 
+ 
+To achieve our 1.5°C target, we will continue with existing initiatives and pursue various others. These include using the latest 
+technologies to further conserve energy at our data centers, expanding the use of renewables and taking measures to reduce 
+greenhouse gas emissions throughout the supply chain. In these ways, we will step up our responses to climate change issues 
+in our business and corporate activities and help realize a sustainable society. 
+ 
+NTT DATA Group’s Greenhouse Gas Emission Reduction Targets 
+Scope 1 and Scope 22 
+60% reduction by FY2030 from FY2016 (1.5℃ target) 
+Scope 32 
+55% reduction by FY2030 from FY2016

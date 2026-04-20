@@ -1,0 +1,132 @@
+pipitLINQ® is a service that connects administrative 
+organizations and ﬁnancial institutions through a secure 
+network and allows ﬁnancial institutions to make inquiries 
+about deposits and savings using electronic data in a 
+uniform format. This service reduces the human burden 
+of handling paper data, the cost and time lag due to 
+mailing, and the complexity of processing due to 
+diﬀerences in document formats at each institution. 
+This service enables quick and appropriate business 
+operations.
+This service is built on OpenCanvas®, which has high 
+reliability and security. In addition, by making the most 
+of existing assets with proven track records, such as 
+ANSER®, which has been providing banking services in 
+Japan for more than 35 years, and “Insurance Company 
+Common Gateway," a platform that has been connecting 
+between insurance companies and agents for 20 years, 
+we are able to provide secure, low-cost services. The 
+format reﬂects the opinions of relevant organizations such 
+as the central government, local governments, and ﬁnancial 
+institutions, and it is ﬂexible enough to accommodate 
+business rules that diﬀer among organizations. By 
+combining it with RPA (Robotic Process Automation) 
+and linking it with core systems, it is possible to further 
+improve the eﬃciency of bank deposit inquiry services. 
+As of January 2023, the system was adopted (including 
+planned) by 75 ﬁnancial institutions, the National 
+Tax Agency, the Japan Pension Service, and local 
+governments (664 institutions including planned). The 
+number of inquiries about the system has continued to 
+increase, approximately 3.2 times that of the same period 
+in the previous ﬁscal year.
+pipitLINQ® is expected to be even more eﬃcient as 
+a wide range of ﬁnancial institutions and administrative 
+organizations become members. Therefore, we will 
+promote the realization of a digital society by calling for 
+ﬁnancial institutions and government agencies to sign up 
+for membership as well as by continuously expanding its 
+services. The Group will continue to propose solutions 
+based on its extensive knowledge of system construction 
+in connection with various stakeholders.
+For many years, administrative organizations and ﬁnancial institutions involved in taxes and welfare beneﬁts have 
+suﬀered from the enormous and complicated work. By digitizing these tasks, NTT DATA is realizing swift and proper 
+business operations.
+Improving efficiency of society 
+through secure and low-cost DX of bank 
+deposit inquiry services
+Number of inquiries and responses on 
+deposits between administrative organizations 
+and financial institutions
+60 million cases per year
+As the importance of addressing climate increases, 
+economic activities based on the premise of CO2 emission 
+reduction, such as achieving carbon neutrality, need to 
+change. Many countries and regions have positioned 
+“green recovery” as a growth strategy, and both the 
+market size and employment scale of environmental 
+businesses are the largest in history.
+　　NTT DATA established its Green Innovation (GI) 
+Promotion Oﬃce on October 1, 2021. The new entity 
+will establish a company-wide strategy for our green 
+innovation business and promote that business in 
+cooperation with our domestic businesses and overseas 
+Group companies to help realize a decarbonized society.
+　　To reduce CO2 emissions in society as a whole, 
+we will provide consulting services to support the CO2 
+emission reduction plans of our customers. We will 
+also promote energy conservation at our data centers, 
+introduce renewable energy, and develop and install 
+energy-eﬃcient “green software.”
+　　To help visualize CO2 emissions, meanwhile, we are 
+conducting R&D centered on using forests as sinks that absorb 
+CO2. We are also working to establish satellite imagery and 
+other remote sensing methods, deploy AI-based technologies 
+to predict absorption amounts, and develop IT platforms.
+　　In our supply chain, we will deploy a digital platform 
+to help visualize CO2 emissions across NTT DATA’s 
+businesses and build frameworks to promote the 
+reduction of such emissions. By 2030, we aim to achieve 
+the 1.5˚C target (60% reduction from the ﬁscal 2016 level) 
+recognized by the Science Based Targets (SBT), and by 
+2040 we aim to achieve the NTT Group’s target of 
+becoming completely carbon-neutral.
+Overseas
+Group
+companies
+Domestic
+businesses 
+Green Innovation
+Promotion
+Office
+Climate
+Action Committee
+Collaborate 
+Collaborate 
+Expand
+green
+businesses 
+Build in-house
+frameworks to
+promote
+emission
+reduction
+Reduce
+own CO2
+emissions
+Using digital technology to promote green 
+innovation and achieve a decarbonized 
+society 
+As the movement toward carbon neutrality accelerates and the market scale of environmental businesses expands, 
+NTT DATA has established a new dedicated green organization to spearhead eﬀorts to make society greener.
+¥110 trillion
+The market size of the environmental industry is
+ (1.9 times larger than in 2000) (2019) 
+Source: “Summary of Estimates of Market Size, Employment Size, etc., of the Environmental Industry” (2019 Edition), Ministry of the Environment
+Environment | Regenerating Ecosystems
+Economy | Clients’ Growth
+Circular
+Economy
+Carbon
+Neutrality
+Smart X
+Co-innovation
+Nature
+Conservation
+Trusted
+Value Chain
+Case: pipitLINQ®
+Case: Strengthening the Green Business system
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

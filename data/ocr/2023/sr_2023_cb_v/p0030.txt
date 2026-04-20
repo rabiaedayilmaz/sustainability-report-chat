@@ -1,0 +1,73 @@
+Society | Inclusive Society
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Swift collection of disaster information 
+through drones
+Digital Disaster Management Platform for 
+Streamlining Disaster Response
+Click here for 
+reference article
+NTT DATA (Japan)
+· Natural disasters are becoming more frequent and severe, compounded by threats such as infectious diseases.
+· It is essential to establish mechanisms for real-time coordination and dissemination of vital information during disasters.
+Time to gather information on remote 
+island coastlines and ports
+2 people sent 
+from main or 
+branch office
+1. Estimated time for movement, patrol, and confirmation on
+island, assuming 20 km/h
+2. Time for island survey in Tokyo Metropolis, Izu Oshima,
+during demonstration
+60 mins1 →20 mins2 (approx.)
+Reduced to 1/3
+Reduced by 100％
+Unmanned and do not 
+have to wait for safety 
+assurance
+D-Resilio®
+Community
+Engagement
+Conceptual diagram of D-Resilio®
+Personnel sent from main/branch office 
+for information gathering
+In a disaster, it is essential to swiftly communicate
+information, assess damage, and coordinate with local
+authorities
+and
+relevant
+businesses.
+However,
+the
+current reliance on scattered information and methods
+like phone calls and faxes results in time- and resourceintensive responses. Establishing precise and efficient
+disaster
+management
+procedures
+is
+therefore
+imperative.
+NTT DATA's digital Disaster Management Platform,
+D-Resilio®, leverages digital technology to streamline
+disaster response operations, combining solutions such
+as satellite and drone-based damage assessment, data
+visualization, AI-driven analysis, and information sharing.
+We integrate administrative data such as L-alerts with
+various other datasets such as social media and traffic
+records to enhance information gathering efficiency and
+support predictive disaster prevention measures.
+Recently,
+leveraging
+expertise
+from
+D-Resilio®
+development, we have advanced the creation of disaster
+information transmission systems in both Japan and
+Indonesia,
+enhancing
+global
+disaster
+response
+capabilities.

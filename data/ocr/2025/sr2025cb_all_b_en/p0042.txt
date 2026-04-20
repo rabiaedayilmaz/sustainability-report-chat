@@ -1,0 +1,134 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+Working to realize a society where IT technology enhance usability for all
+Valuable
+Desirable
+Credible
+Useful
+Usable
+Accessible
+Findable
+UX Honeycomb Structure (Source: Semantic Studios)
+Accessible
+Usable
+Findable
+Useful
+Credible
+Valuable
+Desirable
+Accessible
+Practical
+Reassuring
+Satisfying
+UX Pyramid (Source: bookslope blog)
+Business need
+Solution
+•
+The ubiquity of the internet and smartphones has made it easier to access information and complete various procedures. However, people with disabilities and older people can struggle to access information and
+submit digital applications online, which may cause disadvantage in everyday life. This can also lead to life-threatening situations if, for example, some residents are unable to find evacuation site locations and other
+crucial information during natural disasters.
+•
+Regardless of disabilities, age, or usage environment, all people require equal access to information and services that are widely available through digital channels.
+Government bodies and local goverments procuring systems
+must ensure that everyone, including older people and people
+with disabilities, can use their websites without inconvenience.
+Achieving this requires alignment with standards such as the
+Japanese Industrial Standards JIS X 8341-3 Guidelines for
+Older Persons and Persons with Disabilities—Information and
+Communications Equipment, Software and Services—Part 3:
+Web Content and the international Web Content Accessibility
+Guidelines (WCAG). Specialist knowledge and insight into
+disabilities and accessibility are essential for understanding
+such
+standards
+and
+for
+developing
+and
+designing
+user
+interfaces
+(UIs)
+based
+on
+universal
+design
+(UD),
+which
+considers ease of use for all people.
+NTT DATA aims to create services that are kind to people. It began
+initiatives to improve digital accessibility in 2002, and formulated its
+Digital Accessibility Guidelines the following year. In collaboration with
+NTT
+laboratories,
+it
+is
+engaging
+in
+internal
+dissemination
+and
+awareness-raising activities, training accessibility experts, and carrying
+out project support centered on the public and social infrastructure
+business.
+Specific
+support
+measures
+include
+providing
+advice
+and
+accessibility diagnoses from the proposal and design stages to
+contribute to the delivery of services that are easy for anyone to use.
+In
+addition
+to
+continuously
+updating
+guidelines,
+other
+internal
+measures include creating checklists and written procedures that
+enable system developers to perform self checks and providing
+accessible
+design
+templates
+as
+references
+for
+accessible
+UI
+implementation.
+Furthermore, for projects requiring more advanced responses,
+experts take part directly, evaluations are performed based on JIS X
+8341-3 and WCAG standards, and support for user testing by people
+with visual impairments is provided.
+Moving forward, through measures such as revisions to written selfcheck procedures, NTT DATA will continue contributing to creating a
+society
+in
+which
+digital
+services
+make
+everyone’s
+lives
+more
+convenient.
+Impact
+Direct contribution to company revenue/profit based on number 
+of support projects
+JPY 2.0 to 2.4 billion
+Number of people benefitting from accessibility in government 
+services based on smartphone JKPI results
+171,000 people
+NTT DATA Japan Corporation
+Public & Social Infrastructure Segment
+Technology Strategy Department
+Source: 2025 impact visualization report by NTT DATA (see next 
+page for details)
+Digital Accessibility Consultations
+Japan

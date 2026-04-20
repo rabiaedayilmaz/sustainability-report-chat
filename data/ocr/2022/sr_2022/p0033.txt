@@ -1,0 +1,72 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ 
+First, we are focusing on public institutions and financial institutions engaged in net-zero initiatives 
+as our main target. We have launched consulting services related to climate change action by leveraging 
+our strengths in information processing technology, as well as our extensive development experience and 
+track record over 30 years in the public and financial sectors. We are also using our position as the first 
+CDP Gold Accredited Solutions Provider (in the categories of “Climate Change Consultancy” and 
+“Software”) in Japan and approximately 20th company to be recognized in the world, certified by the 
+CDP, an international NGO. Our newly offered consulting services include formulation of corporate 
+climate change response strategies, visualization of GHG emissions, data center energy conservation, 
+utilization of renewable energy, and optimization of energy efficiency. We define these consulting 
+services as entry- point services that will trigger increased demand for “sustainability-related offerings (IT 
+systems and services)” outlined in Opportunity 1 and represent a separate strategy from offerings 
+described in our Medium-Term Management Plan (FY2022–2025). We expect the number of these 
+climate-related consulting services to increase in the future, creating more opportunities to provide new 
+offerings. 
+We estimate that our sustainability-related consulting services will have a positive impact on net 
+sales of ¥20 billion in fiscal 2025. This is based on our assumption that such offerings will account for a 
+certain share of overall consulting sales. 
+Strategies 
+and costs 
+We consider sustainability-related consulting to be a big market. According to market research by Global 
+Information, it is expected to reach ¥1.47 trillion (USD$10.88 billion) in 2027, with a CAGR of 4.5% from 
+2021 to 2027. Although the demand from the market is high, we believe that securing the personnel 
+capable of providing quality consulting services could be the upper limit of the financial impact. 
+In response, under our new Medium-Term Management Plan (FY2022–2025), we plan to increase 
+the number of personnel engaged in consulting services to meet the needs of our clients on a global 
+basis. We will conduct the following types of training for and acquisition of personnel to be added as 
+consultants to provide strategic planning and implementation support. 
+1. In-house personnel development: We will select consulting personnel, as well as sales and 
+development personnel with consulting skills, and assign them to projects related to climate 
+change and train them through off-the-job training. 
+2. We will acquire consultants with experience in sustainability and climate change: We will step up 
+global recruiting to acquire human resources with consulting experience in climate change, as well 
+as human resources with governmental and business experience related to climate change. 
+In addition to incorporating sustainability training into our standard internal training program, we are 
+deploying our mid-career recruitment and internship programs to train young people as consultants in the 
+field of climate change. Deploying IT technology, meanwhile, we are working to share knowledge within 
+the Group through the “Digital Work Place,” an information-sharing solution encompassing all Group 
+companies, as well as through online seminars and websites. 
+In fiscal 2022, we have invested approximately ¥1 billion to attract and develop climate change 
+action–related consultants (¥500 million to attract and develop human resources + ¥500 million for 
+training and research). 
+Over the four-year period from fiscal 2022 to 2025, we will make cumulative investments of ¥4 billion. 
+ 
+Opportunity 3: Increasing needs for resilient cloud services 
+Time horizon: Short term 
+The increase in abnormal weather and the growing need for decarbonization are encouraging energy conservation 
+through shared use and equipment consolidation and promoting the introduction of renewable energy. At the same 
+time, the increasing need to attain resilience by transferring data to the cloud to avoid data loss and contribute to 
+decarbonization is leading to expanded business opportunities. 
+Business 
+and 
+financial 
+Impacts 
+In addition to an increase in abnormal weather events, such as typhoons and localized heavy rains, we 
+expect the growing need for decarbonization to lead to energy conservation through shared use and 
+consolidation of equipment and the introduction of renewable energy, as well as increasing demand for 
+migration to the cloud, which is resilient (by preventing data loss) and contributes to decarbonization. In 
+particular, financial institutions and public institutions, which are our major clients, are looking for cloud 
+environments that are both resilient and decarbonized. Therefore, demand is increasing for shared-use 
+cloud services, which are resistant to weather disasters because they are built on robust infrastructure 
+as typified by community cloud services, and they contribute to energy conservation. Because they will 
+also be powered by renewable energy, we expect further increases in business opportunities. 
+Currently, we provide joint-use mission-critical systems, such as the Chigin Kyodo Center, which is 
+used by nearly 40% of the 60 regional banks in Japan (as of June 1, 2022). In addition, more than 90% 
+of the 241 credit associations across Japan (as of June 1, 2022) are using our comprehensive online 
+Shinkin Kyodo System, giving us an advantage in large-scale community cloud services on a nationwide 
+level. Leveraging this advantage of scale, we provide cloud services that are both resilient and

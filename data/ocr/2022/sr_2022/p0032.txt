@@ -1,0 +1,74 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ Opportunities Related to Products and Services (Opportunities 1, 2, 3) 
+Opportunity 1: Increasing the need to create sustainability-related offerings 
+ 
+Reducing GHG emissions and disclosing climate-related information have become urgent issues, especially for global 
+companies. This will lead to opportunities for business creation, including visualization of GHG emissions throughout clients’ 
+supply chains, new business development related to each company’s management and business and climate change 
+responses, operational reforms, and investments in associated systems. 
+Business 
+and 
+financial 
+impacts 
+There is an urgent need, especially among global companies, to reduce GHG emissions in accordance 
+with the SBT Initiative’s net-zero standards and disclose their climate change responses in accordance 
+with the TCFD recommendations. In Japan, which accounts for around 60% of the Group’s net sales, 
+companies listed on the Prime Market (the top market of the Tokyo Stock Exchange for companies 
+seeking constructive dialogue with global investors) will be effectively mandated to make disclosures in 
+their securities reports in line with TCFD recommendations starting in fiscal 2023. As our main Japanese 
+clients are also listed on the Prime Market, we envisage opportunities to create business in our role as 
+an IT service provider. These include visualization of GHG emissions throughout clients’ supply chains, 
+new business development related to each company’s management and business and climate change 
+responses, operational reforms, and investments in associated systems. We define “sustainabilityrelated offerings” as services and systems for sustainability in general, including climate-related 
+solutions, and have identified the creation of such offerings as a key strategy in the Medium-Term 
+Management Plan (FY2022–2025). 
+Among sustainability-related offerings, GHG management is the most important in the short term. We 
+already provide AI services to optimize the air-conditioning systems of data centers and office buildings, 
+as well as solutions to visualize GHG emissions. According to a market research report by Global 
+Information, Inc., the global market for carbon footprint management posted an average annual growth 
+rate (CAGR) of 7% from 2015 to 2020. Client companies in a wide range of industries are seeking GHG 
+emission visualization solutions. 
+We estimate that the creation of new sustainability-related offerings will have a positive impact on net 
+sales of more than ¥200 billion in fiscal 2025. 
+Strategies 
+and costs 
+We will make investments to expand sustainability-related offerings with a focus on climate-related 
+solutions. These will include investments in the development of various carbon footprint visualization 
+platforms, as well as in pre-sales activities and training of engineers. We will also invest in market 
+research and business model studies related to sustainability so that we can create new businesses that 
+apply advanced technologies to social issues. 
+For example, we entered this market by developing a product-specific carbon footprint platform in a 
+joint effort with a Japanese chemical materials manufacturer. The platform enables calculation 
+of GHG emissions by end product for tens of thousands of chemical products by using a product 
+composition table that reflects differences in materials and processes. Using this platform, chemical 
+materials manufacturers can instantly communicate product-specific carbon footprint information to their 
+suppliers, identify hot spots for emission reduction, and even systematically decarbonize through the 
+introduction of internal carbon pricing mechanisms. 
+We plan to make cumulative investments in sustainability-related offerings of ¥32 billion from fiscal 
+2022 to 2025. This equates to ¥8 billion per year over the four-year period (¥2 billion in company-wide 
+technology development investments in fiscal 2022 that contribute to climate change adaptation and 
+mitigation + ¥6 billion in social change and climate-related investments for each business field). 
+Opportunity 2: Increasing demand for sustainability-related consulting services Time horizon: Short term 
+ 
+Growing corporate demand for climate-related strategy development and emission reduction measures will increase 
+business opportunities to provide climate change and sustainability consulting services. 
+Business 
+and 
+financial 
+Impacts 
+The COP26 agreement to pursue a 1.5˚C target has led to increased corporate disclosure and reduction 
+requests by governments and financial authorities in various countries. Investors are demanding that 
+companies reduce their GHG emissions, exemplified by the formation of the Glasgow Financial Alliance 
+for Net Zero (GFANZ). 
+Against this backdrop, there is a growing need for companies to develop climate-related strategies 
+and emission reduction measures for their management and business operations. For companies 
+seeking to address climate change, however, external factors are changing quickly with respect to 
+content and level of requests, for example. Moreover, calculating GHG emissions requires a certain level 
+of expertise. Therefore, it is often difficult for companies to independently formulate an overall strategy 
+and address all these issues. We expect these needs to increase over the four-year period of our 
+Medium-Term Management Plan (FY2022–2025), and we anticipate increased business opportunities to 
+provide climate- and sustainability-related consulting services. 
+Time horizon: Short term

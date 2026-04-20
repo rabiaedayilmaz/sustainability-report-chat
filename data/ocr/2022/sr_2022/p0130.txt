@@ -1,0 +1,157 @@
+Comparative Table with GRI Standards 
+
+NTT DATA Sustainability Report 2022 Data Book 
+201-4 
+Financial assistance received from government 
+― 
+― 
+GRI 202 Market Presence 2016 
+202-1 
+Ratios of standard entry level wage by gender compared 
+to local minimum wage 
+― 
+― 
+202-2 
+Proportion of senior management hired 
+from the local community 
+― 
+― 
+GRI 203 Indirect Economic Impacts 2016 
+203-1 
+Infrastructure investments and services supported 
+P028-034 
+P039 
+P043 
+P045 
+P061-063 
+P109-110 
+― 
+203-2 
+Significant indirect economic impacts 
+P032-034 
+P110 
+― 
+GRI 204 Procurement Practices 2016 
+204-1 
+Proportion of spending on local suppliers 
+― 
+― 
+GRI 205 Anti-corruption 2016 
+205-1 
+Operations assessed for risks related to corruption 
+P082-086 
+― 
+205-2 
+Communication and training about anti-corruption policies 
+and procedures 
+P082-086 
+― 
+205-3 
+Confirmed incidents of corruption and actions taken 
+P082-086 
+― 
+GRI 206 Anti-competitive Behavior 2016 
+206-1 
+Legal actions for anti-competitive behavior, 
+anti-trust, and monopoly practices 
+P086 
+― 
+GRI 207 Tax 2019 
+207-1 
+Approach to tax 
+P085-086 
+― 
+207-2 
+Tax governance, control, and risk management 
+P085-086 
+― 
+207-3 
+Stakeholder engagement and management of concerns 
+related to tax 
+P085-086 
+― 
+207-4 
+Country-by-country reporting 
+ P86 
+― 
+300：Environmental 
+GRI 301 Materials 2016 
+301-1 
+Materials used by weight or volume 
+― 
+― 
+301-2 
+Recycled input materials used 
+― 
+― 
+301-3 
+Reclaimed products and their packaging materials 
+― 
+― 
+GRI 302 Energy 2016 
+302-1 
+Energy consumption within the organization 
+P052-057 
+― 
+302-2 
+Energy consumption outside of the organization 
+― 
+― 
+302-3 
+Energy intensity 
+― 
+― 
+302-4 
+Reduction of energy consumption 
+P052 
+P057 
+― 
+302-5 
+Reduction in energy requirements of 
+ products and services 
+P033-034 
+― 
+GRI 303 Water and Effluents 2018 
+303-1 
+Interactions with water as a shared resource 
+P057 
+― 
+303-2 
+Management of water discharge-related impacts 
+― 
+― 
+303-3 
+Water withdrawal 
+― 
+― 
+303-4 
+Water discharge 
+P056-057 
+― 
+303-5 
+Water consumption 
+P052-054 
+P056-057 
+― 
+GRI 304 Biodiversity 2016 
+304-1 
+Operational sites owned, leased, managed in, or adjacent 
+to, protected areas and areas of high biodiversity value 
+outside protected areas 
+― 
+― 
+304-2 
+Significant impacts of activities, products, and services on 
+biodiversity 
+― 
+― 
+304-3 
+Habitats protected or restored 
+― 
+― 
+304-4 
+IUCN Red List species and national conservation list 
+species with habitats in areas affected by operations 
+― 
+― 
+GRI 305 Emissions 2016

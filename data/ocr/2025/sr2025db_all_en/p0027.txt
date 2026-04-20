@@ -1,0 +1,105 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Strengthen Green Procurement Initiatives to Reduce GHG Emissions
+NTT DATA Group Corporation, NTT DATA, and Group companies in Japan implement 
+green procurement measures suited to domestic business characteristics. In February 
+2022, to strengthen efforts to reduce GHG emissions across the supply chain, we formalized the NTT Group Green Procurement Standards, specifying evaluation criteria for 
+suppliers and products, and established the Hardware Procurement Rules as a reference 
+for hardware purchases.* These rules are applied to about 80 Group companies in Japan. 
+Purchases are required from hardware vendors that obtain SBT approval or publicly disclose GHG reduction targets and results at the SBT-approved level.
+ 
+In addition, starting from fiscal 2023, we have initiated training sessions targeting all 
+employees responsible for procurement across Group companies in Japan to promote 
+awareness and understanding of green procurement principles.
+ * On the Establishment of the Hardware Procurement Rules (Japanese only)
+Process of Managing Progress in Reducing GHG Emissions
+Classification
+Initiative Steps
+Status of Initiatives
+Formulation of an 
+implementation 
+plan
+Not started 
+(no plan to be formulated in the future)
+Formulated a plan to implement within 
+a year
+Visualization
+Tracked Scope 1, 2
+Tracked Scope 3
+Target setting
+Established voluntary reduction targets
+Established reduction targets that meet 
+the SBT-approved level
+STEP 0
+STEP 1
+STEP 2
+STEP 3
+STEP 4
+STEP 5
+Mechanism to Evaluate a Supplier’s Corporate Stance
+Green Rating
+1 Request to 
+each company
+3 Green Rating
+4 Comprehensive rating 
+(not disclosed)
+5 Purchase
+2 Respond to 
+questionnaire/ 
+surveys such as the 
+CDP questionnaire
+Performance rating
+Corporate rating
+Service rating
+Partner Company
+Previous Rating
+Challenging Net-Zero across the Supply Chain
+At NTT DATA, Categories 1 (purchased goods and services), 2 (capital goods), and 11 (use 
+of sold products) account for approximately 70% of the total emissions in Scope 3. It is 
+essential to enhance engagement with suppliers and collaborate with them to reduce 
+GHG emissions across the entire supply chain. To achieve this, we are advancing the 
+reduction of Scope 3 emissions by establishing environmental evaluation criteria for the 
+procurement and selection of products and services, and by requesting suppliers to 
+cooperate in addressing climate change. 
+ 
+Group companies outside Japan are also working in coordination, tailored to their 
+business characteristics, to reduce GHG emissions across the global supply chain.
+Green Purchasing
+Assessments of Corporate Efforts and Products
+To promote sustainability and ESG initiatives across the entire supply chain, NTT DATA 
+has published the supplier code of conduct, the NTT DATA Group Guidelines for Sustainability in the Supply Chain, which clarifies the requirements for suppliers, along with 
+specific environmental standards, the NTT Group Green Procurement Standards. 
+Through these frameworks, we request that suppliers take action to reduce GHG emissions throughout the supply chain.
+ 
+In addition to price and quality, we evaluate corporate commitment to environmental 
+issues and the environmental performance of products and services when procuring or 
+selecting them. This includes assessing compliance with environmental regulations and 
+efforts to reduce GHG emissions across the supply chain. Progress on GHG reduction 
+initiatives is tracked using detailed, specific indicators.
+Rating of corporate efforts
+Quality rating
+Price
+Rating of corporate efforts
+No response plan for climate change
+Have an implementation plan 
+within a year
+Visualization of Scope 1, 2
+Visualization of Scope 3
+Set reduction targets
+Set reduction targets at 
+SBT-approved levels
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

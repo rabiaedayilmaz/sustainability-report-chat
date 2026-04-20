@@ -1,0 +1,63 @@
+Carbon 
+Neutrality
+Decarbonizing Data Centers to Achieve Net-Zero Commitment
+— Global challenges of reducing environmental impact in data centers
+Company
+NTT Global Data Centers (USA, India, Austria, Germany)
+Overview
+We are undertaking initiatives to mitigate the environmental impact of our global data centers, 
+which are susceptible to power shortages and increasing energy costs, while also applying the 
+results and knowledge gained from pilot projects conducted in various regions.
+1 Chicago, USA
+We transitioned our power management from Excel to data tracking, optimizing energy consumption.
+2 Mumbai, India
+We introduced two cooling methods: direct contact liquid cooling (DCLC)*1 and liquid immersion 
+cooling (LIC)*2, significantly improving the annual power usage effectiveness (PUE) to between 
+1.2 and 1.25.
+3 Vienna, Austria
+We adopted hydrogenated vegetable oil (HVO), a second-generation biofuel, as fuel for our 
+cooling machines, achieving up to an 80% reduction in net greenhouse gas emissions, including 
+CO2, and an 8% reduction in nitrogen oxides (NOx).
+4 Berlin, Germany
+We recover the heat from cooling water heated to approximately 60 degrees Celsius and provide it as heating for the nearby Marienpark commercial district, contributing to heating without 
+the use of fossil fuels and promoting decarbonization through waste heat utilization.
+*1 Direct contact liquid cooling: A system where cooling water circulates inside IT equipment to extract heat. 
+*2 Liquid immersion cooling: A system where cooling water passes through the interior of IT equipment to remove heat.
+Nature 
+Conservation
+Water Conservation through Smart Monitoring
+— A water distribution network solution that detects and predicts leaks and backflow
+Company
+NTT Belgium
+Overview
+To reduce water leakage, a social issue affecting approximately 40% of Europe, a system was 
+developed in the city of Liège, which faces challenges in optimizing water usage, particularly in 
+detecting leaks and backflow. With the cooperation of CISCO and others, the system monitors 
+water consumption. Utilizing IoT devices, big data, and AI, the system provides real-time 
+insights into the water distribution network’s condition, allowing for the prioritized replacement 
+of aging pipelines. Sensors detect problems such as leaks and backflow, enabling the optimization of water usage and improved hygiene management. Out of the city’s total 245,000 devices, 
+65,000 devices have been installed, contributing to water savings of more than one million cubic 
+meters in 2023, with expectations to double this to two million cubic meters in 2024.
+ 
+Building on the success in Liège, this system is being implemented in other regions as well. In 
+preparation for cross-border water exchanges, measurements have begun to calculate bidirectional water flow, ensuring the appropriate amount of water is drawn. Efforts are also focused on 
+raising awareness and fostering habits around water consumption among all stakeholders, 
+including citizens and field workers.
+Spreading Sustainability Awareness
+Since fiscal 2013, the NTT Group has held the NTT Group Sustainability Conference (formerly NTT Group CSR Conference) with the goal of showcasing and sharing initiatives by NTT Group companies both in Japan and overseas that contribute to a sustainable society. The Group actively engages in the event each year, using it as an opportunity to deepen employees’ understanding of and commitment to sustainability management principles.
+ 
+In fiscal 2023, the event was held for the 11th time, with a record-breaking 149 initiatives submitted from Group companies in 22 countries and regions—the highest number to date. The dedicated website garnered approximately 
+600,000 page views (up from 270,000 the previous year), and the number of “like” votes from the website reached 260,000 (up from 60,000 the previous year), demonstrating growing enthusiasm. Through the sharing of best practices 
+and horizontal dissemination of case studies, awareness and interest in sustainability continued to rise. Eight initiatives from the Group made it to the final selection, with three receiving top awards, including two that won the MVP award.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Environment
+Regenerating Ecosystems
+NTT DATA Sustainability Report 2024  Data Book
+
+Sustainability Management

@@ -1,0 +1,102 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Streamlining reporting and disclosure processes through AI-powered automation
+Impact
+NTT DATA Business Solutions
+Global Managed Services GmbH 
+Application Innovation Services 
+NTT DATA Group
+YouTube:
+Introducing Simplified Corporate 
+Sustainability Report
+Use Case A : Scope definition & 
+KPI selection 
+(Future scope)
+Use Case B : KPI extraction, 
+visualization & 
+explanation
+KPI selection and 
+scope definition
+Document extraction, 
+KPI extraction
+Analysis, translation 
+& storage of KPI 
+values
+Report
+Documents upload 
+KPI analysis, 
+explanation & 
+planning
+XBRL report 
+generation
+(future phase)
+
+Scope
+Preparation of 
+documents for 
+selected scope
+Scope
+
+CSRD Report Validator
+Customer
+
+CSRD report selection
+Report
+CSRD Report Validator
+CSRD Report Validator
+CSR Report Validator
+
+Business need
+Solution
+•
+The EU’s Corporate Sustainability Reporting Directive (CSRD) aims to improve the transparency and consistency of environmental, social and governance (ESG) reporting by companies. Around 11,000 large listed
+enterprises are currently required to report in 2025, with the scope expanding to 7,000-10,000 more companies required to submit reports from 2028 onwards, followed by smaller companies. Many companies are also
+proactively making preparations for reporting,
+•
+Among reporting standards, CSRD is uniquely challenging in the wide scope of its requirements, as defined in the European Sustainability Reporting Standards (ESRS).
+Reporting to comply with CSRD’s wide-ranging requirements
+is time and labor intensive. Sustainability leaders must gather,
+consolidate and review numerous quantitative and qualitative
+data points, then format them into reports for disclosure. The
+entire process can take a number of person days to complete.
+Companies are therefore seeking solutions that enable them
+to meet these complex disclosure standards more efficiently.
+AI-enabled automation has the potential to dramatically reduce
+the manual workload placed on teams, but any solution must
+also ensure transparency and explainability in line with the
+objectives of CSRD.
+NTT DATA’s Corporate Sustainability Report Simplified (CSRS)
+solution utilizes AI-powered automation to streamline the CSRD
+reporting process for companies. An automated procedure is used to
+draft all required qualitative data points needed for the CSRD report,
+using generative AI to extract all relevant information from the source
+documents. After AI-driven parsing, ESRS data point responses are
+automatically generated and visualized, and the corresponding report
+can be created using the texts produced. In addition to delivering
+impactful
+time
+savings
+by
+eliminating
+the
+majority
+of
+manual
+processing tasks, CSRS ensures full traceability and explainability by
+specifying sources for each piece of information.
+With other regions expected to shape their reporting and disclosure
+frameworks around EU standards, this effective automation of CSRD
+compliance processes can also enable global companies to futureproof their ESG reporting against changing regulations worldwide.
+Potential reduction in the time taken to gather information and 
+draft qualitative ESRS data points by using CSRS:
+50-75%
+This empowers sustainability leaders to dedicate more time to 
+achieving ESG goals.
+Conceptual diagram showing AI utilization in
+reporting and disclosure workflows
+Corporate Sustainability Report Simplified (CSRS)
+Europe

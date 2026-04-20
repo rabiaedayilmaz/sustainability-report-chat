@@ -1,0 +1,117 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Japan
+Advancing circular economies by leading secure cross-industry distribution of 
+corporate data and launching an EV battery platform
+Press Release:
+NTT DATA Builds and Demonstrates Database 
+Platform to Support Ouranos Ecosystem
+(in Japanese only)
+Business need
+Solution
+Impact
+NTT DATA Japan Corporation
+First Public Sector
+Third Public Sector
+First Industry Business Sector Automotive Division
+•
+To address social issues such as labor shortages, increasingly-severe natural disasters, and the need for decarbonization, and to drive innovation and achieve economic growth, it is essential to establish mechanisms
+for cross-industry and cross-border data sharing and system integration.
+•
+Batteries used in electric vehicles (EVs) contain critical minerals such as lithium and nickel, and the processes of mining and refining these minerals generate CO2 emissions. To achieve CO2 emission reductions and
+ensure stable supplies, it is necessary to establish a circular economy that utilizes recycled materials.
+Following the EU Battery Regulations that came into effect in
+August 2023, companies are required to disclose data on total
+greenhouse gas emissions and raw material recycling rates
+throughout EV battery lifecycles. As of February 2025, EV
+batteries’ carbon footprint must be disclosed. Non-compliant
+vehicles cannot be sold in the European market, posing a
+serious risk for OEM automobile manufacturers.
+These regulations are planned to expand to cover all
+batteries sold in the EU, including industrial and portable
+batteries. Information platforms that enable stakeholders to
+adapt to the changing external environment by sharing only
+necessary data while protecting confidential information are
+urgently required. To address this, Japan’s Ministry of Economy,
+Trade and Industry is leading the Ouranos Ecosystem initiative
+to create a cross-industry data ecosystem. Progress is being
+made toward a connected data platform aiming to resolve
+social and economic issues and support economic growth.
+NTT DATA has launched the “Battery Traceability
+Platform,”
+which
+supports
+cross-industry
+data
+collaboration
+between
+the
+automotive
+and
+storage
+battery sectors as the first use case of the “Ouranos
+Ecosystem.” To achieve secure data-sharing between
+companies, it leveraged its broad client base to support
+various data formats
+and connect
+applications
+and
+systems
+used
+by
+different
+companies.
+Design
+optimization was achieved through extensive dialogue
+with industry groups and multiple vendors. NTT DATA
+used blockchain-based distributed ledger, smart contract,
+encryption and tamper detection technologies to create a
+platform
+that
+protects
+confidential
+information
+while
+offering freedom when exchanging data. The platform
+enables companies to share battery lifecycle information
+between countries with the aim of reducing risk and
+supporting thorough regulatory compliance.
+The Battery Traceability Platform could be expanded
+to
+diverse
+industries
+as
+part
+of
+next-generation
+information infrastructure in Japan and beyond, and was
+selected for a project by the New Energy and Industrial
+Technology
+Development
+Organization
+(NEDO).
+To
+achieve widespread adoption as a database enabling
+data
+sharing
+between
+companies,
+industries
+and
+countries, NTT DATA continues to develop technologies
+supporting core functions such as interconnectedness,
+authentication and authorization, and will remain a global
+leader in the movement towards circular economies and
+decarbonization.
+Overview of Battery Traceability Platform
+Projected economic value of accelerating reduction in lifecycle
+GHG emissions:
+Theoretical potential impact in 2030
+Source: 2025 impact visualization report by NTT DATA (see next page
+for details)
+Battery Traceability Platform
+Approx. JPY 240 billion / year

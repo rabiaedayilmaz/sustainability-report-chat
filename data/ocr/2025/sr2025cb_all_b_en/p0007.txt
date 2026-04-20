@@ -1,0 +1,140 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Japan
+Joint verification in partnership with diverse data center stakeholders
+on the road to carbon neutrality
+PDF:
+Verification Facility “Data Center Trial Field” 
+Established to Promote the Utilization of Liquid 
+Cooling Technology in Data Centers
+NTT DATA Japan Corporation
+Technology Consulting Sector
+Technology Consulting Division
+•
+The Japanese government has declared that it aims to achieve carbon neutrality by 2050 and reduce greenhouse gas emissions by 46% from fiscal year 2013 levels in fiscal 2030, with ambitions to continue its efforts
+and cut emissions further to achieve a 50% reduction.
+•
+Total power consumption by data centers in Japan is projected to rise considerably, reaching double fiscal 2022 levels by fiscal 2030 and five times fiscal 2022 levels by fiscal 2050. Energy efficiency improvements to
+significantly reduce data centers’ energy consumption are urgently required.
+In Japan, the advancement of digital transformation (DX) and
+more widespread use of generative AI have led to increased
+demand for cloud infrastructure and use of data centers. At the
+same time, the sudden rise in data center power consumption
+and the heat generated from high-density server racks make it
+difficult to rely solely on traditional air cooling systems, making
+the need for liquid cooling technologies such as direct liquid
+cooling and immersion cooling more acute.
+In
+addition,
+constructing
+server
+rooms
+requires
+mutual
+understanding and collaboration between data center operators
+and pipe construction companies, equipment manufacturers,
+design companies, and users. The lack of verification facilities
+for
+innovative
+cooling
+technologies
+and
+energy-efficient
+methods is also impeding the development and widespread
+adoption
+of
+technologies.
+Verification
+facilities
+that
+can
+reproduce
+data
+center
+environments
+and
+forums
+for
+communication
+enabling
+collaboration
+among
+business
+operators involved in data center-related fields are required.
+NTT DATA established Data Center Trial Field as a
+next-generation verification facility that aims to reduce
+data centers’ environmental impact and foster innovation.
+The facility is equipped with the latest cooling technology
+and
+high-efficiency
+equipment
+to
+enable
+the
+demonstration
+of
+technology
+that
+can
+contribute
+to
+decarbonization and energy optimization in data centers.
+In addition, through collaboration with external research
+institutions and partner companies, it provides an open
+environment
+to
+accelerate
+technological
+innovation
+through co-creation, which supports the early delivery of
+solutions that bring value to both society and industry.
+As a dedicated facility with features such as high-load
+IT equipment using cutting-edge cooling methods and
+functions for flexible switching of operating conditions,
+the configuration enables a diverse range of technical
+tests, including performance tests on liquid cooling and
+heat source equipment and the testing of changes to
+equipment
+configurations
+and
+materials.
+Evaluation
+based on power usage effectiveness (PUE) and other
+environmental performance metrics will also be carried
+out. Data Center Trial Field facilitates participation by
+stakeholders such as ICT vendors, research institutions
+and startups while also advancing NTT DATA’s own
+accumulation
+of
+knowhow
+and
+environmental
+technologies. This initiative aims to be a starting point for
+the
+deployment
+of
+new technologies
+in
+tomorrow’s
+commercial data centers.
+Business need
+Solution
+Layer/Target image that constitutes the Data Center Trial Field
+Data Center Trial Field
+Impact
+Reduction in energy consumption connected to
+data center cooling
+Reduction of over 40%
+Source:
+Internal
+comparison
+calculated
+by NTT
+DATA
+based
+on
+conventional data centers (equivalent to PUE of 1.6).

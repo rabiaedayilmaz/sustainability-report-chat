@@ -1,0 +1,75 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+ 
+ Water Management
+As the supply and demand gap for fresh water widens, we will work on water management particularly in high-risk areas. We will work on water risk 
+management such as cooling and humidity in data centers. We will also contribute to improving water management of customers through solution.
+Basic Policy
+To conserve water resources and promote their sustainable use, it is essential to understand the interplay between economic and corporate activities and implement water 
+management tailored to regional and business characteristics. We recognize efficient 
+water management in our data center business as materiality and advance sustainable 
+practices. By introducing technologies in data center cooling systems that reduce water 
+consumption and improve water efficiency, we strive to minimize resource use. We also 
+identify and assess facilities in high water-stress regions and implement measures to 
+mitigate environmental impact. Furthermore, through support for our clients leveraging 
+AI, IoT, and other technologies, we contribute to the conservation and sustainable use of 
+water resources.
+Information Disclosure Based on the TNFD
+General Requirements
+Approach to materiality
+Based on IFRS*1 and the GRI Standards, we have identified materiality, one of 
+which is water management. In an analysis aligned with the TNFD framework, we 
+used ENCORE*2 to focus on aspects considered dependent on or impactful to 
+our information services activities, specifically water usage, water pollution, and 
+soil pollution.
+Scope of disclosures
+The scope covers our direct operations and upstream supply chain. We utilized 
+the climate change scenario analysis in line with the TCFD framework.
+Time horizon
+We have derived the risks and opportunities related to our business and nature 
+through an assessment of our dependencies on nature and its impacts. This 
+analysis primarily focused on water usage and wastewater in data center air- 
+conditioning systems and office operations. In analyzing risks and opportunities, 
+we sought consistency with disclosures based on the TCFD framework, considering a time horizon extending beyond 2030 for the short-, medium-, and 
+long-term perspectives. Going forward, we plan to establish specific timeframes 
+in conjunction with the expansion of our risk and opportunity disclosures. 
+Location of 
+nature-related issues
+We analyzed all 141 data centers we own using WRI Aqueduct*3, ThinkHazard!*4, 
+and IBAT*5 to assess their exposure to water-stress regions and connections 
+with critical natural environments. For areas identified as high risk, we also 
+considered the stakeholders who could be affected within those regions.
+Integration with other 
+sustainability issues
+We ensured alignment with the TCFD framework in our information disclosures 
+and considered changes related to dependencies on and impacts to nature 
+based on the results of our climate change scenario analysis.
+Stakeholder 
+engagement
+We identified a wide range of stakeholders, including clients, employees, investors, local communities, NGOs, water utility companies, and fellow water users 
+in the same river basin as part of our analysis.
+*1 International Financial Reporting Standards (IFRS): Accounting standards established by the International Accounting Standards 
+Board (IASB).
+*2 Tool developed in collaboration between the Natural Capital Finance Alliance (NCFA) and the United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC). It visualizes the impact of environmental changes on the economy.
+*3 Global tool developed by the World Resources Institute (WRI). It assesses water risk in regions where facilities are located. It 
+enables evaluation based on aspects such as water quantity, water quality, regulations, and reputation.
+*4 A tool developed by the Global Facility for Disaster Reduction and Recovery (GFDRR) and other organizations. It enables assessment of risk levels for various disasters, including earthquakes, typhoons, and floods.
+*5 The United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) has developed a global 
+database that integrates biodiversity information from around the world. This database provides specific information about 
+biodiversity and crucial habitats worldwide. It enables governments, development banks, companies, and other stakeholders to 
+conduct risk assessments for biodiversity and ecosystems during the planning stages of development strategies and projects.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Water Management

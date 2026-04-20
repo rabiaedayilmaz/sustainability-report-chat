@@ -1,0 +1,52 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Opportunities Related to Resource Optimization 
+ 
+ Opportunity 4: Attracting talented human resources 
+ 
+ 
+The adoption of teleworking and other flexible workstyles could provide opportunities to attract human resources 
+and enhance resource efficiency. 
+Business and 
+financial impacts 
+By promoting flexible workstyles that are not limited to the workplace, including teleworking 
+(working from home), we create opportunities to reduce CO2 emissions arising from employee 
+commuting. NTT DATA embraces a companywide approach to teleworking. In fiscal 2019, we 
+assigned 10 days as Telework Days (participation by around 39,200 employees), staggered 
+commuting through discretionary work and flextime arrangements (around 31,200 
+employees), and encouraged employees to take annual paid leave (taken by around 15,700 
+employees). In March 2020, NTT DATA was selected for the first time as a “Nadeshiko Brand” 
+in a joint initiative of the Ministry of Economy, Trade and Industry and the Tokyo Stock 
+Exchange. We were also awarded the highest rank of five stars for the first time in three years 
+in the third annual Nikkei Smart Work Management Survey, the results of which were 
+announced by Nihon Keizai Shimbun in November 2019. This survey selects leading 
+companies that strive to revolutionize productivity through work-style reforms. Through 
+teleworking and remote access to business trip destinations, we have reduced the need for 
+commuting and movement between buildings. This has lowered our commuting-related CO2 
+emissions by 20,904 t-CO2e (72 days of telework per year, or 30% of business days). We 
+estimate that teleworking and other arrangements have translated into reduction benefits of 
+around ¥12.5 million (CO2 reduction from teleworking, etc., × transaction price, calculated at 
+¥600/t-CO2e). 
+Moreover, if we implement more extensive teleworking and other measures that reduce 
+commuting and business trips by 90%, the reduction benefits will be about ¥100 million. 
+(Added to the current reduction benefits, this would bring total reduction benefits to around 
+¥120 million.) 
+ 
+Strategies and 
+costs 
+To realize opportunities, we will continue promoting the aforementioned Telework Days 
+system and encourage the use of trials and other activities by system development staff. At 
+the same time, we will work to create teleworking arrangements for system development staff 
+using our Integrated Development Cloud, which consolidates system development 
+environments in the cloud with the aim of improving production technology. Our annual 
+telework environment operating costs are ¥1.1 billion at minimum. We will continue minimizing 
+CO2 emissions by reducing commuting and moving between buildings through teleworking 
+and providing remote access to business trip destinations. 
+ 
+Note: Time horizons: Short term: Less than 1 year; Medium term: 1–3 years; Long term: 3–13 years 
+ 
+ 
+ 
+ 
+Time horizon: Medium term

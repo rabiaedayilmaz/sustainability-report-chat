@@ -1,0 +1,157 @@
+Initiatives
+Major Initiatives during Fiscal 2009
+NTT DATA and Its Stakeholders
+Customers
+(See page 20)
+Measures to Improve Quality
+Promotion of companywide optimization through the formulation of unified companywide rules for system 
+development and management methods
+Disaster Countermeasures
+• For preparation of business continuity plans in the event of disaster, realign the approach to earthquake risk 
+response and prepare a guide for formulating business continuity plans for each organization
+• Investigate risks and add measures concerning response to swine flu
+System Failure Countermeasures
+Revise procedures to reflect amendments in rules on reporting of failures to the Ministry of Internal Affairs 
+and Communications in step with legal revisions and deployment of these revised procedures companywide
+Collaboration with Companies 
+Industrywide
+Release of Non-functional Requirement Grade Tool by the Non-functional Requirement Grade Investigative 
+Committee, which was developed cooperatively by six companies
+Improving Customer Satisfaction
+Customer satisfaction survey through questionnaires distributed to approximately 160 customers (response 
+rate: 95.7%) and interviews with approximately 50 customers—overall evaluation up 0.1 point compared 
+with the previous fiscal year, to 6.8 points
+Approaches Involving Universal Design
+Enhancement of prototyping techniques and tools for system development to incorporate UD into 
+information systems and in-house seminars to raise employee awareness of UD
+Shareholders and 
+Investors
+(See page 23)
+Enhancement of Communications with 
+Shareholders and Investors
+• Various types of IR events and proactive information dissemination through the Company website, 
+distribution of IR tools, etc.
+• Response to communications with analysts and financial institutions (more than 350 responses during the year)
+Suppliers
+(See page 24)
+Thoroughgoing Fair Transactions
+• Promotion of measures to eliminate retroactive contracts to ensure thorough compliance with the 
+Subcontractor Act
+• Employee seminars and other events to provide opportunities for information sharing, aiming to build 
+appropriate relationships with overseas companies
+Enhancement of Communications with 
+Suppliers
+• Technological Briefing Sessions and other events for Business Partner (BP) companies
+• Hearings with BP companies to clarify issues relating to overtime work
+Employees and 
+Their Families
+(See page 26)
+Personnel Recruitment and 
+Deployment
+Establishment of special subsidiary NTT DATA DAICHI CORPORATION to promote employment of personnel 
+with disabilities
+Creating a Comfortable Working 
+Environment
+Establishment of the Diversity Promotion Office, focusing on measures to promote diversity, innovate workstyles and encourage a healthy work-life balance
+Employee Health Promotion and 
+Enhancement
+• Promotion of working hour reduction measures, such as two continuous weeks’ holiday and management 
+of office working hours
+• Mental healthcare measures, such as Workplace Improvement Workshops and workplace inspections
+In Pursuit of Employee Satisfaction
+• Employee Satisfaction Surveys, targeting all Group employees
+• Inauguration of a framework facilitating personal consultations with specialists via interviews and telephone
+Various Other 
+Related Parties
+(See page 30)
+Social Contribution Activities
+• Construction of the Wildlife Information Center website to support nature conservation activities and startup of the Volunteer Club, which supports employee volunteer activities
+• Various support activities as an official sponsor of the International Olympiad in Informatics
+NTT DATA and the Environment
+Environmental 
+Management
+(See page 32)
+Environmental Management 
+Promotion
+Promotion of activities centered on an ISO 14001-based cross-Group environmental management system—
+One Group company obtained ISO 14001 certification during the year, bringing the Group total to 27
+Environmentally Responsible System 
+Development
+Promotion of quantitative evaluations and measurement of the environmental impact reduction effects of 
+system introduction
+Targets and Results
+(See page 36)
+Reducing Greenhouse Gas Emissions
+Introduction of solar systems for data centers and promotion of concentration in data centers of servers formerly 
+spread throughout offices (8.3% reduction of CO2 per unit of net sales compared with fiscal 2006 levels)
+Reducing Waste for Final Disposal
+Increase of outsourcing volumes to industrial waste processors with high recycling ratios and promotion of 
+thorough waste separation at each worksite (43% reduction of waste for final disposal per unit of net sales 
+compared with fiscal 2006 levels)
+Reducing Copy Paper Purchased
+Introduction of secure printers requiring IC card verification for printing and promotion of teleconferencing 
+and other initiatives (4.6% reduction of copy paper purchased compared with fiscal 2006 levels)
+Reducing the Environmental Impact of 
+Customers and Regional Society
+Promotion of activities planned in each organization and Group company to help reduce the environmental 
+impact of customers and regional societies
+IT Solutions to 
+Reduce 
+Environmental 
+Impact
+(See page 38)
+Supporting Greenhouse Gas Emission 
+Countermeasures
+• Development and operation of a system for the Ministry of the Environment's Offsetting Credit (J-VER) 
+scheme and a system for Japan's trial emission trading scheme in the domestic integrated market
+• Support expansion of the number of zero-CO2 emissions stores through carbon offsetting
+• Enhancement of energy efficiency of data centers and expansion of Green Data Center Service, for which demand is growing
+Saving and Using Natural Resources 
+Efficiently
+Support for environmental measures that visualize cost loss and CO2 emissions through the application of 
+material flow cost accounting, and expansion of services that contribute to reductions in office paper use
+Environmental 
+Communication
+(See page 40)
+Environmental Awareness Activities 
+and Information Dissemination
+Promotion of Green IT-related information sharing and cooperation within the Group and establishment of a 
+website introducing the NTT DATA Group’s Green IT Solutions to external users
+Environmental Contribution Activities
+Participation in the Tokyo Greenship Action campaign to promote environmental preservation activities and 
+promotion of environmental contribution activities by Group companies in their regions of operation
+CSR Infrastructure
+Corporate 
+Governance
+(See page 41)
+Construction of an Internal Control 
+System
+Establishment of Group Internal Control Promotion Office and reinforcement of a system for internal control 
+promotion
+Reinforcement of Group Governance
+Formulation of Group Management Rules to clarify compliance policies and guidance of decision-making for 
+Group companies
+Compliance
+(See page 42)
+Reinforcement of the Compliance 
+Promotion System
+Promotion of corporate ethics and legal compliance and of improvements to internal systems and 
+frameworks based on the Corporate Ethics Committee, and operation of a Whistleblower Line as an internal 
+reporting system
+Compliance Publicity and Education
+Lectures on corporate ethics and training covering legal compliance and contract risks
+Risk Management
+(See page 43)
+Promotion of Groupwide Consolidated 
+Risk Management
+Reinforcement of a risk management promotion system through tie-ups between departments and Group 
+companies
+Information Security
+(See page 44)
+Reinforcement of Information Security 
+Management
+Formulation of the NTT DATA Group Security Policy (GSP), compiling common Group rules
+Information Security Education
+Distribution of educational support tools, handbooks and posters to Group companies
+Major Initiatives during Fiscal 2009 and Future Plans
+NTT DATA CSR Report 2009

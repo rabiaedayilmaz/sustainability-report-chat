@@ -1,0 +1,57 @@
+In addition, as a member of the Green Software Foundation (GSF), a global 
+nonprofit organization aiming to reduce the CO2 emissions of software, NTT 
+DATA is actively leading efforts to promote green software and to build an 
+ecosystem that supports environmentally friendly software development.
+Note: The logo of the Green Software Foundation is a trademark of the Linux Foundation in the United States and 
+other countries.
+ 
+In December 2022, GSF released version 1.0 of Software Carbon Intensity (SCI), a methodology for evaluating 
+GHG emissions when software is used. This involves assessing carbon emissions as a score based on factors such 
+as power consumption during software use, hardware utilization, and the carbon intensity* of power consumption. By leveraging SCI, it becomes possible to compare the environmental impact of multiple software to similar 
+functions and allows for the comparison of the carbon emissions’ impact resulting from modifications made to the 
+software. As an operational member, we collaborated with other member companies to develop SCI 1.0. SCI 1.0 
+has been officially recognized as an international standard, now known as ISO/IEC 21031:2024.
+* Carbon intensity indicates how many grams of carbon dioxide emissions are measured when 1 kWh of electricity is consumed (unit: gCO2eq/kWh).
+Examples of Client Support through Software Carbon Intensity (SCI)
+At NTT DATA Italy, SCI 1.0 was utilized to measure the 
+energy consumption and GHG emissions of IT systems, while designing a framework for reducing 
+emissions. Intesa Sanpaolo, Italy’s largest bank, faced 
+challenges in accurately measuring and monitoring 
+the GHG emissions of its IT systems to reduce environmental impact and improve operations. With NTT 
+DATA Italy’s solution, the bank successfully achieved 
+reductions in both GHG emissions and energy consumption, leading to cost savings. Today, the bank is 
+recognized as a financial institution that achieves 
+sustainability through its IT systems and services.
+ Overview of Solution: 
+https://group.ntt/jp/sus_conf/B42.html#
+Reducing Environmental Impact from Both Facility and IT Perspectives
+We are actively engaged in reducing the environmental impact from both the facility (including buildings and 
+equipment) and IT perspectives. For instance, we operate systems that enable real-time visualization of the 
+indoor environment in server rooms. These systems centralize the management of data from sensors embedded in servers, including the supply air temperature, current values, power consumption, CPU utilization, cooling energy, and the amount of renewable energy introduced. Furthermore, to achieve energy efficiency in 
+power-intensive air-conditioning equipment within data centers, we combine temperature data obtained from 
+room sensors with machine learning algorithms to create an air-conditioning AI system. This system identifies hot 
+spots within the room on a per-server basis, enabling the concentration of cooling energy where it is needed, thus 
+reducing overall cooling energy consumption.
+Image of a Real-Time Visualization System in a Server Room, “Green DC energy management™”
+Green Software
+NTT DATA takes the lead in promoting the green transformation of IT for our clients and society, aiming to realize a 
+sustainable society while reducing environmental impact.
+Leading Standards for Developing Software with Reduced Environmental Impact
+Software has a significant impact on GHG emissions from IT equipment and data centers. In March 2024, 
+NTT DATA, in collaboration with other companies, formulated one of the first CO2 emissions calculation rules for 
+custom-developed software products, which aligns with the Ministry of Economy, Trade, and Industry’s Carbon 
+Footprint Guidelines. This rule covers CO2 emissions from the development stage, from order receipt to production 
+and delivery, and promotes the standardization of green procurement for software products.
+Dashboard Visualizing GHG Emissions
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

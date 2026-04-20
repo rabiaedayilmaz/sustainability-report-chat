@@ -1,0 +1,153 @@
+INPUT
+OUTPUT
+Inside the NTT DATA Group
+Outside the NTT DATA Group
+Energy
+*1
+Greenhouse gases
+*2
+Paper resources 
+Office waste
+Specified chlorofluorocarbon used for 
+air-conditioning systems
+*3 
+Construction waste
+Construction materials
+
+Utility power*²
+10,000 kWh
+48,878
+48,342
+49,169
+Kerosene
+kl
+
+Light gas oil (excluding 
+Company vehicles)
+l
+
+A–C heavy oil
+kl
+
+City gas
+10,000m³
+
+Gasoline 
+(Company vehicles)
+kl
+
+Light gas oil
+ (Company vehicles)
+kl
+
+Steam, cold energy
+GJ
+ー
+46,132
+41,372
+
+Electricity use
+23.3
+25.0
+25.4
+Gas/fuel use
+0.4
+0.5
+0.4
+Heat use
+ー
+0.3
+0.2
+Company vehicle use
+0.2
+0.2
+0.1
+Total
+23.9
+25.9
+26.1
+
+Copy paper
+
+Fliers, pamphlets, etc. for clients
+
+Amount generated
+23.3
+25.0
+25.4
+Incineration/ landfill
+
+Amount recycled
+4,636
+3,557
+4,073
+Amount of final disposal
+
+Number of air-conditioning 
+system units using specified 
+chlorofluorocarbon (CFC)
+
+□Acquired third-party certification
+□Acquired third-party certification
+(Tons)
+(Tons)
+(Units)
+Construction materials, cables, etc.
+Energy
+Greenhouse gases (CO2)
+
+Amount generated
+
+Amount recycled
+
+Amount of final disposal
+
+(Tons)
+Sales
+Planning /
+Design 
+Manufacturing / 
+Testing
+Data center
+Installation at 
+client sites
+Service operation 
+at client sites
+Water resources
+
+Clean water consumption
+
+(10,000 m
+3)
+ 
+ 
+　 
+ 
+ 
+ 
+Measurement period： From April 1 to March 31 of the following year
+Measurement organization： Fiscal 2013: NTT DATA (all organizations), 64 Group companies (Japan only); 
+ Fiscal 2014: NTT DATA (all organizations), 69 Group companies (Japan only); 
+ Fiscal 2015: NTT DATA (all organizations), 73 Group companies (Japan only)
+*1 Steam and cold energy included from fiscal 2014
+*2 Heat use included from fiscal 2014
+*3 Details of the number of air-conditioning system units were presented based on the central heating prior to fiscal 2013. From fiscal 2014, details of the number of air-conditioning system units is
+ presented based on the central heating together with details of air-conditioning systems based on the individual method.
+※Scope of Environmental Impact Measurement　　
+Water resources
+
+Drainage amount
+
+(10,000 m3) 
+(10,000t -CO2) 
+ 
+■ Overview of the NTT DATA Group’s Environmental Impact
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

@@ -1,0 +1,130 @@
+Status of ISO 14001 Certification (as of March 31, 2017)
+ Results of Internal Environmental Audits for Fiscal 2016
+ Major Laws and Regulations and the Scope and Number of Facilities Impacted in Fiscal 2016
+Internal Environmental Audits
+ Improving Activity Levels through Periodic Internal Audits
+The NTT DATA Group periodically conducts internal environmental audits to confirm conformance 
+with ISO 14001 specifications and PDCA cycle functionality.
+ 
+In fiscal 2016, we conducted two actual audits carried out by internal environmental auditors from 
+organizations other than the one being audited. In addition, internal environmental auditors conducted two environmental audits of their own organizations on a self-audit basis.
+ 
+We hold meetings before and after audits to confirm important audit items and the status of 
+Groupwide EMSs, as well as to share suggestions, improvements, and other information as part of a 
+drive to bolster the levels of internal environmental auditing and Group environmental protection 
+activities.
+Compliance with Laws and Regulations
+ Periodically Confirming the Status of Compliance with Laws and Regulations
+We determine items that require monitoring and measurement with respect to various laws and regulations, including Japan’s Law Concerning the Rational Use of Energy (Energy Saving Act) and Waste 
+Management and Public Cleansing Law, while periodically confirming the status of compliance. Moreover, we address the need to monitor, measure, and report on the volume of CO2 emissions in accordance with Japan’s Law Concerning the Promotion of Measures to Cope with Global Warming and the 
+Ordinance on Environmental Protection issued by the Tokyo Metropolitan Government.
+ Training Internal Environmental Auditors
+The NTT DATA Group has expanded the scope of ISO 14001 certification, enhancing systems to 
+foster internal audit staff (90 staff as of March 31, 2017).
+ 
+In fiscal 2016, internal environmental auditors reviewed the environmental assessments conducted by each organization and Group company at the start of the fiscal year to enhance the quality 
+of the assessments as well as to improve the competence of internal environmental auditors. In 
+accordance with ISO 14001:2015, we also held study sessions for internal environmental auditors 
+three times during the year. 
+ 
+Looking ahead, we will seek to raise the efficiency of internal audits even further by promoting a 
+long-term program for cultivating internal environmental auditors, which includes transferring knowhow from experienced auditors and seeking guidance from outside experts toward the transition to 
+ISO 14001:2015.
+NTT Group entities that have acquired certification
+NTT DATA CORPORATION
+NTT DATA INSTITUTE OF MANAGEMENT CONSULTING, Inc.
+NTT DATA HOKKAIDO CORPORATION
+NTT DATA CCS CORPORATION (head office, data center)
+NTT DATA TOHOKU CORPORATION
+JSOL CORPORATION (Tokyo head office)
+NTT DATA SHINETSU CORPORATION
+NTT DATA SYSTEM TECHNOLOGIES INC.
+NTT DATA TOKAI CORPORATION
+NTT DATA SEKISUI SYSTEMS (Osaka head office, Tokyo head office)
+NTT DATA HOKURIKU CORPORATION
+NTT DATA INTELLILINK CORPORATION
+NTT DATA KANSAI CORPORATION
+NTT DATA SOFIA CORPORATION
+NTT DATA CHUGOKU CORPORATION
+NTT DATA DAICHI CORPORATION
+NTT DATA SHIKOKU CORPORATION
+DACS CORPORATION (head office, Tokyo branch office, Osaka 
+data center, BPO center)
+NTT DATA KYUSHU CORPORATION
+NTT DATA BUSINESS SYSTEMS
+NTT DATA i CORPORATION
+NTT DATA FINANCIAL CORE
+NTT DATA WAVE CORPORATION
+NTT DATA FRONTIER CORPORATION
+NTT DATA SMS CORPORATION
+NTT DATA MANAGEMENT SERVICE (head office, Tokai office, 
+Kansai office)
+NTT DATA CUSTOMER SERVICE CORPORATION (Tokyo head office)
+ NTT DATA UNIVERSITY CORPORATION
+NTT Group entities that have acquired certification independently
+NJK CORPORATION
+JAPAN INFORMATION PROCESSING SERVICE CO., LTD.
+NTT DATA MSE CORPORATION
+NTT DATA UK
+CATS CO., LTD.
+Everis Participaciones, S.L.
+Term of 
+Implementation
+First Audit: July 4 to July 26, 2016
+Second Audit: January 23 to February 28, 2017
+Target 
+organizations and 
+companies
+• NTT DATA 
+Actual inspection: 4 organizations
+ 
+Self-audit: 27 organizations
+• NTT DATA 
+Actual inspection: 6 organizations
+ 
+Self-audit: 24 organizations
+• Group companies Actual inspection: 15 companies
+• Group companies Actual inspection: 11 companies
+Audit results
+• Actual inspection 2 serious cases, 9 minor cases, 
+20 cases for observation
+• Actual inspection 8 serious case, 11 minor cases, 
+11 cases for observation
+• Self-audit 
+0 serious cases, 1 minor case, 
+2 cases for observation 
+• Self-audit 
+No serious cases, 2 minor cases, 
+2 cases for observation 
+Major Laws and Regulations
+Target Items
+Number of Facilities Impacted
+Energy Saving Act
+Crude oil equivalent, Number of facilities using 3,000 kl/year or more
+
+Crude oil equivalent, Number of facilities using 1,500 kl/year or more
+
+Air Pollution Control Act
+Number of smoke-generating facilities
+
+Water Quality Pollution 
+Control Act
+Number of oil storage and other facilities
+
+Sewerage Service Act
+Number of facilities generating 50 m3 or more of wastewater per day
+
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

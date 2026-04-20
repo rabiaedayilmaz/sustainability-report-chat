@@ -1,0 +1,88 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Integrated ESG Implementation to Support Timely CSRD Compliance
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Strengthening ESG Data Management 
+to Support CSRD Compliance
+Smart X
+Co-Innovation
+• Regulators are making it clear that talking about environmental, social, and governance (ESG) standards is not enough—corporations must also take action. In addition to the adoption of
+new rules and laws in various countries, this is demonstrated by the passing of the Corporate Sustainability Reporting Directive (CSRD) by the EU in November 2022.
+• The CSRD mandates reporting on subjects such as environmental matters, social issues and respect for human rights. It also applies to non-EU companies with a net turnover of EUR
+150 million and at least one branch or subsidiary in the EU. Given the wide breadth of companies covered and the depth of reporting standards, companies need to be proactive and
+adaptable to ensure compliance.
+Under the CSRD, Wave 1 entities, which includes
+companies with more than 500 employees listed in EUregulated markets, are under time pressure to disclose
+information in compliance with new standards in their
+2025 sustainability reports. Such companies often have
+complex structures comprising several legal entities. This
+creates significant challenges in implementing group-wide
+collection, management, and reporting of wide-ranging
+ESG data. Issues include decentralized data collection
+scattered across different divisions and systems, a lack of
+standardization making data difficult to compare, and
+reliance on manual tools such as spreadsheets, which
+risks
+errors
+and
+inefficiencies.
+Systems
+capable
+of
+collecting data with speed and accuracy are urgently
+required to overcome these challenges and implement
+timely regulatory compliance.
+Business need
+Solution
+NTT DATA supported a leading energy company in the
+successful implementation of Workiva, a connected cloud
+platform that simplifies financial and ESG reporting through
+seamless collaboration and deep integration into existing
+workstreams. NTT DATA consultants worked closely with
+the client to understand their specific needs, data sources,
+and
+workflows,
+then
+designed
+a
+solution
+leveraging
+Workiva's platform capabilities, including customization to
+fit the client's unique environment. To ensure a smooth
+transition to the new platform, the client's data owners and
+report users were also given comprehensive training. NTT
+DATA provides ongoing post-implementation support to
+ensure the client can effectively utilize the Workiva platform
+and immediately address any issues.
+Workiva provides a centralized platform for managing of
+all of the client’s ESG data. Automated workflows enhance
+efficiency by simplifying data collection, validation, and
+approval. Time taken to produce reports has also been
+reduced
+through
+pre-built
+ESG
+reporting
+frameworks
+integrated into the platform. In addition, the ability to record
+all
+data
+changes
+ensures
+traceability
+through
+a
+comprehensive audit trail.
+Impact
+20% improvement in data accuracy
+40% reduction in the time spent on 
+data validation
+30% increase in the number of stakeholders 
+actively engaged with ESG data
+15% reduction in audit costs

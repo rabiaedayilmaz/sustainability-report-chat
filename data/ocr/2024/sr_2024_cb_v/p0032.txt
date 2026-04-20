@@ -1,0 +1,136 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Boosting Efficiency in Deodorizing Component Compounding Processes to Achieve 
+Results with Optimal Anti-odor Effects
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Innovation Technology Department
+Innovation Center
+Smart X
+Co-Innovation
+High Performance Computing / Quantum Computing
+• From advanced AI (machine learning) and DX functions to simulations in fields such as financial engineering and chemistry, the scale of required computing power is growing year by
+year. To meet this need, devices that perform calculation based on innovative principles are required.
+• Among AI and machine learning fields, mathematical optimization, which includes complex decision making and optimal allocation of limited resources such as personnel, time, and
+funds, is considered essential for tackling many business issues. However, it is also highly challenging due to the need to calculate optimal solutions for complex business issues from a
+vast number of possibilities. New calculation methods are expected to make an impactful contribution in this area.
+Business need
+Quantum
+computers
+are
+computers
+that
+use
+phenomena observed in quantum mechanics to achieve
+high calculation speeds. With IT technology being widely
+used in various areas of society, this field is gaining
+attention due to its potential to lead to even more
+advanced businesses. Beyond quantum computers, ising
+machines
+and various other devices that use advanced
+computational methods inspired by quantum mechanics
+are also emerging.
+These developments have led many companies to
+reexamine the feasibility of wide-ranging businesses in
+which
+calculation
+complexity
+had
+been
+considered
+prohibitive. Use is growing in areas such as business
+service
+development,
+productivity
+enhancement,
+data
+sciences such as AI and machine learning, and even
+fundamental science fields, with further applications being
+considered.
+Solution
+NTT DATA is developing technologies and methods to
+calculate optimal choices from wide-ranging combinations.
+Mathematical optimization is one such approach. Using
+quantum computers and various other advanced devices,
+NTT DATA provides technical verification and consulting
+services based on its know-how relating to calculation and
+other highly-specialized insight.
+NTT DATA worked with Komi-Hakko Corporation, which
+possesses proprietary technology for converting smells into
+data, to develop a new compounding process for anti-odor
+components. After measuring 250 types of unpleasant
+odors and converting them to data, they identified the
+optimal combinations for deodorizing agents in response to
+each
+smell.
+This
+enabled
+the
+recreation
+of
+smells
+independent of subjective human perception and supported
+the quantification of how people perceive scents, which is
+not possible with conventional sensors and devices. Lead
+times for compounding and developing deodorizing agents
+were also reduced from one and a half years to as little as
+one month.
+In the future, in addition to more efficient, more advanced
+development of deodorizing agents, work is planned to
+develop compounding and transfer technology to share
+smells
+remotely.
+These
+efforts
+seek
+to
+achieve
+implementation in various fields, from digital content with
+added scents for video production and music streaming to
+flavors that respond to human psychological activity and
+automation or remote management of odor testing and
+other tasks that require a human sense of smell. A goal of
+creating at least 10 new smell-related businesses in 2025
+has been set.
+Impact
+Deodorizing agent 
+development time
+Approx. 1.5 years →Minimum of 1 month
+Conventional processes
+Processes using odor database and 
+mathematical optimization techniques
+*Based on joint experiment carried out by NTT DATA and Komi-Hakko Corporation
+between April and July 2024
+Deodorizing agent 
+candidates
+Unpleasant odor 
+database
+(250 types)
+○
+✕
+○
+✕
+…
+Deodorizing 
+agent
+Deodorizing effect
+✕
+○
+○
+○
+○
+○
+○
+○
+…
+Compound A 
+Compound B
+Compound C
+Compound D
+Optimization of Odor Molecule Combinations
+Quantum Computers & Ising Machines
+NTT DATA (in Japanese only)

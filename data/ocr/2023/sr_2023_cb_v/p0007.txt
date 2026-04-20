@@ -1,0 +1,74 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Business Solutions (Germany)
+Companies are increasingly expected to expand the
+release of sustainability-related products while ensuring
+proper
+compliance
+with
+numerous
+related
+laws,
+highlighting the need for effective data management.
+Despite this, many companies still rely on manual data
+management,
+posing
+challenges
+in
+streamlining
+operations and preventing human error.
+NTT DATA Business Solutions has initiated a joint
+project with clients to address this challenge. We have
+developed a centralized database model capable of
+storing
+approximately
+1,000
+materials,
+with
+
+attributes each, equipped only with essential functions.
+This facilitates targeted traceability and collaboration
+with relevant stakeholders through the database.
+Integration with the SAP Material Master enables
+various
+simulations,
+including
+carbon
+footprint
+calculations, chemical component management, and
+more,
+at
+the product
+level,
+component
+level,
+and
+component structure level.
+Efforts will be made to expand functionality going
+forward, such as calculating the CO2 emissions of
+products, thereby contributing to the development and
+market
+distribution
+of
+sustainable
+products
+for
+companies.
+Types of data
+Managing Material Properties Data to 
+Prevent “Greenwashing”
+Click here for 
+reference article
+· While society sees a surge in sustainability-related products, companies are increasingly required to 
+provide accurate supporting information to prevent “greenwashing.”
+Approx. 16,000
+Sustainability 
+Data Manager
+Carbon
+Neutrality
+Circular 
+Economy
+Conceptual diagram of the database model

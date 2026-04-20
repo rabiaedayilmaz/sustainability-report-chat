@@ -1,0 +1,125 @@
+NTT DATA Sustainability Report 2018
+ NTTDATA-CERT’s Vision
+ CSIRT management within internal organizations
+The NTT DATA Group is managing NTTDATA-CERT as an organizational CSIRT to prevent the 
+occurrence of security incidents through its day-to-day activities. NTTDATA-CERT works to detect 
+incidents early and provide quick and appropriate emergency response. 
+2016 Information Security Report
+ https://www.nttdata.com/global/en/-/media/nttdataglobal/files/sustainability/sus001_home/
+sus001_information_security_report_2016.pdf
+[ Activities in Preparation for New Security Risks ]
+We established NTTDATA-CERT in July 2010, after collecting the CSIRT activities that had been 
+implemented internally in each business segment since 2000. NTTDATA-CERT’s primary activities 
+include wide-ranging gathering, analysis and communication of information related to the newest 
+attack methods and incident occurrences, communication monitoring, emergency response, research 
+and development, and collaboration with external organizations. We are working to bolster our ability 
+to respond to the most current risks as cyberattack targets and methods change with each year.
+[ Collaborative and Wide-Ranging Domestic and International Activities ]
+The scope of NTTDATA-CERT’s activities extends beyond the limits of the NTT DATA Group. The team 
+is widely collaborating with external security organizations, including the JPCERT Coordination Center 
+(JPCERT/CC) and CSIRT teams from all member companies of the Nippon CSIRT Association (NCA).
+ With these efforts, we are quickly sharing security-related information and enabling early detection 
+and response to security concerns.
+[ Activities Utilizing OSINT ]
+We adopt an open-source intelligence (OSINT) approach when operating NTTDATA-CERT, which 
+involves actively utilizing information obtained lawfully through mediums including official government 
+announcements and mass media, such as reporting, academic articles, and technical data. 
+Information collected daily is analyzed by NTTDATA-CERT’s experts, who then predict future security 
+trends and distribute their findings to all companies in the NTT DATA Group through quarterly reports 
+and security-related news briefings.
+ Additionally, the NTT DATA Group uses this information in its security strategies and countermeasures, 
+including cyberattack monitoring intensification and the selection of new research and development 
+themes for the next fiscal year.
+Information Security Education and Training
+ Initiatives Aimed at Spreading Understanding among Employees and Others
+The NTT DATA Group provides information security education for employees, business partners, 
+and temporary workers. We have delivered this education and training via e-learning and classroom 
+instruction to promote understanding of the Group’s policy on the protection of personal information, 
+the rules contained in the GSP, and the need to be constantly aware of the importance of information 
+security in one’s work.
+ In fiscal 2017, we continued implementing a broad range of measures with the primary aim of 
+ensuring that every employee is aware of the basic actions required to maintain information security.
+ Information Security Training Offered in Fiscal 2017
+Target
+Content and Format
+Participation
+All employees
+Information Security and Personal Information Protection Training 
+(e-learning; in three languages)
+Target
+100% employee completion (11,506 people)
+Achieved
+100% employee completion (11,506 people)
+By position 
+Information security lectures (Classroom instruction)
+Incorporated in position-based training conducted by the Human Resource 
+Department
+Business 
+partners and 
+temporary 
+staff
+Personal Information Protection Introduction Training / Information 
+security education (e-learning)
+Target
+100% of all parties registered on our company system 
+(27,685 people)
+Achieved
+100% of all parties registered on our company system 
+(27,685 people)
+Information Security Training Handbook
+Booklets available to new business partners and temporary staff 
+via download
+ Information Security Training at Key Group Companies in Fiscal 2017
+Target
+Implementation Format
+Participation
+Group company employees, 
+business partners, and 
+temporary staff
+GSP security training and personal information protection training (e-learning; in three 
+languages)
+Domestic Group companies
+66 companies, 27,901 
+employees
+Overseas Group companies
+26 companies, 4,176 employees
+Group company security 
+information security
+Internal GSP auditor training (Offline studying at individual workstations)
+Domestic and overseas Group 
+companies 79 companies
+NTTDATA-CERT is aiming 
+to be a CSIRT team that can 
+prevent, detect, and 
+respond to threats.
+Incident response
+Open-source 
+intelligence (OSINT)
+External 
+collaboration
+Research and 
+development
+Cyberattack 
+monitoring
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

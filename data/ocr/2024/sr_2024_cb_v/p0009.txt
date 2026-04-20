@@ -1,0 +1,127 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Helping Investment Recipients by Visualizing their Greenhouse Gas (GHG) Emissions 
+to Achieve Net Zero
+NTT DATA Japan Corporation
+Consulting Group
+Sustainability & Marketing Sector, Enterprise Segment 
+C-Turtle® FE
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+• Increasing GHG emissions from various social activities are accelerating global warming, leading to extreme weather, rising sea levels, ecosystem collapse, and food crises.
+• Although various efforts are being made by governments and companies to reduce GHG emissions, further technological innovation and other measures are needed to achieve
+reduction targets.
+Japan's targets for reducing GHG emissions cannot be
+attained solely through efforts by high-emission industries,
+which account for about 30% of total GHG emissions. It is
+crucial also to reduce emissions from small and mediumsized enterprises, which contribute about 20% to 30% of
+GHG emissions.
+To advance decarbonization in small and medium-sized
+enterprises, investing in energy-saving and renewable
+energy
+equipment
+is
+essential.
+Financial
+institutions,
+which are the backbone of local communities, play a
+major role in supporting these investments through loans
+and
+funding.
+However,
+financial
+institutions
+face
+challenges
+in
+independently
+calculating
+the
+GHG
+emissions of client companies.
+Business need
+Solution
+NTT
+DATA
+offers
+the
+GHG
+emissions
+visualization
+platform C-Turtle🄬to promote the reduction of GHG
+emissions across the entire supply chain. This platform
+uses actual data (primary data) owned by CDP*1 to achieve
+calculations
+through
+the
+"total
+emissions
+allocation
+method."
+C-Turtle🄬FE is a new service that complies with the
+international standards for financial institutions known as
+the PCAF Standard. This service visualizes the GHG
+emissions of client companies based on financial data held
+by
+financial
+institutions.
+By
+using
+primary
+data
+from
+investment and financing recipients, it enables high-quality
+calculation of Scope 3*2 emissions that reflects GHG
+emissions and reduction efforts related to investments and
+financing.
+The system is currently in use at financial institutions such
+as
+Kyoto
+Financial
+Group,
+Tokyo
+Kiraboshi
+Financial
+Group, Fukui Bank, and The 77 Bank. It helps visualize and
+reduce GHG emissions by enabling understanding of and
+engagement on the GHG emissions of investment and loan
+recipients (financed emissions).
+NTT
+DATA
+will
+collaborate
+with
+more
+regions
+and
+financial institutions to support efforts to reduce GHG
+emissions locally and will also promote the service with a
+view to offering it globally.
+Impact
+About 10%
+Reduction in time taken to calculate GHG emissions 
+through optimization with C-Turtle
+*2
+Scope 1: Direct emissions 
+from fuel use, etc.
+Scope 2: Indirect emissions 
+from the use of purchased 
+electricity and heat
+Scope 3: Indirect emissions in 
+the supply chain (excluding 
+Scope 1 and 2)
+*1 CDP is a non-profit that
+operates a global greenhouse
+gas
+(GHG)
+information
+disclosure system.
+PCAF Standard-compliant GHG emissions calculation platform for financial institutions
+C-Turtle®
+NTT DATA (in Japanese only)

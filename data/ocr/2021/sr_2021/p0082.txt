@@ -1,0 +1,33 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ Supplier Engagement (Green Purchasing Initiatives throughout the Supply Chain) 
+It is important that we promote green purchasing initiatives throughout the NTT DATA Group’s entire procurement supply chain. 
+ 
+Main Efforts to Achieve the SBT 1.5°C Target 
+In response to growing demand for initiatives to reduce greenhouse gas emissions throughout the supply chain, we became a 
+CDP supply chain member in fiscal 2020. Since then, we have been conducting CDP questionnaire-based surveys of major 
+suppliers with whom we have many transactions for hardware and software products related to the status of each company’s 
+initiatives to understand the status of initiatives throughout the supply chain. We have also asked some suppliers for further 
+cooperation in visualizing their greenhouse gas emissions, and we are collecting information on products and solutions for green 
+procurement from each company. 
+ 
+Encouraging the SI Industry as a Whole 
+NTT DATA has established a business partner system for software development, which is one of its main businesses. Under the 
+system, we accredit business partners (BPs) or associate partners (APs) every two years. In addition to deepening mutual 
+understanding and improving the quality of software development, we are working create a sustainable supply chain by building 
+good relationships with suppliers. Every year, we hold a BP Presidents’ Meeting, attended by the heads of our BP companies, 
+where we share information on NTT DATA's management policies and the results of mutual evaluations to gain BP companies’ 
+understanding and cooperation. In this way, we foster the growth of our clients’ businesses and the realization of a better society 
+together with BP companies and other suppliers. 
+Going forward, we will work with suppliers to raise awareness across the entire SI industry of the importance of green 
+perspectives while revitalizing green purchasing initiatives. 
+ 
+ Review of Procurement Standards 
+To date, our Green Procurement Guidelines have provided general standards for green procurement so that the NTT DATA 
+Group and its business partners can continue addressing environmental issues. However, we have substantially revised the 
+guidelines with the aim of reducing greenhouse gas emissions. 
+Going forward, we will make incremental reviews to our procurement standards, including those covering the selection of 
+recommended products and suppliers, based on global trends related to the environment, such as demand for greenhouse gas 
+reductions. We will also propose products and solutions that take greenhouse gas reduction into consideration so we can benefit 
+society and clients from a green perspective.

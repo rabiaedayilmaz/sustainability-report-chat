@@ -1,0 +1,28 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+we assessed that frequent typhoons, sudden heavy rains and rising sea levels over the medium and long terms will increase the 
+risk of flooding in data centers and offices, which will affect our business in the areas of public & social infrastructure, financial 
+and enterprise & solutions. On the other hand, since clients need to deal with similar risks, we see an opportunity to generate 
+increased demand for our cloud and shared services, which incorporate hazard countermeasures and double redundancy to 
+prevent data loss. We also see significant opportunities related to location-neutral work styles, which represent a strength from 
+the perspective of business continuity against natural disasters. This is because such arrangements improve engagement with 
+employees seeking diverse work styles, which fosters greater diversity in human resources and helps lower commuter-related 
+CO2 emissions. For information on reducing greenhouse gases through teleworking, we referred to reports from the IEA and the 
+Ministry of the Environment. 
+ 
+ Impacts on the Group from Climate Change Scenarios (RCPs and SSPs) 
+ 
+Reflection in Our Strategy 
+Among the risks and opportunities identified above, those that will have a significant impact on the Group include “realization of 
+high energy efficiency from the application and system design layers to facilities layer,” “business opportunities in cloud 
+computing and shared-use centers” and “responding to smart energy–related needs.” The results of our scenario analyses were 
+reported to the Board of Directors through the Climate Action Committee. Based on those results, we formulated the NTT DATA 
+Group Carbon-neutral Vision 2050 as a long-term vision with the SBT 1.5°C target for 2030 as its midpoint. In addition, based 
+on the results of our 2018 scenario analysis, we officially endorsed the recommendations of the TCFD, although we have 
+voluntarily made TCFD-compliant disclosures since 2019. We also formally endorsed Business Ambition for 1.5 as we move 
+forward on our ambitious journey to create innovations that empower our global clients to reduce climate-related risks and 
+capture climate-related opportunities. 
+Based on analysis results, the Board of Directors decided to introduce renewable energy into its domestic operations, and 
+in fiscal 2020 we began procuring renewable energy in Japan, having already done so in North America and EMEAL (Europe, 
+Middle East, Africa and Latin America). We also decided to position “Digital & Green” as a main pillar guiding our next MediumTerm Management Plan (fiscal 2022–2024).

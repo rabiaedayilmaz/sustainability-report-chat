@@ -1,0 +1,84 @@
+AI Diagnosis Support Solutions
+Example of abnormality (stone) detected by NTT DATA AI medical imaging 
+diagnosis support solution
+Results of the demonstration experiment conducted from March 2019 in 
+collaboration with University of Miyazaki Hospital
+As CT and MRI technologies advance, the number of medical 
+images taken for diagnosis has continued to increase. Despite this, 
+the number of radiologists has not grown, resulting in the current 
+situation in which Japanese society is facing a serious shortage of 
+radiologists, with only 0.35 radiologists per 1 million people and 
+0.085 radiologists for each CT or MRI scanner in Japan.
+Most of the AI-based medical solutions currently being developed by AI 
+companies are specialized in certain diseases and aim to prevent serious 
+disease symptoms from being overlooked. For improving the efficiency 
+of diagnosis, it will be vital to promote efforts to utilize AI for assisting 
+diagnosis not only of serious diseases but of health conditions in general.
+Shortage of Radiologists
+Image-based medical diagnosis 
+assistance using AI
+The source of learning for artificial intelligence is data. Therefore, 
+for developing AI that will detect various abnormalities it is 
+necessary to prepare data that includes information on all the 
+relevant abnormalities. We need to collect data from a variety 
+of hospitals, as the types of disease commonly treated are also 
+different by hospital.
+Learning data
+● Realizing a society of health and longevity
+● Developing social infrastructure that is convenient, safe and secure
+● Helping to address labor shortages
+Contributions 
+to SDGs
+CASE
+Growing demands for image-based diagnostic assistance using AI
+The demand for medical imaging-based diagnosis using X-rays, 
+computer tomography (CT) and magnetic resonance imaging 
+(MRI) has been increasing year by year. Image-based diagnosis 
+has also been regarded as an effective tool for detecting many 
+diseases including cancer at an early, treatable stage and is 
+thus expected to bring a significant advancement to preventive 
+medicine if some kind of mechanism is established for allowing 
+people to periodically receive detailed medical screenings using 
+CT or MRI. However, making a medical image-based diagnosis is a 
+time-consuming task for which a radiologist must check thousands 
+of images. With the pervasive shortage of radiologists seen 
+across the world today, it is becoming increasingly challenging for 
+doctors to make prompt diagnosis. To help resolve this societal 
+issue, we decided to work on the development of an AI-based 
+system to assist medical image-based diagnosis.
+At the start of the project, we conducted validation of an 
+AI-based diagnosis tool for emphysema using CT imaging at 
+Deenanath Mangeshkar Hospital, an 800-bed hospital in Pune, 
+India during the spring of 2018. We discovered that a broader 
+range of emphysema cases were detected by the AI-based 
+diagnosis tool than by doctors and that the AI-based diagnosis 
+tool could also identify future risks.
+Features of NTT DATA’s image-based medical diagnosis 
+assistance solution using AI detecting all abnormalities
+During the validation process at Deenanath Mangeshkar 
+Hospital a new point of view on the single target disease AIbased diagnosis tool was raised by the radiologists. They 
+pointed out that diagnosis for diseases other than emphysema 
+would still require examination by a radiologist and, therefore, 
+the AI-based diagnosis tool would not contribute significantly to 
+the improvement of diagnosis efficiency. It was also found that, 
+in the false positive cases detected by the AI-based diagnosis 
+tool, the patients had pulmonary tuberculosis, a disease rarely 
+seen in developed countries. These findings revealed two 
+issues: (1) AI-based diagnosis would not help shorten time to 
+diagnosis insofar as it is targeted at specific diseases; and (2) 
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

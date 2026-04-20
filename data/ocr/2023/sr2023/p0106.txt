@@ -1,0 +1,57 @@
+Society | Inclusive Society 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Promoting Human Rights Awareness 
+NTT DATA has been holding Human Rights Awareness Workplace Seminars at each workplace for Group employees in Japan 
+since fiscal 2010. The aims of the seminars are to raise awareness and promote understanding about human rights issues 
+through discussion. In fiscal 2022, we narrowed down the theme to “Business and Human Rights” and focused on content that 
+enhances understanding of human rights issues in day-to-day business operations. Furthermore, with the aim of providing more 
+targeted awareness, in fiscal 2022, we continued to conduct human rights education as part of position-based training and 
+recruitment-related training. Given the increasing number of employees assigned to overseas posts, we conduct pre-overseas 
+assignment training to help such employees gain a proper understanding of the religions, cultures, and customs of the countries 
+and regions to which they have been assigned. In fiscal 2022, a total of 39 employees assigned to 15 countries participated in 
+this training. 
+In addition, from September to October 2022, we held a human rights slogan contest for NTT DATA employees in Japan, 
+partner company employees, and family members from whom we solicited slogans on the theme of human rights awareness. 
+We awarded the outstanding slogans at an event during the UN-designated Human Rights Week. Our overseas Group 
+companies also conduct employee education individually on human rights. As part of our business solutions, in response to the 
+increasing risk of human rights violations in the use of AI, we have created educational materials on responsible AI use and 
+distributed them to all employees. This effort aims to strengthen awareness of the crucial human rights issue of “technology 
+based on high ethical standards.” 
+ 
+ Major Initiatives on Human Rights Awareness (Japan) 
+ 
+Initiative 
+Participation in FY2022 
+Participation in FY2021 
+Human rights awareness workplace seminars 
+29,350 people 
+28,505 people 
+Position-based training course 
+(human rights awareness) 
+3,298 people 
+2,919 people 
+Recruiters’ training course 
+438 people 
+421 people 
+Training prior to international assignment 
+39 people (15 countries) 
+32 people (12 countries) 
+Human rights slogan contest 
+579 applications 
+603 applications 
+ 
+Compliance with Human Rights–Related Laws 
+NTT DATA rigorously adheres to laws related to human rights. For example, based on the U.K.’s Modern Slavery Act (MSA), 
+which was passed in March 2015, NTT DATA UK complies with the MSA for all activities and investigations. We are also asking 
+all our suppliers to comply with the MSA. We conduct procurement checks of our top suppliers on a regular basis to ensure 
+compliance with many business-related laws and regulations, including the MSA, and surveys conducted since 2015 have 
+confirmed compliance with the MSA. We have also investigated other suppliers, and if we find any noncompliance we swiftly 
+point it out and take prompt action. We have also established an external and internal reporting system and conduct training as 
+necessary. The Board of Directors conducts annual surveys on compliance. We will continue to verify compliance with human 
+rights–related legislation as part of our human rights due diligence process. 
+ 
+AI Governance 
+We formulated the NTT DATA Group AI Guidelines in May 2019 to reduce risks associated with “ethics and social acceptability” 
+and to realize a human-centered society in which humans and AI truly coexist, and are advancing efforts in AI governance. 
+[Reference page] Clients’ Growth “AI Governance”

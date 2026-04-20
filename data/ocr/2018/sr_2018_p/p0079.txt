@@ -1,0 +1,174 @@
+NTT DATA Sustainability Report 2018
+Risk Management Method
+NTT DATA identifies risks that may impact its Head Office, regional integrated companies, and other 
+companies on an individual basis and formulates countermeasures accordingly. High-level divisions 
+effectively manage the measures in place at organizations under their jurisdiction by analyzing and 
+evaluating their implementation status. Groupwide measure implementation status is analyzed, evaluated, and monitored by the Risk Management Division. In addition, risks determined to have the 
+potential to impact the entire Group are defined as global control risks and are managed on a Groupwide 
+basis. In this manner, NTT DATA is practicing stringent and comprehensive risk management.
+ Additionally, the Group considers material risks set by regional integrated companies and other 
+entities to be “region-control risks” and maintains an evaluation and improvement cycle based on 
+the implementation statuses of countermeasures and on risk occurrence incidents.
+Global-Control Risks
+Global-control risks with the potential to impact the entire Group are identified by the Internal 
+Control Committee by incorporating input from outside specialists and adopting a broad perspective 
+that encompasses factors such as changes in social trends.
+ In fiscal 2017 we continued selecting the same risks as those in the previous fiscal year as a 
+medium- to long-term effort spearheaded by NTT DATA’s Head Office to strengthen our response 
+to auditing deficiencies and the auditing of alliances, among other initiatives.
+ NTT DATA’s Global-Control Risks
+Material Risks
+Major Improvements, etc.
+Initiatives
+Information leakage, 
+personal / confidential 
+information, cyberattacks 
+• Continue enhancing countermeasures for ever-increasing security 
+risks
+• Strengthen preparedness for 
+advanced cyberattacks focused on 
+public institutions
+• Stimulate awareness through training
+• Formulate rules on security measures for internal systems, monitor implementation 
+status, and promote implementation
+• Consider and implement stronger overseas incident response measures
+• Promote compliance with the EU’s General Data Protection Regulation (GDPR) 
+Accounting fraud, including 
+window dressing
+• Expand global unified auditing, 
+connect to risk indication auditing
+• Encourage introduction of unified rules related to accounting (Instruct and check 
+preparation of financial statement comparisons with International Financial Reporting 
+Standards [IFRS])
+• Stimulate awareness through training
+• Conduct indication auditing (also roll out at Group companies in Japan and other parts of Asia)
+Bribery
+• Continue strengthening compliance 
+education
+• Stimulate awareness through training (Japan: Implement Internet-based testing (IBT) 
+for compliance and position-based training, Overseas: Conduct training at individual 
+locations)
+ Risk Management Categories
+Head Office
+Analyze Groupwide risks and 
+establish countermeasures
+Analyze risks and establish 
+countermeasures for regional 
+integrated companies
+Analyze risks and establish 
+countermeasures for 
+other companies
+NTT DATA
+Global-Control Risks Risks that significantly impact the Group’s overall brand
+Evaluate and analyze risk management 
+status at regional integrated companies
+Evaluate and analyze risk management 
+status at other companies
+Regional 
+integrated 
+companies, etc.
+Japan 
+(NTT DATA)
+North America 
+(NDI)
+EMEA
+(EMEA)
+APAC
+(NDAP)
+China
+(NDCI)
+Business 
+Solutions 
+(itelligence)
+everis
+(everis)
+Individual 
+companies
+NTT 
+DATA
+Region-Control Risks Select and evaluate material risks and establish PDCA cycles at individual bases
+Risks faced by other companies on an individual basis
+Region-Control Risks
+Region-control risks managed independently by regional integrated companies define material 
+risks based on approximately 40 risk candidate items in each region that are evaluated and 
+improved in light of material risk countermeasure implementation and risk occurrence status.
+ Process for Selecting Region-Control Risk
+Risk Management Training
+The NTT DATA Group conducts ongoing training regarding the legal and other roles of newly 
+appointed directors and Audit & Supervisory Board members at NTT DATA and Group companies 
+to ensure thorough risk management throughout the Group. During fiscal 2017, in July, we provided 
+training to newly appointed directors concerning their professional duties and responsibilities with 
+regard to corporate governance and under the Companies Act. Later, in August of the same year, 
+we also provided training for Company executives at domestic Group companies. Going forward, 
+we will promote increased risk management awareness and enhanced response capabilities by 
+implementing various types of training on an ongoing basis.
+Leakage of customer / 
+employee information
+Leakage of customer / 
+employee information
+• Leakage of customer / 
+employee information
+• Cyberattacks
+• Problem projects
+• System malfunctions
+• Natural disasters (including 
+the impact of climate change)
+• Inappropriate outsourcing
+Example:  Leakage of customer / employee information
+ 
+Logical measures: Improved security education
+ 
+Technical measures: More stringent security 
+ 
+quality standards
+Likelihood of occurrence
+Low
+Medium 
+High 
+Very high
+Degree of impact
+Very
+Large
+Medium
+Small
+Each region 
+selects up to 
+5 material risks
+Revision of risk 
+candidates
+Monitoring of 
+countermeasure 
+implementation status 
+and risk occurrence 
+incidents
+Formulation of 
+material risk 
+countermeasures
+Approx. 40 Risk Candidates
+Evaluation / 
+Improvement
+Material Risks
+Material Risk Countermeasure
+Risk Evaluation Results
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

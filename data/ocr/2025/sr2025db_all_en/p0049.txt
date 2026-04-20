@@ -1,0 +1,44 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Joint Research on Efficient CO2 Catalyst Development Using 
+Quantum Computing Technology
+In recent years, the development of AI and high-performance computing technologies 
+has accelerated research applying IT techniques to materials development, known as 
+Materials Informatics (MI). With the advancement of MI, it is expected that optimal 
+formulations for producing higher-quality materials can be identified in a shorter time 
+using experimental and development data accumulated by companies and research 
+institutions. However, the molecular structures involved are extremely complex, making 
+it difficult for conventional computers to simulate the vast number of molecular structure patterns, and thus designing materials with specific properties has been considered challenging. 
+ 
+At NTT DATA, we believe that quantum computing technology can be leveraged to 
+address this challenge and advance the field of MI.
+ 
+NTT DATA Italia proposed an efficient catalyst system that leverages advanced technologies such as quantum machine learning and generative AI, based on the expertise 
+of its quantum computing next-generation architecture lab. This system enables the 
+capture of emitted CO2 and its conversion into high-value-added chemical substances. In 
+November 2024, this proposal was selected for funding under the HPCvsCO2 project, an 
+initiative of Spoke 7 (Materials and Molecular Sciences) at the National Research Center 
+on High Performance Computing, Big Data, and Quantum Computing (ICSC). During the 
+12-month project, the knowledge of physical chemistry held by the University of Palermo 
+and Magna Graecia University of Catanzaro will be combined with NTT DATA Italia’s IT 
+expertise to research and develop quantum machine learning methods and simulation 
+tools aimed at efficiently developing catalysts for CO2 capture and conversion.
+ 
+By leveraging the outcomes of this project, we aim to advance initiatives addressing 
+critical issues such as climate change and the reduction of greenhouse gas emissions, 
+while also promoting the development of MI and fostering new social innovations.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Innovation through Technology

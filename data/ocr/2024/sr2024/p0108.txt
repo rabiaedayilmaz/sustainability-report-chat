@@ -1,0 +1,62 @@
+Implementation Status of Internal Audits
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent from operational 
+divisions. The number of personnel involved in the internal audit and assessment of internal control over financial 
+reporting is 38 (as of March 31, 2024). In conducting effective audits from an independent standpoint, the General 
+Manager of the Audit Department reports audit plans and results to the Board of Directors as well as to the Corporate Management Committee. Also, individual reports are made to the Audit and Supervisory Committee and 
+opinions are exchanged to promote cooperation.
+ 
+As part of our internal audit initiatives, in fiscal 2023, the department audited NTT DATA Group Corporation, 
+NTT DATA Japan, NTT DATA, Inc. (in Japan), and 28 domestic and overseas Group companies under audit themes 
+focusing on business process compliance, labor management, BCPs, and information security, and monitored the 
+internal audit activities of 13 domestic and overseas Group companies. In addition, as part of Group-wide efforts 
+to enhance internal auditing, 98 domestic and overseas Group companies conducted voluntary inspections based 
+on unified audit items.
+ 
+In addition, we are conducting symptom audits to analyze data extracted from various information systems 
+using CAAT* tools, and have applied that to NTT DATA Group Corporation, NTT DATA Japan, NTT DATA, Inc. (in 
+Japan), and 95 domestic and overseas Group companies in fiscal 2023.
+ 
+NTT DATA will continue collaborating with the internal audit departments and Audit and Supervisory Committee Members of domestic and overseas Group companies, with the aim of establishing a global internal audit 
+system while increasing the quality and quantity of internal audits.
+* Abbreviation for Computer-Assisted Audit Techniques. Method of audit implementation.
+Internal Control over Financial Reporting
+We are committed to ensuring the reliability of our internal control system for financial reporting. We confirm the 
+development and operation of company-wide internal controls such as our management philosophy and systems, 
+and various regulations, and internal controls related to business processes and IT. In principle, these evaluation 
+plans and results are reported to the Steering Committee, which meets regularly, to evaluate the effectiveness of 
+internal controls over financial reporting.
+Basic Policy and Promotion System
+NTT DATA makes it a basic policy to take various measures to ensure the efficient implementation of fair and transparent business activities, always taking into consideration the uncertainties (risks) arising from the development 
+of business activities. Accordingly, we are promoting the establishment and maintenance of an internal control 
+system to manage the entire Group with respect to compliance, information security, risk management, Group 
+company management, and other matters. 
+ Please refer to the Securities Report for the Basic Policy on the Establishment of the Internal Control System and the Operating Status. 
+https://www.nttdata.com/global/ja/investors/library/asr/ (Japanese only)
+Specific Initiatives
+About the Internal Control Committee
+To establish an internal control system and promote risk management, the Internal Control Committee is held four 
+times a year in principle. The Committee is chaired by the Executive Officer in charge of Corporate Affairs and consists of the heads of relevant corporate organizations and the executive officers in charge of risk management at 
+Group companies in Japan and overseas. The Committee reports its decisions to the Board of Directors. 
+ 
+To assess the effectiveness of the internal control systems, the Internal Control Committee confirms that the 
+internal control system defined in the basic policies for the development of internal control systems resolved at 
+the Board of Directors is properly established and functioning effectively in business activities each fiscal year.
+ 
+As a result of the transition to a three-company structure in July 2023, the functions and composition of the Internal Controls Promotion Committee of NTT DATA Group Corporation have been revised. For example, the authority 
+of the Internal Controls Committee as an organization to promote risk management throughout the Group has 
+been strengthened in addition to its existing functions. At the same time, the frequency of meetings of the Internal 
+Controls Promotion Committee was increased to ensure the effectiveness of Group-wide internal controls. We will 
+continue to strengthen Group-wide internal controls considering our global expansion.
+Internal Control
+Contents
+Appendix
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Corporate Governance

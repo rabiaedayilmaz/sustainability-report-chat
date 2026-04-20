@@ -1,0 +1,56 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ Transitional Risk (Regulations) 
+Complying with regulations related to climate change entails a transitional risk of increased costs for facility modifications and additional 
+operations. There is also a risk of not being selected as a business partner due to the market’s accelerating preference for 
+decarbonization. 
+ 
+Risk 3: Increase in costs due to carbon pricing (e.g., carbon tax) 
+Time horizon: Long term 
+ 
+ 
+Assumed 
+business 
+and 
+financial 
+impacts 
+We generate around 80% of consolidated net sales in such regions as the European Union and Japan, 
+where carbon pricing (carbon tax) has already been introduced or is under consideration for introduction. The 
+confirmation of plans to introduce a carbon pricing system in Japan, where we have many clients, will have a 
+significant impact on at least 60% of net sales. The consensus across global society is that net-zero emissions 
+must be achieved by 2050, and companies are facing growing calls to comply with corresponding laws and 
+regulations. Accordingly, we expect carbon pricing to result in higher operational costs in the future. In the IT 
+services industry, the use of digital technology to improve business efficiency will increase alongside growing 
+demand for remote working arrangements due to COVID-19. As a result, energy use in our cloud computing 
+and data centers will continue to increase unless we take proper countermeasures. Given the nature of 
+our business, with around 90% of Scope 1 and 2 emissions coming from electricity use related to cloud 
+computing and data centers, the continued use of fossil fuel–derived electricity could have a significant 
+management impact. To lower the impact, we might be forced to procure power from renewable energy 
+sources, which would increase power procurement costs and pose the risk of a decline in business profit. 
+We calculated a cumulative cost of ¥70 billion (FY2022–2024) by multiplying the remaining emissions 
+(FY2022–2024) by the carbon price1 under the IEAʼs Net-Zero Emissions by 2050 Scenario. This will have a 
+negative impact on operating income of ¥7 billion (cumulative for FY2022–2025). 
+ 
+Measures 
+and costs 
+To minimize the impact of a carbon tax, we have been purchasing renewable energy and installing 
+renewable energy–based private power generation equipment in our buildings. In March 2018, we completed 
+construction of Mitaka Data Center EAST, which incorporates photovoltaic power generation and an 
+outside air-cooling system using natural energy (outside air in spring, autumn, and winter). This brings 
+the total number of our buildings with photovoltaic systems to three, equivalent to approximately 17% of our 
+buildings in Japan. We are also introducing renewable energy in our data centers and offices globally. Our plan is 
+to be carbon neutral in the use of our services in our data centers by fiscal 2030 and in our offices by fiscal 
+2040. 
+To introduce renewable energy in our data centers and offices and save energy in our data centers, we plan to 
+invest in a new method of immersion cooling that eliminates the need for air conditioning and reduces cooling 
+energy by up to 97%, which can be achieved by using a special liquid to directly cool ICT equipment, and to 
+invest in IoT technology for further energy savings. Together with the introduction of renewable energy, we 
+expect to invest ¥1.2 billion–¥1.5 billion annually. 
+Under our Medium-Term Management Plan, covering the four-year period from fiscal 2022 to 2025, we 
+assume that we will need to procure electricity from renewable energy sources to continue our business. For this 
+reason, we plan to make cumulative investments totaling around ¥5 billion over the four-year period ([¥1.2 billion × 
+2 years] + [¥1.5 billion × 2 years]) in energy-saving measures and the introduction of renewable energy. 
+1. Net Zero by 2050 (https://www.iea.org/reports/net-zero-by-2050) 
+[Time horizons] Short term: FY2022–2025; Medium term: FY2026–2030; Long term: FY2031–2050

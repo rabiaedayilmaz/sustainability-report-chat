@@ -1,0 +1,152 @@
+Environmentally Responsible 
+System Development
+Measuring the effects of system introduction
+Despite higher electricity consumption 
+resulting from an increase in IT equipment, 
+information systems can reduce the 
+environmental impact of society as a whole 
+by reducing the need for transportation, 
+delivery, and production of physical media. 
+Through Green IT, CO2 emission reduction 
+forecasts have been announced*1 for Japan. 
+These call for 40 million t-CO2 per year in 
+energy savings by IT equipment and 190 
+million t-CO2 per year through IT application 
+by 2025.
+In addition to promoting IT applications, 
+the Group has formulated implementation 
+methods for environmentally responsible 
+system development and is promoting the 
+development of these systems.
+To this end, we have utilized the Kankyo 
+Shiro*2 environmental assessment system 
+since January 2006, enabling the evaluation 
+and measurement of environmental impact 
+Promotion of Green Purchasing
+Green purchasing through 
+corporate stance and products
+We have established assessment criteria on 
+environmental preservation and the ecofriendliness of products and services as factors in 
+procuring and selecting products and services, 
+in addition to such traditional criteria as price 
+and quality assessment. These values represent 
+standards in selecting business partners.
+arising from the introduction and application 
+of systems above a prescribed size.
+In the near future, we will develop a 
+framework to provide customers with data 
+on CO2 emission reductions when making 
+systems proposals and conduct quantitative 
+assessments, even at the development 
+stage, which will be reflected in proposals. 
+Through such measures, we will reduce the 
+environmental impact of customers and 
+society through environmentally responsible 
+system development.
+Before introduction
+
+After introduction
+
+Environmental
+impact of
+labor
+operation
+Environmental
+impact of
+information
+systems
+Environmental
+impact of
+paper and
+CD-ROMs
+52%
+reduction in
+environmental
+impact
+Environmental
+impact of
+storage space
+CO2 Emissions Before and After 
+Introducing Pandora-AX (tons of CO2/year)
+Pandora-AX helping to reduce
+printing and mailing of forms
+Pandora-AX, a system from NTT DATA 
+BUSINESS BRAINS CORPORATION, imports 
+form data from a computer to a dedicated 
+server without printing, facilitating onscreen reference, search and other functions. 
+The system responds to the expansion 
+of form types arising from corporate LAN 
+upgrades, diversification of data use and 
+other advances, thus reducing operational 
+costs for processing forms, particularly 
+by eliminating hard copies. In addition, 
+Pandora-AX’s automatic classification of 
+forms and network transmission alternatives 
+reduce labor and transportation operations 
+and storage space.
+Cases of Environmental Impact Reductions through Introduction of Information Systems
+ViewRoad contributing to CO2 emission 
+reductions by boosting drive efficiency
+ViewRoad is a road traffic information solution 
+service. It involves gathering and processing 
+traffic information delivered by the Vehicle 
+Information and Communication System Center 
+and providing customers with congestion 
+updates in real time and forecasts based on past 
+statistical data and other information. ViewRoad 
+can be utilized for the formulation of efficient 
+delivery plans and selection of optimal routes in 
+the event of traffic accidents.
+In addition, as this solution service facilitates 
+congestion avoidance and enhanced driving 
+efficiency, travel distance and idling time can be 
+reduced, leading to expectations of CO2 emission 
+reduction benefits.
+*1 Forecasts of social 
+energy-saving effects 
+from IT
+Forecasts were released in 
+April 2008 by the Ministry 
+of Economy, Trade and 
+Industry’s Green IT Research 
+Society and the Green 
+IT Promotion Council, 
+incorporating forecasts for 
+alleviating energy-saving 
+effects from Greener IT and 
+Greening through IT. Results 
+cite energy saving effects 
+from 2006 to 2025 of 100 
+billion kWh (40 million t-CO2 
+per year) in energy savings 
+by IT equipment and 490 
+billion kWh (190 million t-CO2 
+per year) through energy 
+savings in society through 
+the application of IT.
+*2 Kankyo Shiro
+An assessment system 
+developed by the NTT 
+Information Sharing 
+Laboratory Group that 
+calculates environmental 
+impact reductions that 
+can be achieved by new 
+system introduction through 
+the simulation of several 
+elements such as reduced 
+transportation volume, 
+and the extent to which 
+equipment can be digitalized.
+Note: According to results from a shared business center for 
+financial institutions that installed Pandora-AX have 
+reduced annual CO2 emissions by 143 t-CO2, or 52%, as 
+a result (see graph on the right). This center handles the 
+activities of approximately 30 financial institutions, and 
+distributes electronic forms to more than 600 branches.
+Note: This solution was cited as “u-Japan Best Practice 
+2009” case by the Ministry of Internal Affairs and 
+Communications.
+Environmental Management
+NTT DATA and the Environment
+NTT DATA CSR Report 2009

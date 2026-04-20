@@ -1,0 +1,51 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book
+Energy-saving measures for data centers 
+As part of our energy-saving measures for data centers, in 2022, we conducted a verification of the effectiveness of AI-controlled 
+air conditioning using temperature information obtained from sensors, which allowed us to identify high-temperature areas within 
+the facility on a server-by-server basis and enable intensive cooling, achieving a reduction in cooling energy consumption of 
+approximately 35%. We have also invested in energy-saving measures, such as a new method of immersion cooling that 
+eliminates the need for air conditioning and reduces cooling energy consumption by up to 97% by directly cooling ICT equipment 
+in a special liquid. We will also invest in IoT technology for further energy-saving initiatives. 
+ Costs
+To ensure the continuity of NTT DATA’s operations, we anticipate the need for procuring electricity from renewable sources. As
+a result, we are driving decarbonization of our own supply chain through energy efficiency measures and the adoption of
+renewable energy. NTT DATA has allocated ¥5 billion for investments in energy efficiency, renewable energy adoption, and other
+initiatives as part of the current medium-term management plan.
+
+Opportunities Related to Products and Services (Opportunity 1, 2, and 3)
+The acceleration of decarbonization efforts in society and among businesses might bolster demand 
+for innovative offerings. 
+Business and financial impacts 
+In today’s environment, where there is a growing demand for disclosing sustainability information, including climate change, it 
+has become evident that visualizing GHG emissions across clients’ supply chains and implementing new business initiatives 
+and operational transformations are essential for companies to mitigate climate change. The investments in systems and related 
+areas that accompany these changes could lead to business opportunities for NTT DATA as an IT service provider. 
+We define “sustainability-related offerings” as services and systems for sustainability in general, including climate-related 
+solutions, and have identified the creation of such offerings as a key strategy in the current medium-term management plan. 
+Among sustainability-related offerings, GHG management is the most important in the short term. We already provide AI services 
+to optimize the air-conditioning systems of data centers and office buildings, as well as solutions to visualize GHG emissions. 
+According to a market research report by Global Information, Inc., the global market for carbon footprint management posted 
+a compound annual growth rate (CAGR) of around 7% from 2022 to 2023. Client companies in a wide range of industries are 
+seeking GHG emission visualization solutions. 
+ Financial impact
+We expect client decarbonization efforts to speed up, increasing opportunities for sustainability-related businesses in various
+industries and digital technology applications through technological innovation. We estimate that the creation of new
+sustainability-related offerings will have a positive impact on net sales of more than ¥200 billion in fiscal 2025.
+Strategies and costs 
+Sustainability-related offerings, including the final product-specific carbon footprint platform 
+NTT DATA provides support for visualizing, reducing, and disclosing GHG emissions to clients in various industries. Building on 
+our internal efforts, we have been offering a GHG emission visualization platform since fiscal 2022 that uses logic to manage 
+and reduce emissions across different categories or units. 
+As an example of our sustainability-related offerings, we entered this market by developing a product-specific carbon 
+footprint platform in a joint effort with a Japanese chemical materials manufacturer. The platform enables calculation of GHG 
+emissions by end product for tens of thousands of chemical products by using a product composition table that reflects 
+differences in materials and processes. Using this platform, chemical materials manufacturers can disclose product-specific 
+carbon footprint information to their suppliers, identify hot spots for emission reduction, and even systematically decarbonize 
+through the introduction of internal carbon pricing mechanisms. 
+We are developing various carbon footprint visualization platforms, providing pre-sales support, and nurturing technical 
+experts to expand our sustainability-related offerings. We are also investing in the creation of new businesses by applying 
+advanced technologies to social challenges. 
+Opportunity 1: Increasing needs to create sustainability-related offerings 
+Time horizon: Short term

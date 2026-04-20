@@ -1,0 +1,77 @@
+When accessing various services, do you fully 
+understand and agree to the terms and conditions 
+associated with those services? Do you know exactly 
+the companies to which you have provided your 
+personal data, including those with terms you have 
+agreed to in the past?
+ 
+A personal data trust bank is a framework in 
+which individuals provide data to companies, having 
+decided which companies are suitable and the 
+purposes for which the information will be used. In 
+return, the companies use the data to oﬀer beneﬁts in 
+the form of services and products tailored to the 
+individuals.
+ 
+In the case of ﬁtness clubs, for example, advances 
+in personal data trust banks will enable companies to 
+oﬀer comprehensive wellness programs tailored to 
+each individual based on personal data. A typical 
+program would cover not only training content and 
+frequency but also daily steps, sleeping hours, diet and 
+health checkup results.
+ 
+NTT DATA oﬀers My Information Tracer™ (“mint”) 
+as a platform to support the personal data trust bank 
+framework and takes responsibility for the distribution 
+of personal data. We also aim to put into practical use a 
+consent management service that enables individuals 
+to control their personal data. In addition, we have 
+established a consortium of companies from various 
+industries, including ﬁnance, telecommunications, 
+logistics and infrastructure, to consider new services 
+that utilize personal data. We will continue creating 
+new value in society by encouraging the evolution of 
+personal data trust banks.
+Providing a platform to 
+support personal data 
+trust banks
+Safe and secure data distribution/utilization that respects privacy
+Contributing to the business development of 
+“personal data trust banks”
+When an individual agrees to provide his/her personal 
+data and a company is authorized to utilize such data, 
+that company is positioned to return the favor by oﬀering 
+products and services tailored to the individual’s needs. 
+By taking this “personal data trust bank” framework a 
+step further, we are creating new value in society.
+Company using 
+personal data
+User 
+Consent agreement via the consent 
+management service
+Consent management service
+mint
+Services provided by companies 
+that utilize personal data
+Personal data trust banks
+*Future scope
+Conﬁrmation of past consent details; change 
+of suspension of use, etc.
+Confirm/change consent history
+Visualization of consent acquisition status by 
+user
+Consent status management
+Summary display of terms and conditions 
+including the “safety value” decision indicator
+Consent decision assistance
+Rule generation via Q&A
+Safety value calculation using AI
+Automatic generation of rules; 
+safety value calculation
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

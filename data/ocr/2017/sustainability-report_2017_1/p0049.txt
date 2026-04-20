@@ -1,0 +1,196 @@
+Material Flow Diagram
+ Overview of the NTT DATA Group’s Environmental Impact
+We believe that the reliable and continuous achievement of our goals to reduce the NTT DATA 
+Group’s environmental impact is a fundamental responsibility of our environmental management 
+efforts. To minimize the environmental impact of its business activities, the NTT DATA Group monitors 
+and analyzes the types and amounts of resources and energy consumed by various processes and 
+their environmental impacts.
+ 
+The environmental impact posed by the NTT DATA Group’s business activities primarily arises from 
+the emission of greenhouse gases resulting from the consumption of energy, mainly as electric power. 
+However, there are many other factors that affect the environment, including data center construction 
+and the use of paper and water resources. In addition, we cannot ignore the environmental impact of 
+energy consumption resulting from the operation of systems and services provided by the NTT DATA 
+Group by clients. The NTT DATA Group strives to correctly ascertain and analyze the environmental 
+impact of its business activities and to utilize these results in various improvement activities.
+Scope of Environmental Impact Measurement
+Fiscal 2014: NTT DATA (all organizations), 73 Group companies (Japan only)
+Fiscal 2015: NTT DATA (all organizations), 75 Group companies (Japan only)
+Fiscal 2016: NTT DATA (all organizations), 69 Group companies (Japan only) 
+*1 Thermal recycling has been taken into consideration for the calculation of data since fiscal 2015.
+*2 Data for fiscal 2015 reflects the demolition of a large-scale building.
+Inside the NTT DATA Group
+◻ Acquired third-party certification
+◻ Acquired third-party certification
+Outside the NTT DATA Group
+INPUT
+Sales
+Planning/Design
+Manufacturing /
+Testing
+Data center
+Installation at 
+client sites
+Energy
+Construction materials, cables, etc.
+Greenhouse gases (CO2)
+Service operation 
+at client sites
+OUTPUT
+Energy
+Greenhouse gases
+Office waste
+Construction 
+waste
+Water resources
+Water resources
+Paper resources
+Specified 
+chlorofluorocarbons 
+used for air-conditioning 
+systems
+Construction 
+materials
+Unit
+FY2014
+FY2015
+FY2016
+Utility power
+10,000 kWh
+49,169 
+47,661 
+49,437 
+Kerosene
+kl
+
+Light gas oil (excluding Company vehicles)
+kl
+
+A–C heavy oil
+kl
+
+City gas
+10,000 m³
+
+Gasoline (Company vehicles)
+kl
+
+Light gas oil (Company vehicles), steam, cold energy
+kl
+
+Steam, cold energy
+GJ
+41,372 
+41,372 
+43,388 
+Unit
+
+Electricity use
+10,000 t-CO2
+25.4
+23.4
+24.0
+Gas/fuel use
+10,000 t-CO2
+0.4
+0.3
+0.4
+Heat use
+10,000 t-CO2
+0.2
+0.2
+0.2
+Company vehicle use
+10,000 t-CO2
+0.1
+0.1
+0.2
+Alternative CFCs
+10,000 t-CO2
+–
+–
+0.3
+Total
+10,000 t-CO2
+26.1
+24.1
+25.1
+Unit
+
+Amount generated
+t
+5,046
+4,763
+5,865 
+Incineration / landfill
+t
+
+Amount recycled
+t
+4,073
+4,685
+5,800 
+Amount of final disposal*1
+t
+
+Unit
+
+2015*2
+
+Amount generated
+t
+
+36,512
+
+Amount recycled
+t
+
+36,473
+
+Amount of final disposal
+t
+
+Unit
+FY2014
+FY2015
+FY2016
+Clean water consumption
+10,000 m³
+
+Unit
+
+Drainage amount
+10,000 m³
+
+Unit
+FY2014
+FY2015
+FY2016
+Copy paper
+t
+
+Fliers distributed to clients, and other materials
+t
+
+Unit
+FY2014
+FY2015
+FY2016
+Number of air-conditioning system units using 
+specified chlorofluorocarbons (CFC)
+Units
+
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

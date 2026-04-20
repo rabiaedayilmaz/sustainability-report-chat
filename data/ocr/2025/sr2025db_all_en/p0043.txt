@@ -1,0 +1,96 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Strategy and Risks/Opportunities [Details]
+Recommended Disclosures
+Recommended Disclosure Content
+Activity Summary
+Strategy
+Disclose the effects of 
+nature-related 
+dependencies, impacts, risks 
+and opportunities on the 
+organisation’s business 
+model, strategy and 
+financial planning where 
+such information is material.
+A. Describe the nature-related dependencies, impacts, 
+risks, and opportunities the organisation has 
+identified over the short, medium, and long term.
+Regarding nature-related dependencies, NTT DATA uses water for cooling equipment and sanitation services in data centers. In 
+regions facing water stress, there is a risk of being unable to use water for these purposes during periods of severe drought or 
+other abnormal weather events associated with climate change.
+ 
+In terms of nature-related impacts, NTT DATA generates domestic wastewater at its data centers, but we do not discharge 
+industrial effluent. We do, however, own fuel storage facilities for the backup generators in our data centers. In the event of a 
+fuel spillage incident, there is a risk of water and soil pollution.
+ 
+Regarding nature-related opportunities, by introducing technologies that enable water conservation and improved water 
+efficiency, we can reduce water consumption in cooling systems and achieve cost savings. At our data center in the United 
+Kingdom, the installation of a reverse osmosis (RO) system has led to improvements in water usage effectiveness (WUE), reductions in water consumption, and financial cost savings. 
+ 
+In addition to contributing to the conservation of nature and biodiversity by appropriately addressing anticipated risks, accelerating efforts in nature and biodiversity conservation may increase demand for new offerings. This includes solutions that support 
+efficient water supply by utilities and consulting services that assist with nature-related disclosures. At NTT DATA Europe & LATAM, 
+we have implemented our MeetZero platform for Veolia, a global environmental services company, contributing to the verification and certification of water credits, facilitating water credit market transactions, and promoting water-positive initiatives. 
+ 
+Regarding nature-related dependencies, we have confirmed that one data center in Southeast Asia and two data centers in 
+South Asia operate in regions of extremely high water stress.
+B. Describe the effect nature-related dependencies, 
+impacts, risks, and opportunities on the organisation’s business model, value chain, strategy, and 
+financial planning, as well as any transition plans or 
+analysis in place.
+As a potential risk with significant impact, data centers located in water-stressed areas could face severe drought, resulting in 
+the shutdown of water-cooled cooling systems due to water shortages and other potential impacts. Furthermore, if a fuel 
+spill occurs from the fuel stored for generators, recovery costs will arise. There are also concerns about reputational damage 
+in both scenarios.
+C. Describe the resilience of the organisation’s strategy to nature related risks and opportunities, 
+taking into consideration different scenarios.
+One data center in Southeast Asia and two data centers in South Asia, located in water-stressed regions, are equipped with 
+water-consuming cooling systems. We have established a business continuity plan (BCP) that accounts for severe droughts 
+projected under climate change scenarios and promote water-saving practices. Fuel storage facilities are properly managed in 
+compliance with applicable laws and regulations.
+D. Disclose the locations of assets and/or activities in 
+the organisation’s direct operations, and, where 
+possible, upstream and downstream value chain(s) 
+that meet the criteria for priority locations.
+One data center in Southeast Asia and two data centers in South Asia are located in regions assessed as having extremely high 
+water stress.
+Nature-related dependencies, impacts, potential risks, and opportunities
+Risks
+Opportunities
+Dependencies
+Utilization of water for data center 
+cooling management
+Shutdown of water-cooled cooling systems due 
+to water scarcity
+Cost reduction through the introduction of water-saving cooling systems and improved water efficiency
+Utilization of water for hygiene services 
+in data centers
+Difficulty in providing office sanitation services to 
+employees
+Encouraging water-saving behaviors and establishing business 
+continuity plans (BCPs) for drought conditions
+Impacts
+Fuel storage facilities for operating 
+backup generators in data centers
+Water and soil contamination from fuel spills
+Proper management of fuel storage facilities
+Other
+—
+—
+Increased opportunities to offer services and consulting due to 
+the acceleration of efforts in nature and biodiversity conservation
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Water Management

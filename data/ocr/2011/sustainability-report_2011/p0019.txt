@@ -1,0 +1,124 @@
+Since fiscal 2008, NTT DATA has created unified companywide 
+rules for system development and management methods and 
+clarified procedures for their application with the objective of 
+boosting quality and productivity. In March 2010, we formulated 
+an implementation method, which we have deployed 
+companywide, reflecting unified rules.
+We conduct briefing sessions and on-site training to facilitate 
+the rollout of our TERASOLUNA*2 development procedure to 
+Group companies and fielded improvement requests from 
+individual companies in fiscal 2011. In fiscal 2012, we will revise 
+TERASOLUNA on the basis of these requests and work to 
+disseminate the solution more thoroughly at Group companies.
+NTT DATA obtained ISO 9001 certification in 1998. Since then, 
+we have conducted process improvements incorporating 
+CMMI*1, system development transparency, formulation of 
+developmental and operational standards, and other activities.
+In recent years, we have been working to raise quality 
+control level at development sites, including at Group 
+companies. In fiscal 2011, we launched a Quality Management 
+Portal site to share NTT DATA’s views on quality control and 
+provide information on resolving various quality control issues.
+Two organizations achieved CMMI Level 3 in fiscal 2011. In 
+May 2011, Level 5 was achieved in another organization, which 
+was the second achievement in NTT DATA. Beijing NTT DATA 
+and NTT DATA CUSTOMER SERVICE are also rolling out CMMI, 
+and three organizations in Group companies have achieved 
+Level 5. In fiscal 2012, we will establish standard procedures for 
+CMMI Level 3 and quantitative analysis procedures for Level 4 
+or higher. We plan to increase the adoption of these procedures 
+on a companywide basis. 
+As ICT technologies grow more prevalent amid the increasing 
+use of information and communication technologies in office 
+environments and proliferation of cloud computing and 
+smartphones, so the threats to information security—in the 
+form of information leaks, improper use, cyber attacks and the 
+like—are growing more diverse and complex.
+Continuing in its efforts to provide safe and secure systems, 
+NTT DATA is involved in ongoing technical development related 
+to the quality of security. We strive to reflect these successes in 
+our system development and management methods. 
+To make the most of the advantages offered by 
+smartphones, tablet computers and other smart devices, while 
+at the same time ensuring robust security in the IT services that 
+employ them swiftly, in June 2011 we launched a new security 
+service, BizSMA*3. We have fostered ties with CSIRTs*4 in Japan 
+and overseas to create a structure for the early understanding 
+of security trends and receipt of technical information. We are 
+also developing technologies for resisting emerging threats and 
+cyber attacks.
+Customers
+Customers
+Requirements
+Project
+Project Planning
+Project 
+Prescripts
+Sector 
+Prescripts
+Rules, Detailed 
+Rules and 
+Corporate 
+Prescripts
+Review
+Products 
+(Systems, 
+Services)
+Sector Quality Management 
+Representative
+Top Management
+Corporate Quality 
+Management Representative
+Instructions
+Deployment
+Report
+Analysis 
+and 
+Evaluation
+Performance 
+Monitoring
+Deployment
+Deployment
+NTT 
+DATA
+Customer Satisfaction
+Quality 
+Policy
+Quality
+Objectives
+Improvements
+Improvements
+Improvements
+Activities to Improve Quality
+Building a Management System Based 
+on ISO 9001 and Ensuring Continual 
+Improvements
+NTT DATA Quality Management System
+*1 CMMI: Capability Maturity Model Integration is a model created by the 
+Software Engineering Institute, Carnegie Mellon University, that expresses the 
+level of maturity of organizations performing system development. The model 
+includes five levels of maturity. 
+Unification of Internal Rules for 
+Development and Management and 
+Clarification of Implementation Procedures
+*3 BizSMA: This is an integrated security service that spans a study of ways to 
+deploy smart devices, system construction and operation. The service lineup 
+comprises three elements: consulting, solutions and operation services. 
+*4 CSIRT: A Computer Security Incident Response Team is a group of security 
+specialists set up to handle incident response.
+IT System Information Security
+Aiming to Offer Safe and Secure Systems and 
+Services and Raise the Quality of Security
+*2 TERASOLUNA: A solution that incorporates NTT DATA’s technologies for 
+project management, development processes, frameworks, etc., accumulated 
+from its numerous system development projects.
+Developing Systems 
+that Are Safe and Secure
+We work to provide services that concentrate on 
+raising system reliability. This helps realize social 
+infrastructure that provides peace of mind.
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2011

@@ -1,0 +1,229 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Climate-Related Risks and Opportunities 
+Risks and Opportunities 
+Type 
+Overview 
+Time 
+Horizon*1 
+Likelihood 
+of 
+Occurrence 
+Degree 
+of Impact 
+Our Approach to Financial Impact 
+Financial 
+Impact 
+Our Approach to Countermeasures 
+and Investment 
+Countermeasure 
+Costs(FY2022– 
+2025; cumulative) 
+Risk 1 
+Loss of 
+reputation due 
+to delayed 
+responses 
+Transitional 
+risk 
+(Reputation) 
+Any delay in responding to investor 
+requests for ESG information 
+disclosure could lead to loss of 
+reputation and a decline in share 
+price. 
+Short term 
+Virtually 
+certain 
+High 
+Delays in responding to climate change will result in lower 
+evaluation by ESG investors outside Japan and financial 
+institutions in Japan. Our calculation is based on a 1% decline 
+in market capitalization due to a lower reputation from 
+investors outside Japan and financial institutions in Japan. 
+Market 
+capitalization 
+-¥24 billion 
+(as of fiscal 
+year end) 
+Establish the Green Innovation Office as a 
+dedicated organization to accelerate NTT 
+DATA’s response to decarbonization and 
+greening of clients and society through 
+the supply chain; engage in activities 
+spearheaded by the Green Action 
+Committee; invest in activities and innovation 
+by the Green Innovation Office. 
+¥5 billion 
+Risk 2 
+Data center 
+shutdown due 
+to abnormal 
+weather 
+Physical risk 
+(Acute) 
+Large typhoons, floods, heat waves, 
+torrential rains, and other abnormal 
+weather events increase the risk of 
+data center operational shutdown 
+due to power outages, flooding, and 
+lightning strikes. 
+Short term 
+Virtually 
+certain 
+Mediumhigh 
+We have locations in high-risk areas cited in the IPCCʼs Sixth 
+Assessment Report and have taken various measures, 
+including the creation of hazard maps, to ensure business 
+continuity. Our calculation of impact on net sales is based on a 
+five-day shutdown of major data centers located mainly in the 
+Tokyo metropolitan area. 
+Net sales 
+-¥14 billion 
+Maximize BCP for data centers, offices, 
+telecommunications, etc.; allocate expenses 
+for enhancing and renewing data centers, 
+remote access, and maintenance 
+environments, etc., to ensure business 
+continuity. 
+¥9 billion 
+Risk 3 
+Increase in 
+costs due to 
+carbon pricing 
+(e.g., carbon 
+tax) 
+Transitional 
+risk 
+(Regulatory) 
+To comply with the Paris 
+Agreement, regulations in Japan 
+will be significantly tightened and 
+the cost burden for CO2 emissions 
+will increase. 
+Long term 
+Virtually 
+certain 
+Mediumhigh 
+The consensus across global society is that net-zero 
+emissions must be achieved by 2050, and companies are 
+facing growing calls to comply with corresponding laws and 
+regulations. We calculate the estimated cost impact by 
+multiplying remaining emissions (FY2022–2040) by the carbon 
+price under the IEAʼs Net Zero Emissions by 2050 Scenario. 
+Note: FY2025–2035: Estimated ¥30 billion (cumulative) 
+Operating 
+income 
+-¥7 billion*2 
+Reduce carbon emissions through energy 
+conservation and introduce renewable 
+energy to decarbonize our own supply chain; 
+allocate investment for energy-efficiency 
+measures and renewable energy adoption. 
+¥5 billion 
+Opportunity 
+
+Increasing 
+needs to 
+create 
+sustainabilityrelated 
+offerings 
+Increasing 
+demand for 
+our products 
+and services 
+Increasing needs to create new 
+offerings to address accelerating 
+decarbonization efforts across 
+society and business 
+Short term 
+Very 
+likely 
+High 
+We anticipate accelerated decarbonization efforts by our 
+clients, growth of sustainability-related businesses in various 
+industries, and increasing opportunities for digital technology 
+applications due to technological innovation. Our calculation 
+assumes the impact on net sales of creating new 
+sustainability-related offerings in fiscal 2025. 
+FY2025 
+net sales 
++¥200 billion 
+Invest to develop technologies and create 
+sustainability-related offerings that contribute 
+to climate change adaptation and mitigation 
+for society as a whole and for individual 
+companies. 
+¥51 billion 
+Opportunity 
+
+Increasing 
+demand of 
+consulting 
+services for a 
+sustainable 
+future 
+Increasing 
+demand for 
+our products 
+and services 
+Increasing opportunity to provide 
+consulting services due to growth of 
+sustainability-related businesses in 
+industry 
+Short term 
+Very 
+likely 
+Mediumhigh 
+We anticipate an increase in opportunities to provide 
+consulting services due to growth in sustainability-related 
+businesses in various industries. Our calculation is based on 
+our assumption that sustainability-related consulting would 
+account for a certain share of overall consulting sales. 
+FY2025 
+net sales 
++¥40 billion 
+Invest in measures to strengthen consulting, 
+such as personnel development for 
+sustainability-related consulting, and 
+improving the environment to facilitate this 
+for development. 
+¥4 billion 
+Opportunity 
+
+Increasing 
+needs for 
+resilient cloud 
+services (e.g., 
+carbon tax) 
+Increasing 
+demand for 
+our products 
+and services 
+Increasing opportunity to provide 
+resilient cloud services due to a 
+growing number of large-scale 
+disasters caused by extreme 
+weather events 
+Short term 
+Very 
+likely 
+High 
+In addition to increasing abnormal weather events, such 
+as typhoons and localized torrential rains, there is growing 
+demand for decarbonization efforts, including shared 
+equipment use and consolidation to conserve energy, as 
+well as the introduction of renewable energy. These factors 
+underscore a growing need for resilient and low-carbon 
+cloud computing services. Our calculation is based on our 
+assumption of an increase in cloud-related sales for the 
+entire Group. 
+FY2025 
+net sales 
++¥210 billion 
+Invest to develop cloud-related technologies, 
+strengthen global delivery centers, and 
+develop other cloud-related areas. 
+¥25 billion 
+*1 Time horizons: Short term: ~FY2025; Medium term: ~FY2030; Long term: ~FY2040 *2 Cumulative total for FY2022–2025

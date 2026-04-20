@@ -1,0 +1,128 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Italy
+EV charging infrastructure simplifying customer journeys to promote electric mobility
+PDF:
+IP and Macquarie Announce Joint Venture for 
+Electrification of Service Areas
+Legend:
+Systems implemented by NTT DATA
+App
+BO CRM
+Landing Page
+Lead
+BO eMSP
+API 
+GW
+eMSP
+Billing 
+Data Lake
+IL
+Firebase
+CRM
+Mindcharge
+HBJ & CPO 3rd 
+Parties
+External Systems 
+(ERP, AMA, N&TS, 
+ESENDEX, etc.)
+AWS Connect
+
+Firebase: An IAM system, responsible for 
+users registration and autentication
+Billing: A layer dedicated to pricing 
+management, payment methods and 
+subscriptions, payment flow management
+eMSP: Orchestrates business logic between 
+Mobile App and all other infrastructure 
+modules. Enables communication with the 
+IPlanet CPO Charging infrastructures and 
+with the various interoperability of which 
+IPlanet is a partner
+IL (Mulesoft): A layer that contains 
+integration logics and ensures centralized 
+management of communication with 
+external systems connected to the platform 
+
+CRM/Salesforce: Holds the entire IPlanet 
+Customer Base, manages offers and eligibility 
+rules and all other assets
+MindCharge e-Mobility platform: An NTT DATA 
+solution created to enable electric vehicle charging 
+services, both for CPO IPlanet and CPO 
+integration with third parties via protocols (PCIP, 
+OCPI, OICP).
+Hubject: The roaming platform that connects and 
+communicates with the eMSP to manage all 
+customer recharges with interoperability
+Layer grouping all external systems with which 
+interfacing occurs (ERP for invoicing, AMA as an 
+RFID card producer, N&TS as a payment gateway, 
+etc.)
+
+External systems
+•
+Italy’s energy sector is undergoing a profound transformation, driven by the need to reduce fossil fuel dependence and accelerate the transition to more sustainable systems. Renewable energy sources are playing an
+increasingly central role, and the Italian government has set a goal of covering 30% of total national energy consumption with renewables by 2030.
+•
+While electric mobility powered by expanded renewable capacity is emerging as a key element of decarbonization, Italy still has one of Europe’s lowest battery electric vehicle adoption rates, at about 6% of new car
+sales in June 2025, compared to an EU average of 15%.
+Electric mobility is a vital part of the transition towards
+sustainable transportation. When charged using renewable
+energy sources, electric vehicles (EVs) can contribute to a
+substantial reduction in emissions. EVs also emit no tailpipe
+pollutants, significantly decreasing levels of harmful substances
+in urban environments.
+Charging facilities are vital for EV uptake, and service station
+networks can provide a solid foundation for this infrastructure.
+However, built-for-purpose digital systems are required to
+manage charging equipment networks and create smooth
+customer journeys that lower resistance to change. These
+challenges, and the associated opportunities, are particularly
+significant in Italy, where EV adoption rates are currently well
+behind the EU average and a change in consumer behavior
+could open up a major new market.
+NTT DATA designed and implemented a digital solution for IPlanet,
+a joint venture between Italian group IP and Australian financial fund
+Macquarie Capital EV Asset Holding that aims to electrify urban and
+extra-urban service areas. IPlanet plans to transform over 500 service
+areas into multi-energy and multi-service hubs by 2032.
+In a project to create a complete digital solution enabling E-Mobility
+Service
+Provider
+(EMSP)
+and
+Charging
+Point
+Operator
+(CPO)
+processes, NTT DATA initially worked as a strategic consultant,
+leading business and IT strategy to design a digital solution for
+EMSP/CPO processes and create a unified customer experience
+integrating EV services with fuel and non-oil offers. In the second
+phase, NTT DATA developed a mobile application and underlying
+systems to offer EMSP services for B2B and B2C markets. After
+delivering
+this
+system
+that
+simplifies
+customer
+journeys
+by
+accompanying users from onboarding through to service provision and
+after-sales service, NTT DATA continues to support IPlanet’s efforts to
+create more charging points and promote electric mobility.
+Business need
+Solution
+Overview of integrated digital solution for IPlanet
+NTT DATA ITALIA Sector E&U
+Collaboration with IPlanet to Promote EV Adoption
+Impact
+The number of service stations expected to contribute to 
+improving user convenience through this activity in the future
+500 over

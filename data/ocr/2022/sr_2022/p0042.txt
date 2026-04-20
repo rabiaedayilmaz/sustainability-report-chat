@@ -1,0 +1,38 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ Collaboration with Suppliers 
+As approximately 85% of our total Scope 3 emissions are in Categories 1, 2, and 11, it is essential that we work with our suppliers to 
+reduce emissions throughout our supply chain. Stepping up efforts to reduce Scope 3 emissions, in fiscal 2021 we gave a presentation 
+on our procurement policy at a study session hosted by the Ministry of the Environment. At the session, we exchanged opinions with 
+leading companies outside the IT industry on the status of efforts to reduce emissions in our supply chain. In these ways, we contributed 
+to emission reduction efforts throughout society. 
+ 
+Main Efforts to Achieve the SBT 1.5˚C Target 
+In fiscal 2021, we jointly hosted a supplier information session with the CDP for our top suppliers (those accounting for 80% of our total 
+purchases). At the session, we requested suppliers’ cooperation to reduce emissions to the SBT target level, and CDP gave a presentation 
+on obtaining SBT certification and ways to visualize and reduce emissions, thus encouraging each supplier to act. After the session, we 
+followed up by providing each company with FAQs and other information necessary for their efforts. 
+We are strengthening efforts to gather and analyze information on climate change initiatives throughout the supply chain. To this end, 
+in April 2022 we became the first Japanese company (and one of the first five in the world) to become a CDP Supply Chain Premium 
+Member. The CDP’s questionnaire covers suppliers that account for 80% or more of our total purchases of hardware, software, and 
+outsourced software development and asks them to answer questions on the status of initiatives related to visualization, target setting, 
+and approach to emission reduction. We will promote green initiatives by utilizing collected information from the questionnaire to formulate 
+various policy measures (via briefings and the like) and provide support to each supplier. 
+We also regularly exchange opinions with suppliers engaged in proactive initiatives about products and solutions with low 
+environmental impact, and we collect information necessary to promote green purchasing, thereby reducing emissions on a product-byproduct basis. 
+ 
+Business Partner Outreach 
+For software development, one of our main businesses, we have a Business Partner System under which we accredit Business Partners 
+(BPs) and Associate Partners (APs) every two years. Through the system, we work to deepen mutual understanding, improve the quality 
+of software development, and build good relationships aimed at building a sustainable supply chain. Every year, we hold a BP Presidents’ 
+Meeting, attended by the heads of our BPs, where we share information on NTT DATA’s management policies and the results of mutual 
+evaluations to help BPs gain a better understanding of our green initiatives and receive their cooperation. 
+To strengthen green initiatives by business partners, in fiscal 2022 we started holding briefing sessions for BPs and APs, as well as 
+individual dialogues according to the situation of each company. Through these efforts, we will gain a more detailed understanding of 
+each company’s issues and provide support to drive their green initiatives in the future. 
+ 
+Future Initiatives 
+We will continue monitoring the status of each supplier’s initiatives through the CDP, briefing sessions, and other means. Using information 
+thus gained to formulate measures and provide support to each company, we will help reduce emissions throughout the supply chain. At 
+the same time, we will work with suppliers to help our clients achieve business growth and a sustainable society.

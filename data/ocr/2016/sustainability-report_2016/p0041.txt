@@ -1,0 +1,48 @@
+*1 The economic and social gap or imbalance that exists between those who have access to computers and the Internet and the capability to use them and those that do not
+*2 Design aiming for ease of use by all people, irrespective of age, gender, nationality, disability or individual experience and abilities
+Harnessing IT to Address Social Issues
+The widespread adoption of information technology in society has brought with it the global problem of the digital divide
+*1. In 
+Japan, there are calls to take into consideration the elderly and disabled in terms of familiarity with computers and the Internet 
+and to improve the IT user-friendliness across a wide range of digital devices including tablets.
+The NTT DATA Group, recognizing in each IT user the potential for innovation, promotes the development of people-friendly 
+information systems centered on universal design (UD)
+*2. We are pursuing a wide-ranging effort, from applying UD in the 
+systems and services we deliver to clients to training and enhancing the awareness of employees.
+ Initiatives for Closing the Digital Divide
+〈 Active Involvement in the International Association for Universal Design 〉
+〈 Initiatives for Broadly Improving Website Accessibility 〉
+〈 Easing Airspace Congestion by Providing Air Traffic Forecast Data 〉
+The International Association for Universal Design (IAUD) was established in Japan in 2003 to promote the widespread 
+adoption of universal design (UD). NTT DATA has been a full member of the IAUD—the largest organization of its kind in 
+Japan—since its inception.
+In fiscal 2016, NTT DATA employees continued to participate in the UD Project for Media and the Mobile Space Project.
+NTT DATA is responding to the growing interest in usability by incorporating usability evaluation into the development of 
+information systems and the IT services process so that we can systematically organize and apply expertise in this field. In 
+addition to making screens easier to understand, we are working on improving user manuals.
+Meanwhile, initiatives aimed at improving usability have recently progressed from being defined as ease of use to place 
+greater emphasis on the user experience (UX) from the user’s perspective, an approach that leans toward fuller satisfaction for 
+users. We will endeavor to resolve accessibility issues in the ICT and IoT areas by developing systems that are easy to use and 
+satisfy users through the increased, active incorporation of the UX approach.
+NTT DATA has been contributing to safe and efficient flight operations around the world and developing overseas business 
+in the area of air traffic control by providing the PANADES
+® flight procedure design system. To further promote our overseas 
+business by flexibly responding to different business models, we have subsequently launched “airpalette” as a total brand 
+encompassing NTT DATA’s full lineup of air traffic control products. In February 2016, we began providing the airpalette ATFM (Air 
+Traffic Flow Management system), which allows for optimal air traffic flow by predicting air traffic volume based on the latest 
+flight plans and meteorological data and accordingly adjusting departure times at related air control towers. Installing airpalette 
+ATFM boosts the efficiency of flight operations and enhances air traffic safety, relieves the workload of air traffic controllers by 
+evening out traffic volume, and reduces fuel consumed by aircraft in holding patterns. We plan to develop this business with a 
+focus on Asian countries, where air traffic volume is expected to increase in the coming years.
+The NTT DATA Group is contributing to addressing social issues through the use of ICT.
+ Example of Solutions for Social Issues
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

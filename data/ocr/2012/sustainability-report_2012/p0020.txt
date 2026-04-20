@@ -1,0 +1,81 @@
+The widespread adoption of information technology within 
+society has brought with it the global problem of the digital 
+divide*1. In Japan, there are calls to take into consideration the 
+elderly and the disabled in particular, and to improve the IT 
+literacy of beginners.
+In light of this situation, the NTT DATA Group is promoting 
+the incorporation of Universal Design*2(UD) in information 
+systems. Not to mention the incorporation of UD in the 
+systems and services we 
+deliver to customers, we 
+also try to develop 
+know-how and tools to 
+further incorporate UD, 
+foster personnel, and raise 
+employee awareness 
+concerning this approach 
+to UD.
+NTT DATA supports website construction that offers ease of 
+use for website providers and users. For example, we provide a 
+website content management system that helps novice 
+operators update content. We also propose websites with a 
+design that takes a diverse viewer base into consideration and 
+allows text-size adjustments. In addition, we respond to 
+advanced accessibility requirements through such functions as 
+verification through two or more types of screen reader.
+In fiscal 2012, in the development of packaged software 
+and contracted software as well as websites, we focused on 
+usability evaluation and Color Universal Design (CUD)*3.
+ 
+In August 2008, NTT DATA put its website accessibility check 
+site, called “HAREL”, online and made it free of charge. Users 
+need only to enter a site’s URL, and “HAREL” will run a check on 
+the accessibility of the site’s web pages and give the site a 
+score. Between then and March 31, 2012, “HAREL” had been 
+used to diagnose accessibility approximately 260,000 times.
+In March 2012 (fiscal 2012), we revamped our “HAREL” 
+website. This upgrade included increasing the number of 
+checks “HAREL” makes to around 230, in line with the 
+specifications of the latest version of the Japanese standard 
+JIS X 8341-3:2010. These specifications take into consideration 
+the use of content by elderly people and those with 
+disabilities. We will continue expanding the adoption of 
+“HAREL” in conjunction with NTT DATA DAICHI Corporation, 
+which is responsible for accessibility validation services.
+Supporting the Creation of Websites with UD Features
+Public Release of the Website Accessibility 
+Check Site, “HAREL”
+UD Research Seminar
+*1 Digital divide: The economic and social gap or imbalance that exists between those 
+who have access to computers and the Internet—and the capability to use them—and 
+those that do not
+*2 Universal Design: Design aiming for ease of use by all people, irrespective of age, 
+gender, nationality and disability status
+*3 Color Universal Design: Using design and expression not dependent on color alone to 
+meet the needs of people with various types of color vision and color perception abilities
+When we were working on the upgrade of a public system used frequently by a diverse range of users, we 
+proposed color patterns that incorporate CUD. Having obtained CUD certification from the non-profit Color 
+Universal Design Organization, we can now with confidence present customers with screen color patterns. During 
+the testing stage, we used simulation tools to demonstrate how the screen appears to people, and had customers 
+wear simulation glasses to experience what people with impaired color vision see. As a result, our customers also 
+became interested in the concept of CUD, and one customer even said with delight, “The screens are much more 
+clearly discernible than before.” We will continue to actively present proposals that incorporate CUD.
+Developing People-Friendly Systems
+We adopt a user perspective on accessibility and usability from the information system planning and 
+requirement definition stages, seeking to provide services designed for ease of use.
+t Website Accessibility Validation Check Services t Encouraging the Acquisition of Certified Human Centered Design Professional Qualifications
+t In-House Universal Design Seminars t Participating in Projects with the International Association for Universal Design t Improving Customer Satisfaction
+Advancing Universal Design for 
+Information Systems
+Ayaka Ueda
+Quality Life Sector
+NTT DATA Corporation
+Additional Topics on Website
+Comment from a Person in Charge of 
+System Development
+Paradigms for Society and Regional Communities
+CSR Activities Report 2012
+
+We offer systems that incorporate CUD for users with all types 
+of color perception abilities.
+20 NTT DATA CSR Report 2012

@@ -1,0 +1,139 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+SPECIFIC STANDARD DISCLOSURES
+G4-EN5
+Energy intensity
+–
+G4-EN6
+Reduction of energy consumption
+P55
+G4-EN7
+Reductions in energy requirements of products and services
+–
+Water
+G4-EN8
+Report significant changes from previous reporting periods in the Scope and Aspect Boundaries.
+P55,65
+G4-EN9
+Water sources significantly affected by withdrawal of water
+–
+G4-EN10
+Percentage and total volume of water recycled and reused
+–
+Biodiversity
+G4-EN11
+Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high 
+biodiversity value outside protected areas
+–
+G4-EN12
+Description of significant impacts of activities, products, and services on biodiversity in protected 
+areas and areas of high biodiversity value outside protected areas
+–
+G4-EN13
+Habitats protected or restored
+–
+G4-EN14
+Total number of IUCN Red List species and national conservation list species with habitats in areas 
+affected by operations, by level of extinction risk
+–
+Emissions
+G4-EN15
+Direct greenhouse gas (GHG) emissions (Scope 1)
+P55,59
+G4-EN16
+Energy indirect greenhouse gas (GHG) emissions (Scope 2)
+P55,59
+G4-EN17
+Other indirect greenhouse gas (GHG) emissions (Scope 3)
+P59
+G4-EN18
+Greenhouse gas (GHG) emissions intensity
+–
+G4-EN19
+Reduction of greenhouse gas (GHG) emissions
+P55,59
+G4-EN20
+Emissions of ozone-depleting substances (ODS)
+P64
+G4-EN21
+NOx, SOx, and other significant air emissions
+–
+Effluents and Waste
+G4-EN22
+Total water discharge by quality and destination
+–
+G4-EN23
+Total weight of waste by type and disposal method
+P55,61,65
+G4-EN24
+Total number and volume of significant spills
+Not 
+applicable
+G4-EN25
+Weight of transported, imported, exported, or treated waste deemed hazardous under the terms of the basel 
+convention2 annex I, II, III, and VIII, and percentage of transported waste shipped internationally
+Not 
+applicable
+G4-EN26
+Identity, size, protected status, and biodiversity value of water bodies and related habitats significantly 
+affected by the organization’s discharges of water and runoff
+Not 
+applicable
+Products and Services
+G4-EN27
+Extent of impact mitigation of environmental impacts of products and services
+P61-62
+G4-EN28
+Percentage of products sold and their packaging materials that are reclaimed by category
+–
+Compliance
+G4-EN29
+Monetary value of significant fines and total number of non-monetary sanctions for 
+non-compliance with environmental laws and regulations
+–
+Transport
+G4-EN30
+Significant environmental impacts of transporting products and other goods and materials for the 
+organization’s operations, and transporting members of the workforce
+–
+Overall
+G4-EN31
+Total environmental protection expenditures and investments by type
+P58
+Supplier Environmental Assessment
+G4-EN32
+Percentage of new suppliers that were screened using environmental criteria
+P62
+G4-EN33
+Significant actual and potential negative environmental impacts in the supply chain and actions taken
+–
+Environmental Grievance Mechanisms
+G4-EN34
+Number of grievances about environmental impacts filed, addressed, and resolved through formal
+grievance mechanisms
+–
+Social
+Labor Practices and Decent Work
+Employment
+G4-LA1
+Total number and rates of new employee hires and employee turnover by age group, gender and region
+P30
+G4-LA2
+Benefits provided to full-time employees that are not provided to temporary or part-time employees, 
+by significant locations of operation
+P30 
+G4-LA3
+Return to work and retention rates after parental leave, by gender
+–
+Labor/Management Relations
+G4-LA4
+Minimum notice periods regarding operational changes, including whether these are specified in 
+collective agreements
+–
+
+Sustainability Report 2016
+NTT DATA

@@ -1,0 +1,148 @@
+400: Social
+Pages
+401: Employment
+401-1
+New employee hires and employee turnover
+P34
+401-2
+Benefits provided to full-time employees that are not provided to temporary or 
+part-time employees
+P34–40
+401-3
+Parental leave 
+P38, 39
+402: Labor/Management Relations
+402-1
+Minimum notice periods regarding operational changes 
+—
+403: Occupational Health and Safety
+403-1
+Workers representation in formal joint management–worker health and safety 
+committees
+—
+403-2
+Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and number of work-related fatalities
+P40
+403-3
+Workers with high incidence or high risk of diseases related to their occupation
+—
+403-4
+Health and safety topics covered in formal agreements with trade unions
+P40
+404: Training and Education
+404-1
+Average hours of training per year per employee
+P35
+404-2
+Programs for upgrading employee skills and transition assistance programs
+P35–36
+404-3
+Percentage of employees receiving regular performance and career development 
+reviews
+P35–36
+405: Diversity and Equal Opportunity
+405-1
+Diversity of governance bodies and employees
+P36, 37
+405-2
+Ratio of basic salary and remuneration of women to men
+—
+406: Non-Discrimination
+406-1
+Incidents of discrimination and corrective actions taken
+—
+407: Freedom of Association and Collective Bargaining
+407-1
+Operations and suppliers in which the right to freedom of association and collective 
+bargaining may be at risk
+—
+408: Child Labor
+408-1
+Operations and suppliers at significant risk for incidents of child labor
+—
+409: Forced or Compulsory Labor
+409-1
+Operations and suppliers at significant risk for incidents of forced or compulsory 
+labor
+—
+410: Security Practices
+410-1
+Security personnel trained in human rights policies or procedures
+—
+411: Rights of Indigenous Peoples
+411-1
+Incidents of violations involving rights of indigenous peoples
+—
+412: Human Rights Assessment
+412-1
+Operations that have been subject to human rights reviews or impact assessments
+—
+412-2
+Employee training on human rights policies or procedures
+P63
+412-3
+Significant investment agreements and contracts that include human rights clauses 
+or that underwent human rights screening
+—
+413: Local Communities
+413-1
+Operations with local community engagement, impact assessments, and development programs
+P25–27, 40–42
+413-2
+Operations with significant actual and potential negative impacts on local 
+communities
+—
+414: Supplier Social Assessment 
+414-1
+New suppliers that were screened using social criteria
+—
+414-2
+Negative social impacts in the supply chain and actions taken
+—
+415: Public Policy
+415-1
+Political contributions
+—
+416: Customer Health and Safety
+416-1
+Assessment of the health and safety impacts of product and service categories
+P29–30
+416-2
+Incidents of non-compliance concerning the health and safety impacts of products 
+and services
+—
+417: Marketing and Labeling
+417-1
+Requirements for product and service information and labeling
+—
+417-2
+Incidents of non-compliance concerning product and service information and 
+labeling
+—
+417-3
+Incidents of non-compliance concerning marketing communications
+—
+418: Customer Privacy
+418-1
+Substantiated complaints concerning breaches of customer privacy and losses of 
+customer data
+—
+419: Socioeconomic Compliance 
+419-1
+Non-compliance with laws and regulations in the social and economic area
+P61
+The information shown here is provided in reference to categories in the GRI Standards; it is not disclosed in conformance with the GRI Standards.
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+Governance
+GRI Standards

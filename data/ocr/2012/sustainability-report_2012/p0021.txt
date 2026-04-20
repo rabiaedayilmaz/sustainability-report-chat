@@ -1,0 +1,92 @@
+Today, advances in information technology have led to the 
+development of an extensive network, and society is 
+overflowing with an enormous, unprecedented volume of 
+diverse data (Big Data). Technology that can build new social 
+frameworks through the analysis and use of Big Data is much in 
+demand. The NTT DATA Group draws on the latest technologies 
+to develop IT systems that help resolve a wide range of social 
+issues, including the falling birthrate and aging population, 
+healthcare and welfare issues, disaster countermeasures, crisis 
+management, and regional revitalization. 
+For some time, NTT DATA has been participating in joint 
+research on a bridge monitoring system (“BRIMOS”). Verification 
+tests of the system have already been held in Japan and China.
+Using data obtained from sensors, “BRIMOS” continuously 
+gathers and analyzes in real-time the deterioration of 
+bridges—a task that previously required on-site inspections. 
+The system has a number of potential applications, including 
+the detection of abnormalities following a disaster, the early 
+detection of changes in a bridge’s daily movement, and the 
+analysis of bridge traffic. Such information can be used to 
+prioritize maintenance and 
+repair work.
+“BRIMOS” was installed 
+in the Tokyo Gate Bridge, 
+which was opened in 
+February 2012. It marks the 
+first time in Japan that such 
+a system has been used to 
+monitor a large bridge. 
+Bridges are said to be the hardest type of infrastructure to 
+maintain. The successful development of “BRIMOS” bodes well 
+for the use of such systems for other types of social 
+infrastructure.
+In June 2012, NTT DATA was awarded by International 
+Data Group as a finalist in the “21st Century Achievement 
+Awards” in recognition of its work on “BRIMOS.”
+NTT DATA has teamed up with Tohoku University and the 
+University of Aizu on a project that aims to utilize a social 
+infrastructure-related data platform to support the recovery of 
+regions that sustained extensive damage from the Great East 
+Japan Earthquake. 
+Project members will work on the development of a 
+“Co-creation Cloud,”*1 in which “man and machine” 
+complement each other, focusing on the early recovery and 
+reconstruction of social infrastructure that was severely 
+damaged by the earthquake. We are combining our M2M*2 
+services and infrastructure management technology, including 
+“BRIMOS,” with the research results of both Tohoku University 
+and the University of Aizu, in order to facilitate collaboration 
+among local communities, municipal authorities, and 
+engineers when diagnosing and assessing the condition of 
+infrastructural items. Through these efforts, we aim to build a 
+platform that will enable the efficient collection of data from 
+inspection surveys of damaged infrastructure, such as roads, 
+bridges, and buildings. The project is scheduled to run in 
+Fukushima Prefecture for a year, starting in March 2012.
+Development of the Bridge Monitoring System, “BRIMOS”
+Project for Building a Social Infrastructure Data Platform 
+“BRIMOS” monitoring screen 
+*1 “Co-creation Cloud” : Cloud site that serves as the base for the maintenance and 
+management of an enormous volume of data collected using M2M services in 
+collaboration with regional communities, municipal authorities, and specialist engineers 
+*2 M2M (Machine to Machine): A two-way communication service that enables 
+information exchange between remote devices and IT systems without human 
+intervention using mobile and fixed networks
+We are developing our “BRIMOS” with a view to expanding the system’s 
+application overseas.
+Contributing to Regional Communities and Society as a Whole
+We work to create and develop a healthy society through social contribution activities that emphasize 
+employee participation, and through the development of IT systems designed to help resolve social issues.
+t Promoting Social Contribution Activities (Welfare/Regional Community/International Contributions/Supporting Recovery from the Great East Japan Earthquake/Promoting 
+Employee Volunteer Activities/Initiatives by Group Companies)
+Focusing on the Development of IT Systems that 
+Contribute to the Creation of a Sustainable Society
+In Japan, dynamic observation systems have been used for some years on long bridges, such as the bridge that 
+connects Honshu and Shikoku. However, civil engineers had expressed the need for a more advanced monitoring 
+system. It is against this backdrop that “BRIMOS” was installed in the new Tokyo Gate Bridge.
+“BRIMOS” continously gathers data and instantaneously performs analyses of any abnormalities. Given 
+worldwide concerns about problems arising from aging infrastructure, we feel that “BRIMOS” can make a global 
+contribution as a new means of maintaining social infrastructure through the utilization of information technology. 
+Going forward, we will seek to develop systems from a more global perspective.
+Sanae Miyazaki
+Regional Business Sector
+NTT DATA Corporation
+Additional Topics on Website
+Comment from a Person in Charge of 
+“BRIMOS” Development 
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2012

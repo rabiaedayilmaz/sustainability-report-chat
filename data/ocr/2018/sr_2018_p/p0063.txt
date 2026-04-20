@@ -1,0 +1,100 @@
+NTT DATA Sustainability Report 2018
+of our data centers could also be interrupted by malfunctions in equipment caused by lightning strikes. 
+One day of operational suspension would result in approximately ¥3.4 billion in lost sales (calculated 
+based on the daily sales rates of services provided through our data centers). In reality, we would suffer 
+further damages, such as a decline in trust, so this figure is actually the lowest value that could be 
+expected. We have been taking various measures to avoid these risks, such as: (1) identifying data 
+centers where basements present high flood risk based on municipal hazard maps and implementing 
+flood prevention works; (2) establishing back-up data centers in multiple locations; and (3) upgrading 
+lightning rods at 15 NTT DATA buildings nationwide. Furthermore, in preparation for a power outage, 
+in fiscal 2016 we installed an additional oil tank to extend the available time for emergency standby 
+power generation at the Mita Data Center in Tokyo from 24 hours to 72 hours. In fiscal 2017, we 
+conducted drills in preparation for disasters on the same level as the 2016 Hakata road cave-in incident, including natural disasters caused by climate change or other factors. We also reconsidered 
+required amounts for fuel and water and strengthened our procurement methods.
+ As average global temperatures rise, our increasing responsibility to provide air conditioning at our 
+data centers also carries the risk of rising energy costs. These rises carry the risk of inviting increases 
+in operational costs because the NTT DATA Group possesses data centers located in countries all 
+over the world, including 17 inside Japan and others in the EU and United States, that are situated on 
+middle latitudes in the northern hemisphere, where rises in average temperature are considerable.
+ We estimate that a temperature rise of 1°C in NTT DATA’s data centers in Japan would increase 
+electricity usage by 5.4 million kWh, hiking energy costs approximately ¥80 million. To respond to 
+these types of risk, we are converting electrical and air-conditioning systems to high-efficiency equipment and are promoting improvements in the operation of both air-conditioning and lighting systems, 
+as well as other common utilities. 
+ At the NTT DATA Mitaka Building, for example, in addition to the above measures, we have reduced 
+electricity consumption by approximately 30% compared to our conventional data centers by installing 
+photovoltaic power generation systems and HVDC power supply systems. Furthermore, we completed construction on Mitaka Data Center EAST, which adopted an outside air-cooling system that 
+uses natural energy other than photovoltaic power generation (outdoor air in the spring, fall, and 
+winter), in March 2018. The costs of upgrading facilities and enhancing operations at all NTT DATA 
+Group data centers in Japan totaled approximately ¥4.9 billion for the period between fiscal 2011 and 
+fiscal 2017.
+[ Other Risks ]
+Risks driven by changes in other climate-related developments include increased investor requests for 
+corporate information disclosure related to climate change, declines in share price associated with 
+lower evaluation by investors, and deterioration in market-imposed financing conditions.
+ As of March 31, 2018, 16.31% of NTT DATA Group stock was held by overseas corporations, and 
+lower evaluation by overseas investors actively engaged in ESG investment carries the risk of a decline 
+in share price that would decrease corporate value. Financial institutions in Japan own 21.15% of our 
+stock, and a portion of them have begun engaging in ESG investment. For this reason, according to 
+speculations, if financial institutions in Japan were to lower their evaluations of our ESG moving forward, the impact from this would lead to falling stock prices, and would ultimately affect our corporate 
+value negatively. If the price of shares held by overseas investors were to fall by 0.1%, the impact on 
+the Company’s market capitalization would amount to approximately ¥291 million*1.
+ Accordingly, we actively disclose information to investors, particularly concerning CDP*2, on which 
+investors who request Company information regarding climate change place particular importance. 
+We have been offering responses regarding CDP since 2009. From fiscal 2013 to fiscal 2017, we have 
+been actively disclosing information on matters including climate change by participating in a Ministry 
+of the Environment project to develop infrastructure for environmental information disclosure systems, 
+which is intended to construct an information platform that enables institutional investors in Japan to 
+utilize ESG data. Expenses related to investor requests for corporate information regarding climate 
+change are about ¥20 million.
+ The NTT DATA Group’s climate change response measures simultaneously carry both business 
+risks and aspects of securing business opportunities. We are aiming for the realization of sustainable 
+societies and our own growth as a company by providing IT services that offer solutions for societal 
+issues related to climate change, such as impact alleviation and adaption.
+*1: Calculated on the basis of 1,402,500,500 outstanding shares as of March 31, 2018
+*2: CDP was launched in 2003 by a U.K.-based NGO to evaluate the climate change policies of businesses and enterprises. 
+(Formerly the Carbon Disclosure Project)
+[ Opportunities Related to Products and Services ]
+As the Paris Agreement has taken effect, the strengthening of regulations in pursuit of realizing a zero 
+CO2 emissions society by 2050 is likely to accelerate. Due to this acceleration, we expect increases in 
+demand for more efficient IT systems, which account for a significant proportion of corporate energy 
+consumption. Specifically, we forecast growth in outsourcing demand for consolidated Kyodo Center 
+with high energy efficiency, and streamlined and virtualized IT systems. Out of the NTT DATA Group’s 
+total sales of ¥2,117.1 billion, domestic and international local governments and central government 
+agencies, including the Japanese Cabinet Secretariat and Ministry of the Environment, account for 
+about 21%, while financial institutions, including those compliant with TCFD*1 recommendations, 
+account for roughly 26%. As a company developing and operating so many large-scale and missioncritical systems, we are working to make our data centers greener, which will help us to realize 
+large-scale reductions in energy consumption. We are accomplishing this by promoting Green Data 
+Center services that are aimed at reducing environmental impact through integration of IT and facilities 
+technologies. Data centers and their related services are an ¥82.9 billion business (as of March 31, 
+2018), and we believe that they will grow into an ¥83.0 billion business in fiscal 2019 due to demand 
+for outsourcing to energy-efficient data centers.
+ As for HVDC power supply systems, we have also been implementing data centers that operate using 
+the world’s first DC power supply system, in terms of customer environment. In 2015, we introduced a 
+data center that uses one of these systems at our Shinagawa TWINS Building. During the same year, we 
+were awarded the Minister of the Environment Award for “Joint Technological Developments Related to 
+Drastically Low-Carbon Data Centers and Waste Heat Utilization in Offices, etc.” In March 2018, we 
+completed construction on Mitaka Data Center EAST, a compilation of HVDC power supply systems, 
+virtualization technologies, and air current control systems for cooling, which are the main elements of 
+our Green Data Center services. This data center reduced air-conditioning equipment operation time by 
+adopting an outside air-cooling system that utilizes natural energy. We are aiming to join Japan’s top 
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Governance
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment

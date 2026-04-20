@@ -1,0 +1,19 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+In the SSP5-8.5 scenario, we assessed the impact on net sales at a slightly higher level due to the risk of increasing 
+abnormal weather events and the resulting social and economic damage and decline in business profit of clients. In our three 
+domestic focal areas in Japan—public & social infrastructure, financial, and enterprise & solutions—where precipitation is on the 
+rise, we assessed that frequent typhoons and sudden heavy rains will increase the risk of flooding at data centers and offices. 
+On the other hand, because clients need to address the same risks, we see opportunities from increased demand for our 
+cloud and shared-use services, in which we employ hazard countermeasures and data loss countermeasures with double 
+redundancy. 
+To prevent an increase in abnormal weather events and the resulting socioeconomic damage and a decline in clients’ 
+business profit, we reinforced telecommunication lines and renewed construction facilities, investing ¥1 billion annually on each 
+until their completion in fiscal 2020. We decided to continue such investments and have allocated the same amount for severe 
+disaster countermeasures, including climate change, since fiscal 2021. We plan to invest a total of ¥8 billion from fiscal 2022 to 
+2025. 
+To address climate change and COVID-19, since 2020 we have increased our internal network bandwidth for the purpose 
+of establishing and improving teleworking environments for our employees, and we are now able to control and manage our data 
+centers from remote locations. In these ways, we are making our data centers more resilient to climate change.

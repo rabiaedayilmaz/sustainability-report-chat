@@ -1,0 +1,47 @@
+Paradigms for Society and 
+Regional Communities 【Additional Topics】 
+NTT DATA CSR Report 2011 3/67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Building a management system based on ISO 9001 and ensuring 
+continuous improvements 
+*1 CMMI : The following chart is supplement to the explanatory note of CMMI on p19 
+ 
+ 
+ 
+Setting up a specialized organization to enhance our project management 
+and testing services 
+NTT DATA aims to raise the quality and efficiency of its system development by enhancing 
+and standardizing its project management and verification processes. 
+ 
+As part of this process, in July 2010 we established the Project Management 
+Innovation Center as a specialized organization to pursue research and development 
+involving more advanced project management methods. 
+ 
+In December 2010, we set up another specialized organization, the Proactive 
+Testing Center of Excellence (COE), to conduct research and development on testing 
+processes in order to provide the Group with advanced testing services. 
+ 
+■ Project Management Innovation Center (PMI Center) 
+In addition to formulating new development and management processes to meet difficult 
+short-term delivery requests, the PMI Center’s objectives are to create advanced technical 
+methods and environments that will facilitate the early detection of risks and prevent them 
+from escalating into problems, as well as to standards development and management 
+processes in the global environment. 
+ 
+Currently, the center is drawing up standard companywide procedures, such as 
+TERASOLUNA*. Going forward, it will work to enhance our project management methods 
+and promote standardization globally throughout the Group. 
+ 
+* TERASOLUNA: A solution that incorporates NTT DATA’s technologies for project management, 
+development processes, frameworks, etc., accumulated from its numerous system development projects. 
+Building Systems that Are 
+Safe and Secure 
+Activities to Improve Quality

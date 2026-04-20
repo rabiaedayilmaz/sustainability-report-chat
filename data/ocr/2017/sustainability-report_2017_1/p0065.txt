@@ -1,0 +1,154 @@
+Region-Control Risks
+Region-control risks managed independently by regional integrated companies define material risks 
+based on approximately 40 risk candidate items in each region that are evaluated and improved in 
+light of material risk countermeasure implementation and risk occurrence status.
+Risk Management Training
+The NTT DATA Group conducts ongoing training regarding the legal and other roles of newly 
+appointed directors and Audit & Supervisory Board members at NTT DATA and Group companies to 
+ensure thorough risk management throughout the Group. Going forward, we will promote increased 
+risk management awareness and enhanced response capabilities by implementing various types of 
+training on an ongoing basis.
+ Process for Selecting Region-Control Risk
+Risk Management Method
+NTT DATA identifies risks that may impact its head office, regional integrated companies, and other 
+companies on an individual basis and formulates countermeasures accordingly. High-level divisions 
+effectively manage the measures in place at organizations under their jurisdiction by analyzing and 
+evaluating their implementation status. Groupwide measure implementation status is analyzed, evaluated, and monitored by the Risk Management Division. 
+ 
+In addition, risks determined to have the potential to impact the entire Group are defined as global 
+control risks and are managed on a Groupwide basis. In this manner, NTT DATA is practicing stringent and comprehensive risk management.
+Global-Control Risks
+Global-control risks with the potential to impact the entire Group are identified by the Internal Control 
+Committee by incorporating input from outside specialists and adopting a broad perspective that 
+encompasses factors such as changes in social trends.
+ 
+In fiscal 2016, we will continue selecting the same risks as those in the previous fiscal year as a 
+medium- to long-term effort spearheaded by NTT DATA’s head office to strengthen our response to 
+auditing deficiencies and the auditing of alliances, among other initiatives.
+ Risk Management Categories
+ NTT DATA’s Global-Control Risks
+Material Risks
+Major Improvements, etc.
+Initiatives
+Information leakage, personal /
+confidential information, cyber-attacks
+• Continue enhancing countermeasures for ever-increasing 
+security risks
+• Strengthen preparedness for advanced cyber-attacks 
+focused on public institutions
+• Promote Companywide security measures (drills on targeted 
+attack emails), conduct cyber-attack response drills, review 
+response to malware mass infection, and provide shared 
+infrastructure for security
+• Expand security personnel training / qualifications
+Accounting fraud, including window 
+dressing
+• Expand global unified auditing, connect to risk indication 
+auditing
+• Review and implement global unified auditing items
+• Conduct full-scale risk indication auditing, consider 
+deployment at Group companies, including those overseas
+• Simulate awareness through training
+Bribery
+• Continue strengthening compliance education
+• Conduct training regarding bribery
+• Create Global Compliance Policy guide
+Leakage of customer / 
+employee information
+Leakage of customer / 
+employee information
+• Leakage of customer / 
+employee information
+• Cyber-attacks
+• Problem projects
+• System malfunctions
+• Natural disasters 
+(including the impact of 
+climate change)
+• Inappropriate outsourcing
+Example: Leakage of customer / employee information
+ 
+Logical measures: Improved security education
+ 
+Technical measures: More stringent security quality 
+standards
+Likelihood of occurrence
+Low 
+Medium 
+High 
+Very 
+high
+Degree of impact
+Very 
+Large
+Large
+Medium
+Small
+Each region 
+selects up to 5 
+material risks
+Revision of risk 
+candidates
+Monitoring of countermeasure 
+implementation status and risk 
+occurrence incidents
+Formulation of 
+material risk 
+countermeasures
+Approx. 40 Risk Candidates
+Evaluation / 
+Improvement
+Material Risks
+Material Risk Countermeasure
+Risk Evaluation Results
+Head Office
+Analyze Groupwide risks and 
+establish countermeasures
+Analyze risks and establish 
+countermeasures for regional 
+integrated companies
+Analyze risks and 
+establish countermeasures 
+for other companies
+NTT DATA
+Global-Control Risks Risks that significantly impact the Group’s overall brand
+Evaluate and analyze risk management 
+status at regional integrated companies
+Evaluate and analyze risk management 
+status at other companies
+Regional integrate 
+companies, etc.
+Japan
+(NTT DATA)
+North America 
+(NDI)
+EMEA
+(EMEA)
+APAC
+(NDAP)
+China
+(NDCI)
+Business Solutions 
+(intelligence)
+everis
+(everis)
+Individual 
+companies
+NTT
+DATA
+Region-Control Risks Select and evaluate material risks and establish PDCA cycles at individual bases
+Risks faced by other companies on an individual basis
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+GRI Standards
+Governance

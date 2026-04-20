@@ -1,0 +1,265 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Fiscal 2022 Office Waste 
+ 
+Primary Category 
+Subcategory 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+Emissions 
+（kg） 
+Recycled 
+Amount 
+（kg） 
+Waste Disposal Amount (kg) 
+Final 
+Disposal 
+(kg) 
+Recycling 
+Rate (％) 
+Final 
+Disposal 
+Rate (％) 
+Disposal Method 
+Inciner- 
+ation 
+Landfill 
+Amount 
+Unknown 
+b+c+d+e 
+ 
+ 
+ 
+ c×0.1+d+e 
+b/a 
+f/a 
+Recyclable waste, etc. 
+Subtotal 1 
+744,419 
+744,419 
+
+Plain copy paper (e.g., 
+photocopy and OA paper) 
+51,417 
+51,547 
+
+Newspapers, magazines, 
+cardboard, miscellaneous 
+recyclable paper 
+681,947 
+681,947 
+
+Glass (e.g., bottles) 
+1,798 
+1,798 
+
+Scrap metal (e.g., cans) 
+2,377 
+2,377 
+
+Plastic (PET) bottles, etc. 
+6,750 
+6,750 
+
+Non-industrial waste 
+Subtotal 2 
+447,357 
+432,792 
+13,160 
+1,404 
+
+2,720 
+
+Plastics 
+5,431 
+5,357 
+
+Combustible waste 
+420,057 
+416,068 
+3,986 
+
+Incombustible waste 
+12,217 
+10,816 
+
+1,401 
+ 
+1,401 
+
+Unsorted waste 
+9,651 
+
+9,100 
+
+Industrial waste 
+from offices 
+Subtotal 3 
+909,213 
+908,851 
+
+Waste plastics 
+311,969 
+311,767 
+
+Scrap metal 
+347,842 
+347,841 
+
+Refuse glass, waste 
+ceramics 
+
+Discarded electric 
+machinery and 
+appliances 
+80,573 
+80,491 
+
+Waste batteries 
+
+Product waste containing 
+mercury 
+1,409 
+1,339 
+
+Stable mixed waste 
+145,161 
+145,154 
+
+Other 
+21,980 
+21,980 
+
+produced 
+through 
+operations 
+Subtotal 4 
+1,485,473 
+1,472,434 
+
+12,557 
+
+12,605 
+
+Waste plastic 
+215,181 
+213,088 
+
+2,033 
+ 
+2,039 
+
+Scrap metal 
+752,035 
+752,035 
+
+Refuse glass, ceramic 
+waste 
+27,498 
+18,958 
+
+8,540 
+ 
+8,540 
+
+Wastepaper (only 
+includes paper from the 
+printing business) 
+22,010 
+22,010 
+
+Waste wood (only 
+includes wood from 
+the warehouse and 
+distribution businesses) 
+2,075 
+2,075 
+
+Discarded electric 
+machinery and 
+appliances 
+172,660 
+172,660 
+
+Medical measuring 
+equipment 
+
+Waste batteries 
+
+Product waste containing 
+mercury 
+9,021 
+9,021 
+
+Stable mixed waste 
+74,775 
+74,775 
+
+Controlled mixed waste 
+175,593 
+173,287 
+
+1,884 
+ 
+1,926 
+
+Waste oil 
+
+Waste acid 
+
+Waste alkali 
+
+Sludge 
+33,640 
+33,640 
+
+Waste containing 
+asbestos 
+
+Other 
+
+Industrial waste requiring 
+special treatment 
+Subtotal 5 
+5,199 
+
+4,280 
+
+1,223 
+
+Flammable waste oil 
+
+Waste acid with a Ph of 
+2.0 or less 
+
+Waste alkali with a Ph of 
+12.5 or higher 
+
+Infectious waste 
+
+Specified hazardous 
+industrial waste 
+(discarded mercury) 
+
+Specified hazardous 
+industrial waste (other) 
+4,310 
+
+4,280 
+
+Grand total (Subtotals 1–5 combined) 
+3,591,660 
+3,558,620 
+18,073 
+14,967 
+
+16,775 
+
+(Scope of data collection: NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan; 70 companies in total)

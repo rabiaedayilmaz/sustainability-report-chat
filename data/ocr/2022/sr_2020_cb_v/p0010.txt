@@ -1,0 +1,116 @@
+In the retail industry, which includes supermarkets and 
+convenience stores, labor shortages and long working 
+hours have become major issues, highlighting the need 
+to reduce employee workloads and increase labor 
+productivity. In this COVID era, meanwhile, customers are 
+increasingly demanding non-face-to-face, contactless, 
+quick shopping solutions and asking for services that 
+meet such demand.
+ 
+NTT DATA already oﬀers a cashier-less digital store 
+service called Catch & Go® for the retail industry. In 
+collaboration with Daiei Inc., in September 2021 we opened 
+a new style of walk-through store in NTT DATA’s 
+headquarters that does not require a cashier. Users register 
+for the Catch & Go® service in advance and enter the store by 
+holding a two-dimensional code displayed on a smartphone 
+application over the store entrance gate. Cameras attached 
+to the store ceiling capture images of the user’s line of sight 
+and products selected, which are analyzed in real time using 
+AI. Weight sensors built into the shelves detect changes in 
+the number of products on the shelves. Users can take 
+home their selected products without paying at a cashier, as 
+payment is processed later by credit card.
+ 
+Store operators can visualize product management 
+and consumer movement and check data in real time on 
+their smartphones, which facilitates improvements in 
+product displays and other operations. They can also oﬀer 
+close-out sales in the evenings by inputting settings in 
+advance. In addition, customers can use the smartphone 
+app to receive notiﬁcations about reduced-cost products 
+that are nearing the end of their shelf life, which is 
+expected to improve sales and reduce waste-related loss.
+ 
+We will continue using digital technology to oﬀer 
+proposals for innovative store operations, including 
+recommendations for products tailored to individual 
+preferences. Through increased operational eﬃciency, 
+we will help resolve social issues, such as labor 
+shortages and the 
+need to improve 
+employee satisfaction.
+Realizing a new style of cashier-less 
+shopping using digital technology
+By using digital technology to create a new style of store without cashiers, we are working to solve social issues, 
+such as labor shortages and waste-related loss, while increasing customer satisfaction.
+-200,000 year on year
+Labor force (2020)
+Source: “Labor Force Survey” (Statistics Bureau, Ministry of Internal Aﬀairs and Communications)
+The City of Melbourne in the Australian State of Victoria 
+has an eﬃcient public transportation system that runs 
+throughout the city and extends to the suburbs. The 
+system serve as a transportation foundation that supports 
+the people of Melbourne and the economy. Known as “the 
+world’s most liveable city,” Melbourne has a continuously 
+growing population. To alleviate traﬃc congestion, the 
+city encourages the use of public transportation and has 
+developed a system that allows people to ride buses, 
+trains, and trams using a smartcard. The system is called 
+“myki.” Following the outbreak of COVID-19, however, 
+commuters became increasingly concerned about social 
+distancing while using crowded public transportation. To 
+keep the system running eﬀectively, it was also necessary 
+to protect public transport employees from exposure as 
+they came in contact with many passengers. 
+　　In cooperation with Public Transport Victoria, which 
+controls the public transport system in Victoria, NTT DATA 
+Services conceived and implemented an AI-powered 
+mobile application called RideSpace. We installed more 
+than 24,000 scanning devices at 265 train stations and in 
+490 trams and 2,200 buses. Using our big data smart 
+platform, we monitor more than 585 million trips and 28 
+million routes annually while collecting real-time data. 
+Riders of the “myki” system can check the real-time 
+congestion status of public transportation and purchase 
+tickets with a smartphone device containing the 
+RideSpace application. Businesses that provide 
+transportation can also use the statistical information to 
+predict congestion and eﬃciently allocate employees. The 
+result is a safe and secure transportation system, which 
+uses technology to enable travel 
+during the “COVID-19 era.” The 
+RideSpace application was so 
+well received by the citizens of 
+Melbourne that it was awarded 
+the Intelligent Mobility Award by 
+Australia’s Intelligent Transport 
+Systems, an organization that 
+recognizes the nation’s best work in 
+transport technology.
+Using 
+smartphones 
+to monitor the 
+congestion 
+status of public 
+transportation
+Leveraging AI to help people travel 
+safely during the “COVID-19 era”
+Throughout the world, the COVID-19 pandemic drove innovation to accommodate citizen concerns of infection. 
+Fortunately for the city of Melbourne, Australia, NTT DATA’s smart transportation team applied data analytics and 
+artiﬁcial intelligence to keep the “myki” public transportation system operational.
+20 million
+Number of “myki” smart cards issued
+Economy | Clients’ Growth
+Economy | Clients’ Growth
+Future of
+Work
+Smart X
+Co-innovation
+Community
+Engagement
+Case: Catch&Go®
+Case: Ride Space
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

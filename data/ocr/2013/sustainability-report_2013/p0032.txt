@@ -1,0 +1,79 @@
+The Greening of Clients and Society 
+IT solutions are expected to contribute to the creation of smart grids and smart communities. 
+This should facilitate the greening of clients and society as a whole by reducing the need to 
+consume materials and energy as well as transport people and goods. 
+Contributing to Disaster Recovery
+Optimization of electricity supply and demand utilizing 
+ energy management
+Actively Implementing 
+Verification Tests
+Forecasts 
+electricity 
+supply
+Forecasts 
+electricity 
+demand
+Electricity price setting that eliminates the supply-demand gap
+Data analysis technology
+Plug-in station
+Wind power 
+generation
+Thermal power 
+generation
+Hydroelectric power 
+generation
+Home
+Factory
+Office
+Energy Management Initiatives for Efficient Utilization of Renewable Energy
+Recently, there has been an increase in initiatives aimed at 
+building smart grids (next-generation power networks)* in all 
+parts of the world. As a result, a host of verification tests are 
+under way to advance efforts aimed at maximizing the use 
+of renewable energy, reducing the use of electricity during 
+peak periods, and leveling out electricity consumption.
+ 
+It is becoming increasingly necessary to accurately 
+forecast the constant fluctuations in electricity supply and 
+demand. In this context, NTT DATA is engaged in collaborative research on big data analysis technology for energy 
+management. Our research partner is the Waterford 
+Institute of Technology, a university-level institution based 
+in South East Ireland where, along with the rest of Europe, 
+efforts to introduce renewable energy are well advanced.
+ 
+NTT DATA’s contribution to this research centers on 
+its track record and know-how in business intelligence 
+and business analytics, which it has built up in diverse 
+fields. In the current research, we are examining technologies, such as dynamic pricing technology, that optimize 
+the balance between electricity supply and demand by 
+predicting in real time the demand for electricity from 
+offices, factories, and the like. 
+ 
+We will continue expanding collaborative research 
+programs and conducting our own research into nextgeneration smart grids with the aim of creating energy 
+management systems for power companies. 
+* A smart grid is a power distribution network that optimizes power consumption 
+by controlling the flow of electricity from both the supply side and demand side. 
+Smart Community Initiative in Miyako 
+City, Iwate Prefecture
+The city of Miyako in Iwate Prefecture suffered enormous damage in the Great East Japan Earthquake, 
+including the disruption of essential services. In the 
+urban planning stage of the recovery process, the 
+city focused on establishing an energy supply system 
+needed at times of disaster and placed importance on 
+securing energy sources without relying solely on fossil 
+fuels. The city is working to create a smart community 
+as part of its recovery plan. The aim of this project is to 
+supply energy produced locally by multiple new power 
+generation providers to consumers, including municipal 
+facilities and plant nurseries.
+ 
+NTT DATA joined city officials and representatives 
+from companies involved in the project to formulate a 
+master plan for Miyako smart community. In addition to 
+developing a regional energy management system, we 
+are in charge of managing the overall project. 
+ 
+By participating in it, we will explore further solutions 
+that can be rolled out in Japan and overseas as a platform for the recovery of local communities.
+NTT DATA CSR Report 2013

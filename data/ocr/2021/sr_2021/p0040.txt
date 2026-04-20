@@ -1,0 +1,53 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+intrusion in the network. We also have an advanced log analysis solution that enables us to detect even advanced persistent 
+threats (APTs). 
+ In fiscal 2020, we also strengthened our e-mail security and cloud security (using zero trust security) as the second phase 
+of our global security infrastructure development. 
+ 
+ 
+To ensure early detection and report responses in the event of a serious incident, we systematically established incident 
+response organizations in the NTT DATA Group’s domestic and overseas bases. This guarantees our ability to respond 
+immediately to problems on site and deal with high-level incidents. In addition, we have rules within the Group that clearly define 
+the various roles, responsibilities and reporting standards. In the event of a serious incident, this system ensures prompt reporting 
+from NTT DATA Group domestic and overseas companies to the Head Office via regional head offices. 
+Note: In fiscal 2020, NTT DATA Corporation received no specific complaints regarding breaches of client privacy or loss of client data. 
+ 
+Results of Activities 
+ 
+ 
+Recently, there have been multiple incidents of illegal access to information through breaches (vulnerabilities) of information 
+systems, resulting in personal and confidential information leaks, blackmail by ransomware and other harmful outcomes. In 
+addition to “known attacks” against which countermeasures are available, more and more attacks exploit vulnerabilities that even 
+software developers and system development vendors are not aware of. To address such “unknown attacks,” we must adopt 
+security measures across our systems without leaving any vulnerabilities. 
+We share the latest trends in security technology and vulnerability information across the Group in a timely manner. When 
+building and operating our systems, we incorporate processes to maintain the necessary level of security and establish 
+mechanisms to enable the system to maintain that security level. We strive to continuously provide safe and secure systems 
+and services, including by subjecting our system to regular diagnostic testing by security experts and appropriately responding 
+to newly discovered vulnerabilities. 
+ 
+ 
+The NTT DATA Group harnesses the expertise it has gathered from its experience and track record to propose optimal solutions 
+that reflect changes in its clients’ business structure. For example, we offer global security governance frameworks that also 
+cover client sites across the world and superior security technologies required for systems that handle important information. 
+We also provide the latest security solutions that realize secure remote working environments to promote new work styles. 
+Recent years have highlighted the importance of preparing against contingencies on the assumption that protective security 
+measures might be bypassed altogether by sophisticated targeted attacks or information leaks caused by internal misconduct. 
+To contain and localize any damage, we must provide reliable detection of an attack and swift response and recovery. We help 
+reinforce the security measures of our clients by offering security consulting to identify risks and providing solutions and services 
+for neutralizing and protecting against risks. Furthermore, we provide enhanced support services for detection, response and 
+recovery by constructing systems, including UEBA1, EDR2, sandboxes3, SIEM4, SOC5 and CSIRT6, as well as monitoring system 
+management. 
+1. User and entity behavior analytics: Solution for learning behaviors of people and objects at normal times by machine learning and issuing alerts when 
+abnormal behaviors are detected. 
+2. Endpoint detection and response: Solution to monitor endpoints, such as PCs and servers, and enabling integrated management of incident detection 
+and subsequent response processes. 
+3. Solution for detecting malware by running programs within a protected virtual environment. 
+4. Security information and event management: Solution for detecting, analyzing and visualizing traces or signs of unauthorized access that are difficult to 
+find by security equipment alone. 
+5. Security operation center IDS/IPS: A center or an organization that comprehensively monitors and manages firewalls, DB firewalls, WAFs and the like. 
+6. Computer security incident response team: An incident response team of computer security specialists. The team collects and analyzes information on 
+security incidents, security-related technologies and vulnerabilities, and conducts activities that include implementing effective countermeasures and 
+training.

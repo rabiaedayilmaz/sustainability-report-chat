@@ -1,0 +1,164 @@
+Course Participants in Fiscal 2016
+Environmental Education
+ Conducting Business- and Role-Specific Environmental Education
+The NTT DATA Group conducts various environmental education activities to help employees properly understand the significance and purpose of environmental protection and environmental management based on ISO 14001 standards. These activities are also aimed at raising awareness toward 
+environmental issues. Our efforts span an e-learning curriculum that covers the basics of CSR and 
+environmental education, courses for waste-disposal supervisors, environmental managers, environmental advocates and environmental supervisors, and education programs customized for each 
+organization and business function.
+ 
+To encourage an understanding of and promote environmentally oriented management, we are 
+extending CSR and environmental education on the basics of environmental conservation beyond ISO 
+14001-certified companies to include all Group companies in Japan. To meet the needs of participants, 
+we conduct group training sessions in addition to the e-learning courses we have provided to date.
+ 
+In fiscal 2016, we implemented CSR and environmental education for all domestic Group employees and enhanced the curriculum related to environmental regulations and corporate support of 
+sustainable societies with the aim of deepening understanding of environmental protection to further 
+strengthen compliance.
+ 
+We intend to maintain our efforts to enhance the content in fiscal 2017 by adding the latest topics.
+Environmental Contributions and Communication
+ Promotion of Environmental Contribution Activities
+In accordance with the promotion of awareness activities set forth in the NTT DATA Group’s environmental policies, we strive to raise awareness on environmental issues by educating our employees 
+and temporary staff through environmental contribution activities. To promote environmental contribution activities targeting local communities, the NTT DATA Group has set a target for the number of 
+participants in environmental contribution activities since fiscal 2010.
+ 
+In fiscal 2016, as a result of proactive efforts at each company to share information pertaining to 
+social and environmental contribution activities in which each organization and company participate, 
+we surpassed our target with a total of 5,721 employees participating.
+ 
+In fiscal 2017, we will proactively participate in clean-up activities in areas around office buildings 
+and other events held in each region.
+ Fiscal 2016 Target Attainment Status
+The figures are based on data collected from NTT DATA Group companies that have acquired both 
+ISO 14001 and Group integrated certification.
+Environmental Impact
+ Targets for Fiscal 2017 and Onward (Medium-Term Targets)
+The NTT DATA Group establishes three-year medium-term targets as part of its ongoing ISO 14001 
+improvement activities and reviews those targets each year against results.
+ 
+Since fiscal 2009, we have promoted the greening of clients and society, and the greening of our 
+Group while engaging in environmental contribution activities and increasing communication. We 
+have established targets for our environmental activities attuned to this shift in direction.
+ 
+With the goal of further raising environmental targets, we revised the focus of our target CO2 
+emissions indicator from the basic units of sales value to total CO2 emissions and amended the measurement criteria of our indicator for waste material from zero emissions of industrial waste to the final 
+disposal rate of waste as a whole in fiscal 2012.
+ 
+Moving forward, the NTT DATA Group continues to reduce its environmental impact in order to 
+meet these targets.
+CSR and environmental education
+31,780
+Course for waste-disposal supervisors
+
+Course for environmental managers, environmental advocates, and environmental supervisors
+
+ Targets for Fiscal 2017 and Beyond
+(Base year: 2008; Scope of data: NTT DATA and 27 Group companies in Japan that have acquired Group integrated ISO 14001 certification)
+Scope
+Target Definitions
+FY2016 Results
+FY2017
+FY2018
+FY2019
+Reduce the environmental impact of society 
+through the promotion of green IT
+Newly posted Smart & Green IT*1 solutions
+5 cases
+5 cases
+5 cases
+5 cases
+Reduce greenhouse gas emissions
+Amount of CO2 emissions
+20% reduction 16% reduction 16% reduction 16% reduction
+Reduce the amount of copy paper purchased
+Amount of copy paper purchased (Gross amount 
+calculated on a number-of-sheets basis)
+50% reduction 37% reduction 37% reduction 37% reduction
+Reduce the amount of waste for final disposal
+Amount of waste for final disposal (Gross amount)
+79% reduction 90% reduction*2 90% reduction*2 90% reduction*2
+Final waste disposal rate (Final disposal amount / 
+total amount of waste)
+2.2%
+1.0% or less*2
+1.0% or less*2
+1.0% or less*2
+Social and environmental contribution activities
+Number of activity participants
+5,721
+5,700
+5,800
+5,900
+*1: Smart & Green IT: http://www.nttdata.com/jp/ja/green_it/index.html (in Japanese only)
+*2: Figures revised to exclude effective utilization of thermal energy (thermal recycling) generated by incineration at final disposal from final disposal.
+ Group Targets and Results in Fiscal 2016
+(Scope of data: NTT DATA and 27 Group companies in Japan that have acquired Group integrated ISO 14001 certification)
+Scope
+Target Definitions
+Base Value
+(Base fiscal year: 2008)
+Fiscal 2016
+Target Value
+Results
+Assessment
+Reduce the environmental impact of society through 
+the promotion of Green IT
+Newly posted Smart & Green IT solutions 
+–
+5 cases
+5 cases
+◯
+Reduce greenhouse gas emissions
+Amount of CO2 emissions
+306.562 t
+16% reduction
+(257,512 t or less)
+20% reduction
+(245,910 t)
+◯
+Reduce the amount of copy paper purchased
+Amount of copy paper purchased (Gross amount 
+calculated on a number-of-sheets basis)
+327,800,000 
+sheets 
+37% reduction
+(206,510,000 
+sheets or less)
+50% reduction
+(162,800,000 
+sheets or less)
+◯
+Reduce the amount of waste for final disposal
+Amount of waste for final disposal (Gross amount)
+402 t
+72% reduction
+(113 t or less) 
+79% reduction
+(85 t) 
+◯
+Final waste disposal rate (Final disposal amount 
+/ total amount of waste)
+–
+2.2% or less
+2.2%
+◯
+Social and environmental contribution activities
+Number of activity participants
+–
+3,600
+5,721
+◯
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

@@ -1,0 +1,106 @@
+The number of NPOs for which the mission is to resolve 
+social issues is increasing every year. Due to human 
+resource shortages and ﬁnancial constraints, however, 
+NPOs have been unable to properly utilize IT in their 
+businesses despite understanding the eﬀectiveness of IT.
+　　NTT DATA has endorsed the “STO Creation Project,” 
+launched by the Japan NPO Center, Code for Japan, and 
+Entrepreneurial Training for Innovative Communities 
+(ETIC). To develop STO human resources, since ﬁscal 2019, 
+we have been supporting the project by subsidizing 
+activity expenses and encouraging employees to engage 
+in pro bono and volunteer activities. STO is an abbreviation 
+for Social Technology Oﬃcer. An STO is a human resource 
+who thinks about utilizing IT by NPOs from the perspective 
+of business strategy and creates solutions together with 
+NPOs. After conducting a questionnaire-based survey of 
+around 9,000 organizations in Japan and verifying the 
+signiﬁcant need for STOs, we proceeded with brieﬁng 
+sessions and training for STO candidates and NPOs/NGOs 
+that accept STOs. This led to the development of more 
+than 50 STOs in three years.
+　　e-mobinet, an NPO in Kumamoto Prefecture, is 
+spearheading a model initiative called the “Umiraku 
+Project,” which aims to create low-cost, sustainable 
+transportation systems, including water taxi ride-sharing 
+services, on remote islands. Five NTT DATA employees 
+participated in the project to build a reservation site for 
+water taxis and land transportation ride-sharing services 
+that connect remote islands. This led to the creation of 
+inexpensive, safe transportation services for islanders 
+and people traveling to and from the islands, thus helping 
+resolve social issues facing those islands.
+　　NTT DATA will continue developing STO human 
+resources to maintain its partnerships with local 
+communities and NPOs to help resolve social issues, while 
+at the same time raising the sensitivity and understanding 
+of social issues among its 
+employees. By creating 
+businesses that address social 
+issues in these ways, we aim to 
+generate shared value for society 
+and our company.
+STO brochure
+Developing “STOs” to promote the use of 
+IT in support of NPOs
+We help resolve social issues by developing human resources called Social Technology Oﬃcers (STOs).
+35%
+Percentage of NPOs with paid IT employees
+Source: “Survey on IT Utilization and IT Human Resources in NPOs and STO Needs” (Secretariat of the NPO Research Committee, STO Creation Project, Japan NPO Center)
+Tuberculosis (TB) is one of the world’s three major infectious 
+diseases and one of the world’s top 10 causes of death, so 
+eradicating the disease is listed among the health-related 
+objectives of the SDGs. TB is a treatable and preventable 
+disease, but lack of diagnostic opportunities and delays in 
+detection can lead to severe outbreaks and spread of the 
+disease. For this reason, early detection of patients in areas 
+where access to medical care is diﬃcult is important for 
+ensuring TB’s eradication.
+ 
+Amid a global shortage of radiologists who use medical 
+images, such as X-rays and CT scans, to make diagnoses, NTT 
+DATA has been working to develop diagnostic imaging 
+technology that uses AI to analyze a wide variety of lesions from 
+patient X-ray images, to help physicians with their diagnoses. We 
+have also been ﬁeld-testing the results of our R&D at hospitals 
+around the world. Utilizing knowledge thus acquired, in January 
+2021 we started providing free TB diagnostic screening in India, 
+which has the largest number of TB patients in the world, using 
+screening vehicles equipped with AI diagnostic imaging 
+technology. When screening, patients suspected of having TB 
+identiﬁed by AI immediately after being X-rayed are encouraged 
+to undergo further TB testing (sputum examination), which leads 
+to early detection of the disease. By March 2022, we plan to oﬀer 
+testing to around 100,000 people in the Indian city of Chennai.
+ 
+This initiative won NTT DATA the “PM Award 2021*” as “an 
+innovative project implemented by an organization aimed at 
+having a signiﬁcant impact on society.” NTT DATA will expand its 
+support for TB diagnoses to more regions in the future. At the 
+same time, we will improve our ability to handle more cases, 
+including COVID-19 infections.
+*A system in which PMI Japan Chapter, an organization that promotes project 
+management awareness and popularization in Japan, recognizes outstanding 
+projects in Japan and by Japanese companies.
+Using AI imaging technology to support 
+diagnoses in India with the highest number 
+of tuberculosis cases in the world
+In areas of India where it is diﬃcult for people to receive adequate medical care, we are promoting the early 
+detection, testing, and treatment of tuberculosis (TB) patients by operating screening vehicles equipped with AI 
+diagnostic imaging technology.
+10 million
+No. of tuberculosis patients worldwide (2020)
+Source: “Global Tuberculosis Report” (2021 edition), World Health Organization (WHO)
+Society | Inclusive Society
+Society | Inclusive Society
+Digital
+Accessibility
+Community
+Engagement
+Community
+Engagement
+Case: STO
+Case: AI diagnostic imaging
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

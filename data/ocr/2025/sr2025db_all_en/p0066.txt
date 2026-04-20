@@ -1,0 +1,158 @@
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+Governance
+Appendix
+Initiatives to Achieve Materiality and KPIs
+NTT DATA aims to contribute to a sustainable society and address global environmental challenges for all people and future generations by respecting diverse values and talents, and by 
+maximizing the potential of both people and technology.
+ 
+To achieve this, we have identified five material issues—People-Centric Company, Diversity and Inclusion, Health and Safety, Human Rights, and Digital Accessibility—and are focusing 
+our efforts on them.
+  [Reference page] Sustainability Management “Materiality and Non-Financial Indicators”
+  People positive
+Indicators for FY2025 and Beyond
+[Reference]  FY2024 Results
+Indicator
+FY2025 Target
+Medium- to 
+Long-Term Targets
+Specific Initiatives
+Indicator
+Target
+Achievement
+ 
+ People-Centric Company
+ P66
+Human capital is one of the most important capital, and in 
+addition to acquiring human resources from outside the 
+company, we will realize employee growth. To this end, we will 
+work to improve the work environment and personnel system 
+that make it easier for employees to work, and support the 
+enhancement of skills.
+Ratio of employee 
+engagement
+YOY improvement
+Continuous 
+YoY improvement
+From FY 2025, NTT DATA will standardize the survey across 
+all Group companies, both in and outside Japan, to assess 
+and analyze employee engagement. Workshops are held 
+globally to ensure proper interpretation of the results, and 
+events are organized to facilitate direct dialogue between 
+executives and employees.
+Ratio of employee 
+engagement
+(percentage of 
+positive responses 
+to the statement 
+“I am proud to work 
+for our company.”) 
+73%*
+77%*
+ 
+ Diversity and Inclusion
+ P77
+In order to respond to the diverse needs of customers, we will 
+work to create a workplace where diverse human resources 
+can play an active role by demonstrating their individual 
+thinking and abilities and foster a culture.
+Ratio of 
+female managers
+15% (Japan)* 
+Target to 
+be established 
+in FY2025
+The Sustainability Committee’s subcommittees hold 
+practical discussions on various issues, including diversity 
+and inclusion (D&I). Regular sessions on D&I are conducted with leaders from around the world, and employees actively engage in voluntary initiatives.
+Ratio of 
+female managers
+15% (Japan)*
+<FY2025>
+11.90%*
+ 
+ Health and Safety
+ P82
+The importance of issues such as long working hours and 
+mental health problems is increasing with the diversification of 
+the labor environment, additionally, to prevent labor accidents 
+in the operation of data center businesses, we will promote 
+measures such as risk assessment of hazards, establishing a 
+governance system, and providing education and training.
+Number of 
+fatal accidents
+
+Continuation of 
+zero-case record
+At NTT DATA, we prioritize employee safety and strive to 
+provide a secure working environment. Management, 
+occupational physicians, and public health nurses from HR 
+Headquarters lead initiatives in collaboration with the 
+health insurance association and each workplace to promote employee health, well-being, and mental health care.
+ー
+ー
+ー
+ 
+ Human Rights
+ P84
+While the international demand for corporate responsibility 
+for respecting human rights, we will work on human rights 
+management across the entire value chain. We will prevent 
+and mitigate negative impacts on the human rights of our 
+stakeholders and take necessary remedial measures.
+Due diligence 
+implementation
+100% human rights 
+due diligence implementation 
+in high-risk countries/offices
+In accordance with the NTT Group Human Rights Policy, we 
+conduct human rights due diligence processes to identify, 
+prevent, mitigate, and remediate human rights issues 
+globally, while promoting awareness of human rights.
+ー
+ー
+ー
+Establishment of 
+grievance mechanisms
+Grievance mechanism to 
+be established by FY2027
+To create more accessible channels for consultation, we 
+are improving various contact points both domestically 
+and internationally.
+ー
+ー
+ー
+ 
+ Digital Accessibility
+ P88
+Although IT is an important means of accessing basic needs 
+such as education, food, and medical care, digital divide is a 
+problem. We will work to provide IT services that support 
+access to basic needs, introduce UI and UD for digital 
+inclusion, and improve literacy.
+Number of people 
+impacted by our digital 
+accessibility solutions, 
+technical skills training, 
+and outreach programs
+Monitoring of social impact
+We are implementing UI and UD to support digital inclusion and working to improve IT literacy. Centered on IT 
+education, we also promote donations and employee 
+volunteer activities to contribute to the development of 
+local communities.
+ー
+ー
+ー
+* Scope covers NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan)
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+People positive

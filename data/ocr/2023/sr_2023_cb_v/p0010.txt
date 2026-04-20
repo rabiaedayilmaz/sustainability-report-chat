@@ -1,0 +1,62 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Click here for 
+reference article
+Click here for 
+reference video
+Range of monitorable 
+organic farming plots
+Ensuring Origin and Quality for 
+the Safe Distribution of Food
+· The food system, encompassing production, processing, transportation, and consumption, is well established, 
+enabling widespread global distribution. However, issues such as food fraud, food loss, and environmental 
+impact have emerged.
+THEROS
+1,000㎡
+To establish a sustainable food system, it is imperative
+to consider factors such as environmental conservation,
+animal welfare, circularity, and adaptation to organic
+practices throughout the supply chain. In the EU, a
+labeling policy is being promoted to safeguard the origin
+and traditional production methods of products that meet
+these
+criteria.
+However,
+these
+high-quality
+labeled
+products are often susceptible to counterfeiting issues
+such
+as
+misuse,
+tampering,
+and
+adulteration
+with
+different ingredients, posing challenges in ensuring
+transparency in traceability.
+In response, the EU is advancing the THEROS
+Consortium to enhance transparency in the food supply
+chain. NTT DATA Spain is participating in its pilot
+project along with the consortium’s 17 partners.
+For this, we provide a Digital Product Passport to
+guarantee origin and quality and are developing a tool to
+verify the label and origin of specific products. This tool
+utilizes blockchain technology with machine learning
+and artificial intelligence based on Earth observation,
+photonics, IoT, and DNA authenticity methods, ensuring
+high versatility and cost-effectiveness while aiding in
+fraud prevention. In Spain, it is being used to protect the
+production and trade of Galician mussels.
+In 2024, a pilot project will be conducted in EU
+countries, and the results will be used to expand
+functionality and develop marketing activities.
+Conceptual diagram of THEROS
+Carbon
+Neutrality
+Circular 
+Economy
+NTT DATA Spain (Spain)

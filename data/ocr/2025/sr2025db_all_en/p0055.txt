@@ -1,0 +1,80 @@
+Clients
+Clients
+Requirements
+Client satisfaction
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Company-Wide Quality Management Executive
+Corporate Quality Management Representative
+Rules, detailed rules, and corporate
+Improvements
+Chief responsible officer for quality management in 
+the segments, etc.
+Segment prescripts
+Improvements
+Project planning
+Projects
+Project prescripts
+Improvements
+Quality 
+Management Policy
+Improvement 
+Goals
+Products
+(systems, services)
+Performance 
+monitoring
+Review
+Development
+Development
+Development
+Instruction
+Quality Management System (QMS)
+Report, 
+analysis, and 
+evaluation
+ 
+ Digital Safety and Reliability 
+In order to provide the social infrastructure that supports the lives of many people in a stable manner, we will take preventive measures such as building 
+a management system and investing in IT system strengthening. In the event of a failure, we will take prompt recovery actions and formulate measures 
+to prevent recurrence.
+Basic Policy
+To stably provide the social infrastructure that supports the lives of many people, we 
+invest in strengthening IT systems and take measures such as building a management 
+system, performing prompt recovery in the event of failures, and implementing 
+recurrence-prevention measures.
+ 
+Recognizing that providing safe and secure services to our clients is a critical mission, 
+we have established an organized and systematic quality management framework. 
+Through the adoption of advanced development methodologies, we deliver highly reliable systems and continuously improve services based on feedback from client satisfaction surveys, striving to provide better services from the client’s perspective.
+Quality Management
+Providing stable systems and services is a critical mission and responsibility for the Company. To realize a reliable social infrastructure, we are working across the Group to establish quality management mechanisms. At the same time, we continuously enhance 
+development methodologies through advanced technologies to build highly reliable 
+systems and deliver dependable services. 
+Initiatives to Improve Quality
+—Building a Management System Based on ISO 9001 and 
+Promoting Continuous Improvement Activities
+NTT DATA has obtained ISO 9001 certification and has established and operates an organizational and systematic quality management system based on this standard. The Company works to improve quality and productivity while preventing unprofitable projects. In 
+addition, we promote information sharing through the establishment of quality assurance mechanisms in Group companies and Group-wide quality exchange meetings, 
+enhancing overall quality assurance capabilities. For Group companies outside Japan, we 
+implement region-specific and company-specific quality assurance mechanisms through 
+cross-regional initiatives such as the Global PMO Workshop. 
+Enhancing and Standardizing Project Management
+NTT DATA Group Corporation is working to advance and standardize project management to enhance the quality and efficiency of system development. We have established 
+an innovative project management team that integrates AI specialist organizations creating new businesses and services using generative AI, R&D organizations driving innovation through advanced technologies, and quality assurance organizations—including 
+global operations—responsible for quality management and project support.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Digital Safety and Reliability

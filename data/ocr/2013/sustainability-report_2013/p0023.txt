@@ -1,0 +1,104 @@
+Car navigation system 
+receives disaster 
+information 
+TV receives disaster 
+information
+Email receives 
+emergency warning
+Data input terminal at 
+local government
+One-segment 
+broadcasting displays 
+images
+Contributing to Regional Communities and Society as a Whole
+We work to create and develop a healthy society through social contribution activities that 
+emphasize employee participation, and through the development of IT systems designed to 
+help resolve social issues.
+Using IT to Help Resolve Social Issues
+Using IT to Support Disaster Recovery
+Effective Use of Big Data
+Recent technical advances, such as the prevalence of 
+high-speed communication networks, IT use by home 
+appliances, and mobile terminals with sophisticated functions, have created huge volumes of digital data on the 
+Internet. The use of such big data, is drawing attention as 
+it could make everyday life more secure and convenient. 
+At the same time, using big data is becoming increasingly 
+important across various industries because of its potential 
+to advance business operations and create new services.
+ 
+NTT DATA is actively developing big data solutions 
+that support promotion of clients’ service innovations and 
+operational reforms. As part of this effort, in November 
+2012, we revamped the Big Data and Business Analysis 
+Consulting Service. In particular, we bolstered options for 
+Quick Assessment menu, which provides a faster and 
+lower-cost verification of big data analysis utilization. In July 
+2013, we consolidated the Group’s functions related to big 
+data into one group called Big Data Business Promotion 
+Office. This group has 130 big data specialists and it provides Group-wide support.
+ 
+In addition to our cross-industry analysis menu, we will 
+be enhancing the service with process-specified analysis 
+menu options to contribute to our clients and society.
+Multiple Layers of Disaster Information 
+Transmission via Diverse Telecommunications and Broadcasting Media
+One issue raised by the Great East Japan Earthquake was 
+that disaster information did not always reach residents 
+due to serious damages to community wireless radio 
+systems and other official local communication methods 
+intended to be used in disasters. In contrast, surveys on 
+the disaster reveal that residents were able to effectively 
+use mobile phones, conventional radio, and one-segment 
+broadcasting terminals to access information.
+ 
+Drawing on the lessons learned from this experience, 
+NTT DATA is working as the lead research organization on 
+a research project commissioned by the Ministry of Internal 
+Affairs and Communications for strengthening the disaster 
+resilience of information and communication networks. 
+NTT DATA has participated in demonstration trials of the 
+project together with five other private sector companies 
+and four local governments affected by the disaster.
+ 
+During the trials, we established a network system that 
+enables rapid and reliable transmission of disaster-related 
+information to residents through the combined use of telecommunications and broadcasting, diverse from emergency 
+warning emails to one-segment broadcasting. Starting from 
+November 2012 in disaster-stricken northeastern Japan, the 
+trials were carried out in Ishinomaki, Kesennuma, and other 
+municipalities. Through participation in this project, the NTT 
+DATA Group will continue exploring ways to help build new 
+and improved local hazard-prevention information systems.
+Analysis consulting menus
+Reliable delivery of information to various devices for 
+ hazard prevention
+Processspecified 
+analysis 
+Crossindustry 
+analysis
+Data analysis 
+methodology
+Disease 
+process 
+analysis
+Traffic simulation
+Process 
+bottleneck 
+analysis
+Electricity usage 
+analysis
+Social CRM 
+analysis
+Agricultural sensor 
+analysis
+Customer analysis
+Demand forecasts
+Anomaly detection
+Claim analysis
+ Currently available 
+ Scheduled for later provision
+NTT DATA CSR Report 2013 22
+Highlight 2013
+Third-party Opinion
+Who We Are
+Our Mission and Solutions

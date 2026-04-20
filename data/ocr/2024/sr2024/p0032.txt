@@ -1,0 +1,63 @@
+Creation and management of carbon credits through CO2 absorption by forests
+As we move toward a net-zero society, the use of carbon credits is expected to expand. However, there are challenges in ensuring the quality of these credits, including vintage, prevention of double counting, and assurance 
+of permanence. In response, NTT DATA is utilizing a solution called “CO2Sink” in Calabria, Italy, to measure GHG 
+absorption by forests on a large scale and with transparency. We combine satellite data with data from sensors 
+installed in the forests, using machine learning to accurately quantify the amount of GHG absorption. This also 
+facilitates the simple and continuous monitoring of thousands of hectares of forest. This initiative aims to create 
+high-quality carbon credits, encouraging companies to disclose and assert their appropriate use of credits, thus 
+contributing to decarbonization.
+Costs
+We have allocated a total of ¥51 billion for fiscal 2022 to fiscal 2025 for the development of technologies and the 
+creation of sustainability-related offerings that contribute to climate change adaptation and mitigation across 
+society and various companies.
+Time horizon: Short term
+Time horizon: Short term
+Opportunities Related to Products and Services (Opportunity 1, 2, and 3)
+Opportunity
+
+  Increasing needs to create sustainability-related offerings 
+Business and financial impacts
+With the increasing demand for the disclosure of sustainability information, companies are required to visualize GHG emissions through their supply chains and create new business opportunities and operational 
+transformations to mitigate climate change. The investments in systems and related areas that accompany 
+these changes could lead to business opportunities for NTT DATA. We define “sustainability-related offerings” 
+as services and systems for sustainability in general, including climate-related solutions, and have identified 
+the creation of such offerings as a strategic domain in the current medium-term management plan.
+Financial impact
+We expect client decarbonization efforts to speed up, increasing opportunities for sustainability-related 
+businesses in various industries and digital technology applications through technological innovation. We 
+estimate that the creation of new sustainability-related offerings will generate cumulative net sales of ¥200 
+billion from fiscal 2022 to fiscal 2025.
+Strategies and costs
+Sustainability-related offerings, including the final product-specific carbon footprint platform
+NTT DATA provides support for visualizing, reducing, and disclosing GHG emissions to clients in various industries. 
+An example of our sustainability-related offerings is C-Turtle ForeSus, a sustainability management platform that 
+automatically calculates product-specific GHG emissions (carbon footprint). Under the concept of managing both 
+sustainability and profitability, this system allows for the integration of sustainability-related data and product 
+revenue information. To expand our sustainability-related offerings, we are developing various carbon footprint 
+visualization platforms and training technical experts. We are also investing in the creation of new businesses by 
+applying advanced technologies to social challenges.
+Opportunity
+
+  Increasing demand for sustainability-related consulting services
+Business and financial impacts
+Given the rapid changes in external factors such as requests and levels related to climate change response, 
+we predict an increase in business opportunities in climate change consulting. We have been recognized as 
+a Gold Accredited Solutions Provider by CDP, allowing us to offer climate change consulting services since 
+fiscal 2021.
+Financial impact
+We anticipate an increase in consulting service opportunities as sustainability-related businesses continue 
+to expand across various industries. Based on the proportion of sustainability-related business within the 
+Group’s consulting sales, we project an increase in revenue of ¥40 billion over the cumulative period from 
+fiscal 2022 to fiscal 2025.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

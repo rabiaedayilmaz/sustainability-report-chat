@@ -1,0 +1,27 @@
+DMAT in action
+Paradigms for Society and 
+Regional Communities
+By developing and providing systems that are highly reliable and easy to use, NTT DATA 
+contributes to society’s overall development and helps resolve issues in the countries and 
+regions in which the NTT DATA Group operates.
+Close up
+Emergency Medical Information System 
+Helping to Ensure Smooth Emergency Support
+The Emergency Medical Information System was set up by Japan’s then Ministry of 
+Health and Welfare in response to the Great Hanshin Earthquake, which struck in 
+January 1995. NTT DATA developed and operates that system. 
+In times of disaster, this system allows information to be input involving the 
+state of damage and what medical institutions can accept patients. Information on 
+the extent of damage in the disaster-stricken region and information on requests for 
+support, as well as on support systems in regions that are not aﬀ ected by disaster, can 
+be shared with medical institutions, the central government, local governments, fi re 
+departments and healthcare centers to enable swift and eﬀ ective emergency support. 
+In addition, the system can be used to manage Disaster Medical Assistance Teams 
+(DMATs) supervised by the Ministry of Health, Labour and Welfare.
+In fi scal 2011, we also developed the Medical Air Transport Tracking System 
+(MATTS) to enable integrated management of information on DMAT dispatch 
+requests and activities and the sharing of information between DMATs and 
+destination medical institutions. 
+This system was used to support life-saving eﬀ orts in the region aﬀ ected by the 
+Great East Japan Earthquake.
+NTT DATA CSR Report 2011

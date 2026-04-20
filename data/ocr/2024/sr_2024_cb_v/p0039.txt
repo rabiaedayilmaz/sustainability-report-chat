@@ -1,0 +1,156 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+Achieving a Society where People Can Work and Stay Healthy Throughout their Lives
+NTT DATA Japan Corporation
+Social Infrastructure Solution Sector Social Innovation Division
+Asset Business Group, Asset Business Section
+Health Data Bank®
+Human Rights
+&
+DEI
+Health management refers to considering employee
+health from a managerial perspective and strategically
+implementing initiatives to maintain and promote health.
+More
+companies
+are
+becoming
+interested
+in
+health
+investment for employees as it leads to organizational
+revitalization and productivity improvement, acquisition of
+excellent talent and reduction in turnover rates, and
+enhancement of corporate brand. In Japan, the Ministry of
+Economy, Trade and Industry has designed the 'Certified
+Health
+&
+Productivity
+Management
+Organization
+Recognition Program' to promote the spread of health
+management, and currently, about 20,000 organizations
+are certified. Supporting long-term health management of
+individual
+employees
+requires
+the
+use
+of
+health
+management systems and the creation of new services
+through collaboration with businesses.
+Business need
+Solution
+• In the context of a declining workforce due to a decreasing birthrate and an aging population, it is expected that maintaining employee health and
+encouraging longer working lives will ultimately lead to increased productivity and improved business performance.
+• The rising medical costs associated with an aging society have become a social issue, and there is a push to promote self-medication*1 and selfcare, as well as to raise individual awareness of health and health management.
+NTT DATA started operating the cloud-based health
+management system Health Data Bank® in 2002 and is
+working
+on
+both
+corporate
+health
+management
+and
+individual
+lifelong
+health
+management
+in
+a
+manner
+compliant with Certified Health & Productivity Management
+Organization Recognition Program standards. The system
+is currently used for health management by about 3,000
+companies or organizations and over 5 million people.
+One of the features of Health Data Bank® is that health
+checkup data is received and registered directly from health
+checkup
+institutions.
+Additionally,
+staff
+with
+medical
+knowledge check the data and handle inquiries to the
+health checkup institutions in case of errors. This reduces
+the workload of industrial health staff and HR personnel,
+allowing them to focus on follow-up care for employees.
+Moreover, industrial health staff and HR personnel can
+combine health checkup data and stress check data to
+identify health issues and provide advice to employees with
+health problems.
+Furthermore, employees can review their health data over
+the years since joining the company, which can be used for
+self-care. From January 2024, it
+is
+now possible to
+optionally add Arirge, an educational portal site provided by
+Taiho
+Pharmaceutical
+Co.,
+Ltd.,
+which
+focuses
+on
+balancing cancer treatment and work, to Health Data
+Bank®. This is expected to expand communication with
+employees not only in the area of health management but
+also in prevention, treatment, and support for returning to
+work.
+*1 Self-Medication
+Taking responsibility for one's own
+health
+and
+managing
+minor
+physical ailments independently.
+Health insurance, etc.
+Corporation
+Health screening agency
+Worker / 
+insured person
+Staff site
+Health check
+Receive, convert and store health 
+check data
+Labor Standards Agency
+View online
+Collect
+Data handled:
+-Health check results
+-Stress check results
+-Working hours, etc.
+Health check data 
+distribution center
+Meeting
+HR personnel / 
+medical staff
+Report
+Individual site
+Impact
+Approx.
+100 hours/month
+The introduction of Health Data Bank® has significantly
+reduced the time required for customers to process health
+checkup data
+0 hours/month
+↓
+Implementation of a general health 
+checkup management system
+Implementation of Health 
+Data Bank®
+*2 Customers with 20,000 employees and 200 medical checkup
+facilities
+Analyze
+HealthDataBank - Health 
+Management Cloud Service
+NTT DATA (in Japanese only)
+Launch of ARIRGE, an Educational Service 
+on Balancing Work and Cancer Treatment
+NTT DATA GROUP (in Japanese only)

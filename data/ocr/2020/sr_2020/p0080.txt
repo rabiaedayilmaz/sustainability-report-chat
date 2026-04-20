@@ -1,0 +1,50 @@
+Social 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Material ESG Issues 
+Promote Workstyle Innovation 
+ 
+Basic Policy and Promotion System 
+Since 2005, when its “Global IT Innovator” Group Vision was announced, NTT DATA has engaged in work-style innovation with 
+the aim of becoming a company that delivers change to its customers through IT. In fiscal 2018, we changed our Group Vision 
+to “Trusted Global Innovator” and have since worked continuously to deliver “change” as a key word for how we and our 
+customers work. 
+Innovating workstyles is not simply about reducing working hours. Our goal is for each employee to improve the quality of 
+his or her work in the limited time available, while at the same time making effective use of the time created through reduced 
+working hours for self-fulfillment pursuits. We want every employee to continue growing and playing an active role in the 
+Company, which will help us maintain our strong competitive edge. 
+NTT DATA also practices health management. We aim to become “the company of choice in the labor market” by improving 
+systems and working environments, enhancing development productivity and reducing long working hours through cooperation 
+with customers and suppliers. 
+We will continue targeting growth by encouraging employees to have a positive influence on each other and on the Company. 
+ 
+Activity Results 
+ 
+ Main Initiatives to Reform Workstyles 
+ Ongoing training for newly appointed general managers and section chiefs on the theme of “work-style innovation” 
+ Creating environments that allow for flexible workstyles in accordance with the characteristics of each organization, such as 
+companywide thin clients, discretionary labor, teleworking and flexible working hours 
+ Promoting the use of paid leave (refreshment leave and anniversary leave) 
+ Increasing the flexibility of system operation to provide ample relaxation time 
+ Expanding the eligibility and coverage of the teleworking system 
+ Using our internal website to introduce good examples for changing workstyles 
+ 
+ Innovating Workstyles by Enhancing the Digital and Global Skills of All Employees 
+As a new initiative starting in fiscal 2019, we launched “Self-Innovation Time” as a common KPI for all Group organizations. 
+Under the system, all employees devote a portion of their work time to innovation-related domains. Such domains include 
+strengthening digital and global skills, innovating workstyles through digital technologies and sharing knowledge within the Group 
+and with other organizations. In fiscal 2019, our employees spent an average of 59 hours focusing on innovation-related domains. 
+In fiscal 2020, we are working to improve the quality of these efforts and create Groupwide collaborations. 
+ 
+ Reducing Total Working Hours 
+Long working hours are an ongoing problem in the IT industry, and NTT DATA is working to reduce total working hours based 
+on proper working hour management. 
+To date, we have sought to manage working hours by recording computer log-on and log-off times and using smartphones 
+to enter workday start and stop times. We have also set reduction targets for total working hours at each workplace and promoted 
+measures to attain those targets. We report the achievement progress of each organization’s reduction targets to top 
+management every quarter. In addition, we have implemented a plan-do-check-act (PDCA) cycle, through which we continuously 
+review and improve initiatives. As a result, in fiscal 2018 we achieved our target of reducing average annual working hours per 
+employee to 1,890. 
+We also use the Tableau business intelligence (BI) platform to visualize the analysis results of data related to working hours 
+in a secure and timely manner and share them within the Company. In addition, we use AI to detect any signs of excessive 
+working hours and pursue initiatives to prevent overwork.

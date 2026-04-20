@@ -1,0 +1,326 @@
+Environmental Data
+Units
+Amount
+Waste 
+countermeasures
+Industrial waste requiring special management, etc.
+Asbestos removed (from buildings) during the year
+Instances
+
+Asbestos emissions (from buildings) during the year
+t
+
+Waste batteries
+t
+
+Other waste (acidic ash, alkali, oil, etc.)
+t
+
+Use of products containing PCBs
+Units
+
+Transformers
+Units
+
+PCB-containing products renewed (removed, stored) during the year
+Units
+
+Transformers
+Units
+
+Stabilizers
+Units
+
+Storage of PCB-containing products
+Units
+
+Transformers
+Units
+
+Stabilizers
+Units
+
+Disposal of PCB-containing products during the year
+Units
+
+Transformers
+Units
+
+High-voltage condenser
+Units
+
+Low-voltage condenser
+Units
+
+Stabilizers
+Units
+
+Ozone layer 
+protection
+Removal of air-conditioning system units using chlorofluorocarbons (CFCs) during the year
+Removal of air-conditioning system units using specified CFCs
+Units
+
+Removal of air-conditioning system units using alternative hydrochlorofluorocarbons (HCFCs)
+Units
+
+Removal of air-conditioning system units using alternative hydrofluorocarbons (HFCs)
+Units
+
+Recovery and destruction of specified CFCs used for air-conditioning systems
+kg
+
+Recovery and destruction of alternative HCFCs used for air-conditioning systems
+kg
+
+Recovery and destruction of alternative HFCs used for air-conditioning systems
+kg
+
+Use of air-conditioning system units using CFCs
+Air-conditioning system units using specified CFCs
+Units
+
+Air-conditioning system units using alternative HCFCs
+Units
+
+Air-conditioning system units using alternative HFCs
+Units
+2,012 
+Specified CFCs used for air-conditioning systems
+kg
+9,916 
+Alternative HCFCs used for air-conditioning
+kg
+19,000 
+Alternative HFCs used for air-conditioning
+kg
+36,739 
+Storage of air-conditioning system units using CFCs
+Storage of air-conditioning system units using specified CFCs
+Units
+
+Storage of air-conditioning system units using alternative HCFCs
+Units
+
+Storage of air-conditioning system units using alternative HFCs
+Units
+
+Stored amount of specified CFCs used for air-conditioning systems
+kg
+3,279 
+Stored amount of alternative HCFCs used for air-conditioning systems
+kg
+1,268 
+Stored amount of alternative HFCs used for air-conditioning systems
+kg
+
+Use of vehicles using CFCs
+Company vehicles that employ CFCs in air-conditioner refrigerants
+Units
+
+Company vehicles that employ HCFCs in air-conditioner refrigerants
+Units
+
+Company vehicles that employ HFCs in air-conditioner refrigerants
+Units
+
+Use of CFCs in vehicle air-conditioners
+kg
+
+Use of HCFCs in vehicle air-conditioners
+kg
+
+Use of HFCs in vehicle air-conditioners
+kg
+
+Elimination of specified-halon fire prevention equipment
+Buildings from which specified-halon fire prevention equipment removed 
+during the year
+Buildings
+
+Amount of specified halons removed from fire prevention equipment during 
+the year
+kg
+
+Amount of specified halon gas emitted by fire prevention equipment during 
+the year
+kg
+
+Remaining number of buildings employing specified-halon fire prevention 
+equipment
+Buildings
+
+Remaining specified halon gas emissions from fire prevention equipment
+kg
+36,400 
+Environmental Data
+Units
+Amount
+Resource usage
+Consumption of water resources
+m3
+826,896 
+Clean water consumption
+m3
+553,703 
+Sewerage water consumption
+m3
+273,193 
+Gray water consumption
+m3
+
+Rainwater consumption
+m3
+
+Consumption of clean, sewerage, and other water
+m3
+
+Energy consumption
+Utility power
+10,000 kWh
+49,437 
+Kerosene
+kl
+
+Light gas oil (excluding Company vehicles)
+kl
+
+A–C heavy oil
+kl
+
+City gas
+10,000 m3
+
+Gasoline for Company vehicles
+kl
+
+Light gas oil for Company vehicles
+kl
+
+Steam
+GJ
+10,192 
+Cold energy
+GJ
+33,196 
+Scope of Environmental Impact Measurement
+ All NTT DATA organizations, 69 Group companies in Japan
+*1 CO2 conversion factor uses CO2 emission factor by electric power companies.
+*2 Units and emissions from fiscal 2013 include individual free-standing air-conditioning units as well as central air-conditioning units.
+Office Waste of the NTT DATA Group in Fiscal 2016
+ 
+(kg)
+Primary 
+Category
+Subcategory
+Recycled 
+Amount
+Waste Disposal Amount
+Total 
+Emissions
+Final 
+Disposal
+Disposal Method
+Incineration
+Landfill 
+Amount
+Category A + B
+Mixture of Categories A and B 
+(unsorted waste)
+
+Category A 
+(Burnable)
+Fine paper
+1,319,789
+
+1,320,169
+
+Newspapers, magazines, cardboard
+62,522
+
+62,522
+
+Raw garbage (tea leaves, food 
+scraps, cigarette butts, etc.)
+11,201
+
+11,378
+
+Paper waste
+289,408
+3,451
+
+292,858
+
+Plastics (burnable)
+5,860
+
+5,860
+
+Waster oil
+5,240
+
+5,240
+
+Unsorted burnable waste, other 
+burnable waste
+372,954
+5,835
+
+378,789
+
+Category B 
+(Non-burnable)
+Bottles
+18,445
+
+18,660
+
+Cans
+38,548
+
+38,548
+
+Plastics (non-burnable)
+
+PET bottles
+8,052
+
+8,052
+
+Unsorted non-burnable waste, 
+other nonburnable waste
+1,089
+
+1,248
+2,337
+1,248
+Category C
+OA equipment, fixtures, others
+3,665,996
+35,396
+17,868
+3,719,260
+21,408
+Total
+5,799,960
+45,238
+19,331
+5,864,530
+23,855
+Scope of Environmental Impact Measurement
+ All NTT DATA organizations, 69 Group companies in Japan
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

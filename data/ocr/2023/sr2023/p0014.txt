@@ -1,0 +1,64 @@
+Sustainability Management 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Organization/Initiative 
+Outline 
+CDP GOLD Accredited Provider 
+ 
+CDP is an NGO that runs the global disclosure system for investors, 
+companies, cities, states, and regions to manage their environmental 
+impacts. NTT DATA became the 20th global partner of CDP in March 
+2022 and is actively promoting initiatives in the field of climate change 
+consulting and software. 
+Green × Digital Consortium 
+ 
+This consortium was established by Japan Electronics and Information 
+Technology Industries Association (JEITA) and aims to contribute to 
+the realization of carbon neutrality by 2050 through digitalization and 
+the creation of new business models in environmental fields. NTT 
+DATA joined the consortium in October 2021 and has been actively 
+participating in working groups such as the Visualization Working 
+Group for standardizing inter-company distribution of GHG emission 
+data. 
+Green Software Foundation (GSF) 
+ 
+GSF was formed under Linux Foundation, an international nonprofit 
+organization, to support the utilization and advancement of opensource software. It aims to establish methods for measuring carbon 
+emissions when running software and working toward reducing these 
+emissions. NTT DATA joined as the sixth consortium member in May 
+2021. 
+ESTAINIUM Association 
+ 
+This nonprofit organization aims to serve as a cross-industry hub for 
+companies, organizations, and academic institutions, providing an 
+open foundation for securely sharing GHG emission data (product 
+carbon footprint data) among all companies in a supply chain and 
+supporting industrial decarbonization. NTT DATA established the 
+association with 14 affiliated companies in June 2022. 
+TNFD Forum 
+ 
+The Taskforce on Nature-related Financial Disclosures (TNFD) is an 
+international initiative aimed at establishing a framework for private 
+companies and financial institutions to appropriately assess and 
+disclose risks and opportunities related to natural capital and 
+biodiversity. In February 2023, NTT DATA joined the TNFD Forum, 
+which aims to enhance transparency regarding nature-related risks 
+and opportunities for businesses worldwide. 
+30by30 Alliance 
+ 
+This voluntary alliance was established by the Ministry of the 
+Environment with the aim of generating momentum and promoting 
+efforts toward the achievement of the “30by30” goal, which aims to 
+conserve and protect more than 30% of land and sea as healthy 
+ecosystems by 2030. NTT DATA joined the initiative in February 2023. 
+Keidanren Committee on Nature Conservation 
+ 
+This committee engages in various activities, including providing 
+recommendations on international goals and domestic policies related 
+to biodiversity, with a focus on participating companies from Japan 
+Business Federation (Keidanren). NTT DATA joined the committee in 
+March 2023. 
+Other 
+・Japan Association of Corporate Executives ・Japan Data Communications Association 
+・The Telecommunications Association 
+・Japan Electronic Payment Promotion Organization

@@ -1,0 +1,47 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ 
+ Internal Auditing System 
+ 
+ Security Incident Prevention, Detection, and Responses 
+The NTT DATA Group operates NTTDATA-CERT as an organizational CSIRT to prevent the occurrence of information security 
+incidents1 through its day-to-day activities. NTTDATA-CERT works to detect incidents early and provide quick and appropriate 
+emergency responses. 
+1. Actualization of security threats related to information management and system operation, such as computer malware infection, unauthorized access, 
+and information leakage 
+ 
+Activities to Prepare for New Security Risks 
+We gather, analyze, and communicate a wide range of security-related information including the newest attack methods and 
+incident occurrences, while engaging in communication monitoring, emergency responses, research and development, and 
+collaboration with external organizations. 
+ 
+Wide-Ranging Internal and External Collaborations 
+In addition to internal activities, the NTT DATA Group is a member of FIRST2, a global CSIRT community. We also collaborate 
+broadly with external security organizations, including the JPCERT Coordination Center (JPCERT/CC) and CSIRT teams from 
+all member companies of the Nippon CSIRT Association (NCA). With these efforts, we quickly share security-related information 
+and enable early detection and responses to security concerns. 
+2. Abbreviation of Forum of Incident Response and Security Teams: A global community of 635 CSIRT teams (as of July 29, 2022) from government 
+agencies, educational institutions, corporations, and the like. 
+ 
+CSIRT Management Utilizing OSINT 
+We adopt an open-source intelligence (OSINT) approach when operating NTTDATA-CERT, which involves actively utilizing 
+information obtained lawfully through such sources as official government announcements, mass media reports, academic 
+articles, and technical materials. Information collected daily is analyzed by NTTDATA-CERT’s experts, who then predict future 
+security trends and report their findings to all NTT DATA Group companies through news briefings and quarterly reports. The 
+information is also used for strengthening the monitoring of cyberattacks. In these ways, the NTT DATA Group makes full use of 
+the information for our security strategies and measures. 
+ 
+Conducting Incident Response Workshops 
+We hold workshops for domestic Group companies so that, in the event of an information security incident, we can respond 
+systematically and promptly to minimize the impact and ensure that the incident is terminated. Referring to the NTT DATA Group 
+Information Security Incident Response Standard for Japan, workshop participants learn how to respond appropriately to 
+cyberattacks by learning the actions they should take from an incident’s occurrence to its termination. They also learn from 
+exercises using past incidents that occurred within the NTT DATA Group. 
+ 
+ Stepping Up Security Governance Efforts 
+We are stepping up our security governance efforts to better understand and methodically respond to the security risks that the 
+NTT DATA Group faces globally. 
+In fiscal 2021, we engaged in improving global governance maturity, worked to strengthen and ensure the stable operation 
+of our global security infrastructure, and reliably escalated our responses to serious incidents.

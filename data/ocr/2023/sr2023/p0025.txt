@@ -1,0 +1,49 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Transition Plan Toward Achieving NTT DATA NET-ZERO Vision 2040 
+ 
+Based on our transition plan toward achieving net zero by 2040, we are advancing various initiatives, including the following. 
+Scope 1 and 2 
+(NTT DATA) 
+・ 
+Optimize energy use via digital technology for everything from data centers and other 
+facilities to applications, with a focus on Green Data Centers®*1 
+・ 
+Achieve a 100% implementation rate for renewable energy at data centers and offices 
+Scope 3 Upstream 
+(Suppliers) 
+・ 
+Reduce power consumption through the development of green software*2, efficient power 
+use, and scaling back of hardware use through consolidation 
+・ 
+Prioritize procurement from suppliers who are reducing emissions at the same level as 
+NTT DATA (SBT 1.5°C approved level) 
+・ 
+Promote the circular economy through reuse and recycling 
+Scope 3 
+Downstream 
+(Clients) 
+・ 
+Facilitate fundamental measures such as moving IT services to the cloud to reduce GHG 
+emissions at client sites and shifting business models from equipment sales to service 
+provision 
+・ 
+Introduce renewable energy for the services used by clients as a partner to reduce GHG 
+emissions through engagement with the clients 
+・ 
+Contribute to reductions in client emissions beyond Scope 3 downstream, such as utilizing 
+Green IT*3 for the visualization of GHG emissions and greater energy efficiency 
+Beyond value chain 
+initiatives 
+・ 
+Verify and implement new technologies (e.g., blue carbon, forestry IoT) 
+*1 A Green Data Center is a service that supports the IT management of clients through full outsourcing of IT infrastructure using technologies such as 
+virtualization and operational automation. It offers services such as “Managed Hosting” that combine facility, network, virtualization, OS/middleware, and 
+operation management, as well as rack colocation services that are environmentally friendly. 
+*2 Green software refers to software with low GHG emissions. The main characteristics of green software are 1) power consumption by the software itself 
+is low; 2) the software uses fewer hardware resources; and 3) the way power is used is optimized, with the software running on electricity derived from 
+renewable energy. 
+*3 Green IT refers to contributions to the reduction of the environmental load for clients and society by lessening the environmental impact (including GHG 
+emissions) from IT equipment throughout its life cycle, or utilizing the advanced information processing and communication technologies afforded by IT 
+to enhance the efficiency of production, distribution, management, and other operations.

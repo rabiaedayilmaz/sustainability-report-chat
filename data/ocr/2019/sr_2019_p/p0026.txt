@@ -1,0 +1,104 @@
+become so reliant on experienced employees that no one else 
+understands them. Such visualization can also improve the 
+efficiency of the business processes and make it easier to hand 
+them over to other employees.
+Upon building this foundation, we provide people with 
+opportunities to build a “two-way” career by helping them not 
+only pursue traditional career building that aims to improve 
+work skills and but also acquire information technology 
+utilization skills that enable them to use their RPA and other 
+skills for proactively improving business processes. By increasing 
+the number of such people with a two-way career, we can help 
+our customers improve their business processes seamlessly and 
+enable them to devote more time to core and creative tasks.
+NTT DATA also focuses on developing RPA experts by putting 
+in place training courses to teach RPA skills as well as an official 
+system to certify RPA skill levels. Recently, we’ve seen some 
+home-based workers and persons with disabilities successfully 
+improving their employability by acquiring WinActor
+® skills.
+CASE02
+A software robot solution not for saving manpower but for making time for creative tasks
+Tens of thousands of people have taken the WinActor
+® operation training course
+Momoka Kidokoro
+RPA Solutions Group 
+Digital Solution Section 
+Social Innovation Division
+Akiko Muraoka
+RPA Solutions Group 
+Digital Solution Section 
+Social Innovation Division
+The Voice of the Stakeholder
+Daito Trust Group has adopted NTT DATA’s WinActor
+Ⓡ across the 
+organization to promote and realize employee workstyle reforms since 2017.
+　Daito Corporate Service, a special subsidiary company established 
+by Daito Kentaku Group to provide job opportunities to people with 
+disabilities, executes business processes mainly entrusted by other 
+companies across the Group.
+　Our company hires people with disabilities through collaboration with 
+employment support offices for persons with disabilities. For job seekers 
+who have no experience in program development, we offer practical 
+training in RPA. Those who have successfully completed the training are 
+actively working as members of our RPA team, which was inaugurated 
+in January 2019 to help apply robotic process automation to as many as 
+700 business processes.
+Mr. Koji Sumita
+Psychiatric Social Worker
+Shared Service Section
+Shinagawa Service Department
+Daito Corporate Service Co., Ltd.
+Overcoming disparities in information technology literacy
+Being a solution for automating routine business processes, RPA 
+has been widely regarded as a software designed to cut back 
+on manpower. This perception, however, is wrong. The essence 
+of the solution is the idea that “freeing people from routine 
+manpower-reliant business processes gives them greater scope 
+to exert their creative abilities.” Also, by combining RPA and 
+AI, we can help narrow disparities in information technology 
+literacy between people with digital literacy and those without 
+who have been unable to enjoy the benefits of information 
+technology services. For instance, if you combine an AI speaker 
+with RPA, all you need to do is to speak into the AI speaker 
+to make a request, such as “Calculate and settle expenses” or 
+“Reserve a hotel in Tokyo” and WinActor
+® will take care of 
+the rest. Moreover, by combining a chatbot with RPA, users just 
+have to type their requests into a chat window, such as “Book 
+a seat on the earliest available flight to Fukuoka,” which will 
+also be automatically taken care of by WinActor
+®.
+Efforts to address labor shortages and provide a new means 
+of career formation
+NTT DATA strives to co-create various services and businesses 
+by coupling its strength based on the 350-strong network 
+of authorized WinActor
+® dealers with RPA. As one example 
+of such efforts, an authorized dealer whose main business is 
+temporary staffing began providing training to its registered staff 
+on scenario creation skills using WinActor
+® and dispatching the 
+trained staff to its customers. Once dispatched, these workers 
+perform accounting operations and enable the automation 
+of work tasks at their workplaces, helping to address labor 
+shortages and promote workstyle reforms.
+The foundation for the effective utilization of RPA is the 
+implementation of Business Process Visualization. This means 
+to visualize (make into a rule) business processes that have 
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

@@ -1,0 +1,77 @@
+Society | Inclusive Society
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Proportion of fatalities in all fatal traffic 
+accidents attributed to elderly drivers
+Assessing Brain Health from Daily Driving Behavior 
+for Early Detection of Cognitive Decline and 
+Accident Prevention
+Click here for 
+reference article
+NTT DATA (Japan)
+An example of the societal impact of dementia is the
+increase in traffic accidents, particularly involving elderly
+drivers who constitute a significant portion of dementia
+patients, contributing to a rising trend in Japan. While
+advancements
+in
+early detection
+and
+treatment of
+dementia have made it possible to delay its progression,
+individuals in the pre-dementia stage of mild cognitive
+impairment might not recognize symptoms, leading
+many to seek medical attention only after developing
+dementia.
+NTT DATA has commenced a verification experiment
+in collaboration with Kokusai Motorcars Co., Ltd., a
+passenger transportation company including taxis, to
+develop
+a
+system
+for
+identifying
+drivers’
+cognitive
+abilities and detecting unsafe driving behaviors. In
+conjunction with Eisai Co., Ltd.’s self-check tool for
+assessing brain health, NTT DATA will install GPS and
+measurement devices in taxi vehicles to collect driving
+data from drivers. The collected data will be transmitted
+to the cloud and analyzed by AI, where it will be
+correlated with the driver’s brain health to develop
+algorithms
+(methods
+of
+calculation)
+for
+identifying
+cognitive function. This will enable the estimation of
+drivers' brain health status from their daily behaviors
+and provide regular notifications, contributing to the
+early detection of cognitive decline and reducing the
+occurrence of traffic accidents.
+12.9%
+Conceptual diagram of verification experiment
+· It is projected that the proportion of individuals aged 65 and older in the global population will increase from 9.4% 
+in 2020 to 18.7% by 2040, indicating a rapid advancement in aging trends.
+· Japan has one of the highest aging rates in the world.
+Utilization of 
+Connected Car 
+Data
+Community
+Engagement
+Smart X
+Co-Innovation
+(Source: Analysis of fatal accidents caused by elderly
+drivers
+in
+
+released
+by
+the
+National
+Police
+Agency.)

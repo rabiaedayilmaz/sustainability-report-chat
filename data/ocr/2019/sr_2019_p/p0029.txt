@@ -1,0 +1,85 @@
+Thirty-five years after its inception, CAFIS now boasts an extensive 
+network connecting all credit companies and financial institutions in Japan 
+and stably processes as many as 800 million transactions a month via 
+850,000 terminals for shared use, POS terminals in credit card member 
+stores, and online shops, working 24 hours a day, 365 days a year.
+Among all public fee/tax payment services available today, CAFIS is 
+the only platform that supports three payment methods of (1) direct 
+debit from savings account, (2) payment by requested bank transfer 
+and (3) credit card payment. Line Pay has now been added to its 
+portfolio of services, making the platform all the more convenient.
+Offering services for 35 years since 
+its inauguration
+In 2012, CAFIS adopted a dual-center structure by establishing data 
+centers in both Tokyo and Osaka. Based on this structure, it offers 
+uninterrupted service and has successfully ensured service continuity in 
+times of major disaster. It has also introduced a multi-carrier format to 
+its networks to secure multiplicity and redundancy.
+Ensuring safe and secure 
+introduction
+Supporting public institutions that 
+collect taxes/fees
+
+“CAFIS”
+A Platform that Provides Continuous Support for Cashless 
+Payments in Japan, 24 Hours a Day, 365 Days a Year
+*1 
+“.Pay” is a credit card payment solution offered by Tokyu Corporation and 
+NTT DATA since April 2018. It’s the world’s first cardless payment solution 
+that can be used both in online and physical stores.
+CAFIS in use
+● Developing social infrastructure that is convenient, safe and secure
+● Helping reduce environmental impact
+Contributions 
+to SDGs
+CASE
+CAFIS (Credit and Finance Information Service) is a 
+comprehensive payment platform that relays transactions 
+linking stores and public payees that accept credit cards with 
+credit card companies and financial institutions. Foreseeing 
+the imminent expansion of Japan’s credit card market, NTT 
+DATA began offering this service in 1984. It has now grown to 
+become “infrastructure” for cashless payments in Japan.
+For the 35 years since its inauguration, CAFIS has responded 
+to emerging demands by offering a variety of cashless paymentrelated support services and expanding its solution portfolio 
+to keep pace with the diversification of methods offered 
+in a cashless economy. Currently, we offer over 30 CAFISbased services. Recently, we started offering services such as 
+CAFIS Arch, a cloud-based payment platform, CAFIS Pitt, a 
+smartphone-based cashless payment platform, and Code-based 
+Payment Gateway (GW), a widely publicized service for unifying 
+settlement processes of many different code-based payments.
+CAFIS Arch is a cloud-based comprehensive payment 
+platform capable of processing payments by credit cards, 
+debit cards, various electronic money services, contactless 
+payment transaction using IC chips and payments by inbound 
+travelers using payment services offered in their own countries. 
+It also supports payments by the new, widely publicized 
+JPQR, an unified barcode and QR code system. CAFIS Pitt 
+is a smartphone-based payment platform that can be easily 
+installed inside credit card member companies/stores’ 
+smartphone applications. Like the “.Pay”*¹ service offered by 
+TOKYU CORPORATION and NTT DATA, CAFIS Pitt is a whitelabel service that can be rebranded by credit card member 
+companies/stores to create their own original payment services.
+For each CAFIS service, we have obtained security 
+certifications from organizations such as the Information 
+Security Management System (ISMS) and the Payment Card 
+Industry Data Security Standard (PCI DSS), global standard for 
+payment card companies, in order to allow credit card member 
+companies/stores to adopt a variety of payment methods 
+safely and securely.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

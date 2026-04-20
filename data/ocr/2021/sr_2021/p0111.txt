@@ -1,0 +1,58 @@
+Social 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+Innovation Management 
+ 
+Basic Policy and Promotion System 
+ 
+The NTT DATA Group provides safe and secure services to customers and strives to enhance these services by continuously 
+monitoring customer needs. 
+We strive to remain constantly abreast of emerging information technologies and apply new approaches to address the 
+needs of customers and society. Recognizing the critical importance of providing clients with safe and secure services, we have 
+established an organized and systematic quality management system and adopted advanced development methods to provide 
+highly reliable solutions. To meet the diverse needs of our customers, we also conduct customer satisfaction surveys. Based on 
+opinions and requests we receive, we carry out service improvement activities to provide better services from the customer’s 
+perspective. 
+ 
+ Innovation Management 
+The NTT DATA Group works to address social issues and create a sustainable society by advancing innovation management 
+centered on creating IT-driven innovations. We share medium- to long-term issues with our customers to promote the 
+development of various new businesses. 
+ 
+NTT DATA’s Digital Approach 
+We have defined five “Digital Drivers” for enabling customers’ digital transformation: Transform business processes, rebuild 
+ecosystems that connect stakeholders, create new experiences for end-users, provide digital services and solutions that create 
+new value, and create new business models that disrupt conventional thinking. We have also categorized the advanced 
+technologies that are essential to making these Digital Drivers a reality into six “Digital Focus Areas.” By combining these Digital 
+Drivers and Digital Focus Areas, we provide customers with the best solutions to help them succeed in their digitalization efforts. 
+ 
+Activity Results 
+ 
+ Disseminating Innovative Technologies: NTT DATA Technology Foresight 
+Every year, we publish the NTT DATA Technology Foresight report, which provides information on trends for predicting future 
+technology-driven changes. To produce the report, we analyze political, economic, social and technological trends, and collect 
+and discuss wide-ranging information through interviews with NTT Data Group companies and NTT DATA Group R&D 
+laboratories in Japan and overseas, as well as with experts in various fields. Through these activities, we have identified 
+“information society trends” to help predict the direction of social changes brought about by information technology, and 
+“technology trends” to help predict the future based on the latest information technologies. These information society trends and 
+technology trends reveal the path that companies should take going forward. 
+In the 10th edition of the report (2021 edition), we presented three information society trends and six technology trends, 
+which are used as information sources for formulating corporate strategies and as a starting point for discussions. 
+These activities involve envisaging the current state of our increasingly complex technological world and providing a 
+compass to navigate the future. Through such activities, we broadly demonstrate our foresight and technological capabilities to 
+our customers. Our aim is to gain and enhance the trust of customers in our quest for innovation co-creation. 
+ 
+https://www.nttdata.com/global/en/foresight 
+ 
+ Global Technology Strategy Formulation: Global Technology & Innovation Steering Committee 
+NTT DATA’s Global Technology & Innovation Steering Committee is responsible for “business acceleration” for creating and 
+rolling out offerings in priority areas; “innovation acceleration” for examining and acquiring technologies in each priority 
+technology area; and “digital competency centers of excellence (CoEs)” for consolidating and promoting the use of cutting-edge 
+technologies globally. By supporting our global client companies and promoting the globalization of our offering and delivery 
+resources, we help strengthen and smoothen our regional collaborations at the global level. 
+We are committed to working together with customers to develop digital strategies and take the next step in accelerating 
+their digital transformation. To this end, we need to clearly define and strengthen our capabilities in the key digital focus areas. 
+To serve as a partner in promoting our customers’ digital strategies on a global scale, meanwhile, we will define priority 
+technology areas, promote joint projects with customers and invest in solutions on a global level. In these and other ways, we 
+will restructure our system for approaching global client companies.

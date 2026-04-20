@@ -1,0 +1,118 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Generative AI Holding Meetings and Autonomously Deepening Discussions
+NTT DATA Japan Corporation
+Digital Success Consulting Division
+Technology Consulting Sector
+LITRONⓇMulti Agent Simulation 
+Smart X
+Co-Innovation
+Future of
+Work
+• The shrinking of workforces due to population decline is accelerating, leading to labor shortages and creating a need to significantly reduce labor hours and improve productivity.
+• As set out in the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work, it is also necessary to create workplaces where employees can work
+safely and in good health while improving productivity.
+Business need
+Labor forces are shrinking at an accelerated rate due to
+low birthrates and aging populations, and demand to
+leverage generative AI at work is rising rapidly. In a
+survey of 1,000 businesspeople, 58% of respondents said
+they
+already
+use
+or
+are
+experimenting
+with
+using
+generative AI in their work. When those considering using
+the technology are included, the total becomes 76%.
+However, use of generative AI is currently limited to
+tasks
+such
+as
+performing
+searches
+and
+creating
+summaries using natural language, meaning it has not
+significantly expanded output of final products. People are
+seeking projects that use generative AI to transform
+operating processes as a whole.
+Solution
+NTT DATA has been advancing its customers’ use of
+generative AI through solutions such as the LITRON
+Generative Assistant. Building on insight from this work, it
+developed the LITRON® Multi Agent Simulation based on a
+belief that communication between AI is necessary to
+creating digital labor that automatically performs tasks
+instead of humans.
+This
+solution
+is
+a
+communication
+support
+service
+developed by NTT DATA and NTT DATA Mathematical
+Systems. Generative AI are assigned individual personas
+covering aspects such as age, gender and work duties.
+They can then communicate with other generative AI to
+perform
+tasks
+from
+creating
+new
+product
+ideas
+to
+supporting marketing strategy formulation.
+For example, generative AI with various expertise can
+take part in a design meeting for a new product and
+produce ideas with wide-ranging perspectives, speeding up
+new product development. In support departments that
+serve customers, they can simulate complaints and other
+situations
+in advance, then create
+effective
+customer
+service manuals incorporating diverse points of view. This
+can enhance customer satisfaction and reduce support
+costs.
+In future, NTT DATA will continue to develop and put
+forward services to expand generative AI projects in Japan,
+contributing to the resolution of social issues and the
+growth of clients’ businesses.
+Impact
+Marketing sophistication verification test with Company A
+(results after sending direct mail to promotion targets
+derived using suggestions from LITRON)
+3.0% improvement
+Purchase rate compared to typical target customers
+Databases
+Internet
+Documents
+Knowledge expansion 
+from external sources 
+as required
+Sales staff
+Engineer
+Consultant
+Facilitator
+AI
+AI
+AI
+AI
+AI
+Researcher
+Human
+LLM agents each receive distinct positions
+and autonomously deepen discussions.
+LITRON® Multi Agent Simulation
+LITRON®
+NTT DATA
+(in Japanese only)

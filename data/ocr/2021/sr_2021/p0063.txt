@@ -1,0 +1,81 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ Acquiring ISO 14001 Certification 
+As of August 31, 2020, a total of 35 Group companies, including NTT DATA, had attained ISO 14001 certification. Of this total, 
+30 companies acquired Group integrated certification, whereas five companies gained independent certification. As a result, the 
+environmental management system’s coverage rate of sales totaled 64%, with 51% by Group integrated certification and 13% 
+by independent certification. 
+The environmental management system of each company is audited annually by an auditing organization to maintain 
+ongoing certification. 
+ 
+ Status of ISO 14001 Certification (as of August 31, 2021) 
+ 
+NTT DATA Group Entities That Have Acquired Certification 
+NTT DATA Corporation 
+NTT DATA INSTITUTE OF MANAGEMENT CONSULTING, Inc. 
+NTT DATA HOKKAIDO Corporation 
+NTT DATA CCS CORPORATION (Head Office, data center) 
+NTT DATA TOHOKU Corporation 
+JSOL Corporation (Tokyo Head Office) 
+NTT DATA SHINETSU Corporation (head office) 
+NTT DATA SYSTEM TECHNOLOGIES INC. 
+NTT DATA TOKAI Corporation (head office) 
+NTT DATA SEKISUI SYSTEMS Corporation (Osaka Head Office, Tokyo Head Office) 
+NTT DATA HOKURIKU Corporation 
+NTT DATA INTELLILINK Corporation 
+NTT DATA KANSAI Corporation (head office) 
+NTT DATA SOFIA Corporation (head office) 
+NTT DATA CHUGOKU Corporation (head office) 
+NTT DATA DAICHI Corporation (head office) 
+NTT DATA SHIKOKU Corporation (head office, Kagawa office) 
+DACS Co., Ltd. (Head Office, Tokyo Branch, Osaka Data Center, BPO Center) 
+NTT DATA KYUSHU Corporation 
+NTT DATA BUSINESS SYSTEMS Corporation 
+NTT DATA i Corporation 
+NTT DATA FINANCIAL CORE Corporation 
+NTT DATA WAVE Corporation 
+NTT DATA FRONTIER Corporation 
+NTT DATA SMS Corporation 
+NTT DATA MANAGEMENT SERVICE Corporation 
+(Head Office, Tokai Branch, Kansai Branch) 
+NTT DATA CUSTOMER SERVICE Corporation (Head Office) 
+NTT DATA UNIVERSITY Corporation 
+NTT DATA NJK Corporation (head office) 
+XNET Corporation (head office) 
+NTT DATA Group Entities That Have Acquired Certification Independently 
+Japan Information Processing Service Co., Ltd. (JIP) 
+NTT DATA UK Limited 
+NTT DATA MSE CORPORATION 
+NTT DATA Romania S.A 
+Everis Participaciones, S.L.U. 
+ 
+ 
+ Internal Environmental Audits 
+NTT DATA Group companies that have acquired ISO 14001 certification periodically conduct internal environmental audits to 
+confirm conformance with ISO 14001 specifications and PDCA cycle functionality. 
+For internal audits of Group EMS organizations, in fiscal 2019 we conducted actual audits that were performed by external 
+experts and internal environmental auditors from organizations other than the ones being audited. In addition, internal 
+environmental auditors conducted environmental audits of their own organizations on a self-audit basis. We hold meetings before 
+and after audits to confirm audit items and the status of Groupwide environmental management systems, as well as to share 
+examples of recommended organizational activities and areas for subsequent improvement. In these ways, we work 
+continuously to improve the Group’s environmental protection activities. 
+NTT DATA Group EMS organizations are required to elect at least one internal auditor. With the expansion of Group 
+companies that have acquired ISO 14001 certification, we have upgraded our audit system, which now includes 97 internal 
+environmental auditors (as of August 31, 2021). 
+Selected internal auditors are invited to participate as members of audit teams in the internal audits of other organizations, 
+so that they can learn about the successful activities of such organizations and utilize them to improve their own activities. 
+To implement more appropriate and effective internal environmental audits, our internal environmental auditors share their 
+expertise with each other. We also actively foster internal environmental auditors to improve their medium- to long-term 
+capabilities by, for example, holding study sessions with outside experts. 
+ 
+ Results of Internal Environmental Audits for Fiscal 2020 
+ 
+Implementation Period 
+Actual audits: July 7–September 10, 2020; Self-audits: Coordinated by each organization 
+Target organization/company 
+NTT DATA: Actual audits: 9 organizations, 3 buildings; Self-audits: 38 organizations, 14 buildings 
+Group companies: Actual audits: 11 companies 
+Audit results 
+Actual audits: 0 serious cases, 4 minor cases, 32 cases of room for improvement, 34 recommendations 
+Self-audits: 2 serious cases, 8 minor cases, 26 cases of room for improvement, 5 recommendations

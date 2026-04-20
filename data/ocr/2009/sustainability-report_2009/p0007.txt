@@ -1,0 +1,95 @@
+NTT DATA provides systems integration and shared use services 
+according to the scale requirements and objectives of a wide 
+range of financial institutions, such as governmental financial 
+institutions, securities and insurance companies, banks, credit 
+banks, credit unions, labor banks and agricultural cooperatives. 
+We also offer a wide range of outsourcing services to help 
+financial institutions raise business efficiency and improve 
+service quality.
+In this sector, we provide services to ensure safety and peace of 
+mind, including healthcare management systems that promote 
+health and disease prevention on a daily basis, a regional health 
+information network system that provides better healthcare 
+services by sharing patient information and a wide-area disaster 
+and emergency medical information system that provides 
+support during medical emergencies and disasters.
+In Japan, medical institutions and pharmacies receive the 
+portion of their compensation that is covered by medical 
+insurance by filing medical insurance reimbursement claims 
+to agencies that verify and process receipts. This filing process 
+will be moved on line by fiscal 2012. Accordingly, the Ministry 
+of Health, Labour and Welfare (MHLW) has formulated 
+guidelines for highly secure medical institution and 
+pharmacy network environments.
+To address the IT needs of community healthcare 
+providers, since September 2008 NTT DATA has offered a 
+specialized router that utilizes on-demand virtual private 
+network (VPN) technology to create a simple and inexpensive 
+network that meets MHLW security guidelines. With this 
+service, medical institutions and pharmacies simply install a 
+dedicated router to turn their existing Internet environments 
+into highly secure networks.
+The global financial crisis and financial industry 
+reorganization has made competition for survival among 
+regional banks increasingly fierce. In this environment, shared 
+services centers are gaining attention from banks, which can 
+outsource common core business systems to the center.
+NTT DATA provides “Banking application Engine for 
+STandard Architecture” (BeSTA), a standard banking application 
+that offers advanced functions, based on the Company’s 
+extensive experience in creating accounting systems for 
+numerous regional banks. As of July 2009, the Regional Bank 
+Integrated Services Center, which is based on BeSTA, provided 
+services to nine regional banks, the highest number in Japan 
+for this type of center. The STELLA CUBE, core business shared 
+service center which is also based on BeSTA, is scheduled to 
+begin operations in May 2011. At that point, the number of 
+banks serviced by BeSTA will expand to 24.
+NTT DATA will continue to support the IT strategies of banks 
+rooted in regional communities and invigorate regional economies.
+Bank A
+Bank B
+Bank C
+Bank D
+Regional Bank
+Integrated Services Center
+Core business system
+•Accounting
+•Foreign exchange
+•Inter-banking
+Subcontract
+Subcontract
+Subcontract
+Subcontract
+Internet
+Medical institutions
+Examination
+and payment
+organizations
+NTT DATA
+connection center
+IPsec + IKE
+communications
+(access on demand)
+Router
+Online billing PC
+Financial Sector
+Major Systems and Services
+ Shinkin Shared Center
+ Foreign Exchange ASP
+ Exchange information system
+ Insurance Enterprises Common Gateway
+ Zaimon financial data distribution gateway service
+NTT DATA Regional Bank Integrated Services Center to Raise 
+Business Efficiency and Support IT Strategies of Regional Banks
+Medical and Healthcare Sector
+ Medical Insurance Claim Processing System
+ Health Data Bank (ASP service for health management)
+ Creative Health Sankenjin (healthcare management and lifestyle practice 
+improvement support service)
+ Health Checkup Support System Regional Health Information Network System
+ Wide-Area Disaster and Emergency Medical Information System
+Highly Secure Online Service to Access
+Insurance Claims
+Major Systems and Services
+NTT DATA CSR Report 2009

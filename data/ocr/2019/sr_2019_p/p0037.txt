@@ -1,0 +1,96 @@
+“Immigration Control System” 
+for Improving Convenience for Travelers and Efficiency 
+of Immigration Procedures Using Biometric Authentication
+The automatic immigration control system also enables 
+self-boarding
+With the automatic immigration control system delivered by everis, 
+travelers will first need to pre-register at check-in counters at 
+unmanned kiosks as they arrive at the airport. As soon as they finish 
+the pre-registration process, the personal information recorded in 
+their passport as well as their facial and fingerprint data will be sent 
+to AENA’s Biometric ID Manager. After that, as the travelers approach 
+the security filter that lets them go through to boarding areas, several 
+facial photos of them will be taken automatically and collated with the 
+records kept in the ID Manager. When their identities are verified, the 
+gate will automatically open to let them in. These processes will be 
+conducted again at the boarding gates, allowing them to board their 
+flights without having their boarding passes checked.
+Biometric Authentication Gates 
+at Menorca Airport
+Menorca Airport
+A video screen for 
+biometric authentication
+CASE
+249 million people per year
+According to OECD data, Spain is annually visited by a total of 
+82 million inbound tourists, who spend a total of 87 billion euro 
+(11 trillion yen) while in the country. Tourism accounted for 11% 
+of Spain’s GDP in 2016, the biggest ratio among the world’s major 
+economies. (For instance, in Japan, tourism accounted for 1.9% of 
+GDP in 2016.) Prompted by the fact that Spanish airports are used 
+annually by as many as 249 million people in total, Spain has been 
+required to make its immigration procedures faster and more efficient 
+to further improve the potential of its tourism industry.
+everis Group (hereinafter, “everis”), NTT DATA’s affiliated 
+company in Spain, received an order from Aena SME S.A. 
+(hereinafter, “AENA”), an airport service operator in Spain, 
+for a project to introduce its Biometric Authentication-based 
+Automatic Immigration Control System at four airports in the 
+country. By July 2018, everis had completed the installation 
+of 220 cutting-edge automatic gates at the airports and 
+began operating them in sequence. This is the first project 
+in Spain to introduce an automatic immigration system using 
+biometric authentication. Going forward, the project is set 
+to introduce another 81 automatic gates to three domestic 
+airports including Seville Airport and start operating them by 
+December 2019.
+The system has so far been introduced to the four airports 
+of Barcelona-El Prat Airport, Alicante-Elche Airport, Palma de 
+Mallorca Airport and Menorca Airport. Of these airports, the 
+Contributions 
+to SDGs
+● Developing social infrastructure that is convenient, safe and secure
+● Helping build sustainable cities and communities
+largest number of 80 automatic gates were installed at Palma 
+de Mallorca Airport, a project representing one of the largest 
+installations of such gates at an airport anywhere in Spain.
+Airports in Spain are said to be used by a total of 249 
+million people annually. The introduction of this automatic 
+immigration control system to the airports helps to improve 
+convenience for airport users, make airport operations 
+more efficient, and enhance security by reducing the time 
+spent on immigration procedures down to 12 seconds 
+per person through the prompt verification of travelers’ 
+identities by the use of advanced collation techniques for 
+verifying the personal information recorded in passports and 
+other documents, together with face and fingerprint-based 
+biometric authentication methods.
+The adoption of the system has allowed the Spanish police 
+to change the way in which they provided border security and 
+focus on immigration procedures for special cases that cannot 
+pass through the automatic immigration control system (e.g., 
+families with children, travelers requiring special visas). This 
+system is also linked with the Schengen Information System, 
+a database of security-related information including data 
+on people who are sought in relation to criminal activities, 
+and the Visa Information System, a database containing 
+information on persons applying for visas, contributing the 
+realization of advanced security through, for instance, helping 
+to prevent criminals from fleeing their countries as well as to 
+find terrorists.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

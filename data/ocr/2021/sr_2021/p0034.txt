@@ -1,0 +1,57 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+3. Information security risk 
+ 
+As part of its business operations, the Group handles personal information and confidential information, which could be 
+vulnerable to information security incidents stemming from cyberattacks and the like. Most recently, there has been a surge in 
+targeted e-mail and phishing attacks related to COVID-19, as well as cyberattacks that target vulnerabilities in the rapidly 
+growing number of teleworking arrangements and online meetings. There has also been a surge in highly targeted cyberattacks 
+of contractor companies, with the aim of attacking companies, government agencies and other organizations. As a company 
+with clients who provide critical social infrastructure, we regard the risk of cyberattacks as a material risk and recognize that 
+they could materialize at any time. 
+Potential impact 
+Materialization of such risk might damage the Group’s social credibility and brand image and incur 
+compensation claims for losses incurred, as well as legal penalties and the like, which could significantly 
+affect the Group’s business results and financial position. 
+Countermeasures 
+To minimize this risk, we have established information security policies and personal information 
+protection policies, which are subject to ongoing reviews and improvements according to advances in 
+information technology and changes in social conditions. 
+We also established the NTT DATA Group Security Policy and are working to ensure the safe 
+distribution of information throughout the Group. Guided by our Information Security Committee, 
+moreover, we monitor external threat trends, our Groupwide activity status and various relevant issues 
+and decide on necessary measures to take. In addition, we have introduced solutions to detect and 
+prevent cyberattacks and separated our network environment from those of our clients. We also conduct 
+24-hour monitoring operations and established our own computer security incident response team 
+(CSIRT), called NTTDATA-CERT. 
+4. Compliance risk 
+ 
+The Group is developing its corporate activities on a global scale, and the expansion of its overseas operations has made it 
+necessary to comply with both domestic and overseas laws and regulations. Some of the laws and regulations apply not only 
+to corporate activities within a specific country but also to activities outside that country’s borders. These include the GDPR1 in 
+the European Union and the FCPA2 in the United States. The Group is required to comply with these laws and regulations. 
+Potential impact 
+Violations of these laws and regulations could incur significant fines and costs related to dealing with the 
+authorities. Other regulations also apply to the Group’s operations, including accounting standards, tax 
+laws and transaction-related laws. In the event of a violation of laws and regulations, such as improper 
+accounting practices or fraud or embezzlement in the supply chain, the Group might be required to pay a 
+surcharge, as well as damages caused by such fraud. 
+In addition to expense outlays and other economic losses, such violations might also cause major 
+damage to the Group’s social credibility and brand image, which could significantly affect its business 
+performance and financial position. For this reason, we deem compliance risk to be a material risk. With 
+approximately 140,000 employees and business operations in 55 countries and regions (as of March 31, 
+2021), we cannot completely deny the possibility of this risk materializing. 
+Countermeasures 
+To prevent the risk of legal and regulatory violations from materializing, we formulated our Global 
+Compliance Policy, which sets basic criteria for sound business activities grounded on corporate ethics. 
+Under the policy, we are building an internal control system to ensure legal compliance and appropriate 
+financial reporting. In Japan, meanwhile, we established the Bribery and Corruption Prevention 
+Regulations, which prohibit providing entertainment and gifts to public officials and providing inappropriate 
+entertainment and gifts in general and call for disciplinary action in the event of violation. In addition, we 
+have set up an organization tasked with promoting global compliance. That organization conducts 
+education and training activities for officers and employees and works hard to improve our internal control 
+system in collaboration with related entities. Through these activities, we are working as a united Group 
+to further improve corporate ethics and strengthen legal compliance. 
+1. GDPR: General Data Protection Regulation. This applies when handling personal information in the European Union. 
+2. FCPA: Foreign Corrupt Practices Act. This a U.S. law aimed at preventing bribery.

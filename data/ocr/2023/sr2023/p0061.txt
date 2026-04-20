@@ -1,0 +1,114 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Initiatives Related to Materiality and KPIs 
+ 
+Aiming to grow as a company that supports a sustainable society, NTT DATA is working on three material issues: “Smart X Coinnovation,” “Trusted Value Chain,” and “Future of Work.” 
+[Reference page] Sustainability Management “Progress in Relation to Nine Material Issues and FY2023 Targets” 
+ 
+*1 Including overseas Group companies 
+ 
+To realize the SDGs (Sustainable Development Goals), great expectations are placed on 
+connecting diverse people, corporations, companies, technologies, systems, data, services, and 
+industries; solving social issues that could not be solved before; and creating new value in 
+society. NTT DATA will promote co-creation with various companies to realize a smart and 
+innovative society while properly identifying and managing the social impact and value created 
+by digital technology. 
+FY2022 Indicator 
+Achievement 
+Status 
+Concrete Activity Results 
+B2B2X revenue 
+○ 
+― 
+ 
+As corporate activities expand globally, it is necessary to correctly understand and manage the 
+impact of corporate activities on society and the environment throughout the entire value chain. 
+We must also build a reliable value chain by properly addressing information security and privacy 
+protection. NTT DATA will protect security and data privacy and realize safe, secure, and resilient 
+corporate activities. 
+FY2022 Indicator 
+Achievement 
+Status 
+Concrete Activity Results 
+Number of cyberattacks and 
+service outages*1 
+○ 
+Formulated measures within the Information 
+Security Committee, etc., and took steps to 
+prevent intrusion through daily monitoring 
+Number of serious personal 
+data loss cases*1 
+△ 
+Formulated a policy to address areas where risks 
+are manifested to prevent recurrence, led by the 
+responsible organization 
+Number of security 
+incidents*1 
+○ 
+Formulated measures within the Information 
+Security Committee, etc., and took steps to 
+prevent intrusion through daily monitoring 
+Number of long-term failures 
+○ 
+No incidents 
+Rate of Ethics Code Training 
+△ 
+Identified obstacles and considered measures to 
+address them in achieving the goals 
+Number of anti-competitive/ 
+bribery violations 
+○ 
+Promoted adherence to the NTT DATA Code of 
+Conduct and compliance with various laws and 
+regulations among all employees 
+Rate of direct 
+communication with 
+key suppliers 
+○ 
+Conducted in-person reviews with key executives 
+from our important suppliers to assess their 
+initiatives in accordance with the NTT DATA 
+Group Supply Chain CSR Promotion Guidelines 
+ 
+Amid the global shortage of highly skilled IT personnel, it is necessary to secure and maintain 
+excellent human resources by promoting flexible working styles that meet the diverse needs of 
+employees, implementing appropriate evaluations, and fostering an attractive corporate culture. 
+To this end, it is essential to support employees’ career development and flexible working styles. 
+The Group will provide new ways of working to improve performance and EX (Employee 
+Experience), while at the same time promoting work-style reform for society as a whole. 
+FY2022 Indicator 
+Achievement 
+Status 
+Concrete Activity Results 
+Remote work rate 
+◎ 
+Implemented a system to accommodate hybrid 
+work that combines the best of both in-person and 
+remote work 
+Employee satisfaction 
+◎ 
+Promoted improvement activities based on the 
+results of the annual survey for employees hired 
+in Japan and the biennial survey, which includes 
+global employees 
+Turnover rate 
+○ 
+Considered and implemented measures to 
+support autonomous career development from 
+fiscal 2023 as part of efforts to understand the 
+reasons for resigning and implement 
+countermeasures 
+Create new value through 
+co-creation with various 
+companies to achieve a smart 
+and innovative society. 
+Uphold data privacy and 
+security to ensure safe, 
+secure, and resilient 
+corporate activities. 
+New ways of working that 
+enhance employee experience 
+and performance. Provide and 
+promote work-style reforms for 
+society as a whole.

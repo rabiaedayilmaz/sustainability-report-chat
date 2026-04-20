@@ -1,0 +1,78 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+Projected size of the tokenized 
+financial/assets market in 2030
+Building a Reliable Platform with Blockchain Technology 
+to Revitalize the Digital Asset Market
+With the rise of cryptocurrencies and digital art, there
+has been a growing interest in “Digital assets*”. From
+finance to art, businesses leveraging digital assets are
+emerging one after another.
+To expand the digital asset market more fully, it is
+necessary to standardize payments, management, and
+distribution
+within
+transactions,
+thereby
+enhancing
+convenience. In Japan, the revision of the Financial
+Instruments and Exchange Act in 2020 resulted in legal
+reforms aimed at enhancing transaction security.
+In 2023, NTT DATA, along with seven companies
+possessing extensive knowledge of the financial market
+and
+infrastructure-building
+capabilities,
+including
+Mitsubishi
+UFJ
+Trust
+and
+Banking
+Corporation,
+established Progmat, Inc.
+NTT
+DATA
+is
+responsible
+for
+developing
+the
+infrastructure for issuing and managing digital assets
+utilizing blockchain technology, as well as operating the
+Digital Asset Co-creation Consortium, which sets the
+development
+direction
+of
+the
+system
+with
+the
+participation of nearly 200 companies (as of March
+2023). Crossing the boundaries of traditional corporate
+groups, NTT DATA aims to contribute to establishing
+digital assets as a national infrastructure.
+· The value of everything, from goods to services, has been digitized, leading to an expansion of digital transactions and 
+interactions on online platforms and through cloud usage. However, challenges have arisen concerning security risks such as 
+data leaks and cyberattacks, as well as the complexity of transactions. 
+US$16.1trillion
+Smart X
+Co-Innovation
+Progmat
+Click here for 
+reference article
+Conceptual diagram of Progmat
+* Digital assets:
+Digital data that holds value as assets. This
+encompasses
+securities,
+cryptocurrencies
+(virtual currencies), coupons, as well as various
+content and file data such as images, audio data,
+e-books, and music data.
+BCG’s “Relevance of On-chain Asset Tokenization in
+‘Crypto Winter” (December 2022)

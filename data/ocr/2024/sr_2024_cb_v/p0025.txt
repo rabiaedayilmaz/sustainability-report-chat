@@ -1,0 +1,124 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Supporting the Financial Position of Suppliers and Establishing Strong Supply Chains
+NTT DATA Japan Corporation
+Consulting Sector Consulting Division
+Supply Chain Finance
+• The globalization of economic activity, the need to address social issues, and geopolitical risks* are leading to more diverse
+supply chain risks, making supply chain management increasingly important for businesses.
+• In Japan, the time between transaction cutoff dates and receipt of payment through payment websites is increasing, with an
+average of 60 days across all industries. This places a significant burden on the finances of small and medium-sized enterprises.
+Business need
+In business, ascertaining the flow of goods, funds and
+information
+across
+the
+entire
+supply
+chain
+is
+indispensable
+to
+improving
+efficiency
+and
+resilience.
+Supply chain finance, in which digital technology is used
+to support financing for suppliers, is receiving particular
+attention in this regard. Such systems provide stable
+financing for suppliers, which ultimately leads to the
+reliable supply of goods and services to consumers,
+enabling the building of strong supply chains.
+Solution
+NTT DATA has been providing the iQuattro platform,
+which advances the use of information in supply chains,
+since 2017. Linking with the corporate online banking
+provider AnserBizSOL®, an asset shared by iQuattro and
+NTT DATA, NTT DATA started to develop a supply chain
+finance system that uses commercial information from
+supply
+chains
+for
+financial
+operations.
+This
+enables
+“purchase order-based finance,” in which suppliers receive
+finance based on order information.
+In collaboration with AEON Bank, the supply chain
+finance system was deployed within the AEON Group’s
+economic area in August 2024. This service can take real
+time information on transactions between AEON Group and
+suppliers, then convert it into the information needed for
+loan applications. As a result, financing can be secured at
+the order stage. This has optimized capital efficiency for
+suppliers. In future, the aim is to expand this system to
+other business and go beyond order-based finance to
+provide other financial
+services
+based on transaction
+information, including early capitalization and long-term
+accounts payable.
+The
+creation
+of
+a
+matchmaking
+platform
+between
+businesses’ financing needs and financial institutions is
+also planned, aiming for commercialization in fiscal 2026.
+NTT DATA will support corporate growth by advancing
+financing that transcends traditional approaches based on
+past accounts, focusing on businesses’ future potential.
+Impact
+About 60 days
+Number of days until receipt of funds through supply
+chain finance systems
+3 business days
+↓
+Payment website
+average
+When provided by AEON 
+Bank
+Overview of Supply 
+Chain Finance
+*Geopolitical risks:
+Risks
+caused
+by
+political
+or
+military
+tensions
+in
+a
+particular region making it
+difficult to predict future
+developments
+in
+the
+region
+or
+the
+overall
+global
+economy.
+Achieving Supply Chain Finance
+in Collaboration with AEON Bank
+(in Japanese only)
+NTT DATA GROUP
+Octo Knot
+Supply Chain Finance
+(in Japanese only)
+Smart X
+Co-Innovation
+Trusted
+Value Chain
+NTT DATA Japan Corporation
+Business Design Office Financial 
+innovarion Headquarters

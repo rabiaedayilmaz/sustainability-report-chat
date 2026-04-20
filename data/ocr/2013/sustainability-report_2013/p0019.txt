@@ -1,0 +1,69 @@
+OUR SOLUTIONS
+Green Data Centers—Key IT Facilities
+Energy Saving Power Supply System 
+XECHNO Power + FRESH HVDC
+Alternating current (AC) power systems widely adopted to supply power 
+to existing data centers require three AC/direct current (DC) conversions to 
+supply electricity to servers and other data center equipment. This causes a 
+concern that is the power loss accompanying reduced conversion efficiency.
+ 
+The NTT DATA Group’s energy-saving power supply system, XECHNO 
+Power + FRESH HVDC, reduces power loss by decreasing the number of 
+AC-DC conversions from three to one. This HVDC 12-volt DC system makes it 
+possible to achieve power savings of 10-30% compared to current facilities. At 
+the same time, it enables stable operation of data centers to simplify equipment 
+and is leading the way to the realization of next-generation green data centers.
+ 
+The HVDC 12-volt format connects easily to natural energy generation 
+systems fed by DC sources such as solar power and wind power. The system 
+is thus expected to help realize a smart next-generation electricity network. 
+Our promising HVDC initiative was recognized widely in Japan and abroad 
+and received the Minister of Economy, Trade and Industry Award in the Green 
+IT Award 2012. 
+HVDC system: energy efficient and compatible with natural energy generation
+* XECHNO is a registered trademark of NTT DATA INTELLILINK CORPORATION in Japan.
+* FRESH HVDC is a registered trademark of Japan Radio Co., Ltd. in Japan.
+* HVDC: This is an abbreviation of “High Voltage Direct Current.” The HVDC 12-volt DC system converts a direct current high voltage of more than 300 volts to 12 volts with a centralized power supply system, and then distributes the 
+power directly to servers.
+Wind-power electricity generation
+Solar-power electricity generation
+Storage batteries
+Power system connection
+Fuel cells
+DC power 
+transmission
+Data center
+DC supply
+The NTT DATA Group focuses on data centers, which play an important role in this information technology society. We draw on our unique technology and know-how to establish green data centers, and 
+are leading the way to realizing a low-carbon society.
+Contribution to the global 
+environment with data 
+centers
+It has gradually become recognized that 
+strategic consolidation of IT systems 
+into data centers contributes substantially to energy savings in metropolitan 
+areas (Green by DC). However, expansion of big data services is expected to 
+result in a massive increase in power 
+consumption at data centers, so reducing power consumption and using 
+renewable energy at data centers will 
+be essential (Green of DC). Replacing 
+conventional AC power supply systems with HVDC technology (Green 
+by HVDC) is expected to contribute 
+significantly to Green of DC in terms of 
+power supply and consumption. The 
+NTT DATA Group has so far played a 
+major role in designing, constructing, 
+and administering Japan’s IT infrastructure. I anticipate that such NTT DATA 
+Group will make a material contribution 
+to maintaining and improving the global 
+environment with data centers assuming a key role.
+Hiroshi Esaki
+Professor
+Graduate School of Information 
+Science and Technology
+University of Tokyo
+NTT DATA CSR Report 2013 18
+Our Mission and Solutions
+Third-party Opinion
+Who We Are
+Highlight 2013

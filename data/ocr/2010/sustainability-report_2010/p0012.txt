@@ -1,0 +1,77 @@
+(1) Japan/Germany (three-team rotation)
+(2) Japan/India (two-team rotation)
+06:00
+18:00
+00:00 (Japan time)
+00:00 (Japan time)
+12:00
+ Japan teams: 08:00 to 17:00, 16:00 to 24:00
+Germany team: 23:00 to 09:00
+ Follow-on times: 08:00 to 09:00, 16:00 to 17:00, 23:00 to 24:00
+ Japan team: 10:00 to 18:00
+India team: 17:00 to 25:00
+Follow-on times: 10:00 to 11:00, 17:00 to 18:00
+Approximately
+55% project time savings
+Approximately
+32% project time savings
+06:00
+Operations
+halted
+18:00
+12:00
+
+Schedule
+Promoting 24-hour development, utilizing international 
+time-diff erences, to save time and share work on projects
+In order to speed up system development, NTT DATA is 
+aiming to realize 24-hour development, utilizing 
+international time diff erences to enable round-the-clock 
+development. This involves dividing system development 
+into multiple phases to complete projects by passing the 
+work between various domestic and overseas sites. In 
+addition to saving development time, this methodology 
+leads to work-sharing on a global scale, which in turn could 
+bring improvements to late-night and holiday work. 
+During fi scal 2010, we conducted trials to move us one 
+step closer to 24-hour development from October 2009 and 
+March 2010. This was carried out by NTT DATA, Vertex 
+Software of India and Cirquent of Germany, in a 
+development project following two patterns: (1) 
+development rotating between three teams in Japan and 
+Germany, and (2) development rotating between two teams 
+in Japan and India. These were then compared with 
+commercial development carried out solely in Japan.
+In the case of 24-hour development, we endeavored to 
+facilitate continuity in the follow-on of work between sites 
+and smooth sharing of information. As a result, the 
+development and testing phases saved project times by 55% 
+for case (1) and 32% for case (2) compared with commercial 
+development carried out solely in Japan. 
+Through these trials, we confi rmed that 24-hour 
+development is a practical alternative framework for the 
+future, provided that suffi cient attention is paid to the 
+narrowing down of phases, selection of appropriate 
+development projects, thoroughness of preparations and 
+other conditions. Based on these fi ndings, we determined to 
+continue with further trials in the future and advance toward 
+using 24-hour development for commercial projects.
+Message from a Project Manager
+Creating an accurate, smooth methodology, indispensable for overseas 
+In the current trials, what presented particular diffi culty was the method of follow-on for development work between remote 
+locations. In order to ensure accuracy with continuity, we devised a method that enabled joint program development over a 
+fi xed time period, accompanied by ongoing conversations, by combining a phone system via the Internet and a system for 
+screen-sharing between remote locations. Moreover, to avoid confusion during conversations, we established a communications 
+procedure dedicated to follow-on continuity that facilitated smooth procedures, attaining a record of almost no overtime during 
+development.
+Through this framework, I believe we created a new methodology for working in collaboration with overseas sites.
+Japan/Germany trial
+Japan/India trial
+Masaki Tachibana Platform & Services Business Unit, Business Solutions Sector, NTT DATA
+Focus
+Forming Global Development Links
+
+Special Feature 
+CSR from the Perspective of a Global IT Company
+
+NTT DATA CSR Report 2010

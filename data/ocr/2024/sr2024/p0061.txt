@@ -1,0 +1,66 @@
+Realize business transformation utilizing AI
+AI Governance
+Basic Policy
+Artificial intelligence (AI) will increasingly permeate society and influence people’s behavior and decision-making. 
+Especially with the rapid proliferation since 2022, generative AI possesses accuracy approaching human capabilities and is readily accessible to the general user. However, its use entails the need to address various risks, such as 
+misjudgments based on inaccurate responses, data leaks, and violations of others’ rights.
+ 
+NTT DATA Group Corporation is committed to expanding its business through both promotion and control, 
+utilizing AI to achieve customers’ business transformation. In particular, it has positioned itself as a promoter of AI 
+research, development, operation, and utilization. To mitigate risks related to ethics and societal acceptability, such as 
+issues related to discrimination and the dissemination of false information by AI, and to truly realize a human-centric 
+society where humans and AI coexist, we formulated the NTT DATA Group’s AI Guidelines in May 2019.
+ NTT DATA Introduces AI Guidelines 
+https://www.nttdata.com/global/en/news/press-release/2019/may/ntt-data-introduces-ai-guidelines
+Active promotion of AI
+Thorough implementation of AI governance
+Support from both promotion and control perspectives
+AI
+Governance 
+Office
+AI
+Showcase early examples 
+with advanced customers
+Response
+Prevention
+Evaluation
+Detection
+Strategic partnerships 
+with key players
+Develop technical 
+assets
+Specific Initiatives
+Our initiatives for personal information protection are implemented as a component of our broader information 
+security efforts.
+ 
+Our audit system is detailed in “NTT DATA’s Audit and Monitoring System.” For measures addressing security 
+incidents, please refer to “Security Incident Prevention, Detection, and Responses” and “Stepping Up Security Governance Efforts.” In addition, information on our education and awareness efforts can be found in “Education and 
+Awareness on Information Security and Personal Data Protection.” All of these initiatives are located within the 
+“Ensure Information Security” section.
+ 
+The status of obtaining the Privacy Mark can be found in the “Certifications Acquired” section under “Education 
+and Awareness on Information Security and Personal Data Protection.”
+ 
+Moreover, in fiscal 2023, NTT DATA Group Corporation received no specific complaints regarding breaches of 
+client privacy or loss of client data.
+ 
+We are addressing past incidents related to personal information by analyzing the causes. For more details, 
+please refer to the press release below. 
+ Regarding the inappropriate information acquisition in certified projects under the Next-Generation Medical Infrastructure Act. 
+https://www.nttdata.com/global/ja/news/release/2022/100700/ (Japanese only)
+Client
+NTT DATA 
+Group 
+Corporation
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

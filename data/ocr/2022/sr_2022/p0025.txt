@@ -1,0 +1,61 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ 
+Collaboration with Initiatives 
+ 
+To accelerate our response to climate change, we have strengthened our partnerships with various global initiatives. In March 
+2022, NTT DATA was recognized as Japan’s first CDP Gold Accredited Solutions Provider (in the categories of “Climate Change 
+Consultancy” and “Software”) by the CDP, an international NGO. In April 2022, we became the first Japanese company to 
+become a CDP Supply Chain Premium Member (highest level). In March 2021, we announced our endorsement of the TCFD 
+recommendations. To this end, we are conducting analyses and assessments of climate-related risks and opportunities in line 
+with the TCFD framework while examining countermeasures from a long-term perspective. 
+In addition, through our membership in the Green Software Foundation, we are promoting initiatives for software 
+development with reduced environmental impact, and through the establishment of the Estainium Association, we are focusing 
+on setting global standards by creating domestic and international rules around carbon tracing. 
+ 
+ 
+June 2020: Obtained certification for SBT 1.5˚C target*1 
+Obtained certification for our 1.5˚C target (Scope 1 and 2) from the SBT initiative 
+(SBTi), an international framework. 
+ 
+March 2021: Endorsed TCFD*2 recommendations 
+Positioning climate change response as a key management issue, we promote 
+transparency of company-wide activities and external activities. 
+ 
+March 2021: Declared Our Business Ambition for 1.5˚C 
+Became the 12th company in Japan to endorse SBTʼs Business Ambition for 
+1.5˚C and to have already received SBT 1.5˚C certification. 
+ 
+March 2021: Joined the Race to Zero Circle 
+Through Business Ambition for 1.5˚C, we joined the JCI Race to Zero Circle, organized 
+by the Japan Climate Initiative. 
+ 
+May 2021: Joined the Green Software Foundation 
+Joined as the Foundation’s sixth Steering Member, promoting green software globally. 
+ 
+ 
+October 2021: Joined Green × Digital Consortium (hosted by JEITA) 
+Joined the Consortiumʼs “Visualization Working Group”*3 and “Working Group for the 
+Early Realization of VPPAs.”*4 
+ 
+March 2022: Became a CDP Gold Accredited Solutions Provider 
+Obtained accreditation in the categories of “Climate Change Consultancy” and 
+“Software” (20th company in the world to receive accreditation). 
+ 
+April 2022: Became a CDP Supply Chain Premium Member 
+Working with the CDP globally to promote net-zero activities in the supply chain 
+(fifth company in the world to become a premium member). 
+ 
+June 2022: Established Estainium Association (nonprofit organization) 
+Established together with 14 affiliated companies, organizations, and academic 
+institutions, with the aim of creating a secure and open platform for GHG emissions 
+data among companies in the supply chain. 
+ 
+*1 Science-based target (SBT) aimed at limiting the increase in global average temperature to 1.5˚C above pre-industrial levels. 
+*2 Task Force on Climate-related Financial Disclosures (TCFD): This privately led task force focuses on the disclosure of climate-related financial 
+information and was established under the Financial Stability Board at the request of G20 finance ministers and central bank governors. 
+*3 Working group tasked with building a platform to address demand for decarbonization of the entire supply chain in collaboration with the World 
+Business Council for Sustainable Development (WBCSD) and other global initiatives. 
+*4 Working group tasked with making recommendations for expanding renewable energy procurement methods in Japan.

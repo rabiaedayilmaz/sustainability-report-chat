@@ -1,0 +1,62 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+NTT DATA Group Corporation is developing green procurement initiatives tailored to the specific characteristics of our 
+business in Japan. In February 2022, to strengthen efforts to reduce GHG emissions across the entire supply chain in the 
+procurement activities for products and services, we operationalized the “NTT Group Green Procurement Standards,” which set 
+forth evaluation criteria for suppliers and products within our procurement activities, and established the Hardware Procurement 
+Rules*, a set of reference rules for hardware procurement. We have commenced implementation for approximately 70 Group 
+companies in Japan. These rules recommend purchasing from hardware vendors that have received SBT validation (for setting 
+environmental targets for decarbonization) or have announced GHG emission targets and results at a similar level to the SBT 
+validation level, and we follow these rules when making procurement decisions. 
+In addition, starting from fiscal 2023, we have initiated training sessions targeting all employees responsible for procurement 
+across Group companies in Japan to promote awareness and understanding of green procurement principles. 
+We are also developing initiatives tailored to the business characteristics of each Group company outside Japan to reduce 
+GHG emissions globally. 
+*We announced the establishment of the Hardware Procurement Rules in a news release in February 2022. 
+ https://www.nttdata.com/global/ja/news/release/2022/022802/ (Press release only in Japanese) 
+ 
+ Supplier Engagement 
+At NTT DATA, Categories 1 (purchased goods and services), 2 (capital goods), and 11 (use of sold products) account for 
+approximately 88%* of the total emissions in Scope 3. It is essential to enhance engagement with suppliers and collaborate with 
+them to reduce GHG emissions across the entire supply chain. To achieve this, we are requesting cooperation from key suppliers 
+in climate change mitigation efforts and providing specialized support for software development companies to reduce emissions 
+in Scope 3. 
+*Of the total emissions within Scope 3, the breakdown by category is approximately 39% for Category 1 (purchased goods and services), approximately 
+9.9% for Category 2 (capital goods), and approximately 38.6% for Category 11 (use of sold products). 
+ 
+Main Efforts to Achieve the SBT 1.5°C Target 
+In fiscal 2022, we continued to hold online supplier briefing sessions for our top suppliers, accounting for approximately 80% of 
+our total purchases, with around 160 companies participating. We requested cooperation from NTT DATA Group Corporation to 
+reduce emissions to the SBT target level and promoted climate change initiatives. This was achieved by presenting social trends 
+related to climate change measures such as internal carbon pricing and sharing industry-specific trends based on the responses 
+to the CDP questionnaire we requested from each company. To further support the efforts of each company, we conducted 
+follow-up by providing necessary information, including Q&A sessions from the briefing meetings, to approximately 230 targeted 
+companies. 
+In addition, we are strengthening efforts to gather and analyze information on climate change initiatives throughout the 
+supply chain. As a result of our initiatives, in April 2022 we became the first Japanese company to become a CDP Supply Chain 
+Premium Member. 
+NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan requested suppliers that account for 80% 
+or more of total purchases of hardware and outsourced software development to answer questions in the CDP questionnaire 
+related to the visualization of GHG emissions and reduction target setting. Approximately 120 suppliers complied in fiscal 2022. 
+To drive initiatives in each company, we assessed industry-specific progress based on the responses to the CDP questionnaire 
+and NTT DATA independently produced and distributed explanatory materials regarding the visualization of GHG emissions and 
+the establishment of reduction targets to software development outsourcing suppliers. In fiscal 2023, we plan to increase the 
+number of suppliers we request responses from and expand initiatives using the CDP Supply Chain Program, including global 
+Group companies. 
+We also regularly exchange opinions with suppliers engaged in proactive initiatives about products and solutions with low 
+environmental impact. NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan are making information 
+necessary for promoting green purchasing available internally. This helps create an environment where purchasing decisions 
+consider not only price but also environmental information, enabling reductions in GHG emissions on a product-by-product basis. 
+ 
+Business Partner (BP)* Engagement 
+We hold a BP Presidents’ Meeting, attended by the heads of our BPs, to foster understanding and secure their cooperation in 
+our climate change efforts. We also organized workshops aimed at building a community of environmental representatives from 
+our BPs. During these workshops, we provide explanations and have group discussions on GHG emission visualization and 
+reduction goal setting using materials created by NTT DATA. Through this, we strive to increase understanding of our climate 
+change initiatives. In addition, based on the responses to the CDP questionnaire, we identify the challenges each company is 
+facing and support their efforts by participating in the Ministry of the Environment’s program aimed at promoting decarbonization 
+in small and medium-sized enterprises and conducting dialogues through direct visits. Through these measures, we aim to 
+continue to lead BPs’ climate change initiatives. 
+*NTT DATA Group Corporation selects Japanese outsourcing partners that are expected to provide continuous cooperation for our business development 
+in the future, as part of our efforts to jointly promote quality assurance activities for our clients.

@@ -1,0 +1,50 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+The increase in abnormal weather and the growing need for decarbonization are encouraging energy 
+conservation through shared use and equipment consolidation and promoting the introduction of 
+renewable energy. At the same time, the increasing need to attain resilience by transferring data to 
+the cloud to avoid data loss and contribute to decarbonization is leading to expanded business 
+opportunities. 
+ 
+Business and financial impacts 
+In addition to an increase in abnormal weather events, such as typhoons and localized heavy rains, we expect the growing 
+demand for decarbonization to lead to energy conservation through shared use and consolidation of equipment and the 
+introduction of renewable energy, as well as increasing demand for migration to the cloud, which is resilient (by preventing data 
+loss) and contributes to decarbonization. Financial institutions and public institutions, which are our major clients in Japan, are 
+looking for cloud environments that are both resilient and decarbonized. Therefore, demand is increasing for shared-use cloud 
+services, which are resistant to weather disasters because they are built on robust infrastructure as typified by community cloud 
+services, and they contribute to energy conservation. Because they will also be powered by renewable energy, we expect further 
+increases in business opportunities. Currently, we provide joint-use mission-critical systems, such as the “Chigin Kyodo Center,” 
+which is used by nearly 40% of the 60 regional banks in Japan (as of April 3, 2023). In addition, more than 90% of the 241 credit 
+associations across Japan (as of April 3, 2023) are using our comprehensive online “Shinkin Kyodo System,” giving us an 
+advantage in large-scale community cloud services on a nationwide level. Leveraging this advantage of scale, we provide cloud 
+services that are both resilient and decarbonized, leading to even greater business opportunities. 
+We have also begun phasing in renewable energy sources, having declared that Scope 1 and 2 emissions at all the Group’s 
+data centers will be net zero by 2030. As a result, all cloud services provided by our data center assets will be powered by 
+renewable energy. 
+ 
+●Financial impact 
+In addition to an increase in abnormal weather events, such as typhoons and localized heavy rains, we expect the growing 
+demand for decarbonization to lead to energy conservation through shared use and consolidation of equipment and the 
+introduction of renewable energy, as well as increasing demand for migration to the cloud, which is resilient and contributes to 
+decarbonization. We estimate that the increase in overall cloud-related sales will have a positive impact on net sales of more 
+than ¥210 billion in fiscal 2025. 
+ 
+Strategies and costs 
+Utilization of renewable energy in cloud services 
+As part of our efforts to improve climate-related resilience and promote renewable energy in the cloud, in April 2022 we 
+introduced 100% renewable energy to provide three services, including OpenCanvas®, a highly reliable and secure cloud service. 
+We also declared that we will realize net zero in all services used at our data centers by 2030 and have begun phasing in 
+renewable energy sources accordingly. Introducing 100% renewable energy to these services is part of that strategy, and we 
+plan to systematically transition the cloud services that use our data centers to renewable energy operations. 
+ 
+ OpenCanvasⓇ 
+ 
+●Costs 
+As part of the current medium-term management plan, we have allocated ¥25 billion for investments in cloud-related initiatives. 
+This includes technology development in the cloud domain, strengthening our global delivery centers, transitioning cloud services 
+to renewable energy operation, and improving service and operational aspects of cloud services, including maintenance and 
+operations. 
+Opportunity 3: Increasing needs for resilient cloud services 
+Time horizon: Short term

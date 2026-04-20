@@ -1,0 +1,41 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ Impact on Business Strategy 
+In assessing how climate-related risks and opportunities affect its business strategies and financial plans, the Group considers 
+four main factors. The details of these factors are represented in the climate-related risks and opportunities described below, as 
+they are also subject to impacts. 
+ 
+Area Impacted 
+Overview 
+Products and services 
+Due to the nature of our client base, which includes government agencies that promote the TCFD and 
+financial institutions that support the TCFD, we are susceptible to market preferences from governments 
+and financial institutions that seek to address climate change. 
+ 
+We expect the impacts to result in increased opportunities for the following services. 
+• Cloud services (including shared services) 
+• Green data centers 
+• Smart energy-related solutions 
+• Process reform through next-generation production technologies (e.g., digital shift) 
+Supply chain 
+Abnormal weather events (such as large typhoons, floods, heat waves and torrential rains) could cause 
+damage to our suppliers, which might make us unable to provide our data centers with hardware and 
+other equipment. 
+Technologies 
+Given the nature of our company as a provider of systems that support social infrastructure, we see 
+increasing opportunities for products and services to respond to climate change stemming from changes 
+in technology and markets. Accordingly, we are increasing investments in cutting-edge technologies and 
+innovations, such as smart cities and AI technology, as well as in production technology innovation to 
+enable faster system development, higher quality and the construction of cloud computing platforms for 
+the shift to cloud computing and digitalization. 
+Operations 
+The Paris Agreement aims to realize a society with zero greenhouse gas emissions after 2050, and costs 
+are expected to increase in line with carbon pricing (carbon taxes and emissions trading systems). Given 
+the nature of the Group’s business, with around 95% of Scope 1 and 2 emissions coming from electricity 
+use, using electricity derived from fossil fuels will have a high impact on our business. Accordingly, we 
+assume that we will need to procure electricity from renewable energy sources to continue our business. 
+In addition, the risk of increased operational costs at our data centers due to the Tokyo Cap-andTrade Program, which obliges energy consumers in Tokyo to reduce CO2 emissions, is expected to have 
+a significant impact on our overall business. 
+We also factor in the risk of rising energy costs associated with greater air-conditioning requirements 
+in data centers as average temperatures increase.

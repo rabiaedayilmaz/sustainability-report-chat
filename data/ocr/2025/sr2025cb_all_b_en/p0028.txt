@@ -1,0 +1,103 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Press Release:
+NTT DATA Launches Risk Assessment and
+Cyber Recovery Service Designed to Counter
+Ransomware Attacks (in Japanese only)
+NTT DATA Japan Corporation
+Technology Consulting Sector
+security-contact@kits.nttdata.co.jp
+A risk assessment and cyber recovery service tailored to tackling rampant ransomware 
+attacks
+Risk Assessment Service
+Cyber Recovery Service
+Ransomware Countermeasure Service
+Clarify systems requiring protection based on
+company business strategies
+Create realistic risk and threat models based on
+case studies, then perform assessment
+Use assessment results to visualize threats and risks then
+propose optimal countermeasures based on insight and knowhow
+Understand the composition of existing company systems and support
+the introduction of optimal cyber recovery solutions
+Propose measures to detect unauthorized
+access and prevent access expansion
+Support measures for rapid data protection and recovery
+should a ransomware incident occur
+Business need
+Solution
+•
+In its 10 Major Security Threats 2025 report for organizations, Japan’s Information-technology Promotion Agency (IPA) identified ransomware attacks as the information security threat with the most significant impact on
+society in 2024.
+•
+Global economic losses from cyberattacks in 2025 are reported to be over USD 1 trillion. In Japan, 70.9% of companies have experienced a cyberattack in the past three years, and the average cost of cyber attacks to
+Japanese businesses reached a record high of JPY 700 million in the 12 months up to February 2024.
+•
+Cyber attacks impact not only the targeted company but also their business partners, making such threats highly significant supply chain risks with serious consequences for business continuity.
+Ransomware is a type of unauthorized program that can lock
+infected devices or encrypt files on devices and shared
+networks, halting business operations and causing severe
+economic losses. Attackers often demand a ransom for access
+to locked devices or encrypted data, but payment does not
+guarantee that data will be returned.
+Preparation
+is
+essential
+in
+enabling
+companies
+that
+experience a cyber attack to swiftly confirm whether important
+data has been encrypted and to implement recovery plans so
+that normal business operations can resume rapidly. In addition,
+the globalization of
+business
+operations
+and changes
+in
+industry-specific laws and regulations in different countries
+mean the need for advanced security measures on a global
+scale is urgent. Responding to this situation requires enhanced
+security governance and security personnel with advanced
+specialist knowledge, but many companies struggle to achieve
+this in-house.
+NTT DATA has added Unified MDR
+for Cyber Recovery to its Unified
+MDR
+global security service as a service designed specifically to counter
+ransomware.
+This service
+supports companies
+in
+achieving
+cyber
+resilience that enables them to recover rapidly in the event of a
+ransomware attack. NTT DATA boasts a Computer Security Incident
+Response Team (CSIRT*) with a track record spanning more than 20
+years and has built and operated one of the world’s largest Zero Trust
+environments, covering about 190,000 people in 56 countries and regions.
+It leverages these strengths to offer companies operating all over the globe
+consistent global security services.
+Unified MDR
+for Cyber Recovery assesses the appropriateness of
+current ransomware attack countermeasures and puts forward solutions.
+In addition, protection for data essential for recovery after a ransomware
+attack delivers a highly-reliable cyber recovery solution. Rapid recovery of
+systems using backups taken before an incident enables business
+continuity.
+(Sources: The Hidden Costs of Cybercrime, McAfee; Security Maturity and Incident Survey, Trend Micro; Average Cost of Cyber Attacks to Companies Reaches Record High of JPY 700 Million, Finds IBM Study, The Sankei Shimbun)
+Number of customers using NTT DATA global cyber security 
+services:
+Over 1,000 companies
+Impact
+Overview of ransomware countermeasure service
+* Computer Security Incident Response Team:
+A specialized organization for responding to information security
+incidents that occur within companies and organizations
+Unified MDR
+for Cyber Recovery
+Japan

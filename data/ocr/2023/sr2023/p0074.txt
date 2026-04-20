@@ -1,0 +1,66 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Information Security Governance and Information Security Management: 
+NTT DATA Group’s Main Systems and Initiatives 
+ 
+ NTT DATA’s Audit and Monitoring System 
+ 
+ Internal Auditing System 
+Meetings and 
+organizations related to 
+information security 
+governance 
+[Meeting body] [Evaluation/orientation] 
+・Information Security Committee (NTT DATA Group Corporation) 
+This is chaired by the deputy director in charge of technology management at NTT DATA 
+Group Corporation and consists of the heads of various departments within NTT Data Group 
+Corporation, the officer responsible for information security at NTT Data Corporation, the 
+Chief Information Security Officer (CISO) of NTT DATA, Inc., and the heads of various 
+business divisions within NTT Data Corporation. They assess and evaluate the overall 
+activities and challenges within NTT DATA to determine the information security strategy for 
+the entire organization. 
+ 
+[Organization] [Promotion/monitoring] 
+・Information Security Steering Organization (NTT DATA Group Corporation) 
+This organization runs meetings as the secretariat of NTT DATA Group Corporation’s 
+Information Security Committee. 
+ 
+It collaborates with NTT DATA Japan, NTT DATA, Inc., and regional headquarters 
+companies to share information about the Group’s overall information security policies and 
+action plans. It also regularly monitors the status of control at NTT DATA Corporation, NTT 
+DATA, Inc., and various regional headquarters to ensure control levels are maintained and 
+improved, providing support as needed. 
+Information security 
+management 
+organizations 
+The information security management organizations established within NTT DATA Japan, NTT 
+DATA, Inc., each regional headquarters, and each Group company are based on the 
+information security policies and action plans developed by NTT DATA Group Corporation. 
+They consider the characteristics and circumstances of each region and establish a 
+management structure to implement information security measures. 
+Information sharing 
+between Group companies 
+・Global CISO Conference 
+This forum is sponsored by NTT DATA with participation by the CISOs of each regional head 
+office and other key persons. Its role is to strengthen information sharing and cooperation 
+between regional offices and the Head Office. 
+・Information security forums 
+These forums are sponsored by NTT DATA with participation by the CISOs and information 
+security promotion managers of domestic Group companies. Their role is to share Group 
+information security strategies and policies. 
+Audit and monitoring 
+system 
+・We established an audit and monitoring system covering domestic and overseas Group 
+companies based on meticulous information security under the NTT DATA Group Security 
+Policy (GSP) (since fiscal 2006). 
+・We promote security audits from the three perspectives listed below. Risk-based audits 
+enable focused and efficient audits in high-risk areas. 
+1. Rigorous basic tasks: Check the safety management status of the organization based on 
+the GSP and the safety management status of systems that handle personal information. 
+2. Response to external improprieties: With increasingly sophisticated cyberattacks, the 
+effectiveness of systematic measures such as protection against vulnerabilities and 
+detection/interception of attacks has been confirmed. 
+3. To prevent information leakage due to internal improprieties, in addition to systematic and 
+physical measures such as access control and removal management, the effectiveness 
+of measures including management of outsourcees shall be confirmed.

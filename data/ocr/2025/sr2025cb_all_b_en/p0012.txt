@@ -1,0 +1,81 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Driving verifiable water positivity with blockchain technology
+Insights Hub |
+MeetZero: Driving Water Positivity 
+With Blockchain
+Vimeo: B15 Meetzero
+•
+The world faces a water crisis, with demand projected to exceed available supplies by 40% in 2030 if current trends continue, according to a report by the UN-hosted International Resource Panel.
+•
+The threat to supplies of water as a critical resource for people, communities and businesses has significantly increased the importance of water positivity—a commitment organizations make to return more water to the
+environment than they consume. This can be achieved through activities such as watershed restoration, wetland conservation and groundwater recharge.
+Water is an essential element of environmental conservation,
+and also a critical resource for data centers, manufacturing
+plants, and other commercial facilities. Water positivity is
+therefore a corporate sustainability priority. Organizations must
+also demonstrate the impact of their water positivity to meet
+ever-rising
+regulatory
+and
+reputational
+expectations.
+Environmental asset markets can help to address this through
+“credits”
+generated
+by
+verified
+environmentally
+beneficial
+projects, enabling organizations to purchase credits to offset
+negative environmental impacts or generate revenue from
+conservation activities, which can be reinvested in positive
+actions to conserve aquatic resources. However, concerns over
+transparency, double counting, and administrative inefficiencies
+make trusted digital infrastructure essential to realizing these
+markets’ potential.
+NTT DATA developed MeetZero as a blockchainpowered platform for environmental asset trading to
+support climate action and environmental accountability.
+The platform enables Water Positive Credits (CAPs),
+which recognize and certify companies’ efforts to reduce
+their water footprint and restore water ecosystems.
+MeetZero ensures that CAPs are real, additional and
+permanent, then tokenizes credits and stores them on a
+blockchain ledger, eliminating the risk of double counting
+or fraud.
+NTT DATA leveraged MeetZero in partnership with the
+environmental
+management
+company
+Veolia,
+copromoter of the Act4Water water footprint offsetting
+standard, to create Spain’s first voluntary water credit
+market. NTT DATA’s platform facilitated both credit
+certification and market exchange, creating a transparent
+and verifiable system for companies to demonstrate their
+sustainability efforts. By enabling verified, tokenized
+credits that eliminate ambiguity and provide clear ESG
+accounting,
+MeetZero
+has
+demonstrated
+a
+scalable
+solution to address
+water scarcity while generating
+economic benefits.
+Business need
+Solution
+NTT DATA EUROPE LATAM GREEN ENGINEERING SLU
+NTT DATA Group
+Operational monitor image of MeetZero
+MeetZero Water Credits
+Spain
+Impact
+Water credits generated equivalent to
+13.06 million liters
+of water saved or returned to the environment

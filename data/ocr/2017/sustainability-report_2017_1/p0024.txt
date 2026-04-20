@@ -1,0 +1,148 @@
+2,044
+(8%)
+
+(2%)
+8,103
+(31%)
+1,932
+(7%)
+
+(1%)
+7,276
+(28%)
+4,287
+(17%)
+
+(1%)
+
+(2%)
+
+(3%)
+Japan
+Upper ﬁgure: Billions of U.S. dollars
+Lower ﬁgure: Percentage
+Other parts of Asia
+United States
+Japan
+Other parts 
+of Asia
+United States
+Germany
+Other parts of the Americas
+France
+United Kingdom
+Other parts of Europe
+Oceania
+Africa
+Helping to Resolve Various Social Issues 
+The AW3D® Global High-Resolution 3D Map, 
+with the World’s Highest Accuracy
+NTT DATA has jointly developed and launched AW3D® with the Remote Sensing Technology Center of Japan (RESTEC). AW3D® creates digital 3D maps displaying global topography at a resolution and accuracy of five meters. 
+ 
+Using approximately 3 million satellite images taken by “DAICHI (ALOS),” the land-area observation technology 
+satellite of the Japan Aerospace Exploration Agency (JAXA), we finished mapping topographical data for the entire 
+world at the end of March 2016. This map allows consistently high-resolution analysis of terrain throughout the world, 
+including mountainous regions where local surveys are problematic, which greatly increases business opportunities. In 
+addition, NTT DATA has entered an agreement with DigitalGlobe, a U.S. company operating some of the world’s most 
+high-performance satellites, to provide 3D data at a resolution as high as 0.5 meters in urban areas. 
+ 
+We have provided AW3D® for use in more than 70 countries around the world, centering on emerging countries. 
+The map is being used in more than 300 projects to resolve issues in a variety of fields: for mapping, disaster prevention measures, and in the area of hygiene to stop the spread of epidemics. 
+ 
+As one example, when creating a hazard map of Macau, AW3D® elevation data enabled the accurate simulation of 
+tsunami movements. The hazard map thus demonstrates what areas of reclaimed land would hypothetically be 
+flooded by a tsunami. 
+Responding to the Need to Set Up and 
+Maintain Infrastructure in Preparation for 
+Natural Disasters, Resource Development, 
+and Disaster Prevention and Mitigation
+In recent years, the world has experienced a number of natural disasters thought 
+to be triggered by climate change, as well as earthquakes. Such disasters, concentrated on parts of Asia and Africa where infrastructure development is lagging, wreak economic and environmental damage and can impair sustainable 
+development in developing countries. Around the world, some 200 million people are affected each year, with average annual economic losses due to natural 
+disasters estimated at US$100 billion. This situation highlights the need to build 
+societies that are resilient in the face of disaster. 
+ 
+Major natural disasters that we face increasingly severe levels of climate 
+change and threaten the health of people around the world are occurring with 
+greater frequency. This situation highlights the need to put in place infrastructure 
+and disaster prevention and mitigation measures, as well as effective plans to 
+counter the spread of epidemics. Against this backdrop, no highly accurate topographical data covering all land is available, making it difficult in some cases to 
+predict and respond to issues and enact measures to put infrastructure in place.
+Initiatives Targeting Material CSR Issues
+Global environment
+ Experience Example
+ Global Damage Due to Natural Disasters and Percentage of Damage
+ Tsunami Hazard Map Using Flood Simulation (Macau)
+[ Redevelopment Progress ]
+Legend: Brown indicates land
+Source: Reclamation evolution of 
+Macau [Jiang et al., 2011]
+[ Tsunami Hazard Map ]
+Legend: Red indicates flooding of 
+6.0–8.0m
+Source: Dr. Linlin Li of Earth Observatory of Singapore
+Category
+Area of 
+Activity 
+(Country)
+Contribution
+Disaster prevention
+Disaster mitigation
+Vietnam
+Identification of locations in danger 
+of landslide disasters along trunk 
+roads 
+Nepal
+Creation of hazard map for 
+long-term recovery planning 
+following large earthquake 
+Indonesia
+Disaster mitigation by forecasting 
+products of volcanic eruption
+Infrastructure
+Countries 
+around the 
+world
+In the electricity field, more efficient 
+research into wind power generation locations 
+Resources
+Tanzania
+In the water resources field, 
+planning the use of underground 
+water
+Hygiene
+Nigeria, Niger
+In the field of hygiene, measures to 
+address epidemics 
+Urban planning
+Countries 
+around the 
+world
+In the urban planning field, selecting 
+locations for wireless base stations
+Landfill
+Area where flooding 
+from tsunami is 
+forecast to be 
+particularly deep
+CASE 5
+Source: 2016 White Paper on Small and Medium Enterprises in Japan, The Small and Medium Enterprise Agency
+http://www.chusho.meti.go.jp/pamflet/hakusyo/H28/PDF/chusho/04Hakusyo_part2_chap4_web.pdf 
+(in Japanese only)
+* Figures indicate the total amount of damage due to natural disasters between 1985 and 2015. 
+There is a need to set up and maintain key infrastructure that can 
+help reduce the risk of natural disasters and curtail economic loss.
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+Governance
+GRI Standards
+Initiatives Targeting Material 
+CSR Issues

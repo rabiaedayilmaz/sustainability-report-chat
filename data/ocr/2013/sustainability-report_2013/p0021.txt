@@ -1,0 +1,88 @@
+Developing Systems that are Safe and Secure
+We work to provide services that are geared to raising system reliability. This helps realize 
+social infrastructure that people feel safe and secure to use.
+Overall client satisfaction with 
+NTT DATA’s initiatives (interview and questionnaire surveys)
+“Satisfied” or higher 
+69.1% 
+Number of organizations that achieved 
+a CMMI Level in fiscal 2013
+Capability Level 3
+
+Capability Level 5
+
+Information Security in IT Systems
+Disaster and System Failure Countermeasures
+Introduction of New Measures to Prevent Unauthorized Access
+The pool of available Internet Protocol version 4 addresses 
+has nearly been exhausted, and the shift to IPv6, a new 
+communication protocol, is proceeding worldwide.
+ 
+Against this backdrop, the NTT DATA Group is developing services that will ensure the security for clients in 
+the IPv6 environment.
+ 
+NTT DATA INTELLILINK Corporation has extended 
+the service coverage of the Intrusion Detection 
+System and the Intrusion Prevention System, which 
+had been available only for IPv4-supported devices. 
+As a result, since August 2012 these services have 
+been provided our clients with the same quality on 
+IPv6-supported devices.
+ 
+NTT DATA will continue upgrading and improving its 
+services so that clients can feel safe and secure using 
+the rapidly progressing Internet.
+The Supply Chain Risk Management 
+Service
+Events such as the Great East Japan Earthquake, floods 
+in Thailand have reminded us again that companies 
+incorporated in a supply chain around the world are complicatedly interlinked so that even if their main functions 
+are not damaged in a disaster, their corporate activities 
+are still continuously at risk.
+ 
+In autumn 2012, NTT DATA and JSOL Corporation began 
+providing the Supply Chain Risk Management Service.
+ 
+This service collects and summarizes information on 
+disasters and emergencies around the world on a map 
+that plots location information of a company’s head office 
+and the operational bases of business partners as well 
+as logistics networks linking them. The service enables 
+companies to obtain instant visual updates of disaster’s 
+impact on their supply chain. With this service, client 
+companies can enhance the precision of their Business 
+Continuity Plans and make an appropriate and rapid initial 
+response in the event of disaster.
+Monitoring and blocking unauthorized access
+Visualization of emergencies
+Unauthorized 
+access
+Detection and prevention of unauthorized access
+Encrypted 
+communication
+Monitoring 
+center
+Internet
+IPS
+FireWall
+NTT DATA INTELLILINK 
+Corporation Monitoring 
+Center
+Web
+DNS
+Mail
+Proxy
+Open segments
+Internal 
+network A
+Internal 
+network B
+organizations
+(1 domestic, 1 overseas)
+organization
+(domestic)
+NTT DATA CSR Report 2013 20
+Highlight 2013
+Third-party Opinion
+Who We Are
+Our Mission and Solutions

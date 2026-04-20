@@ -1,0 +1,62 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book
+ 
+ 
+ Physical Risk (Acute) 
+Physical impacts of climate change include the risk of power transmission interruptions to data centers stemming from abnormal 
+weather events (such as large typhoons, floods, heat waves, and heavy rains) and the risk of data center outages due to flooding 
+or lightning strikes. 
+ 
+Risk 2: Data center shutdown due to abnormal weather 
+Time horizon: Short term 
+ 
+ 
+Large typhoons, floods, heat waves, torrential rains and other abnormal weather events increase the risk of data center 
+operational shutdown due to power outages, flooding, and lightning strikes. 
+ 
+Assume 
+business 
+and 
+financial 
+impacts 
+More than 50% of our sales are associated with data centers, and almost all of the main data centers are 
+located on middle latitudes in the northern hemisphere, which are frequently experiencing heavy rainfall 
+due to climate change. In particular, financial institutions, which are our major clients, are demanding 
+low-latency trade processing with the Tokyo Stock Exchange (TSE), which is located near Tokyo Bay. 
+According to a flood risk search service provided by the Tokyo Metropolitan Government, the vicinity of 
+the TSE has a flood risk of 1.0–2.0 m if the maximum expected rainfall causes the adjacent Nihonbashi 
+River to overflow. Despite the increased flood risk, companies still tend to use data center services 
+located near the TSE. Other organizations located near Tokyo Bay include public institutions, which are 
+also major clients, as well as the data centers and Internet exchanges of companies connected with such 
+public institutions. Also, data centers near Tokyo Bay tend to be used for low-latency communication and 
+efficient interconnection. Accordingly, in Japan where we are headquartered, we have many data centers 
+in Tokyo located in relatively coastal areas that are particularly vulnerable to abnormal weather events. In 
+the United States, the New York Stock Exchange and Internet Exchange are located near New York 
+Harbor. As in Japan, we locate our data centers near New York Harbor to reduce low latency in 
+communication processing and improve the efficiency of interconnection with major clients and other 
+companies’ data centers. As a result, our data centers are vulnerable to abnormal weather events and 
+face a company-wide risk of data center outages caused by interruption of power transmission to 
+domestic and overseas data centers due to extreme weather (such as major typhoons, floods, heat 
+waves, and heavy rains), flooding, and lightning strikes. 
+If a typhoon were to cause a five-day shutdown of our major data centers located mainly in the 
+Tokyo metropolitan area, we estimate that the negative impact on net sales would be ¥13 billion. 
+ 
+Measures 
+and costs 
+In March 2020, we established Grid Sky Way LLP together with TEPCO Power Grid, Inc., and Hitachi, 
+Ltd. (with Chugoku Electric Power Transmission & Distribution Co., Inc., joining in June 2020). The 
+activities of this business partnership include building and demonstrating a system to enhance the 
+sophistication and resilience of infrastructure facility inspections, including using drones to inspect 
+electric power equipment, as countermeasures against natural disasters that are becoming more severe 
+due to abnormal weather. (Our role is to create an environment for field-testing a drone operational 
+management system.) 
+Since the 2020 COVID-19 pandemic, we have increased its internal network bandwidth with the aim 
+of establishing and improving teleworking environments for employees. Indirectly, this has also helped 
+increase the resilience of our data centers to climate change. 
+During the four years of our Medium-Term Management Plan (FY2022–2025), we will invest a 
+cumulative total of ¥8 billion (¥2 billion × 4 years). This is based on actual investments by the Group in 
+fiscal 2022 of ¥2 billion (¥1 billion for enhancing telecommunication lines and ¥1 billion for renewing 
+building facilities), combined with planned investment in amounts equivalent to the FY2022 total (¥2 
+billion) in each of fiscal 2023 and subsequent years. 
+[Time horizons] Short term: FY2022–2025; Medium term: FY2026–2030; Long term: FY2031–2050

@@ -1,0 +1,66 @@
+Clients
+Clients
+Requirements
+Client satisfaction
+Quality Management
+Providing reliable systems and services 24 hours a day, 365 days a year is a key responsibility and forms the basis 
+of our customer service commitment. NTT DATA aims to build social infrastructure that people can use with peace 
+of mind. To this end, we are working on a Group-wide basis to create mechanisms for quality management to 
+provide services with a focus on enhancing system reliability.
+Initiatives to Improve Quality 
+—Building a Management System Based on ISO 9001 and Promoting Continuous Improvement Activities
+NTT DATA is ISO 9001 certified and has established and operates an organizational and systematic quality management system based on this standard. We are committed to improving quality and productivity, as well as preventing unprofitable projects.
+ 
+In addition, we recognize the importance of enhancing quality assurance capabilities, and we are actively working to develop quality assurance mechanisms within each Group company. We are also facilitating information 
+exchange through initiatives such as quality exchange meetings among them to strengthen our quality management system. Moreover, we are conducting cross-regional efforts through initiatives such as the Global PMO 
+Workshop to develop quality assurance mechanisms tailored to each region and the business situations of Group 
+companies outside Japan.
+Enhancing and Standardizing Project Management
+Group companies in Japan endeavor to enhance and standardize project management to improve the quality and 
+efficiency of system development. For example, we established the Agile Specialized Team, which applies the agile 
+development methodology to collaborate with clients in creating new businesses and services. We also integrated 
+our R&D organization for production technologies, which includes project management, with our project support 
+organization to establish an innovative Project Management Team.
+Company-Wide Quality Management Executive
+Corporate Quality Management Representative
+Rules, detailed rules, and corporate 
+Improvements
+Chief responsible officer for quality management 
+in the segments, etc.
+Segment prescripts
+Improvements
+Project planning
+Projects
+Project prescripts
+Improvements
+Review
+Products 
+(systems, services)
+Quality Management 
+Policy
+Improvement Goals
+Performance 
+monitoring
+Report, 
+analysis, and 
+evaluation
+Development
+Development
+Development
+Instruction
+Trusted Value Chain
+Quality Management System (QMS)
+Protecting security and data privacy to realize safe, secure, and resilient corporate activities
+As corporate activities expand globally, the risks associated with activities such as information security, disasters, and compliance have become more diverse. NTT DATA aims to build a reliable value chain by accurately identifying, managing, and appropriately addressing such risks across the entire chain. This approach enables the realization of secure, safe, and resilient corporate activities.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

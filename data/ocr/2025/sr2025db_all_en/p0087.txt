@@ -1,0 +1,93 @@
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+Governance
+Appendix
+ 
+When making new investments, we use a checklist to verify whether potential 
+adverse impacts on human rights are being properly addressed and examine minimum 
+risk-avoidance measures to prevent any damage to the Company’s credibility. 
+ 
+Going forward, we will continue to proactively engage in external communication and, in alignment with international standards such as the CSDDD*, further 
+enhance human rights due diligence and strengthen human rights management on 
+a global scale.
+  [Reference page] Non-Financial Data “Status of Human Rights Violations”
+* CSDDD (Corporate Sustainability Due Diligence Directive): A directive that mandates companies of a certain size, based on criteria 
+such as employee count and revenue, to implement due diligence for adverse impacts on human rights and the environment.
+Promotion of Human Rights Awareness
+NTT DATA promotes awareness-raising initiatives to enhance human rights awareness 
+among Group employees by leveraging external expertise and diverse approaches to 
+communicate the Company’s key human rights issues and policies. We will continue to 
+proactively expand various initiatives to promote human rights awareness.
+Training Conducted in Fiscal 2024
+Japan
+Overseas
+Program/
+Content
+ Human rights awareness sessions: 
+Workplace discussions for domestic Group 
+employees on “harassment-free workplaces” and 
+“AI and human rights”
+ Workplace culture workshops: 
+Conducted for executives and managers to foster 
+awareness and behavioral change toward 
+creating harassment-free work environments
+ Human rights slogan contest and training by 
+employee level
+ Learning about the Company’s human rights 
+policy and top management’s commitment, and 
+raising awareness that all employees share 
+responsibility for human rights in business 
+activities (Business Solutions)
+ Training on harassment, unconscious bias, and 
+microaggression (North America)
+Participants 
+(annual total)
+Approx. 83,000
+Approx. 310,000
+Compliance with Human Rights–Related Laws
+NTT DATA ensures thorough compliance with laws related to human rights. For example, NTT DATA UK complies with the United Kingdom’s Modern Slavery Act 2015 
+(enacted in March 2015), requiring not only its own business operations but also its 
+business partners to adhere to the Act. The company has established a global statement on modern slavery, reinforcing its commitment to ethical practices and human 
+rights across all regions. Furthermore, by properly understanding, recognizing, and 
+complying with the laws and regulations of each country and region, including those 
+applicable to business partners, we fulfill our responsibilities, maintain external and 
+internal whistleblowing systems, and provide training as necessary. Going forward, we 
+will continue to verify compliance with human rights–related laws through our human 
+rights due diligence process.
+  [Reference page] Non-Financial Data “Status of Human Rights Violations”
+Governance for Procurement Sources
+Regarding human rights management upstream, we are promoting the NTT DATA 
+Group Guidelines for Sustainability in the Supply Chain throughout the Company. 
+Based on these guidelines, we inform our suppliers of the compliance requirements in 
+areas related to sustainability, including human rights, and enhance their understanding of our initiatives.
+ 
+In addition, NTT DATA, Inc., has introduced a third-party risk management process 
+to conduct reviews and analyses of its supply chain with a focus on human rights. In 
+particular, in the United Kingdom and Ireland, suppliers are evaluated based on external scoring such as country-specific risk profiles. Specifically, to assess suppliers’ 
+responses to modern slavery, the Company collects and reviews their Modern Slavery 
+Act statements. For manufacturers, the Company also confirms the status of responsible mineral sourcing, including whether they are members of the Responsible Business 
+Alliance (RBA)*.
+* Responsible Business Alliance: A global corporate initiative that promotes socially, environmentally, and ethically responsible 
+business practices in global supply chains.
+  [Reference page] Prosperity positive “Sustainable Supply Chain”
+AI Governance
+To mitigate the risks of ethics and social acceptability in human rights management 
+downstream and to realize a human-centered society where humans and AI coexist, 
+we established the NTT DATA Group AI Guidelines in May 2019. Since then, we have 
+advanced our AI governance initiatives in line with the NTT Group AI Principles 
+formulated in July 2024.
+  [Reference page] Prosperity positive “AI Governance”
+ NTT Group AI Carter
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+People positive
+ Human Rights

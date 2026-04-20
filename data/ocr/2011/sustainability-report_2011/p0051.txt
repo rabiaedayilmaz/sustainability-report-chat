@@ -1,0 +1,48 @@
+Paradigms for Society and 
+Regional Communities 【Additional Topics】 
+NTT DATA CSR Report 2011 5/67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Making websites that are easier to use—for surfers and providers alike 
+NTT DATA supports website construction that offers ease of use for website providers and 
+users. 
+For example, we provide a website content management system that helps novice 
+operators update contents. We also propose websites with such features as a design that 
+takes into consideration various people, including those who have difficulty viewing certain 
+colors, and allows text-size adjustments. In addition, we respond to advanced accessibility 
+requirements through such functions as verification through two or more types of screen 
+reader. 
+We also plan to direct our efforts on HTML5, smartphones and other new technologies 
+toward response to JIS stipulations, RIA* accessibility, universal design for multimedia 
+contents and other evolving challenges. 
+ 
+* Rich Internet Applications (RIA): A web application that features operability and representational capacity 
+superior to web pages in simple HTML. 
+ 
+ 
+Participating in projects with the International Association for Universal 
+Design 
+The International Association for Universal Design (IAUD) was established in 2003 to 
+promote the widespread adoption of universal design and is the largest such body in Japan. 
+NTT DATA has participated as a full member of IAUD since its inception. 
+ 
+In November 2010, we participated in the 3rd International Conference for 
+Universal Design in Hamamatsu 2010, held in Shizuoka Prefecture. We had a booth at the 
+conference and presented a treatise on the FairCast Child Safety Communication Network. 
+Further, via a research task force we participated in the UD Project for Media and Mobile 
+Space Project. Through these activities, we engage in discussions and deliberations in 
+collaboration with other member enterprises and individual supporting members with a view 
+to promoting the realization of universal design. 
+ 
+[PHOTO] The 3rd International Conference for Universal Design in Hamamatsu 2010 
+ 
+Building People-Friendly 
+Systems 
+Approaches Involving Universal Design

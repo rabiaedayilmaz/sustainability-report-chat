@@ -1,0 +1,29 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book 
+ Internal Initiatives (Green Innovation of IT) 
+Saving Energy in Our Data Centers 
+Digital transformation (DX) of the facility sector is becoming indispensable to realizing a decarbonized society. For this reason, we aim to 
+create new value through our “IT × Facility” concept. On the other hand, power consumption in data centers continues to increase due to 
+dramatic growth in the volume of information resulting from the digitization of society. Accordingly, reducing power consumption has 
+become a challenge for data center operators. Our goal is to be carbon neutral by 2040, with all our data centers powered by renewable 
+energy by 2030. 
+In our machine rooms, which consume large amounts of energy, we save energy by improving the power efficiency of both equipment 
+and operations. We also have improved the cooling efficiency of equipment by ensuring proper pathways for cold air and exhaust air. In 
+addition, we have AI-based smart air-conditioning control systems that automate and optimize air conditioning to prevent overcooling and 
+heat buildup. Through airflow improvement work and smart air-conditioning control, in fiscal 2021 we achieved a 33.4% reduction in airconditioning power consumption compared with the level before installing the systems. 
+In addition, we have built a data center cooling system that employs a liquid immersion cooling method. Our field tests have verified 
+that the system can reduce energy consumption for cooling by up to 97%1 compared to conventional systems. This method directly cools 
+ICT equipment, such as servers, in a special liquid and is attracting attention as a next-generation cooling method with high energy 
+efficiency. We will use the results of our field tests and our own initiatives to implement and provide energy-saving data center services. 
+ 
+1. Compared to a data center with total power consumption of PUE = 1.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Image of machine room with a smart air-conditioning 
+Overview of Liquid Immersion Cooling System

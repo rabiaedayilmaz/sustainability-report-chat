@@ -1,0 +1,131 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+LITRON
+Sales
+(in Japanese only)
+NTT DATA Japan Corporation​
+Technology Consulting Sector
+Leveraging AI agents to achieve more sophisticated, more efficient sales and marketing
+LITRON
+Marketing
+(in Japanese only)
+Business need
+Solution
+•
+Sales and marketing teams need to accomplish advanced, complex tasks with limited staff, but labor productivity remains low and progress towards DX is insufficient.
+•
+Increasingly diverse customer touchpoints mean companies must optimize offers and communication on an individual level, and staff are struggling to keep pace with trends and varying needs.
+•
+Marketing professionals busy gathering information and evaluating possibilities face difficulties achieving effective planning and speedy implementation of measures.
+Sales departments face challenges such as large amounts of
+office work, from report creation to customer scheduling and
+data entry, and the impact on sales performance caused by
+significant disparities in individual employees’ skills, such as the
+ability to analyze customers, make proposals and effectively
+balance
+schedules.
+Before
+putting
+ideas
+to
+customers,
+professionals must also ensure awareness of competitors,
+public information and past proposals, resulting in significant
+time pressure.
+Similarly,
+in
+marketing,
+technological
+evolutions
+and
+diversifying customer touchpoints mean customers
+expect
+personalized communication, and professionals must be agile
+in adapting to changing trends and preferences. Marketers are
+under constant pressure to respond to these complex, dynamic
+changes, and many companies are struggling to formulate
+measures effectively and implement them quickly.
+NTT DATA built on its Smart AI Agent
+concept to develop AI agents
+designed for sales and marketing. This solution provides autonomous AI
+support
+and
+outsourcing
+through
+a
+personal
+agent
+that
+receives
+instructions from the user, then assigns tasks to agents specializing in
+various areas.
+LITRON® Sales is a support and outsourcing service for the sales field
+that uses AI agents for data entry and the creation of documents, including
+written proposals and contracts. Professionals can focus on tasks with
+high added value, such as putting proposals to customers, and enhance
+their ability to build hypotheses and suggest solutions based on internal
+and external information.
+LITRON® Marketing is a support and outsourcing service for the
+marketing field that uses AI agents to cover everything from marketing
+strategy formulation to planning, implementation and evaluation. It also
+provides a total solution supporting business process re-engineering
+(BPR) consulting for various business processes, application in business
+operations and the establishment of systems that produce results. Based
+on the three pillars of generative AI, consulting and IT infrastructure,
+LITRON® Marketing achieves more sophisticated, more efficient marketing
+tailored to customer needs and contributes to maximizing ROI.
+Overview of 
+LITRON®
+LITRON® Sales & LITRON® Marketing
+Japan
+Business Process Service (BPS)
+Consulting and Marketing Support
+Adoption of LITRON Marketing to fit individual 
+company marketing operations
+Data Infrastructure / IT
+Data infrastructure
+Core/operations
+systems
+Data co-creation
+with other
+companies
+Cloud/security
+Data hub/lakehouse
+AI/BI technology
+Customer360
+M A
+C R M
+S F A
+Support for improved productivity and quality in 
+marketing operations using LITRON Marketing
+Product/service planning
+Strategy planning
+Policy planning/implementation
+Effect verification/improvement
+Strategy 
+planning/evaluation 
+agent
+Planning support 
+agent
+Analysis 
+support agent
+Proofreading and 
+supervision 
+agent
+LITRON®
+Marketing
+Concept 
+formulation
+Trial
+installation
+Business 
+application/
+utilization
+Total support
+Impact
+Reduction in overall burden of marketing operations
+Reduced by up to 60%

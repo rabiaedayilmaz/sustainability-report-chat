@@ -1,0 +1,44 @@
+NTT DATA CSR Report 2010 3/48 
+【Additional Topics】 
+ 
+ 
+Formulating and deploying guidelines as easily comprehensible specification 
+sheets for customers 
+The Software Engineering Centre (SEC) of the Information-Technology Promotion Agency, Japan 
+posted a Guide to Consensus Building for Functional Requirements on its public website in March 
+2010. This lists techniques for gaining consensus between customer and contractor, which represents 
+a crucial step in effective information system construction. 
+This guide is an amended version of the Guidelines on Customer Views *1 compiled in March 2008 
+by the Study Group on Customer Views on Specification Requirements Based on a Practical Approach 
+that comprised NTT DATA and eight other companies*2. The process of revising these guidelines was 
+investigated by a working group that included members of the outsourcing parties, so they incorporate 
+items requested by the customers in such transactions. 
+Explanations relating to these guidelines were featured in NTT DATA’s in-house training program 
+by March 2009 and were fully incorporated in TERASOLUNA 4.0 development procedures in April 
+2009. We have publically launched the latest version (4.1) of TERASOLUNA, which includes the Guide 
+to Functional Requirements for Consensus Building. 
+We plan to introduce employee training to ensure the Companywide adoption of the version of 
+TERASOLUNA that reflects the Guide to Functional Requirements for Consensus Building. 
+ 
+*1 Guidelines on Customer Views: These are primarily composed of screen, system behavior and data model versions. 
+Copyright has been transferred to the Software Engineering Centre (SEC) of the Information-Technology Promotion 
+Agency, Japan. The guidelines are currently posted on the SEC website. 
+ 
+*2 FUJITSU LIMITED; NEC Corporation; Hitachi, Ltd.; KOZO KEIKAKU ENGINEERING Inc.; Toshiba Solutions 
+Corporation; Nihon Unisys, Ltd.; Oki Electric Industry Co., Ltd.; TIS Inc. 
+ 
+ 
+Linking CS surveys to improvement activities 
+【 Survey Objectives 】 
+Through its surveys, NTT DATA aims to ascertain and comprehend satisfaction assessments, opinions 
+and requests by major customers regarding the information systems it constructs and the services it 
+provides and to leverage this knowledge in future customer satisfaction activities and for business 
+process improvements. 
+ 
+[CHART] Survey participants and methods 
+ 
+ 
+ 
+ 
+ 
+Customers NTT DATA

@@ -1,0 +1,98 @@
+Comment
+Comment
+In pursuit of customer satisfaction and to enhance its 
+competitiveness in global markets, the NTT DATA Group has 
+mounted an initiative to ensure that quality management is 
+consistent across the Group. 
+This initiative commenced in July 2010 with the 
+establishment of the Project Management Innovation Center 
+(PMI Center), an organization to specialize in the advancement 
+and globalization of project management. Furthermore, in 
+December 2010 we set up the Proactive Testing COE (Center Of 
+Excellence) as a specialized organization to execute R&D on 
+advanced veriﬁcation methods and provide testing services. 
+These specialist organizations and NTT DATA’s Quality 
+Assurance Department will be central to our eﬀorts to make 
+eﬀective use of the various technologies and expertise that 
+have been accumulated at overseas Group companies as we 
+seek to enhance and standardize project management and 
+system veriﬁcation and testing services. 
+The procedures and rules used to ensure quality currently diﬀer by country and region. To improve this 
+situation, we are working with overseas Group companies to standardize project management and system 
+veriﬁcation, as well as on initiatives to enhance these processes.
+Aiming to Enhance Project Management 
+and Veriﬁcation/Testing Services
+As a ﬁrst step toward reinforcing global quality management, 
+the PMI Center and Proactive Testing COE are currently 
+conducting hearings of major overseas Group companies with 
+regard to their quality requirements and quality management 
+structures, as well as system development procedures and 
+tools. We have also organized working groups that include 
+members from overseas Group companies along such themes 
+as project management, system development and veriﬁcation 
+and testing services, and we are studying ways to create 
+standardized processes. 
+To facilitate progress on the oﬀshore development of small 
+and medium-sized projects in Southeast Asia and other 
+locations, we are creating a simpliﬁed version of the 
+TERASOLUNA development procedure, which standardizes 
+procedures from system 
+development planning through 
+testing. We are also focused on 
+training local employees in 
+system veriﬁcation. 
+Working with Overseas Group Companies 
+to Enhance Quality Management
+Working group
+Shinji Iwata
+Proactive Testing COE
+Project Management 
+Innovation Center
+Research and Development 
+Headquarters
+NTT DATA CORPORATION 
+The Testing Global One Team was 
+established to raise software quality and 
+testing productivity, as well as to create 
+business opportunities through collaboration 
+at a global level. Overseas Group companies 
+possess many unique testing-related 
+technologies and strengths. These can be 
+very eﬀective when paired with our solutions. 
+We are currently developing global testing 
+process standards and developing advanced 
+test automation tools.
+We are utilizing technologies from overseas Group 
+companies to improve our testing quality.
+Working Group Participant
+Kazuo Kobori
+Project Management 
+Innovation Center
+Research and Development 
+Headquarters
+NTT DATA CORPORATION 
+In Southeast Asia, orders for small-scale projects 
+are relatively common, which makes full-scale 
+application of the TERASOLUNA development 
+procedure—designed for large-scale 
+projects—impracticable. For this reason, we 
+have formulated the TERASOLUNA SS 
+development procedure (where SS stands for 
+small-scale application). This scaled-down 
+procedure performs the necessary tests while 
+performing task consolidation and elimination. 
+Currently in operation on a trial basis on 
+projects in Malaysia and Vietnam, we plan to 
+extend the application of TERASOLUNA SS to 
+other parts of Southeast Asia and accelerate its 
+roll-out to other regions. 
+We are pursuing TERASOLUNA development tailored 
+to the Southeast Asian market.
+Person in Charge of TERASOLUNA 
+Development 
+Approach 2: A One Team Quality Initiative
+Pursuing Global Standard Quality Management 
+Methods by Combining Group Companies’ Technologies 
+and Expertise
+
+NTT DATA CSR Report 2011

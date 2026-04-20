@@ -1,0 +1,65 @@
+Incident Response Training
+We hold workshops for Group companies in Japan so that, in the event of an information security incident, we can 
+respond systematically and promptly to minimize the impact and ensure that the incident is terminated. Referring 
+to the NTT DATA Group Information Security Incident Response Standard for Japan, workshop participants learn 
+how to respond appropriately to cyberattacks by learning the actions they should take from an incident’s occurrence to its termination. They also learn from exercises using past incidents that occurred within NTT DATA.
+ 
+In addition, to enhance NTTDATA-CERT’s response capabilities to cyberattacks, we continuously participate 
+in external training exercises such as cross-sector exercises hosted by NCA/NISC and “Locked Shields” hosted by 
+the NATO Cooperative Cyber Defense Center of Excellence (CCDCOE).
+Stepping Up Security Governance Efforts
+We are stepping up our security governance efforts to better understand and methodically respond to the security 
+risks that NTT DATA faces globally.
+ 
+In fiscal 2023, we engaged in improving global governance maturity, worked to strengthen and ensure the 
+stable operation of our global security infrastructure, and reliably escalated our responses to serious incidents.
+Improving Global Governance Maturity
+NTT DATA has established a protocol process for aggregating the security risks faced by each regional headquarters and determining security measures that should be prioritized by all global Group companies. Moreover, we 
+reflect the latest amendments of global standards such as ISO/IEC 27001 and NIST CSF in the Group’s regulations.
+Global Security Infrastructure
+To respond to diversifying working styles and to prepare for cyberattacks, which are increasingly sophisticated, we 
+have built and now operate a global security platform common to NTT DATA as the first phase. Using this security 
+platform to strengthen security when using e-mail and cloud services and to centrally manage Internet connection 
+points helps us maintain a high level of security across NTT DATA. Moreover, we can block connection points 
+between NTT DATA’s bases in and outside Japan, allowing us to prevent any damage from spreading to other areas 
+in the event of an intrusion in the network. We also monitor daily using an advanced log analysis system that 
+enables us to detect even advanced cyber threats.
+ 
+Since fiscal 2020, we have strengthened e-mail security and implemented a zero trust architecture to enhance 
+users’ IT environments, as the second phase of our global security infrastructure development.
+Early Escalation to Address Serious Incidents
+To ensure early detection and report responses in the event of a serious incident, we systematically established 
+incident response organizations at NTT DATA’s bases in and outside Japan. This guarantees our ability to respond 
+immediately to problems on site and deal with high-level incidents. In addition, we have rules within the Group 
+that clearly define the various roles, responsibilities, and reporting standards. In the event of a serious incident, 
+this system ensures prompt reporting from NTT DATA’s Group companies in and outside Japan to the Head Office 
+via the holding company.
+ [Reference page] Non-Financial Data “Security, Critical System Failures, Compliance, Anti-Competitive Practices, and Bribery”
+Initiatives in Security Business 
+Comprehensive Security Management to Ensure Safe and Secure System Environments
+NTT DATA harnesses the expertise it has gathered from its experience and track record to propose optimal solutions that reflect changes in its clients’ business structure.
+ 
+For example, NTT DATA has built a Zero Trust environment that is utilized by 190,000 users across 56 countries 
+and regions, leveraging security know-how developed through various client projects. Based on this expertise, 
+approximately 1,000 security specialists globally are establishing security governance, providing high-level security 
+technologies necessary for systems handling critical information, and implementing Zero Trust security to facilitate 
+safe remote work environments that support new ways of working. 
+ 
+Moreover, information security incidents in recent years have highlighted the importance of preparing against 
+contingencies on the assumption that protective security measures might be bypassed altogether by sophisticated targeted attacks or information leaks caused by internal misconduct. To contain and localize any damage, 
+we must provide reliable detection of an attack and swift response and recovery. We help reinforce the security 
+measures of our clients by offering security consulting to identify risks and providing solutions and services for 
+neutralizing and protecting against risks. Furthermore, we offer construction services for detection, response, and 
+recovery as well as operational monitoring services to support our clients’ security measures.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

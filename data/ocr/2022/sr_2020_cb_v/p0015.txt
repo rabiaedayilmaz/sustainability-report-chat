@@ -1,0 +1,190 @@
+A digital disaster prevention platform that 
+promotes efficiency and information 
+collaboration in disaster response operations
+Natural disasters, such as typhoons and heavy rains, are 
+increasingly frequent and severe. With the added threat of 
+COVID-19 and large-scale power outages, moreover, such 
+disasters are growing more complex and widespread in nature. 
+To date, however, local governments and infrastructure providers 
+handling disaster responses have collected and consolidated 
+disaster information in non-digital formats, such as telephone and 
+fax. The lack of information connectivity increases the time taken 
+to compile information, making it a challenge to improve the 
+eﬃciency of disaster countermeasure operations. Also, there is 
+a growing need for real-time information coordination across 
+organizations and companies as disasters become more complex 
+and widespread.
+ 
+In response, NTT DATA oﬀers a digital disaster mitigation 
+platform called D-Resilio®. The platform includes a line-up of 
+solutions required for information gathering, decision-making, 
+and emergency responses in the event of a disaster that can be 
+freely combined and utilized. It uses digital satellite images and 
+drones to monitor conditions over wide areas, collects real-time 
+information from residents in the aﬀected areas via Twitter, and 
+visualizes and analyzes all the information collected, thus 
+supporting decision-making at the task force headquarters and 
+enabling rapid responses.
+ 
+In addition, NTT DATA has a disaster mitigation 
+communication system that is used to streamline operations by 
+enabling batch distribution of information to a variety of 
+communication media, such as outdoor speakers and 
+smartphones, with a single operation. It can also be data-linked 
+to existing systems, including wide-area disaster emergency 
+medical information systems (EMISs) and related organizations, 
+to share the results of local damage assessments, which were 
+previously conducted individually. This will help speed up 
+infrastructure restoration and assist disaster victims in rebuilding 
+their lives.
+ 
+Going forward, we will promote the digitization of disaster 
+prevention operations and information linkage while expanding 
+our solutions to include disaster prevention and post-disaster 
+recovery and reconstruction, thereby contributing to the 
+realization of a resilient society that can withstand disasters.
+Digital technology supports the collection, analysis, communication, and coordination of information in disaster 
+events and contributes to rapid and accurate disaster responses.
+Common
+Operational
+Picture GIS
+C2 WebEOC
+D-Resilio®
+Area
+Monitoring
+Drone
+Sensor,
+IoT
+Business
+Intelligence
+AW3D,
+SAR Satellite
+Provides an intuitive view of disaster information
+Crisis disaster dashboard
+Provides analysis of satellite images to meet the 
+need for a bird’s eye view of disaster damage
+Disaster SpaceVIEW
+Provides a real-time 
+information-sharing 
+platform to help 
+strengthen command 
+and control of the 
+disaster response 
+headquarters
+Crisis and disaster information 
+sharing and command/control 
+infrastructure
+Provides a map visualization 
+COP (common operational 
+picture) in conjunction with 
+various GISs to meet the 
+need for unified situational 
+awareness related to maps
+Disaster Map COP
+Provides big data, including SNS information and 
+human flow data, to enable a real-time situational 
+awareness
+Disaster big data
+Provides on-site visual information 
+by drone for situational assessments in areas where 
+survey damage is difficult to conduct by humans 
+Autonomous area-monitoring drone
+¥2.18 trillion (highest since statistics began)
+Cost of flood damage throughout Japan (2019)
+Source: Press release, Ministry of Land, Infrastructure, Transport and Tourism (March 2021)
+The number of patients with diabetes and other 
+lifestyle-related diseases is increasing worldwide, and in 
+Japan lifestyle-related diseases account for one-third of total 
+medical costs. Rising health consciousness of consumers 
+has underscored the concept of “prevention instead of cure,” 
+leading to a growing movement to curb diseases and medical 
+costs by improving eating habits. As companies place more 
+emphasis on health management, there is a need to provide 
+“food and wellness” services that are tailored to each person’s 
+age, constitution, medical history, and lifestyle.
+ 
+NTT DATA is working to build a “Food & Wellness 
+Platform” that will support the collection and utilization of 
+various health-related data and the launch of new businesses. 
+Here, we approach individual food and health proposals from a 
+technology-driven perspective. We believe that storing a wide 
+variety of health data held by consumers and companies on 
+the platform and enabling companies to utilize that data will 
+lead to the provision of food and wellness services tailored to 
+each individual consumer.
+ 
+As a ﬁrst step, we launched our “Food & Wellness 
+500-Person PoC* Environment Service” in November 2021. For 
+proof of concept (PoC) monitoring, we provide an environment 
+where the health-check data of 500 NTT DATA employees can 
+be used. Companies wishing to access the data can handle 
+their own monitoring and data utilization to measure and verify 
+health awareness and purchasing activities without having to 
+manage personal information.
+ 
+In the future, we will expand the Food & Wellness Platform 
+by increasing the number of monitors and accumulating various 
+information, such as vital statistics and genome data, in addition 
+to health-check data. 
+ 
+We also plan to add an e-commerce function to allow the 
+swift veriﬁcation of DtoC (direct to consumer) services. This will 
+enable companies to connect directly with consumers and 
+better understand their needs. Our aim here is to support the 
+expansion of businesses related to food and wellness, the 
+improvement of people’s health, and the resolution of social 
+issues related to surging medical costs.
+*Proof of concept (PoC): The process of verifying the feasibility and 
+eﬀectiveness of a new concept, theory, or idea before moving it to actual 
+development.
+For companies looking to oﬀer new services and engage in marketing activities related to food and wellness, we 
+provide a platform that supports their data collection eﬀorts and helps them verify the feasibility and eﬀectiveness 
+of their businesses.
+Using data to deploy our personalized 
+“food and wellness services”
+Service 
+providers 
+holding data
+Measuring equipment 
+manufacturers
+Vital statistics
+Genomic testing companies
+Genome data
+Medical institutions; 
+pharmaceutical companies
+Health-check data
+Meal app developers
+Food data
+Fitness gyms
+Exercise data
+Health insurance associations; 
+local governments
+Health-check data
+Data analysis
+Anonymous 
+processing
+Data integration
+Consent 
+management
+Food & Wellness Platform
+Companies 
+wishing to 
+access data
+Consumers
+1/3 of total medical expenses
+Medical expenses related to lifestyle-related diseases in Japan
+Society | Inclusive Society
+Society | Inclusive Society
+Smart X
+Co-innovation
+Smart X
+Co-innovation
+Community
+Engagement
+Community
+Engagement
+Case: Food & Wellness Platform
+Case: D-Resilio®
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

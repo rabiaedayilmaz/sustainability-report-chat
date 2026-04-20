@@ -1,0 +1,91 @@
+CASE03
+A Communication Tool that Assists with All Aspects of Farm Management including 
+Downstream and Upstream Processes
+Using a drone for farming
+The Voice of the Stakeholder
+We have been using the platform for some six months now. At the time 
+of adoption, we thought that it would be rather difficult to spread the 
+use of the platform in our area but were nevertheless determined to 
+find ways to promote its use among our member farmers. We shared 
+our thoughts and suggestions with the NTT DATA team, held countless 
+discussions with them and, based on those discussions, they made many 
+improvements to the solution.
+　We hope to further promote the use of the platform at our member 
+farms and help pass the networks and know-how of our farmers on 
+to future generations so as to keep our area thriving as a sustainable 
+production area for many years to come.
+Mr. Hiroshi Ichikawa
+Chief 
+Commercial Farming Planning Promotion 
+Section
+Hokota Japan Agricultural Cooperative
+Hidetoshi Ookawa
+Manager, Food Business Planning Group, Third Financial Sector
+Revitalizing Japan’s agriculture sector
+Agriculture has been designated in Japan’s growth strategy as 
+one of the key industries to lead national growth. As such, many 
+efforts are being made to realize smart farming using ICT to 
+address various issues including improving productivity and work 
+efficiency in a bid to increase farmers’ incomes across the country. 
+The use of ICT in agriculture, however, has so far been limited. 
+Therefore, there has been a great deal of demand for effective 
+and easy-to-use ICT-based solutions that can be introduced 
+across the agriculture sector.
+ICT is characterized by its ability to become more effective and 
+useful as the amount of data expands by the digitization of data 
+previously unavailable in digital form. In the agriculture sector, 
+farmers’ experience, know-how and hunches in many areas have 
+not been digitized, and have only been passed down from father 
+to son as family secrets. Introducing ICT into these areas may 
+be able to bring about benefits such as improvement of work 
+efficiency and acceleration of new farmers’ skill acquisition.
+A mechanism to enable the easy use of various functions
+Proclaiming itself a “platform to support commercial farming,” 
+the platform aims to offer services beyond the currently available 
+production planning and cultivation result recording functions. 
+NTT DATA aspire to turn it into a true ICT-based platform 
+for all areas of commercial farming including upstream and 
+downstream farming processes. In our efforts to reach this goal, 
+plans are underway to start offering a Sales and Distribution 
+platform in 2021 and a Food and Agriculture platform in 2023.
+By using the platform, farmers will become able to try new 
+things including determining the appropriate timing for watering 
+based on the automatically collected crop growth status data 
+and adjusting the timing and quantity of shipments in accordance 
+with the latest price information on farm produce in consumer 
+markets. Nowadays, simply developing systems demands 
+increasingly higher levels of technology, which makes it difficult for 
+us to come up with solutions that are easy to use for producers 
+working on farms. Even under these difficult circumstances, we 
+can support the growth of Japan’s agriculture sector by applying 
+NTT DATA Group’s vast know-how fostered through developing 
+systems for many types of industry and various lines of business.
+In addition to the platform, NTT DATA has started in Minami 
+Soma, Fukushima, a verification testing project in smart farming 
+useful for farm management in which various experiments are 
+conducted. These include one that uses NTT DATA’s “airpalette
+® 
+UTM” drone operation control software package to simultaneously 
+operate several drones capable of receiving highly sophisticated 
+GNSS signals transmitted from a Quasi-Zenith Satellite for 
+identifying the growth status of crops and applying fertilizers or 
+pesticides in appropriate places and in just the right amount. 
+NTT DATA believe that the findings from these experiments can 
+also be used to raise farming productivity in developing countries 
+and thus contribute to improving global food security.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

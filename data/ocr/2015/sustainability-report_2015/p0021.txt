@@ -1,0 +1,109 @@
+Clients
+ 事業本部等実施要項
+ 
+ Sector Prescripts
+ 
+ 
+ Rules, Detailed Rules
+ and Corporate 
+ Prescripts
+<PM & ALM Innovation Center>
+<Agile Professional Center>
+<Quality Management Portal Site>
+Quality 
+Policy
+Quality 
+Objectives
+Products 
+(Systems, 
+Services)
+NTT 
+DATA
+Top Management
+Corporate Quality Management 
+Representative
+Sector Quality Management 
+Representative
+Deployment
+Deployment
+Deployment
+Improvements
+Improvements
+Instructions
+Performance 
+Monitoring
+Report, 
+Analysis 
+and 
+Evaluation
+ 
+ Project Prescripts
+Project Planning
+Projects
+Review
+Client Satisfaction
+　
+　
+　
+　
+　
+　
+　
+　
+Clients
+Requirements
+Level 5:
+Optimizing
+Continuous improvements to 
+process based on quantitative 
+understanding
+Level 4:
+Quantitatively 
+managed
+Statistical monitoring of performance 
+of the process that contributes to 
+achieving business objectives, 
+rendering results predictable
+Level 2:
+Managed
+Project requirements are defined, and process planning, 
+performance, measurement and control are carried out
+Level 3:
+Defined
+Establishment and improvement as an organized 
+standard process The scope is extended to the 
+development process (requirement definitions, 
+design, testing, etc.)
+Level 1:
+Initial
+Ad hoc, chaotic Success of a project depends overly on a highly skilled 
+specialist
+ NTT DATA Quality Management System
+ Capability Maturity Model Integration (CMMI)
+Improvements
+● Enhancing and Standardizing Project Management
+NTT DATA is endeavoring to enhance and standardize project management in order to improve the quality and efficiency of system 
+development. In fiscal 2016, we completely overhauled the organization specializing in research and development that had been set 
+up in fiscal 2011 to launch the PM (project management) & ALM (application lifecycle management) Innovation Center. And in 2014, 
+we launched the Agile Professional Center as a specialized organization to pursue the research and development of agile software 
+development methods and project execution across the NTT DATA Group.
+The PM & ALM Innovation Center was established to research and develop innovative project management methods, reinforce them 
+through verifiable methods familiar to the actual worksites, and provide them within the Group in an easy-to-use manner. The center 
+is also responsible for establishing the NTT DATA Global Standards, which integrate standard procedures for system development 
+around the world, and for developing next-generation management tools that raise the execution rate of progress management and 
+quality management, thereby enhancing the competitiveness of the NTT DATA Group and limiting problematic projects.
+In July 2014, NTT DATA launched the Agile Professional Center (APC) to lead the implementation of agile development projects as a 
+part of efforts to address the recent rapid growth in agile development needs. In this manner, we are working to consolidate the knowhow accumulated at the APC to deliver to our global clients systems that harness even more advanced agile development methods.
+In fiscal 2011, NTT DATA launched the Quality Management Portal Site. Our objective was to enable the sharing of all kinds of 
+information related to quality among the different development locations, including those of Group companies.
+In fiscal 2015, we sought to enhance quality throughout the NTT DATA Group by improving its content to better accommodate 
+the realities of work locations.
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

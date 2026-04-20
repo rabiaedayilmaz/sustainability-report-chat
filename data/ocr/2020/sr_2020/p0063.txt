@@ -1,0 +1,55 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Reducing the Environmental Impact of the Value Chain 
+ 
+Greening of Customers and Society 
+ 
+ Reducing the Environmental Impact of Society through IT 
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly verified general-purpose evaluation and 
+measurement methods1 for quantitatively evaluating the effectiveness of environmental impact reduction for all development 
+projects. Since 2014, we have been conducting quantitative evaluation with tools based on the results of this verification. 
+We recommend the Groupwide utilization of these methods, which are more suited to general-purpose applications and 
+actual business conditions than to the environmental impact assessment system2 used in the past. 
+ 
+1. The results of our joint verification have been patented (Patent No. 5785229 (2015)). 
+2. A service for assessing the environmental impact of information systems developed by the NTT Information Network Laboratory Group. The service 
+calculates environmental impact reductions that can be achieved through reduced consumption of materials and energy, transportation volume of people 
+and goods, and the like, resulting from system introduction. 
+ 
+ 
+ Active Participation in Environmental Projects of Government and Industrial Organizations 
+The NTT DATA Group participates in environmental projects promoted by government and other organizations, taking advantage 
+of technologies and expertise honed from the construction of numerous public administration systems. We also actively join 
+environmental working and other groups of various organizations. 
+In recent years, we have exchanged wide-ranging opinions as a member of the Japan Smart Community Alliance (JSCA)3 
+and the Japan Environment Club4. These discussions are aimed at realizing the next generation of sustainable societies and 
+cover various topics, including research into smart communities, sustainability, SDGs/ESG and resilience. 
+ 
+As part of a Ministry of the Environment project, since fiscal 2013 we have been developing a system for field-testing ESG 
+information disclosure and dialogue platforms for the purpose of promoting ESG investment. We aim to achieve practical 
+application in 2020. We help promote ESG investment by developing and offering platforms for the disclosure of nonfinancial 
+information in financial information formats, as well as opportunities for dialogue between investment institutions and companies. 
+ 
+3. An organization established to promote the international development and domestic proliferation of smart communities through public- and private-sector 
+collaboration. 
+4. A nonprofit organization that engages in exchange, education, research and policy support projects aimed at solving global environmental problems. Its 
+objective is to foster sustainable business management, the creation of symbiotic environments through the maintenance and restoration of the abundant 
+regional natural environments, and the creation of sound lifestyle principles for citizens in their daily lives. 
+ 
+ 
+Promoting Green Purchasing 
+ 
+ Promoting Green Purchasing Based on Assessments of Corporate Stance and Products 
+In addition to price and quality evaluation, the NTT DATA Group has established evaluation criteria that it uses when procuring 
+and selecting products and services. These criteria set out specific standards for selecting suppliers and include such factors as 
+the corporate stance on environmental protection and environmental considerations for supplier products and services. In fiscal 
+2019, new suppliers selected based on these environmental criteria accounted for around 60% of important suppliers. 
+ 
+ Priority Assessment Items 
+At present, our assessments aimed at promoting green purchasing are based mainly on evaluation of a potential supplier’s 
+approach to tackling environmental issues. In addition to compliance with environmental laws and regulations, as a matter of 
+course we attach considerable weight to whether the supplier has acquired ISO 14001 and other environmental management 
+certifications. For suppliers who have not yet acquired environmental certification, we also check the status of their ESG 
+management practices by asking specific questions, such as whether they have environmental guidelines, environmental impact 
+reduction targets and environmental management organizations in place.

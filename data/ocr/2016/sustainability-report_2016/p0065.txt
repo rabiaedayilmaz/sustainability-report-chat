@@ -1,0 +1,164 @@
+Environmental Data
+Units
+Amount
+Waste countermeasures
+Industrial waste requiring special management, etc.
+Asbestos removed (from buildings) during the year
+Instances
+
+Asbestos emissions (from buildings) during the year
+Tons
+
+Waste batteries
+Tons
+
+Other waste (acidic ash, alkali, oil, etc.)
+Tons
+
+Use of products containing PCBs
+Units
+
+Transformers
+Units
+
+PCB-containing products renewed (removed, stored) during the year
+Units
+
+Transformers
+Units
+
+Stabilizers
+Units
+
+Storage of PCB-containing products
+Units
+
+Transformers
+Units
+
+Stabilizers
+Units
+
+Disposal of PCB-containing products during the year
+Units
+
+Transformers
+Units
+
+High voltage condenser
+Units
+
+Low voltage condenser
+Units
+
+Stabilizers
+Units
+
+Ozone layer protection
+Removal of air-conditioning system units using chlorofluorocarbons (CFCs) during the year
+Removal of air-conditioning system units using specified CFCs
+Units
+
+Removal of air-conditioning system units using alternative 
+hydrochlorofluorocarbons (HCFCs)
+Units
+
+Removal of air-conditioning system units using alternative 
+hydrofluorocarbons (HFCs)
+Units
+
+Recovery and destruction of specified CFCs used for air-conditioning systems
+kg
+
+Recovery and destruction of alternative HCFCs used for air-conditioning systems
+kg
+
+Recovery and destruction of alternative HFCs used for air-conditioning systems
+kg
+
+Use of air-conditioning system units using CFCs
+Air-conditioning system units using specified CFCs
+Units
+
+Air-conditioning system units using alternative hydrochlorofluorocarbons (HCFCs)
+Units
+
+Air-conditioning system units using alternative hydrofluorocarbons (HFCs)
+Units
+
+Specified CFCs used for air-conditioning systems
+kg
+12,266
+Alternative HCFCs used for air-conditioning
+kg
+5,076
+Alternative HFCs used for air-conditioning
+kg
+8,104
+Storage of air-conditioning system units using CFCs
+Storage of air-conditioning system units using specified CFCs
+Units
+
+Storage of air-conditioning system units using alternative HCFCs
+Units
+
+Storage of air-conditioning system units using alternative HFCs
+Units
+
+Stored amount of specified CFCs used for air-conditioning systems
+kg
+4,351
+Stored amount of alternative HCFCs used for air-conditioning systems
+kg
+1,060
+Stored amount of alternative HFCs used for air-conditioning systems
+kg
+
+Use of vehicles using CFCs
+Company vehicles that employ CFCs in air-conditioner refrigerants
+Units
+
+Company vehicles that employ HCFCs in air-conditioner refrigerants
+Units
+
+Company vehicles that employ HFCs in air-conditioner refrigerants
+Units
+
+Use of CFCs in vehicle air-conditioners
+kg
+
+Use of HCFCs in vehicle air-conditioners
+kg
+
+Use of HFCs in vehicle air-conditioners
+kg
+
+Elimination of specified-CFC fire prevention equipment
+Buildings from which specified-CFC fire prevention equipment removed 
+during the year
+Buildings
+
+Amount of specified CFCs removed from fire prevention equipment during 
+the year
+kg
+
+Amount of specified CFC gas emitted by fire prevention equipment during the year
+kg
+
+Remaining number of buildings employing specified-CFC fire prevention 
+equipment
+Buildings
+
+Remaining specified CFC gas emissions from fire prevention equipment
+kg
+38,870
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

@@ -1,0 +1,103 @@
+NTT DATA Sustainability Report 2018
+ NTT DATA Technology Foresight
+NTT DATA conducts surveys and research on information industry trends (near-future outlook) that 
+are expected to have a major impact on client businesses over the medium to long term, conducting 
+its work from the client’s perspective and based on societal and business issues. We also research 
+the underlying technology trends. We release this information in the annual NTT DATA Technology 
+Foresight report.
+ Specifically, we analyze political, economic, social, and technological trends. We also engage 
+in wide-ranging information-collection activities and discussions that extend to NTT DATA Group 
+companies and NTT R&D laboratories in Japan and overseas. These activities include interviews 
+with external specialists in various fields. Through these activities, we have identified core issues 
+warranting particular attention in social and business fields as well as groundbreaking technologies 
+that are evolving and spreading with remarkable speed. Extrapolating from these, we have defined 
+four information society trends and eight technology trends, on which we transmit information.
+ Through NTT DATA Technology Foresight, we work with clients to create an image of the future. 
+By developing the technologies and services necessary to realize that future, we aim to create 
+new businesses and promote the development of society as a whole. We take part in joint verification tests with clients around the world to confirm the feasibility and effectiveness of the technologies 
+and services we have developed.
+ https://www.nttdata.com/global/en/Foresight#
+ NTT DATA Technology Foresight Formulation Process
+ Global Open Innovation
+The growing prevalence and falling price of the Internet and various other technologies has lowered 
+the barriers to innovation. Against this backdrop, NTT DATA promotes open innovation, working 
+with venture companies that possess advanced business models and technologies, as well as 
+large client companies, to accelerate the creation of innovative businesses and create a win–win–win 
+situation for these organizations and NTT DATA. We have created a community of more than 4,000 
+people that takes part in regular monthly meetings as well as twice-yearly open innovation contests. 
+Through these contests, we engage in innovative business creation via a next-generation social 
+infrastructure comprising NTT DATA’s business divisions, venture companies, and large client 
+companies. Since the start of this activity in 2013, we have collaborated with venture companies 
+in FinTech, energy, digital marketing, healthcare, and various other fields, resulting in the commercialization of more than 10 businesses.
+ Since fiscal 2016, we have held global contests in more than 15 cities around the world. The contests help foster cross-border alliances among venture companies working to resolve a host of issues 
+in various countries, large client companies hailing from different countries, and the NTT DATA Group’s 
+business divisions in those countries. The contests contribute toward truly open innovation, which 
+leads to business creation and helps bolster the overall capabilities of the NTT DATA Group around the 
+world. In fiscal 2018, we are launching the SDG Startup Program, aimed at leveraging open innovation 
+to address the 17 SDGs outlined by the United Nations.
+ http://oi.nttdata.com/en
+ Concept Map
+[ Activity in 2017 ]
+ NTT DATA Open Innovation Contest
+In fiscal 2017, we held our Open Innovation Business Contest twice, corresponding to the sixth and 
+seventh contests. The winner of the sixth contest was a peer-to-peer urban planning proposal by 
+Crowd Reality, Inc. The winner of the seventh contest, which took place in 15 cities around the 
+world, was Gestoos, selected in Barcelona, Spain. Gestoos proposed an innovative gesturerecognition solution that uses AI to recognize and comprehend minute hand movements and 
+behaviors, and then uses this information for machine operations and content use. With the winning 
+companies, NTT DATA set up dedicated collaboration teams and is conducting proof-of-concept 
+(POC) client proposals in the lead-up to commercialization. We are nurturing the seeds of alliance 
+businesses from sources other than winning companies, too, and have already commercialized 
+more than 10 projects.
+NTT DATA Technology 
+Foresight
+Technology trends
+Information society trends
+Societal issues
+Business issues
+Innovation 
+technology
+NTT DATA Group specialists 
+around the world
+NTT R&D laboratories
+External specialists
+Public information surveys
+Through open innovation, 
+large companies 
+x venture matching
+Creation of new business
+Client 
+companies 
+(Large companies)
+Pursuit of new 
+added value, 
+business speed
+Advanced 
+technologies, 
+case studies 
+(Venture companies)
+Fewer opportunities for 
+business development or 
+opportunities to meet 
+alliance candidates
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social

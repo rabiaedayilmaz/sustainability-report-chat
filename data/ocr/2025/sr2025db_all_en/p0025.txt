@@ -1,0 +1,103 @@
+necessary to cut emissions associated with IT device manufacturing and electricity consumption. Against this backdrop, there is a growing need to rethink the very nature of IT. 
+Sustainable IT is an approach that reassesses IT from a sustainability perspective—
+reducing environmental impact across the entire IT life cycle and ensuring the ethical use 
+of AI—so that IT itself becomes sustainable. 
+ 
+Recognizing the importance of sustainable IT, we are accelerating efforts to reduce 
+the environmental impact of IT systems across the board, from data centers and IT hardware to software. In addition, we are promoting the measurement of IT system carbon 
+footprints, establishing rules for green software development, and developing and disseminating tools and best practices across the industry, aiming to lead the world in 
+achieving sustainable IT.
+ *1 The International Energy Agency (IEA) estimates that data centers consumed approximately 1.5% of 
+global electricity (4.15 TWh) in 2024, and this is expected to double to around 9.45 TWh by 2030. 
+“Energy and AI – Analysis,” IEA.
+ 
+*2 Research indicates that GHG emissions from the ICT sector account for 1.5%–4% of global emissions. 
+“Measuring the Emissions and Energy Footprint of the ICT Sector: Implications for Climate Action,” 
+World Bank.
+Green Data Center®
+With the ongoing digital transformation, demand for data processing, storage, and communication services continues to grow. In particular, the rapid expansion of generative 
+AI has driven a global surge in data center demand, leading to increased electricity consumption and corresponding GHG emissions.
+ 
+As the world’s third-largest data center operator by revenue, NTT DATA manages 
+1,500 MW of capacity. In Japan, we have more than 50 years of experience operating mission- 
+critical systems reliably, and we currently provide highly dependable services across 13 
+data centers. While ensuring the safety and security of systems as social infrastructure, 
+we are promoting energy efficiency, energy conservation, and the use of renewable 
+energy. We aim to achieve Net-Zero direct and indirect GHG emissions (Scope 1 and 2) 
+from our data center operations by 2030. By providing data centers designed to minimize environmental impact, we also contribute to reducing GHG emissions for our clients 
+and society as a whole.
+Next-Generation Demonstration Field: “Data Center Trial Field”
+In data centers, rising electricity consumption and higher server densities are intensifying heat generation, making traditional air-cooling methods insufficient. Consequently, 
+demand for liquid cooling technologies, such as Direct Liquid Cooling (DLC), is increasing. 
+Constructing server rooms requires coordination among numerous stakeholders, including operators, construction companies, equipment manufacturers, and design firms. 
+However, the lack of opportunities to test new cooling methods and energy-saving technologies has impeded technology development and adoption. This highlights the need 
+for verification facilities that can replicate data center environments, as well as the provision of opportunities for stakeholders to collaborate.
+ 
+To address these challenges, in November 2024, NTT DATA opened the next-generation 
+demonstration field, the “Data Center Trial Field,” in Noda City, Chiba Prefecture. The 
+facility is equipped with state-of-the-art cooling technologies and high-efficiency equipment, enabling testing of solutions aimed at decarbonizing data centers and optimizing 
+energy use. By collaborating with external research institutions and companies, the facility serves as an open space to promote co-creation and accelerate technological innovation, supporting the early deployment of solutions that benefit both society and industry. 
+Leveraging the perspectives of both IT vendors and data center operators, we aim to 
+accelerate innovation through cross-industry community building and collaboration, 
+advancing industry-wide efforts to decarbonize data centers and contributing to the 
+realization of a sustainable society.
+Reducing GHG Emissions, from Data Centers to Software
+Components of 
+IT Systems
+Initiatives for Sustainable IT
+Software
+● Green software technologies / AI coding
+Green implementation patterns*¹ / 
+Carbon-aware technologies*²
+*1 Reduce power consumption through software; use fewer hardware resources
+*2 Optimize location selection and task execution to increase renewable energy usage
+Hardware
+● Green procurement
+Ensure procurement of materials 
+with low environmental impact
+● Use of low-power infrastructure
+Select hardware according to the 
+task requirements
+Data centers 
+/ Network
+● Green data centers
+Promote migration to modern, 
+energy-efficient data centers
+● Green Cloud Advisory
+Promote cloud adoption and leverage 
+consolidation to reduce emissions
+Note: The logo of the Green Software Foundation is a trademark of the Linux Foundation in the United States and other countries.
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Sustainable 
+IT Diagnostic 
+Service
+Assess current IT 
+sustainability 
+maturity and 
+develop a road map
+IOWN 
+Technology
+Significantly reduce 
+power consumption 
+through photonics- 
+electronics 
+convergence 
+technology
+Medium- to 
+Long-Term R&D
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

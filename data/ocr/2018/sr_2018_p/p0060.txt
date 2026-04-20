@@ -1,0 +1,236 @@
+Greenhouse gases (CO2)
+Energy
+NTT DATA Sustainability Report 2018
+ Overview of the NTT DATA Group’s Environmental Impact
+We believe that the reliable and continuous achievement of our goals to reduce the NTT DATA 
+Group’s environmental impact is a fundamental responsibility of our environmental management 
+efforts. To minimize the environmental impact of its business activities, the NTT DATA Group 
+monitors and analyzes the types and amounts of resources and energy consumed by various 
+processes and their environmental impacts.
+ The environmental impact posed by the NTT DATA Group’s business activities primarily arises from 
+the emission of greenhouse gases resulting from the consumption of energy, mainly as electric power. 
+However, there are many other factors that affect the environment, including data center construction 
+and the use of paper and water resources. In addition, we cannot ignore the environmental impact 
+of energy consumption resulting from the operation of systems and services provided by the NTT 
+DATA Group by clients. The NTT DATA Group strives to correctly ascertain and analyze the environmental 
+impact of its business activities and to utilize these results in various improvement activities.
+ Material Flow Diagram
+Scope of Environmental Impact Measurement
+Fiscal 2014: NTT DATA (all organizations), 73 Group companies (Japan only)
+Fiscal 2015: NTT DATA (all organizations), 75 Group companies (Japan only)
+Fiscal 2016: NTT DATA (all organizations), 69 Group companies (Japan only)
+Fiscal 2017: NTT DATA (all organizations), 68 Group companies (Japan only)
+Energy
+Greenhouse 
+gases
+Office waste
+Construction 
+waste
+Construction 
+materials
+Specified 
+chlorofluorocarbons (CFCs) 
+used for air-conditioning 
+systems
+Water resources
+Paper 
+resources
+Water 
+resources
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Utility power
+10,000 kWh
+49,169 
+47,661 
+49,437 
+48,063
+Kerosene
+kl
+
+Light gas oil (excluding Company vehicles)
+kl
+
+A–C heavy oil
+kl
+
+City gas
+10,000 m³
+
+Gasoline (Company vehicles)
+kl
+
+Light gas oil (Company vehicles), steam, cold energy
+kl
+
+Steam, cold energy
+GJ
+41,372 
+41,372 
+43,388 
+48,223
+INPUT
+OUTPUT
+Inside the NTT DATA Group
+ Acquired third-party certification
+ Acquired third-party certification
+Outside the NTT DATA Group
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Electricity use
+10,000 t-CO2e*1
+25.4
+23.4
+24.0
+22.7
+Gas / Fuel use
+10,000 t-CO2e
+0.4
+0.3
+0.4
+0.5
+Heat use
+10,000 t-CO2e
+0.2
+0.2
+0.2
+0.3
+Company vehicle use
+10,000 t-CO2e
+0.1
+0.1
+0.2
+0.2
+Alternative CFCs
+10,000 t-CO2e
+—
+—
+0.3
+0.0
+Total
+10,000 t-CO2e
+26.1
+24.1
+25.1
+23.6
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Amount generated
+t
+5,046
+4,763
+5,865 
+4,573
+Incineration / Landfill
+t
+
+Amount recycled
+t
+4,073
+4,685
+5,800 
+4,505
+Amount of final disposal*2
+t
+
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Amount generated
+t
+
+36,512
+
+1,118
+Amount recycled
+t
+
+36,473
+
+1,083
+Amount of final disposal
+t
+
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Drainage amount
+10,000 m³
+
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Number of air-conditioning system units using 
+specified CFCs
+Units
+
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Clean water consumption
+10,000 m³
+
+Unit
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Copy paper
+t
+
+Fliers distributed to clients, and other materials
+t
+
+Construction materials, cables, etc.
+*1: Indicates CO2 equivalent
+*2: Thermal recycling has been taken into consideration for the calculation of data since fiscal 2015.
+*3: Figures for fiscal 2015 increased due to the demolition of a large-scale building.
+*4: Figures for fiscal 2017 increased due to construction of new buildings, etc.
+Sales
+Planning / 
+Design
+Manufacturing / 
+Testing
+Data center
+Installation at 
+client sites
+Service operation 
+at client sites
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Governance
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment

@@ -1,0 +1,110 @@
+CASE05
+Providing More Accurate and Diverse Services to Improve Diagnostic Efficiency
+Daria-Antonia Bunu
+Advanced AI Technology Group 
+Evolutional IT Center 
+Research and Development 
+Headquarters
+Takashi Okada
+Manager 
+Advanced AI Technology Group 
+Evolutional IT Center 
+Research and Development 
+Headquarters
+The Voice of the Stakeholder
+NTT DATA’s AI-based solution is a truly unique and innovative tool 
+in that it does not only target specific diseases. At times, doctors are 
+required to diagnose cases that are outside their areas of specialization. 
+In these situations, a tool that provides us with alerts covering all kinds 
+of abnormalities is very useful. It can also play a significant role in the 
+triaging of patients with acute medical conditions. I feel privileged to have 
+been given the opportunity to work with NTT DATA to help promote their 
+R&D efforts and contribute to the advancement of medicine.
+Dr. George Shih
+Co-founder of MD.ai
+Associate Professor /Certified Radiologist
+Cornell University
+misdiagnosis could occur due to the differences in diseases 
+commonly seen among patients in different countries. We 
+therefor decided to start the development of an image-based 
+medical diagnosis assistance solution using AI that can address 
+these issues. In developing the solution we collected data 
+from several countries including the U.S. and Japan in order to 
+achieve the completeness of abnormality-related data. This was 
+also important in order to have learning data that is not affected 
+by a difference in the prevalence of diseases by country and in 
+image processing technology by device. Combining this data 
+with AI technologies we succeeded in developing the solution.
+The solution is equipped with three functions: (1) detecting 
+abnormalities; (2) discovering the locations of abnormalities; and 
+(3) tagging the discovered abnormalities with disease labels.
+This solution has also been proven to possess generalpurpose versatility that can be used globally, in a demonstration 
+experiment conducted in collaboration with the Miyazaki 
+University Hospital from March to November 2019. Specifically, 
+the experiment aimed to verify that the solution created with 
+learning data accumulated in the U.S. could also detect kidney 
+abnormalities in patients in Japan in the same way. According 
+to the experiment results, the sensitivity and specificity of 
+abnormality detection were found to be very high. Especially 
+among cancer patients, the sensitivity and the specificity were as 
+high as 82.4% and 95.3%, respectively, accuracy levels that were 
+roughly in line with the test results from the U.S. patient group.
+In today’s global society, doctors have more and more 
+occasions of attending patients from other countries. Our 
+solution features a versatility that enables it to be quickly 
+adopted for diagnosis purposes without being limited by 
+patient nationality or area of residence. As such, the importance 
+of the solution is expected to increase as society continues to 
+become increasingly global.
+Aiming to provide new social and medical services based 
+on the image-based medical diagnosis assistance using AI
+NTT DATA Services provides some 1,100 medical institutions 
+in North America and surrounding areas with the Unified 
+Clinical Archive (UCA), a cloud-based medical imaging archive 
+solution.These institutions include various types of medical 
+service providers ranging from clinics and university hospitals 
+to medical imaging centers, each of these having needs 
+characteristic to their business models.
+Under these circumstances, discussions are underway 
+regarding the possibility of offering the solution in ways that 
+emphasize its prioritization function that can have various 
+applications. For instance, if the AI is integrated with the 
+solution, determining the diagnosis priority of patients based 
+on the severity of their medical conditions, doctors will be able 
+to diagnose them in order of urgency. This practice is likely to 
+improve the patients’ recovery or survival rates and may thus 
+provide benefits to both patients and doctors. Furthermore, 
+by identifying points of abnormality beforehand, a radiologist 
+whose area of specialization is appropriate for the case can be 
+assigned, enabling the prompt provision of accurate diagnosis. 
+For health checkups, if we can offer the function for discerning 
+patients who are healthy from those who need to be examined 
+more carefully, the solution will help establish a mechanism 
+for efficiently providing advanced medical screening services 
+using CT or MRI scans, which is expected to bring significant 
+benefits in terms of preventive medicine.
+To contribute to such new societal initiatives including the 
+promotion of preventive medicine, we are planning to start 
+offering a service to provide customers with AI-based diagnosis 
+support tools by harnessing our experiences obtained through 
+the years of providing UCA to hundreds of customers.
+NTT DATA will strive to offer the solution to doctors and 
+medical professionals not only in the U.S. but also in more 
+countries across the world in order to relieve their burden and 
+promote the health of people everywhere.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

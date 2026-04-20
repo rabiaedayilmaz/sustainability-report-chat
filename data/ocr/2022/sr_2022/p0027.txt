@@ -1,0 +1,65 @@
+Environment | Regenerating Ecosystems 
+ 
+Our assessments of climate-related risks and opportunities consider short-, medium-, and long-term time horizons. We also 
+classify financial impact (four levels: high, medium–high, medium, and low) and likelihood of occurrence (four levels: virtually 
+certain, very likely, likely, and unlikely). 
+ 
+Notes: 
+1. Definitions of financial impact 
+High: Impact on net sales of ¥100 billion or more, operating income of ¥10 billion or more, or market capitalization of ¥10 billion or more 
+Medium–high: Impact on net sales of ¥10 billion or more–less than ¥100 billion, operating income of ¥1 billion or more–less than ¥10 billion, or market 
+capitalization of ¥1 billion or more–less than ¥10 billion 
+Medium: Impact on net sales of ¥1 billion or more–less than ¥10 billion, operating income of ¥100 million or more–less than ¥1 billion, or market 
+capitalization of ¥100 million or more–less than ¥1 billion 
+Low: Impact on net sales of less than ¥1 billion, operating income of less than ¥100 million, or market capitalization of less than ¥100 million 
+2. Definitions of time horizons 
+Short term: FY2022–2025 
+Medium term: FY2026–2030 
+Long term: FY2031–2050 
+ 
+ Impact on Business Strategy 
+In assessing how climate-related risks and opportunities affect its business strategies, we consider four main factors shown 
+below. Details of these factors are also represented in the subsequent description of climate-related risks and opportunities. 
+ 
+Area Impacted 
+Overview 
+Products and services 
+Under increasing social pressure to address climate change on a global scale, 
+governments and companies in various industries are required to embrace 
+innovations to mitigate and adapt to climate change. These include restructuring 
+business operations, applying new technologies, and creating new mechanisms. 
+Due to the nature of our client base, which includes government agencies that 
+promote the TCFD and financial institutions that support the TCFD, we anticipate 
+increased opportunities mainly in the following services. 
+- Offering for new sustainability-related services and products 
+- Consulting services for a sustainable society 
+- Resilient cloud services 
+Supply chain 
+The risk of flooding due to typhoons and torrential rains, as well as power line breaks, 
+lightning strikes, and power shortages due to surges in demand for electricity, could 
+shut down the operations of us and/or our suppliers. 
+In addition to lost revenue, such shutdowns could affect large-scale 
+systems provided by us that support financial and medical services and other social 
+infrastructure, which could pose a risk of serious damage to people’s societal lives. 
+Technologies 
+Changing technologies and markets have led to increased opportunities to create 
+and provide climate-related products and services. Accordingly, we are increasing 
+R&D on cutting-edge technology and innovation promotion (in such areas as smart 
+cities and AI technologies) and production technology innovation (including 
+development of faster and higher-quality systems and establishment of cloudcomputing infrastructure for digital transformation). 
+Operations 
+With the global society demanding net-zero emissions by 2050 and the legal and 
+regulatory requirements for companies increasing, we expect carbon pricing to 
+result in higher operational costs in the future. In the IT services industry, the use 
+of digital technology to improve business efficiency will increase alongside 
+growing demand for remote working arrangements due to COVID-19. As a result, 
+energy use in our cloud computing and data centers will continue to increase 
+unless we take proper countermeasures. 
+Given the nature of our business, with around 90% of Scope 1 and 2 
+emissions coming from electricity use related to cloud computing and data centers, 
+the continued use of fossil fuel-derived electricity could have a significant 
+management impact. In such a case, we might be forced to procure power from 
+renewable energy sources, which would increase power procurement costs and 
+pose the risk of decline in business profit. 
+
+NTT DATA Sustainability Report 2022 Data Book

@@ -1,0 +1,44 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Governance (Climate-Related Controls) 
+ 
+The Representative Director and Senior Executive Vice President is the Chairperson of both the Climate Action Committee and 
+the Eco Activity Promotion Committee. He is also responsible for business strategy, risk management, investor relations and the 
+like and therefore has the highest executive responsibility for climate change and environmental protection matters. In his role 
+as Chairperson of the aforementioned committees, he manages risks related to climate change and environmental protection 
+as part of our company-wide risk management through semiannual meetings and other forums. In our company-wide risk 
+management, meanwhile, “climate-related risk” is individually defined as one of only 14 “material risks” in our annual securities 
+report. 
+Strategy planning and evaluation of climate-related risks and opportunities are carried out by the Climate Action Committee. 
+Based on the recommendations of that committee, the Board of Directors decided on the NTT DATA Carbon-neutral Vision 2050, 
+committed to the Business Ambition for 1.5°C campaign and endorsed the recommendations of the TCFD. 
+ The Climate Action Committee considers measures to deal with risks and opportunities that are deemed material. This 
+includes all aspects related to the risks and opportunities for our climate-related businesses. Its scope of consideration also 
+covers regulations that are expected to be strengthened in the future (such as carbon taxes, purchase schemes for renewable 
+energy and cap-and-trade systems) and physical effects (such as abnormal weather and average temperature increases). 
+ The Company analyzes the targets and results of each item related to environmental load (energy consumption/greenhouse 
+gas emissions, paper resource usage, waste material volumes and water usage). Depending on content, the results of these 
+analyses undergo management review by the Climate Action Committee or the Eco Activity Promotion Committee and are then 
+reported to the Representative Director and Senior Executive Vice President, who chairs both committees. 
+ 
+ Activities of Each Facility 
+The Facility Management Division, an organization specializing in architectural design, compiles information on environmental 
+impact indicators for each data center and office (energy consumption/greenhouse gas emissions, paper resource usage, waste 
+material volumes and water usage), the status of energy conservation measures and regulatory trends at the local government 
+level. Depending on the content, its findings undergo management review by the Climate Action Committee or the Eco Activity 
+Promotion Committee and are then reported to the Representative Director and Senior Executive Vice President, who proposes 
+critical matters for consideration to the Board of Directors, where discussions are held regarding possible response measures. 
+ 
+Climate Strategy 
+ 
+ Prioritization of Risks 
+The Internal Control Promotion Committee selects around 60 risk candidates related to the Group’s overall business and 
+evaluates them from perspectives relevant to our business, urgency level and benchmarking against other companies in the 
+same industry. Risks with a significant impact on the Group as a whole are defined as “material risks.” The Board of Directors 
+has decided on 14 such risks to be addressed on a priority basis. Furthermore, for climate-related risk, the degree of impact is 
+determined the magnitude of impact (very high, high, medium, small) based on financial considerations (classified into five levels, 
+from less than ¥100 million to ¥100 billion), likelihood of occurrence (three levels, such as impact within one year) and impact 
+on the time horizon. We have defined our major climate-related risks and opportunities as follows: risks ranging from “very high” 
+(potential financial impact of ¥10 billion–¥100 billion) to “medium” (expected to be gradual but virtually certain), and opportunities 
+ranging from “very high” to “high” (because opportunities are less certain than risks).

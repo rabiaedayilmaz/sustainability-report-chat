@@ -1,0 +1,87 @@
+Demand for electricity comes in waves that depend on the 
+season and the time of day. Demand response is a 
+mechanism to encourage electricity savings and the 
+reduction of peak demand by setting up higher prices or 
+incentives during peak demand periods. In several 
+countries, demand response efforts are continuing in line 
+with the smart grid.
+While focusing on Big Data as the key to the smart use 
+of energy and electricity demand management through 
+demand response programs, NTT DATA has been 
+advancing research into demand forecasting for each 
+electricity consumer.
+Aside from joint research with AutoGrid, NTT DATA and 
+Japan’s Ministry of Agriculture, Forestry and Fisheries installed 
+an electric power visualization tool at a fishing port in the 
+Tohoku region in 2012. The Company and the Ministry are 
+providing a system that promotes energy saving on the basis 
+of electricity demand forecasts.
+In the medium to long term, the knowledge gained from 
+this research will also form the basis of systems in a number of 
+ways: in developing systems used in renewable energy and in 
+electric vehicles (EVs); in bringing to fruition the optimization of 
+electricity networks; and in developing systems that will 
+optimize the energy procurement of power utility companies. 
+Through these means, NTT DATA is in sight of making 
+contributions to the stable operation of social infrastructure.
+Executive Manager of the Business Planning Office 
+Yayoi Fujita (left) and AutoGrid Chief Executive Officer 
+Amit Narayan (right)
+Engagement for Tomorrow
+In 2013, NTT DATA started joint research with the U.S. 
+company AutoGrid Systems, Inc., which has an extensive 
+track record in the demand response field, and is taking 
+steps toward pilot projects in the United States and Japan.
+Based on this joint research, AutoGrid and NTT DATA 
+started the development of the Demand Side Optimizer 
+(tentative name), a system that will facilitate peak demand 
+reduction by providing detailed demand forecasts for each 
+consumer. The aim is to roll out the system to demand 
+response programs throughout the world.
+Electricity consumption (kW)
+kWh
+(Amount of electricity)
+Peak demand reduction 
+Peak shift
+Time of day (h)
+ Facilitating a Peak Demand Reduction during Peak Periods, 
+Avoiding Electricity Shortages
+OUR SOLUTIONS
+Paradigms for 
+the Global Environment
+Contributing to Electricity Demand Management through 
+Demand Response
+Better paradigms for resolving the world’s energy problems
+Detailed Demand Management Focusing on Demand Response Made 
+Possible by Big Data
+Electricity Demand Forecast and Actual Demand Display Screen
+
+6:00am
+8:00am
+10:00am
+12:00pm
+2:00pm
+4:00pm
+
+Electricity consumption (kW)
+(Time of day)
+Off-Peak
+Max Part-Peak
+Max Peak
+Actual
+demand
+Forecast at current time
+Actual
+demand
+Current
+time
+Current
+time
+Forecast at current time
+Morning forecast for the day
+Morning forecast for the day
+NTT DATA CSR Report 2014 24
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

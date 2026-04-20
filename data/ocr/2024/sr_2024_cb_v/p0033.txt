@@ -1,0 +1,135 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Comprehensive Support to Strengthen Companies’ AI Governance, from AI Risk 
+Assessments to Countermeasure Implementation
+NTT DATA INTELLILINK Corporation
+Digital Business Sector Technology Innovation 
+Division AI Strategy Office 
+AI Governance Consulting Service
+Human Rights
+&
+DEI
+Trusted
+Value Chain
+NTT DATA established its AI guidelines in 2019 and is a
+leader in AI risk management initiatives. NTT DATA is also
+making proactive efforts in relation to AI governance and
+has established a specialist organization to advance use of
+generative AI in the Japanese market. Leveraging the vast
+specialist knowledge and know-how built up through these
+efforts and the ability to handle the latest technologies and
+legal requirements, NTT DATA launched its AI Governance
+Consulting Service in October 2024.
+This service supports companies and other organizations
+by setting out rules to be observed in formulating and
+revising
+their
+AI
+governance
+guidelines.
+It
+can
+also
+implement
+countermeasures
+against
+risks,
+including
+assessing potential risks in AI projects, systems and
+models, then deploying solutions such as monitoring tools
+to check for the manifestation of issues.
+The
+service
+also
+provides
+wide-ranging
+support
+for
+organization-wide countermeasures, such as AI literacy
+training for staff with the aim of enhancing and ingraining AI
+governance.
+NTT DATA will expand its collaboration to companies
+worldwide,
+delivering
+global
+services
+to
+enable
+more
+businesses to use AI with security and peace of mind.
+Business need
+The risks associated with using AI are becoming a
+prominent social issue, leading to worldwide debate on the
+ideal form of AI governance. At the G7 summit in
+December 2023, the Hiroshima AI Process was agreed
+upon as an international framework for formulating rules
+relating to AI. The EU also passed the AI Act in May 2024
+as a comprehensive legal framework for AI, including
+generative AI, establishing heavy financial penalties for
+companies guilty of violations. This reflects an accelerating
+trend towards tighter regulation and governance. While
+advancements in companies’ use of AI can lead to
+efficiency enhancements and new business opportunities,
+failures
+in
+risk
+management
+can
+cause
+reputational
+damage or a loss of credibility. It is therefore imperative that
+companies comply with laws and regulations and establish
+AI governance frameworks.
+Implementing
+AI
+governance
+requires
+appropriate
+management of AI-related risks while also maximizing the
+value
+that
+AI
+brings.
+Companies
+need
+appropriate
+understanding of the risks of AI in order to continuously
+plan
+and
+implement
+countermeasures.
+Wide-ranging
+knowledge
+and
+highly-specialized
+expertise
+are
+also
+required, including regarding technical aspects of AI and
+regulations in different countries, making it difficult for
+companies to handle everything in-house.
+Solution
+Overview of AI Governance Consulting Service
+• Use of AI is advancing rapidly. While AI offers numerous benefits, such as boosting efficiency in everyday tasks, it also presents unique risks. This makes AI-related risk management a
+social issue that companies all over the world must address.
+• Generative AI has been identified as posing potential social and ethical risks, including unintended use of discriminatory language, information leaks, copyright infringement and
+dissemination of false information.
+Percentage of financial institutions using generative AI (based on research by the Bank of Japan)
+Approx. 80%
+Impact
+*Approximately 30% of financial institutions currently actively use generative AI, rising to approximately 60%
+including those trialing AI use, and approximately 80% including those considering future trials or use.
+(Source: Financial System Report Annex: Use and Risk Management of Generated AI by Japanese Financial
+Institutions (published October 2024))
+AI Governance Consulting Service Launches,
+Providing Support from AI Risk Assessments
+to Countermeasure Implementation
+NTT DATA GROUP (in Japanese only)
+NTT DATA Group Corporation
+Global Innovation Headquarters Generative AI Office
+Technology and Innovation General Headquarters
+Apps & Data Technology Department

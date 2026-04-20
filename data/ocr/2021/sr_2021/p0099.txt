@@ -1,0 +1,45 @@
+Social 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+Material ESG Issues 
+Promote Work-style Innovation 
+ 
+Basic Policy and Promotion System 
+ 
+Since 2005, when its “Global IT Innovator” Group Vision was announced, NTT DATA has engaged in workstyle innovation with 
+the aim of becoming a company that delivers change to its customers through IT. In fiscal 2018, we changed our Group Vision 
+to “Trusted Global Innovator” and have since worked continuously to deliver “change” as a keyword for how we and our 
+customers work. 
+Innovating work styles is not simply about reducing working hours. Our goal is for each employee to improve the quality of 
+his or her work in the limited time available, while at the same time making effective use of the time created through reduced 
+working hours for self-fulfillment pursuits. We want every employee to continue growing and playing an active role in the 
+Company, which will help us maintain our strong competitive edge. 
+NTT DATA also practices health management. We aim to become “the company of choice in the labor market” by improving 
+systems and working environments, enhancing development productivity and reducing long working hours through cooperation 
+with customers and suppliers. 
+We will continue targeting growth by encouraging employees to have a positive influence on each other and on the Company. 
+ 
+Activity Results 
+ 
+ Main Initiatives to Reform Work Styles 
+• Ongoing training for newly appointed general managers and section chiefs on the theme of “workstyle innovation” 
+• Creating environments that allow for flexible work styles in accordance with the characteristics of each organization, such as 
+companywide thin clients, discretionary labor, teleworking and flexible working hours 
+• Promoting the use of paid leave (refreshment leave1 and anniversary leave2) 
+• Increasing the flexibility of system operation to provide ample relaxation time 
+• Expanding the eligibility and coverage of the teleworking system 
+• Using our internal website to introduce good examples for changing work styles 
+1. Employees can take more than four consecutive days of vacation together with regular holidays when a work milestone is achieved. 
+2. Employees decide their own anniversary date and can take planned vacations every year on this anniversary. 
+ 
+ Reducing Total Working Hours 
+Long working hours are an ongoing problem in the IT industry, and NTT DATA has been working to reduce total working hours 
+based on proper working hour management. 
+In fiscal 2020, average annual working hours per employee increased to 1,984 hours due to drastic changes in the external 
+environment as the spread of COVID-19 prompted a shift to online dealings with customers. Nevertheless, we will work to 
+optimize working hours through productivity improvements and other initiatives. We will pursue the best mix of real and online 
+activities in the “with/after COVID” era by improving employee engagement while attracting talented human resources. 
+We also use the Tableau business intelligence (BI) platform to visualize the analysis results of data related to working hours 
+in a secure and timely manner and share them within the Company. In addition, we use AI to detect any signs of excessive 
+working hours and pursue initiatives to prevent overwork.

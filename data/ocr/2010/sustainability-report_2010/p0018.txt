@@ -1,0 +1,251 @@
+Initiatives
+Planned Initiatives
+Major Initiatives Undertaken during Fiscal 2010 
+NTT DATA and Its Stakeholders
+Customers
+(See page 20)
+Quality 
+Improvements
+• Clarify procedures and promote application of 
+development and management tools in order to 
+implement unifi ed companywide rules on 
+development and management methods.
+• Improve processes to which CMMI has been 
+incorporated.
+• Formulated implementation methods that refl ect unifi ed companywide rules for system development 
+and management methods and extended these companywide.
+• Achieved CMMI Maturity Levels 4 and 5 at one organizational unit each.
+Disaster 
+Countermeasures
+Investigate and improve business continuity plans in 
+time of disaster through practical disaster training.
+Conducted drills for reporting safety of survivors in case of earthquakes, action drills in response to swine 
+fl u and other training, and improved the action manual for business continuity plans in time of disaster.
+System Failure 
+Countermeasures
+Promote optimal countermeasures through failure 
+cause analysis. 
+Promoted information sharing, including with Group companies, focused on prevention and response, 
+particularly of prevention recurrence measures gleaned from system failures and defect reports from 
+manufacturers. Conducted periodic internal audits to confi rm the thoroughness of countermeasures.
+Industry Tie-Ups
+Disclose fi nal results of the Non-functional 
+Requirement Grade Investigative Committee, made 
+up from six companies within the industry.
+Disclosed fi nal Non-functional Requirement Grade results in February 2010.
+Customer Satisfaction 
+Improvements
+Aim for an average overall evaluation of 7.0 in a 
+customer satisfaction survey through questionnaires.
+Carried out a customer satisfaction survey through 289 questionnaires spanning 154 customers and held 
+interviews with approximately 60 customers, with the overall average evaluation attaining 7.0 points.
+Universal Design 
+Promotion
+• Carry out trial application and full-fl edged 
+deployment of prototyping techniques and tools.
+• Transfer accessibility validations skills to NTT DATA 
+DAICHI CORPORATION.
+• Applied prototyping techniques and tools for system development to approximately 30 projects. Three 
+employees gained Human-Centered Design Specialist system recognition. 
+• Carried out fi ve accessibility validation trials through NTT DATA DAICHI CORPORATION.
+Shareholders 
+and Investors
+(See page 23)
+Enhancement of 
+Communications
+Enhance communications by reinforcing 
+information dissemination through IR tools.
+• Expanded IR activities utilizing the characteristics of print, Internet, video distribution and other media.
+• Responded to approximately 300 requests for communications with analysts and fi nancial institutions.
+Suppliers
+(See page 24)
+Fair Transactions
+Conduct training to ensure compliance with the 
+Subcontract Law.
+• Carried out e-learning, reaching approximately 28,000 Group employees.
+• Formulated a Purchasing Compliance Guidebook and distributed it to employees of NTT DATA and Group 
+companies.
+Enhancement of 
+Communications
+Conduct ongoing dialogs.
+• Held ongoing BP Presidents’ Meetings and briefi ng sessions on Reconsignment Guidelines.
+• Developed communications environment and supported personnel training to facilitate off shore development.
+Employees and 
+Their Families
+(See page 26)
+Personnel 
+Recruitment and 
+Deployment
+Aim to meet the legally stipulated ratio of 1.8% for 
+employees with disabilities.
+Achieved ratio of 1.87% for employees with disabilities by promoting recruitment at special subsidiary, 
+NTT DATA DAICHI CORPORATION.
+Comfortable Working 
+Environment
+Promote diversity to Group employees.
+Formed a diversity promotion group at each Group company and held liaison committee meetings. 
+Health Promotion 
+and Enhancement
+• Raise employee awareness of working hours and 
+promote utilization of leave allowances.
+• Expand Workplace Improvement Workshops held 
+at each worksite.
+• Reduced the average annual number of work hours by 2.1% compared to the previous fi scal year.
+• Held 17 Workplace Improvement Workshops. Conducted mental health management examinations for 
+managers. 
+Employee 
+Satisfaction
+Promote measures to bolster motivation.
+Improved on the results of the previous year’s employee satisfaction surveys by implementing various 
+improvements to methods of holding meetings and communications between management and workers.
+Various Other 
+Related Parties
+(See page 30)
+Promotion of Social 
+Contribution 
+Activities
+• Support employees’ volunteer activities through 
+the Volunteer Club and other initiatives.
+• Enhance next-generation educational activities 
+(including IT training) across a wide range of age 
+groups.
+• Disseminated information about volunteer activities and recruited participants for employee-designed 
+volunteer projects through the Volunteer Club website. Put one employee-designed project into eff ect.
+• Began supporting the Innovation Management College, accepted teachers for private company training, 
+and dispatched an employee to lecture on information security for elementary and junior high school 
+teachers.
+NTT DATA and the Environment
+Environmental 
+Management
+(See page 32)
+Environmental 
+Management 
+Promotion
+Put into eff ect medium-term targets and measures 
+and enhance the groupwide collaboration 
+promotion system.
+• Formulated Environmental Messages and set targets for fi scal 2013 as part of promotion of 
+environmentally oriented management.
+• Assigned Environmental Managers at Group companies that have not yet gained ISO 14001 certifi cation.
+The Greening of 
+Customers and 
+Society
+(See pages 35, 36)
+Reduction of the 
+Environmental 
+Impact of Society 
+through IT 
+Construct a framework for promoting quantitative 
+assessment of the CO2 reduction eff ect arising from 
+solutions provision.
+• Boosted the number of quantitative assessments of environmental impact through the establishment of 
+a specialized team.
+• Acquired NTT Group Solution Environmental Label certifi cation on four counts.
+• Participated in fi eld trial for the construction of electric vehicle charging infrastructure.
+Expansion of 
+Environmental 
+Solutions Provision
+• Expand environmental solutions provision (carbon 
+off setting, emissions trading support, etc.).
+• Promote further cooperation within the Group, 
+such as in sales activities.
+• Verifi ed an electrical power consumption cut of approximately 18% through testing on a high-voltage 
+direct current power supply system.
+• Developed and carried out trial operation of a CO2 emission credits trading website.
+• Conducted trials for a zero-CO2 emissions factory through carbon off setting.
+The Greening of 
+Our Group
+(See pages 35, 38)
+Greenhouse Gas 
+Emission Reduction
+Reduce emissions by 9.5% of fi scal 2006 fi gures in 
+terms of basic units of sales. 
+Reduced emissions by 8.2% of fi scal 2006 fi gures through data center facilities renovations and operating 
+improvements, promotion of energy conservation in offi ces and other initiatives. Boosted solar cell 
+facilities’ capacity to 164 kW.
+Waste Reduction
+Reduce waste for fi nal disposal by 45% of fi scal 
+2006 fi gures in terms of basic units of sales.
+Reduced waste for fi nal disposal by 39% of fi scal 2006 fi gures by increasing outsourcing volumes to 
+industrial waste processors with high recycling ratios, thorough waste separation, promotion of 
+wastepaper recycling and other initiatives.
+Reduction of Copy 
+Paper Purchased
+Reduce purchased quantity by 7% of fi scal 2006 
+fi gures.
+Reduced purchased quantity by 13.6% of fi scal 2006 fi gures by breaking down and clarifying copy paper 
+reduction targets by organizational unit, holding paperless in-house meetings and other initiatives.
+Environmental 
+Contributions 
+and 
+Communications
+(See pages 35, 39)
+Environmental 
+Contribution 
+Activities
+Expand the number of events covered by Company 
+participation in Satoyama conservation activities 
+and develop activities with the Wildlife Information 
+Center as a hub.
+Participated in the Tokyo Greenship Action campaign (two events, 40 employees) and promoted 
+environmental contribution activities by Group companies in their regions of operation.
+Enhancement of 
+Communication
+Promote information sharing and reinforcement of 
+tie-ups in the Group and proactively pursue 
+information dissemination to our customers and 
+society as a whole.
+• Hosted Environmental Seminars for customers and employees in October 2009.
+• Disseminated information on Green IT to customers and society through a public website.
+CSR Infrastructure
+Corporate 
+Governance
+(See page 40)
+Construction of an 
+Internal Control System
+Reinforce systems and cooperation, aiming for 
+promotion of a groupwide internal control system.
+• Audited 19 in-house organizational units and 28 Group companies, including overseas companies.
+• Carried out e-learning on internal control.
+Reinforcement of 
+Group Governance
+Establish a Group governance system.
+Revised the Group Management Policy and clarifi ed the roles of NTT DATA and Group companies for 
+groupwide optimization. 
+Compliance
+(See page 41)
+Code of Ethics and 
+Thorough 
+Compliance 
+• Pursue improvements to the compliance 
+promotion system among Group companies.
+• Carry out thorough compliance education.
+• Held meetings of the Corporate Ethics Committee at 77 Group companies.
+• Conducted position-based training and training for Group company employees on the NTT DATA Group 
+Code of Ethics.
+Risk 
+Management
+(See page 42)
+Groupwide Risk 
+Management
+Improve the global risk management system.
+Reinforced the risk management promotion system through tie-ups between departments and Group 
+companies in Japan and overseas.
+Information 
+Security
+(See page 43)
+Reinforcement of 
+Information Security 
+Management
+Promote knowledge sharing within the Group and 
+establish an information security governance 
+system.
+Promoted the PDCA Double Loop on a groupwide basis and by individual Group companies. Carried out 
+a caravan spanning 70 Group companies in Japan and overseas. 
+Information Security 
+Education
+Share knowledge and expertise in the Group.
+Provided educational materials to support in-house training for Group companies. Conducted training 
+that targeted staff responsible for information security promotion. 
+Major Initiatives during Fiscal 2010 and Future Plans 
+NTT DATA CSR Report 2010

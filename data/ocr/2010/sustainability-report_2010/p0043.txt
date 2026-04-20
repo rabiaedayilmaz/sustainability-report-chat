@@ -1,0 +1,119 @@
+Information Security
+We are putting in place information security governance and mounting initiatives to raise the 
+level of security, ensure the safe sharing of information and cultivate an awareness of information 
+security throughout the Group. 
+The growing prevalence of information technology in every 
+corner of society is accompanied by an increase in security 
+risk. At the same time, focusing solely on ensuring 
+information safety obstructs eff orts to use and share 
+information freely. This impedes the fl ow of benefi cial 
+information and expertise. 
+The NTT DATA Group considers maintaining an 
+appropriate balance between ensuring information security 
+and information utility and sharing to be important. 
+Accordingly, the Group handles an array of initiatives 
+comprised of logical measures such as the formulation of 
+rules and education about information security, as well as 
+technological measures that include solutions to prevent 
+information leaks and the introduction of thin-client PCs. 
+To facilitate groupwide sharing of expertise, the NTT 
+DATA Group also is promoting internal knowledge sharing 
+and working to establish an information security governance 
+structure. Related initiatives include hosting forums for 
+personnel dedicated to promoting information security and 
+carrying out security accident response training.
+In December 1998, NTT DATA formulated an Information 
+Security Policy, to ensure consistent and appropriate 
+handling of information assets. The Company created and 
+distributed to all employees policy guidelines outlining 
+specifi c implementation procedures.
+In April 2008, we formulated the NTT DATA Group 
+Security Policy (GSP), compiling common rules. 
+Implementation of information management by each Group 
+company in conformance with the unifi ed rules raises overall 
+Group security levels and realizes safe information sharing.
+We also established a Personal Information Protection 
+Policy in July 2001. We 
+have amended this 
+policy and in-house 
+regulations as 
+necessary following 
+the full enactment of 
+the Privacy Protection 
+Act in April 2005.
+In 1999, NTT DATA established the Information Security 
+Committee*2, headed by the Chief Information Security 
+Offi cer (CISO), to ascertain the status of activities and issues 
+and to determine remedial measures. Resolutions of the 
+committee are deployed under the Information Security 
+Promotion Offi ce by 400 people throughout the Group who 
+are dedicated to promoting information security.
+Moreover, decision-making bodies, promotional 
+organizations, individual worksites and auditing 
+organizations cooperate on the early detection of problems, 
+including through the auditing of activities at individual 
+worksites by the Internal Audit Department. This facilitates 
+the implementation of ongoing revisions and improvements 
+based on objective assessments.
+In fi scal 2010, NTT DATA was involved in no serious 
+accidents involving information security.
+Information Security Management Structure
+Report
+Periodic reports
+President and CEO
+Internal
+Audit
+Department
+Business Units, 
+Staff Departments, 
+etc.
+Head of
+Organization
+Related Staﬀ
+•Corporate Planning
+•R&D
+•Information Systems 
+•General Affairs, Legal 
+Affairs, Intellectual 
+Property
+•Training 
+other departments
+Chief Information Security Oﬃcer (CISO) in
+Charge of Security Strategies
+Oﬃcer in Charge of Personal Information Management
+Information
+Security Committee
+Audit
+Audit
+Members
+Information Security
+Promotion Officer
+Manager of Personal
+Information Protection
+Department
+Personnel in
+charge of information
+security promotion
+Information Security Steering
+Organization
+Personal Information Protection
+Promotion Organization
+(Information Security Promotion Oﬃce)
+Pamphlets related to Information Security Policy 
+*2 Number of times the committee met: The committee met four times in 
+fi scal 2010, bringing the number of meetings since 1999 to 47.
+Our Basic Stance
+Pursuing a balance between information security 
+and sharing
+NTT DATA Group Uniﬁ ed Security Policy
+Ensuring that information is shared safely 
+and smoothly through consistent information 
+management in accordance with common rules
+Information Security Management Structure
+Employing a PDCA cycle created in accordance with 
+our information security management system
+NTT DATA CSR Report 2010 43
+NTT DATA and Its Stakeholders
+NTT DATA and the Environment
+CSR Infrastructure
+CSR Infrastructure

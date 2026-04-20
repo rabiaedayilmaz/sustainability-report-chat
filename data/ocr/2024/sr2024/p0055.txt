@@ -1,0 +1,120 @@
+NTT DATA 
+Group 
+Corporation
+NTT DATA Japan
+NTT DATA, Inc.
+NTTDATA-CERT
+Information Security 
+Steering Organization
+Information Security 
+Steering Organization
+Group 
+companies 
+in Japan
+Information Security 
+Steering Organization
+Information Security 
+Steering Organization
+Holding 
+company, etc.
+Information Security 
+Steering Organization
+Group 
+companies 
+outside Japan
+Information Security 
+Steering Organization
+Business Strategy Department 
+overseeing each business area
+Information 
+security 
+officer/ 
+Personal 
+information 
+protection 
+officer
+Head of 
+organizations
+Report 
+(significant 
+incidents)
+Report 
+(significant 
+incidents)
+Report 
+(significant incidents)
+Report 
+(significant incidents)
+Report 
+(significant incidents)
+Report 
+(excluding significant incidents)
+Report 
+(excluding significant 
+incidents)
+Request
+Request
+Request
+Overseas region
+Japan region
+Request
+Request
+Request
+Report
+Report
+Report
+Information 
+sharing
+Collaboration among Information Security Management Organizations within the NTT DATA Group 
+The Main Structure and Initiatives in Our Information Security Governance and Operations
+Meetings and 
+organizations related 
+to information 
+security governance
+[Meeting body] [Evaluation/orientation]
+● Information Security Committee (NTT DATA Group Corporation)
+This is chaired by the Chief Information Security Officer (CISO) in charge of technology management at NTT DATA Group Corporation and consists of the heads of various departments 
+within NTT DATA Group Corporation, the officer responsible for information security at NTT 
+DATA Japan, the Chief Information Security Officer (CISO) of NTT DATA, Inc., and the heads of 
+various business divisions within NTT DATA Corporation. Audit and Supervisory Committee 
+Members also participate in the meetings. They assess and evaluate the overall activities 
+and challenges within NTT DATA to determine the information security strategy for the 
+entire organization, including protection of confidential and personal information.
+[Organization] [Promotion/monitoring]
+● Information Security Steering Organization (NTT DATA Group Corporation)
+This organization runs meetings as the secretariat of NTT DATA Group Corporation’s Information Security Committee. It collaborates with NTT DATA Japan, NTT DATA, Inc., and regional 
+headquarters companies to share information about the Group’s overall information security 
+policies and action plans. It also regularly monitors the status of control at NTT DATA Corporation, NTT DATA, Inc., and various regional headquarters to ensure control levels are maintained and improved, providing support as needed.
+Information security
+management
+organizations
+The information security management organizations established within NTT DATA Japan, NTT 
+DATA, Inc., each regional headquarters, and each Group company are based on the information security policies and action plans developed by NTT DATA Group Corporation. They consider the characteristics and circumstances of each region and establish a management 
+structure to implement information security measures.
+Information sharing 
+between Group 
+companies
+● NTT DATA Group information security forums for Japan
+These forums are sponsored by NTT DATA with participation by the CISOs and information 
+security promotion managers of domestic Group companies. Their role is to share Group 
+information security strategies and policies.
+● Global security meetings
+These meetings are hosted by NTT DATA and attended by key figures such as the CISO of 
+NTT DATA, Inc. The governance of overseas regions is also discussed. The meetings strengthen 
+information sharing and collaboration to promote governance in overseas regions.
+● Knowledge sharing meetings
+These meetings are regularly hosted by NTT DATA, with members responsible for security 
+operations from both domestic and overseas Group companies participating, where they 
+share operational know-how on security infrastructure and other relevant information.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

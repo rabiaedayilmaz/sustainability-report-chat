@@ -1,0 +1,66 @@
+Diabetes Regional
+Medical Cooperation Paths
+Support Services
+Sharing of medical care
+and examination results
+Sharing of
+medical care and
+examination results
+Clinics
+Services provided by PCPs:
+• Medical care and examinations 
+based on contingency plans
+• Recording of medical care and 
+examination results
+• Patient follow-up care
+Pharmacies
+Services provided by pharmacists:
+• Confirmation of prescriptions
+• Instruction on dosage and 
+administration
+• Feedback on instruction on 
+dosage and administration to 
+hospitals and clinics
+Comments
+be used even by those unfamiliar with computers and during 
+medical examinations, thereby increasing eﬃ ciency through 
+coordination with electronic medical records and other systems. 
+In addition, we are establishing a stringent security system 
+to ensure personal data protection, by constructing a virtual 
+private network (VPN), introducing signature veriﬁ cation and 
+other initiatives.
+The completed system provides each clinic online access to 
+the treatment and examination plans formulated by the central 
+hospital’s specialists for conﬁ rmation prior to proceeding with 
+their own therapies and tests, and facilitates simple monitoring 
+and checking of follow-up data by specialists. Moreover, this 
+system is equipped with a function that automatically detects 
+any irregularities in patients’ test values and notiﬁ es specialists 
+and doctors at clinics, which contributes to promoting the early 
+treatment and preventing aggravation of symptoms for diabetes.
+From the doctor’s perspective, the system provides 
+excellent value and has helped to realize community-based 
+healthcare, especially in terms of diabetes. For diabetics, the 
+system provides such beneﬁ ts as the convenience of being able 
+to undergo medical examinations at neighborhood clinics and 
+peace of mind from knowing that specialists are constantly 
+monitoring symptoms to the provision of this medical service.
+Contributing to regional medical development by using our current 
+experience as an asset in the treatment of other serious ailments
+Leaders to spearhead regional medical treatment and a human 
+network to support patients were crucial in the development of this 
+system and for previous network construction projects.
+Through interaction between people, we learned of the 
+doctors’ fervent desires to build a better treatment environment 
+for patients and renewed our awareness of the importance of 
+responsibility in developing highly public systems. This was an 
+enormous support in the execution of a difficult project.
+Applying the experience gained from the project, we hope to 
+contribute to the development of regional medical treatment through 
+the construction of similar networks for the treatment of patients with 
+other serious ailments such as cancer, strokes and heart attacks.
+Kei Yamada (right)
+Manager, Medical Welfare Business Department, Third Business Sector, NTT DATA i CORPORATION
+Kazunari Takahei (left)
+Medical Information Networks Group, Healthcare and Welfare Division, Healthcare Systems Sector, NTT DATA CORPORATION
+NTT DATA CSR Report 2009 15

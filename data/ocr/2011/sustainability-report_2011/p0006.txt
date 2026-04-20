@@ -1,0 +1,86 @@
+Restoring and Maintaining Customers’ Systems
+The NTT DATA Group is involved in the operation of 
+numerous social infrastructure systems, ﬁnancial networks 
+and other systems that are vital to the functioning of 
+municipalities and regional economies. Although some of 
+these systems in the aﬀected regions were temporarily 
+aﬀected by power outages at the time of the earthquake, 
+we managed to maintain operations by quickly bringing on 
+line emergency generators stored within their buildings.
+As all our own data centers are earthquake-resistant, 
+conforming to the new earthquake protection standards, 
+they continued to operate normally and were essentially 
+unaﬀected by this disaster. Even during planned outages, 
+we succeeded in maintaining service levels by bringing our 
+own generation equipment on line and prioritizing the 
+ongoing operation of customers’ systems.
+Responses by the NTT DATA Group
+Each of the Disaster Countermeasures Headquarters operated 
+in accordance with the Disaster Countermeasures 
+Headquarters Operations Manual and business continuity 
+plans for internal infrastructure and important operations that 
+we had formulated beforehand. We worked to enact our 
+BCPs smoothly and appropriately, as we conﬁrmed the safety 
+of employees and determined the state of damage to 
+buildings housing Group employees and collaborators, as 
+well as customers’ systems. We also accumulated information 
+on the state of damage to customers and other visitors.
+We swiftly conﬁgured a contact system for bases and 
+business locations in the aﬀected regions. On the day after the 
+earthquake, we began sending drinking water, food and other 
+supplies, as well as dispatching personnel to assist in recovery.
+Establishment of a Recovery Support Headquarters
+On March 21, NTT DATA set up a Recovery Support 
+Headquarters to spearhead ongoing aid activities and 
+support the recovery of the aﬀected regions in an organized 
+manner. This headquarters is supporting recovery activities 
+in cooperation with related Group departments according 
+to two themes: “supporting recovery through the use of IT” 
+and “supporting recovery through the collection of 
+donations and volunteer activities.”
+Supporting Recovery through the Use of IT
+Our recovery support activities through the use of IT 
+leverage the NTT DATA Group’s systems and services, 
+technologies and expertise. 
+By providing a Disaster Information Sharing System 
+and an Emergency Medical Information System, we are 
+supporting the recovery of the aﬀected regions. We have 
+also begun oﬀering a cloud service for municipal 
+governments in those regions.
+In the future, we intend to begin making urban 
+planning proposals targeting a full-ﬂedged recovery of the 
+aﬀected regions. These will include showing how to build a 
+society that uses IT to be strong in the face of disaster, as 
+well as smart communities.
+Supporting Recovery through the Collection of 
+Donations and Volunteer Activities
+NTT DATA and Group companies in Japan and overseas 
+collected charity donations to assist in the rescue of people 
+aﬀected by the disaster and recovery of the aﬀected 
+regions. These donations from NTT DATA and Group 
+companies and those collected by Group employees in 
+Japan and overseas totaled ¥191.6 million. 
+Through Group companies in the Tohoku region and 
+NPOs, we provided drinking water, food and other supplies 
+to evacuation centers in the aﬀected regions. 
+NTT DATA encourages its Group employees’ 
+involvement in volunteer activities and conducts various 
+support-oriented events.
+We would like to oﬀer our heartfelt condolences to all who were aﬀected by the Great East Japan Earthquake, which 
+struck on March 11, 2011.
+Immediately after the Great East Japan Earthquake, the NTT DATA Group formed the Disaster Countermeasures 
+Headquarters, chaired by the president. We also set up individual Company Disaster Countermeasures Headquarters, with 
+the heads of each internal company as chairmen. We deployed this structure to restore customers’ systems and maintain 
+services in the aﬀected regions. We will continue in this vein, cooperating with the national and municipal governments to 
+support lifestyle and social infrastructure restoration work and reconstruction measures. 
+Following is a report of the Group’s major measures introduced in response to the Great East Japan Earthquake, as of 
+June 30, 2011. 
+Disaster Countermeasures 
+Headquarters
+Restoring customers’ systems
+The NTT DATA Group’s Measures 
+in Response to the Great East Japan Earthquake
+State of Damage and Recovery Support
+Activities to Support Recovery in 
+the Aﬀected Regions
+6 NTT DATA CSR Report 2011

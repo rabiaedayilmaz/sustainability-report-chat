@@ -1,0 +1,61 @@
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+Governance
+Appendix
+ 
+ Digital Accessibility
+Although IT is an important means of accessing basic needs such as education, food, and medical care, digital divide is a problem. We will work to 
+provide IT services that support access to basic needs, introduce UI and UD for digital inclusion, and improve literacy.
+Basic Policy
+We provide IT services that support access to basic needs while also introducing UI and 
+UD that promote digital inclusion, and advancing efforts to improve IT literacy. NTT 
+DATA delivers comprehensive technologies such as IT infrastructure to help realize 
+communities that can thrive within the digital economy.
+  [Reference page] Prosperity positive “Human-Centered Design Initiatives”
+Promotion System
+The Sustainability Innovation Headquarters of NTT DATA Group Corporation leads our 
+efforts by collaborating with relevant internal departments, domestic and overseas 
+Group companies, and NTT Group companies to implement social contribution activities 
+and social value–oriented business initiatives. In carrying out these activities, we engage 
+with NGOs/NPOs, local communities, customers, and other stakeholders to identify social 
+issues, and leverage our strengths to advance digital accessibility globally, foster the next 
+generation of IT talent, and promote social contribution activities.
+Specific Initiatives
+Contributions through Co-Creation with Customers
+Android Smartphone Digital Certificate Service  (Digital Accessibility)
+In collaboration with the Digital Agency, we provide a digital certificate service for 
+Android smartphones that enables My Number Card holders to complete services normally requiring a My Number Card using only their smartphone. By logging into Mynaportal with a smartphone equipped with a digital certificate, users can access a wide 
+range of government services, including checking medication and medical expense 
+records, pension records, and completing moving-related procedures. They can also 
+obtain certificates such as copies of the Certificate of Residence at convenience stores. 
+ 
+The service incorporates various accessibility considerations, including a UI 
+designed to be usable by individuals who have difficulty distinguishing colors and by 
+users with visual impairments through voice-reading functionality. Since its release in 
+2023, the service had been downloaded by approximately 260,000 people as of July 
+2024 (based on the number of user digital certificates issued). 
+Note: As of April 1, 2025, the Digital Agency has taken over responsibility for feature enhancements and maintenance of the user 
+application for this service (the Mynaportal app).
+Enhancing Understanding of Accessibility 
+Within International Organizations  (Digital Accessibility)
+NTT DATA, Inc., collaborates with international organizations and companies to support 
+the creation of inclusive societies that embrace diversity. As part of this effort, NTT 
+DATA partnered with the World Intellectual Property Organization (WIPO) and other 
+UN agencies to help strengthen organizational understanding of accessibility. Through 
+workshops and other activities covering from strategic approaches to operational 
+models, we contribute to improving accessibility awareness across organizations. 
+These initiatives support various UN and other programs aimed at enhancing access 
+for persons with disabilities. 
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+People positive
+ Digital Accessibility

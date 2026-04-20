@@ -1,0 +1,45 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Reducing the Environmental Impact of the Value Chain 
+ 
+Greening of Clients and Society 
+ 
+ Reducing the Environmental Impact of Society through IT 
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly verified general-purpose evaluation and 
+measurement methods1 for quantitatively evaluating the effectiveness of environmental impact reduction for all development 
+projects. Since 2014, we have been conducting quantitative evaluation with tools based on the results of this verification. 
+We recommend the Groupwide utilization of these methods, which are more suited to general-purpose applications and 
+actual business conditions than to the environmental impact assessment system2 used in the past. 
+1. The results of our joint verification have been patented (Patent No. 5785229 (2015)). 
+2. A service for assessing the environmental impact of information systems developed by the NTT Information Network Laboratory Group. The service 
+calculates environmental impact reductions that can be achieved through reduced consumption of materials and energy, transportation volume of people 
+and goods, and the like, resulting from system introduction. 
+ 
+ Active Participation in Environmental Projects of Government and Industrial Organizations 
+The NTT DATA Group participates in environmental projects promoted by government and other organizations, taking advantage 
+of technologies and expertise honed from the construction of numerous public administration systems. We also actively join 
+environmental working and other groups of various organizations. 
+In recent years, we have exchanged wide-ranging opinions as a member of the Japan Smart Community Alliance (JSCA)3 
+and the Japan Environment Club4. These discussions are aimed at realizing the next generation of sustainable societies and 
+cover various topics, including research into smart communities, sustainability, SDGs/ESG and resilience. 
+3. An organization established to promote the international development and domestic proliferation of smart communities through public- and private-sector 
+collaboration. 
+4. A nonprofit organization that engages in exchange, education, research and policy support projects aimed at solving global environmental problems. Its 
+objective is to foster sustainable business management, the creation of symbiotic environments through the maintenance and restoration of the abundant 
+regional natural environments, and the creation of sound lifestyle principles for citizens in their daily lives. 
+ 
+Through its system construction and operation services, NTT DATA supports various global warming initiatives, including 
+the establishment of a greenhouse gas emission reduction register (global warming countermeasure promoted by the Ministry 
+of the Environment and the Ministry of Economy, Trade and Industry). 
+ 
+• National Registry System: 
+Credit registry system based on the Kyoto Protocol (first established globally by Japan) 
+International connection started in November 2007 (first in the world) 
+• JCM Registry System: 
+Joint Crediting Mechanism5 promoted by Japan and developing countries (JCM Registry) 
+5. The Joint Crediting Mechanism (JCM) is designed to quantitatively evaluate Japan’s contribution to the reduction and absorption of greenhouse gas 
+emissions—achieved by disseminating greenhouse gas reduction technologies and other measures in developing countries—and to use this information 
+to achieve Japan’s reduction targets. 
+• J-Credit Registry System: 
+Designed to manage emissions by certifying the greenhouse gas emission reduction activities of small and medium-sized

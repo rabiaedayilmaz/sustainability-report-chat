@@ -1,0 +1,51 @@
+The NTT DATA Group is constantly engaged in technical development, the results of which are reflected in the systems we develop 
+for our Group and our clients. This work requires keeping abreast of social, technological, and business trends, as well as the latest 
+trends in security.
+Information Security
+Policy and Structure
+The more pervasive IT becomes in our lives, the more risks we face with regard to the safety of information and the greater the necessity 
+for appropriate measures to safeguard that information. In the business world, however, focusing solely on ensuring information security 
+hinders the active utilization and sharing of information and stymies the use of beneficial information and know-how.
+The NTT DATA Group recognizes the importance of achieving an appropriate balance between ensuring the safety of information 
+and the active utilization and sharing of information. We implement a wide range of measures that cover both the “logical” and 
+“technological” aspects of information security. Logical measures include formulating rules and providing education and training in 
+information security, while technological measures involve solutions that prevent information leaks and the adoption of thin-client 
+computing.
+Our information security personnel come together in forums to facilitate Group-wide sharing of knowledge and know-how. Through 
+this distribution of knowledge within the Group, we are working to establish unified information security governance.
+In December 1998, NTT DATA formulated an Information Security Policy to ensure appropriate handling of information assets in line 
+with uniform standards. We did this because of the serious implications that information leaks stemming from security breaches and the 
+improper use of information have on our credibility. At the same time, we established specific procedures for implementing this policy.
+In April 2008, we formulated the NTT DATA Group Security Policy (GSP), which consists of common rules on information security, 
+and from 2012 we added the Regional Security Policy (RGSP) to strengthen security measures that had become necessary at each 
+regional headquarters. Each Group company has its own information security policy based on the RGSP that takes into account the 
+scale and makeup of their individual businesses. The combination of these policies makes it possible to distribute information safely 
+across the entire NTT DATA Group. As for the protection of personal information, NTT DATA established the Personal Information 
+Protection Policy in July 2001. Since the full enactment of Japan’s Personal Information Protection Law in April 2005, we revised our 
+policy as necessary to address amendments to the law and changes to privacy certification standards.
+● Pursuing an Appropriate Balance between Ensuring Information Security and the Use as well as Sharing of Information
+● NTT DATA Group’s Unified Security Policy
+■ Promoting the Safe Distribution of Knowledge
+Creating new value
+Guaranteeing 
+information security
+Promote the safe sharing of knowledge
+NTT DATA Group Security Policy (GSP)
+Corporate Philosophy
+Technical measures
+Logical measures
+Interlinked
+Ensuring safety 
+of information
+Actively utilizing and 
+ sharing information
+Balance
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

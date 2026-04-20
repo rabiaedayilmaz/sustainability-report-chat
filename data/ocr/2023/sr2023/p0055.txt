@@ -1,0 +1,156 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Fiscal 2022 Environmental Data (Global, Consolidated) 
+ 
+Unit 
+FY2019 
+FY2020 
+FY2021 
+FY2022 
+Scope 1 
+Emissions 
+t-CO₂e 
+9,057 
+7,241 
+9,613 
+14,018*1 
+Coverage rate of data (sales) 
+％ 
+
+Scope 2 
+Location basis 
+t-CO₂e 
+171,173 
+170,807 
+165,748 
+165,792 
+Coverage rate of data (sales) 
+％ 
+
+Market basis 
+t-CO₂e 
+159,672 
+155,165 
+130,066 
+83,912 
+Coverage rate of data (sales) 
+％ 
+
+Scope 3 
+Emissions 
+t-CO₂e 
+1,862,634*2 
+1,671,259 
+2,032,993 
+1,837,925 
+Coverage rate of data (sales) 
+％ 
+
+Energy＊3 
+Total usage of nonrenewable energy 
+MWh 
+589,694 
+581,545 
+(607,547)*3 
+― 
+ 
+ 
+314,039*3 
+225,972*3 
+Total usage of renewable energy 
+MWh 
+100,931 
+59,938 
+92,077 
+187,028 
+Coverage rate of data (sales) 
+％ 
+
+Water 
+Total water withdrawals 
+million 
+㎥ 
+0.74 
+0.86 
+0.93 
+0.48 
+Coverage rate of data (sales) 
+％ 
+
+Waste＊4 
+Total amount reused/recycled 
+t 
+3,854 
+2,656 
+4,220 
+3,166*5 
+Total final disposal of waste 
+t 
+1,320 
+1,604 
+
+1,590 
+Amount sent to landfill 
+t 
+
+Amount incinerated with energy recovery 
+t 
+1,009 
+
+1,181 
+Amount incinerated without energy recovery 
+t 
+
+Amount disposed of using other methods 
+(compost) 
+t 
+
+Amount disposed of using unknown 
+methods 
+t 
+
+Coverage rate of data (sales) 
+％ 
+
+Data center 
+efficiency 
+Power usage efficiency*6 
+ 
+1.62 
+1.62 
+1.69 
+1.72 
+Coverage rate of data (no. of data centers) 
+％ 
+
+Percentage 
+of renewable 
+energy in 
+data centers 
+Total energy usage in data centers 
+MWh 
+458,634 
+449,135 
+347,399 
+312,832 
+Percentage of renewable energy of total 
+energy consumption in data centers 
+％ 
+
+Percentage of renewable energy of total 
+power consumption in data centers 
+% 
+
+(Scope of data collection: NTT DATA (All Group companies excluding NTT Ltd.) 
+*1 The main reason for the increase in Scope 1 emissions compared with FY2021 was a temporary equipment malfunction at a Group company. 
+*2 From FY2020 onward, Scope 3 emissions have been calculated using an approach that reflects supplier reduction efforts. The 2019 figure was calculated 
+using the previous approach. 
+*3 The energy scope was revised in line with the NTT Group’s scope definitions from its FY2021 results, but the previous scope definition is used in this 
+table. Two figures are shown from FY2021 (figure in the upper row based on the previous scope; figure in the lower row based on the revised Scope 2). 
+*4 The waste data outside Japan includes quantified information from our facilities located in neighboring countries with established records. 
+Analysis of total waste data from FY2019 to FY2021 was conducted, resulting in modifications to the total amount of waste reused/recycled and the 
+amount of waste incinerated with energy recovery, aligning with the standards for FY2022. 
+*5 The decrease in the percentage of total waste reused/recycled compared with FY2021 was primarily due to the generation of waste that was difficult to 
+reuse/recycle, such as construction waste, depending on the fiscal year. 
+*6 This figure refers to partial Power Usage Effectiveness (pPUE).

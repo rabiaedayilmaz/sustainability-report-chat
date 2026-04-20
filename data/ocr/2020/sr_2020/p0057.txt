@@ -1,0 +1,76 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Opportunities Related to Products and Services 
+ 
+ Opportunity 1: Increase in demand for energy-efficient data centers 
+ 
+Demand for data centers could increase because the enforcement of the Paris Agreement will necessitate the 
+improved efficiency of IT systems, which account for a large proportion of corporate energy consumption. 
+Business 
+and 
+financial 
+impacts 
+Given expectations that regulations aimed at realizing a zero CO2 emission society by 2050 will be 
+tightened at an increased pace, we anticipate growth in demand for more efficient IT systems, which 
+account for a significant proportion of corporate energy consumption. Specifically, we look forward to 
+increased demand for more efficient and virtualized IT systems, greater use of shared centers and 
+outsourcing to energy-efficient data centers. 
+Out of the NTT DATA Group’s total net sales of ¥2,266.8 billion, domestic and international local 
+governments and central government agencies, including the Japanese Cabinet Secretariat and the 
+Ministry of the Environment, account for about 18%, whereas financial institutions, including those 
+compliant with TCFD1 recommendations, account for roughly 22%. As a developer and operator of 
+numerous large-scale and mission-critical systems, we are working to make our data centers greener, 
+which will help us realize significant reductions in energy consumption. We are accomplishing this by 
+promoting Green Data Center services aimed at reducing environmental impacts through the 
+integration of IT and facility technologies. Sales from our data centers and related services amounted 
+to ¥57.5 billion in fiscal 2019, and we believe that sales will grow further alongside increased demand 
+for outsourcing to energy-efficient data centers. 
+Strategies 
+and costs 
+In 2018, we completed construction of Mitaka Data Center EAST, a compilation of HVDC power supply 
+systems, virtualization technologies and air current control systems for cooling, which are the main 
+elements of our Green Data Center services. This data center reduced air-conditioning equipment 
+operation time by adopting an outside air-cooling system that utilizes natural energy. We are aiming to 
+join Japan’s top class of energy-efficient companies by achieving an annual average PUE of 1.3 or 
+less. In September 2018, we obtained a Gold rating in the data center category under the Leadership 
+in Energy and Environmental Design (LEED) environmental rating system. We also publish the “NTT 
+DATA Technology Foresight” report annually on our website. (This report contains information on 
+advanced technologies that will have a major impact over the next 3–10 years, as well as forecasts of 
+future technology-driven changes derived from ongoing research into social trends.) The latest edition 
+cites “climate change” as a priority issue and notes that increases in power consumption caused by 
+the proliferation of AI will require more efficient data center operations. 
+In fiscal 2019, total R&D expenses for elemental technologies of green data centers, including 
+AI/IoT, deep learning and virtualization technologies, amounted to around ¥21.8 billion. Compared with 
+the fiscal 2018 figure of ¥15.1 billion, this represents an increase of ¥6.7 billion, which was allocated 
+to R&D aimed at helping the Group survive amid intense global competition. This included R&D on 
+cutting-edge technologies and innovations for proactively incorporating new technological trends into 
+our business, as well as R&D on production technology innovation to enable faster system 
+development, higher quality and the construction of cloud computing platforms for the shift to cloud 
+computing and digitalization. Innovations in advanced forecasting and production technologies, in 
+particular, can lead to energy and resource savings and contribute significantly to climate change 
+opportunities. 
+ Opportunity 2: Increase in demand for cloud services due to more frequent abnormal weather 
+events 
+ 
+ 
+The use of cloud-based data centers, which offer a high level of safety and protection of corporate data from being 
+lost due to typhoons, localized heavy rains and other abnormal weather events, might accelerate. 
+Business 
+and 
+financial 
+impacts 
+Our joint-use enterprise systems, such as the Chigin Kyodo Center (BeSTA®) for regional banks, have 
+gained a top market share of roughly 30%, while more than 90% of credit associations across Japan 
+are using our comprehensive online Shinkin Kyodo System. We also utilize cloud-based highly 
+scalable, available and flexible platforms to provide our own AW3D® Global High-Resolution 3D Map, 
+which is the world’s first 3D mapping technology that can display global topography at a resolution and 
+accuracy of five meters. The map allows us to contribute in various ways to climate change adaptation, 
+such as the creation of tsunami hazard maps in Macau and the selection of wind power generator 
+installation sites in nations across the world. The map is also used in more than 115 countries 
+worldwide for more than 900 projects across a wide range of fields, including infrastructure 
+maintenance, natural disaster countermeasures and global warming responses. We believe that 
+accelerating demand for cloud computing services will enable us to further expand our business. The 
+NTT DATA Group’s cloud computing service sales were ¥613.0 billion in fiscal 2019. 
+Time horizon: Short term 
+Time horizon: Short term

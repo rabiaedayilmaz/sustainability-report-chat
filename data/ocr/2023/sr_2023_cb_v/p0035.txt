@@ -1,0 +1,72 @@
+Society | Inclusive Society
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Number of suspects involved in illegal 
+wildlife trade identified using HAWK
+Contribution to Eradicating Illegal 
+Wildlife Trade in India
+Click here for 
+reference article
+NTT DATA, Inc. (India)
+Products made from wildlife materials such as ivory
+accessories and fur coats command high prices due to
+their rarity. Some individuals engage in poaching for
+their livelihoods, leading to continued illegal trade and
+endangering countless wild animals.
+NTT DATA, Inc. has partnered with the Wildlife Trust
+of India to combat this issue in the Indian states of
+Kerala and Karnataka. Together, they are utilizing
+Hostile Activity Watch Kernel (HAWK), a real-time
+critical
+information
+management
+system
+developed
+jointly. The focus is on countering criminal organizations
+targeting high-value products such as ivory and tiger
+skins. This involves monitoring wildlife carcasses and
+criminal
+activities
+while
+integrating
+information
+on
+various
+related
+incidents,
+enabling
+centralized
+management for effective and preemptive responses.
+Currently, the system has recorded more than 38,000
+incidents and identified 54,000 suspects. The state
+forest
+departments
+benefit
+from
+advanced
+digital
+tracking and analytical capabilities provided by this data.
+Moreover, continuous training is being provided to
+forest officers to empower them to autonomously utilize
+the HAWK system. Plans are in place to transition to
+government management at the end of the three-year
+project
+period.
+This
+transition
+aims
+to
+reduce
+dependence on external funding and foster ongoing
+innovation to deliver tangible environmental and social
+outcomes.
+· Poaching of endangered wildlife continues unabated worldwide. In October 2023, the International Criminal Police Organization 
+(Interpol) and the World Customs Organization (WCO) announced that they cracked down on global illegal wildlife trade, 
+arresting more than 500 individuals and seizing more than 2,000 specimens of flora and fauna.
+54,000
+HAWK
+Community
+Engagement
+Photo: Svetlana Foote via Shutterstock

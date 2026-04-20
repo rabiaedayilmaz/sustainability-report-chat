@@ -1,0 +1,85 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+Annual economic losses from 2025 due 
+to decreased competitiveness caused by 
+delays in DX
+Sustainable Financial Transactions Through 
+Open Systems
+Click here for 
+reference article
+· The Ministry of Economy, Trade and Industry predicts that failure to address challenges such as the black boxing of 
+outdated systems and the shortage of IT personnel will lead to a decline in market competitiveness, resulting in 
+approximately ¥12 trillion in economic losses annually from 2025.
+¥12 trillion
+PITON®
+Future
+of
+Work
+Smart X
+Co-Innovation
+(Source: Ministry of Economy, Trade and Industry’s
+“DX Report,” September 2018).
+Conceptual diagram of PITON® 
+* PITON:
+A French term referring to steel spikes driven
+into rock or ice walls to secure routes in climbing
+and other activities.
+The withdrawal of domestic mainframe vendors has placed
+systems, including financial accounting systems, which
+operate on mainframes, in a critical state where continued
+operation is no longer feasible. Since the 2000s, NTT
+DATA has been working on the open transformation of
+mainframe systems. From 2017, we have assembled
+experts and steadily addressed technical challenges while
+embarking on the development of functions as alternatives
+to mainframes. Following research and development, as
+well as quality testing, we have commercialized the
+PITON® framework, which enables business applications
+running on mainframes to operate on an open platform. As
+a result, businesses have been able to securely and safely
+migrate
+accounting systems
+running on mainframes,
+ensuring the continuity of their systems.
+Our aim is to consolidate accounting systems using
+the
+Integrated
+Banking
+Cloud,
+following
+the
+open
+transformation facilitated by PITON® as the first step. By
+leveraging
+open
+technology
+for
+consolidation
+and
+automation, it becomes possible to optimize human
+resources
+and
+facility
+costs
+through
+efficiency
+improvements.
+The name PITON®* embodies our commitment to
+ensuring the security of financial systems, facilitating
+seamless transition from one person to another, and
+guiding
+toward
+achieving
+goals.
+The
+greatest
+achievement of PITON® lies not in the development of
+the product itself, but in its ability to draw out the power
+of employees to realize the unprecedented challenge of
+mainframe openness. In the highly uncertain market
+ahead, employees with transformative capabilities will
+play a vital role in enhancing competitiveness.

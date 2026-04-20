@@ -1,0 +1,133 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Environment
+Regenerating Ecosystems
+Material Issues
+SDGs
+Cross-industry Support for Enhanced Efficiency in Fashion Industry Supply Chains
+NTT DATA Japan Corporation
+Business Incubation Group
+Global Customer Success Office
+Financial Innovation Headquarters
+FEDI®
+Trusted
+Value Chain
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Circular 
+Economy
+• In Japan, 98% of clothing products are manufactured overseas. Processes from material procurement to manufacturing emit approximately 90,000 tons of CO₂ annually. Additionally,
+clothing waste contributes to rising CO2 emissions, amounting to approximately 470,000 tons per year.
+• The fashion industry involves numerous stakeholders, such as apparel companies, trading firms, fabric and accessory suppliers, and factories. The use of disparate methods and
+systems for communication among these parties results in significantly longer lead times from design to delivery.
+Business need
+Solution
+In
+the
+fashion
+industry,
+communication
+between
+stakeholders often relies on company-specific document
+formats and individual email styles. These variations can
+lead to errors and the need for work to be redone. Another
+significant issue in supply chains is the partial optimization
+of
+systemization,
+which
+often
+necessitates
+repeated
+manual
+data
+entry,
+resulting
+in
+inconsistencies.
+Additionally, to enhance quality, prevent the shipment of
+defective products, and gain consumer trust, supply
+chains must be improved to ensure traceability spanning
+from raw material procurement to production, shipping,
+sale, and consumption.
+NTT DATA is building cross-industry systems to enhance
+supply chain efficiency for the fashion industry. It provides a
+series of these solutions as the FEDI® Ecosystem. FEDI®
+resolves
+communication
+loss
+caused
+by
+analog
+communication and digitalizes a series of tasks that take
+place among stakeholders, from order management to
+customs
+procedures,
+invoicing
+and
+payment.
+This
+is
+provided in two ways: API and portals. Linking data related
+to ordering and trade through FEDI® reduces the burden of
+inputting data into companies’ own systems and lowers the
+risk of human errors.
+Moving
+forward,
+NTT
+DATA
+will
+work
+to
+visualize
+greenhouse gases in supply chains and perform even more
+precise demand forecasting on the demand chain*1 side
+while
+also
+using
+these
+efforts
+as
+a
+basis
+to
+build
+frameworks that support production of appropriate volumes
+at appropriate times. This addresses fashion loss*2 as a
+means to reduce waste and lower CO2 emissions. It also
+enables
+compliance
+with
+mandatory
+EU
+regulations,
+including those prohibiting the disposal of unsold clothes
+and requiring digital product passports (DPPs)*3. NTT
+DATA will also contribute to the realization of green
+transformation (GX)*4 in the fashion industry.
+*1 Demand chains:
+Processes that start from consumers (end users) and move towards
+suppliers (procurement, production and sales). This contrasts with
+supply chains, which start from the supplier side and move towards
+consumers.
+*2 Fashion loss:
+Clothing that can still be worn but is disposed for one of various
+reasons.
+*3 Digital product passports (DPPs):
+Digital certificates containing extensive information to ensure the
+traceability of products throughout their lifecycles.
+*4 Green transformation (GX):
+Initiatives to switch from fossil fuels that produce greenhouse gases
+to industrial structures centered on clean energy.
+Impact
+Reduction
+rate
+of
+processes
+through the introduction of FEDI®
+70 %
+FEDI® Ecosystem
+NTT DATA
+(in Japanese only)
+(Source: Sustainable Fashion (Japanese Ministry of the Environment website): https://www.env.go.jp/policy/sustainable_fashion/index.html (in Japanese only))

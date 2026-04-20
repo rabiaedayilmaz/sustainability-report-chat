@@ -1,0 +1,41 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+Circular Economy 
+Reduce waste and create a society where the value of products and services continues to circulate 
+ 
+Main Initiatives 
+ 
+We are using the NTT DATA Group’s digital technologies to help create a circular economy for clients and society (Green Innovation by 
+IT). To this end, we deploy blockchain technology to build various mechanisms and AI and IoT technologies to achieve advances in 
+industrial waste treatment. We are also building a platform to manage the cycle, from collection to disposal of waste, in compliance with 
+laws and regulations while developing a prototype platform that can be interconnected with GAIA-X, an international data distribution 
+platform used mainly in Europe. 
+As for initiatives within the Group (Green Innovation of IT), we are working continuously to reduce waste to achieve a recycling rate 
+of 99% or higher in line with the NTT Group’s “Eco Strategy 2030.” NTT DATA Group companies that have acquired ISO 14001 Group 
+certification (30 companies in total) had already achieved zero emissions (final waste disposal rate of 1% or less) in fiscal 2020, and we 
+plan to expand our efforts in the future. 
+ 
+ Contribution through Support to Clients (Green Innovation by IT) 
+Streamlining Waste Management through Web Applications 
+In 2015, the Emilia-Romagna region in Italy enacted a circular economy ordinance and introduced a variable-fee structure that levies a 
+tax based on the amount of unsorted waste a company generates. 
+Instrumental in implementing this mechanism was SIR, a web application that NTT DATA Italia implemented for the region’s public 
+water and waste services corporation. A total of 328 municipalities and 12 service providers in the region have adopted SIR, allowing 
+more effective reporting in compliance with local rules instead of the manual data management previously employed. 
+SIR also makes it possible to analyze which municipalities have introduced variable fee structures and how this has changed the 
+amount of unsorted waste. We have clarified that municipalities that have introduced variable-fee structures have shown significant 
+increases in waste separation compared to those that have not. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Waste management 
+web application 
+Local governments 
+Promote recycling through 
+waste separation

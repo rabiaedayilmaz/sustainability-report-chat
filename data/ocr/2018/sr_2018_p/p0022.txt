@@ -1,0 +1,196 @@
+Before introduction
+After introduction
+Register
+ data
+Register
+ data
+!
+Input instructions into a PDF
+Send to 
+server
+Aggregate
+items
+Create
+CSV
+output
+Compression
+Solution
+Change 
+numerical 
+expressions
+Log in to 
+online
+system
+WinActor® conducts user operations automatically!
+NTT DATA Sustainability Report 2018
+ The NTT DATA Group’s Solutions
+To heighten per capita productivity while heightening the quality of services provided to customers, 
+the proactive use of IT systems that change traditional workstyles is essential.
+ In partnership with The Senshu Ikeda Bank, Ltd., NTT DATA has developed the first system in the 
+banking industry that directly links banks and life insurance companies and enables the completion 
+of all processes—from identifying customers’ needs and offering suggestions through to concluding 
+policies—entirely through a tablet device. In May 2017, The Senshu Ikeda Bank and 12 other banks 
+began using the system. As of July 2018, a further 33 banks had already decided to use the system. 
+Including banks that intend to use the system, more than 60 banks have adopted or will adopt the 
+system. The operation of the system enhances the services that banks provide to customers by 
+reducing the volume of forms and documents that they have to complete or affix seals to and by 
+shortening the number of days needed for processing policies. At the same time, the system helps 
+mitigate the problem of contraction in the working-age population as society ages.
+Improving Customer Service While Raising Labor Productivity
+Our new system enables customers to complete life insurance applications by simply entering several 
+checks and electronic signatures into a tablet device. Thus, the system significantly reduces the 
+number of paper forms customers have to fill out and approximately halves the lead time from application through to policy completion. Previously, because applications were mailed, customers waited 
+roughly two weeks to receive insurance policies. By dispensing with the need for paper forms, our 
+system delivers policies to customers in as little as three days. Moreover, the elimination of paper 
+documentation enables the system to check the information that customers input, thereby greatly 
+reducing delays in policy processing that arise from incorrectly completed forms.
+ The use of tablet device to remove 
+paper documentation from a process 
+that has until now been cumbersome 
+and centered on paper forms and to 
+systematize the entire process with one 
+stroke has enhanced the services 
+banks provide customers. At the same 
+time, our system helps raise labor productivity by increasing the administrative efficiency and lowering the paper 
+documentation management costs of 
+banks and insurance companies.
+Looking Ahead
+We plan to make this solution compatible with the operations of a greater number of insurance 
+companies. Also, plans call for adding functions to the system with a view to eliminating paper from 
+an even broader range of insurance application procedures. NTT DATA will continue providing progressive IT that helps resolve societal issues arising from Japan’s dwindling working-age population.
+Until now, creating systems that automate or increase the efficiency of office work has been challenging. However, RPA enables the realization of such systems. For example, by using a PC to carry 
+out work that is to be entrusted to RPA and having the RPA system remember the operational 
+procedures, it is possible thereafter to have the RPA system perform the task in question instead of 
+the worker. In this way, the spread of RPA promises to greatly alleviate the burden of routine work. 
+At present, with the decline in the working-age population due to the age of society becoming an 
+issue, the use of RPA to increase productivity has become an important way of addressing the labor 
+shortage issue.
+Increasing the Efficiency, Reducing the Burden, and Enhancing the Quality of 
+Routine Tasks
+WinActor® and WinDirector® RPA tools realize RPA solutions that are made entirely in Japan and which 
+are based on research technology developed by NTT Access Network Service Systems Laboratories. 
+The tools have earned a strong reputation as a result of user-friendliness that allows business division 
+managers to set automation rules without programing as well as versatility that does not restrict the 
+applications that can be automated. Consequently, as of August 2018 approximately 1,250 companies 
+have introduced these tools, which boast the No. 1 market share in Japan. Moreover, a survey of 
+customer satisfaction announced by Nikkei Computer magazine ranked NTT DATA at the top of the 
+RPA category for 2018–2019. This is a testament to the differentiated, extensive services and support—which includes training, administration of certification exams, and technical support—that more 
+than 200 authorized dealers provide nationwide.
+Looking Ahead
+As well as helping tackle a range of societal issues, such as productivity enhancement, workstyle 
+reform, and the elimination of personnel shortages, WinActor® and WinDirector® RPA tools promise 
+to assist in the creation of added value by enabling companies to create new businesses and supporting employees’ career development.
+WinActor® and WinDirector® RPA tools
+FrontGate Over-the-Counter Insurance Sales System 
+Linking Banks and Life Insurers Directly
+CASE 1
+ Breakdown of Corporate Contracts
+ Change in Workflow as a Result of Introducing the System
+ Change in Workflow as a Result of Introducing the System
+Finance
+12%
+Retail
+2%
+Service and
+infrastructure
+37%
+Advertising, 
+publishing, 
+and mass communications
+2%
+Government 
+agencies, public 
+corporations, and
+organizations
+2%
+Infrastructure and
+telecommunications
+19%
+Manufacturers 
+24%
+Trading companies 
+1%
+Web design
+Web design
+Web
+ application
+ form
+Web
+ application
+ form
+Up to product 
+selection
+Design /
+application form
+Application
+procedure
+Application 
+registration
+Approval
+Delivery to 
+life insurer
+In-house system
+or
+Paper
+In-house 
+system
+In-house 
+system
+Design
+Paper-based 
+application
+Automated return of data
+Transcribe
+Application form Application documents
+Handler
+Approver
+Consistent processing with everything from contract with customer and 
+subsequent clerical work completed using a tablet device
+Current
+After digitization
+Approval screen
+Approval screen
+Data returned
+Use of a tablet device
+Electronic signature
+Data
+linkage
+Postal mail
+Needs to be filled in 
+by customers
+Approval by person in charge
+based on printed application
+More troublesome sales process with more clerical work due to paper-based procedure
+Insurance
+Insurance
+Approval
+Approval
+Paperless 
+procedure
+Paperless 
+procedure
+Customer 
+procedure
+Customer 
+procedure
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group

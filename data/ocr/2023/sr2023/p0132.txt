@@ -1,0 +1,207 @@
+GRI Standard Contents Index
+Disclosure
+References
+Reason for Omission/Supplemental Explanation
+2-20
+Process to determine remuneration
+p.121
+Policy for Determining Director Remuneration 
+ Corporate Governance Report
+2-21
+Annual total compensation ratio
+pp.122-123
+Total Remuneration for Directors and Remuneration 
+Ratio to Employees 
+2-22
+Statement on sustainable development strategy
+ Sustainability
+2-23
+Policy commitments
+pp.006-010
+Sustainability in NTT DATA 
+pp.013-014
+Commitment to Initiatives 
+pp.017-018
+The NTT Group’s Basic Policy 
+p.021
+Environmental Policies of the NTT DATA 
+p.023
+“NTT DATA NET-ZERO Vision 2040” 
+p.104
+NTT Group Human Rights Policy 
+pp.105-106
+Respect for Human Rights 
+ Sustainability
+2-24
+Embedding policy commitments
+p.010
+Progress in Relation to Nine Material Issues and 
+FY2023 Targets 
+pp.031-043
+Information Disclosure Based on the TCFD 
+pp.062-069
+Smart X Co-innovation 
+pp.080-081
+Promoting a Responsible Supply Chain 
+pp.094-096
+Promoting Health Management 
+pp.104-109
+Human Rights & DEI 
+ Materiality of Sustainability Management
+2-25
+Processes to remediate negative impacts
+pp.080-083
+Promoting a Responsible Supply Chain 
+pp.083-084
+Whistleblowing Systems 
+p.105
+Due Diligence Structure and Activities 
+ Contribution to society through business and 
+corporate activities
+2-26
+Mechanisms for seeking advice and raising concerns
+pp.082-084
+Ensuring Compliance 
+ Compliance
+2-27
+Compliance with laws and regulations
+pp.082-084
+Ensuring Compliance 
+ Compliance
+2-28
+Membership associations
+pp.013-014
+Commitment to Initiatives 
+2-29
+Approach to stakeholder engagement
+p.011
+Dialogue with Stakeholders 
+2-30
+Collective bargaining agreements
+p.097
+Labor-Management Dialogue to Enhance Work 
+Environments 
+ Diversity, Equity and Inclusion
+GRI 3: Material Topics 2021
+3-1
+Process to determine material topics
+pp.008-010
+Nine Material Issues and Identification Process for 
+Achieving a Sustainable Society 
+3-2
+List of material topics
+p.010
+Progress in Relation to Nine Material Issues and 
+FY2023 Targets 
+ Materiality of Sustainability Management
+Materiarity
+Enviroment: Regenerating Ecosystems　Conserving the Global Environment for the Future
+1. Carbon Neutrality Contribute to solving climate change issues through innovation to decarbonize society
+3-3
+Management of material topics
+pp.006-012
+Sustainability in NTT DATA 
+pp.021-022
+Basic Policy and Management System 
+pp.033-035
+Climate Change Risks and Response 
+pp.052-053
+Environmental Management System 
+ Materiality of Sustainability Management
+GRI 302: Energy 2016
+302-1
+Energy consumption within the organization
+p.055
+Fiscal 2022 Environmental Data (Global, Consolidated) 
+302-2
+Energy consumption outside of the 
+organization
+p.055
+Fiscal 2022 Environmental Data (Global, Consolidated) 
+302-3
+Energy intensity
+p.055
+Environmental Data (Global, Consolidated), Power 
+usage efficiency 
+We disclose this data in terms of power usage 
+efficiency at data centers, which are the primary 
+sources of energy use for the services we provide.
+302-4
+Reduction of energy consumption
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+p.055
+Fiscal 2022 Environmental Data (Global, Consolidated) 
+302-5
+Reductions in energy requirements of 
+products and services
+pp.036-039
+Opportunities Related to Products and Services 
+(Opportunity 1, 2, and 3) 
+GRI 305: Emissions 2016
+305-1
+Direct (Scope 1) GHG emissions
+p.043
+Metrics and Targets (Management Metrics and Targets 
+for Climate-Related Risks and Opportunities) 
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+305-2
+Energy indirect (Scope 2) GHG emissions
+p.043
+Metrics and Targets (Management Metrics and Targets 
+for Climate-Related Risks and Opportunities) 
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+305-3
+Other indirect (Scope 3) GHG emissions
+p.043
+Metrics and Targets (Management Metrics and Targets 
+for Climate-Related Risks and Opportunities) 
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+305-4
+GHG emissions intensity
+p.042
+Impact of Climate Change Scenarios on the Group 
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+305-5
+Reduction of GHG emissions
+p.043
+Metrics and Targets (Management Metrics and Targets 
+for Climate-Related Risks and Opportunities) 
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+305-6
+Emissions of ozone-depleting substances 
+(ODS)
+pp.055-056
+Fiscal 2022 Environmental Data (Global, Consolidated/
+Group companies in Japan) 
+305-7
+Nitrogen oxides (NOx), sulfur oxides (SOx), 
+and other significant air emissions
+―
+No significant air emissions detected
+2. Circular Economy Reduce waste and create a society where the value of products and services continues to circulate
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+pp.021-022
+Basic Policy and Management System 
+pp.052-053
+Environmental Management System 
+ Materiality of Sustainability Management
+
+NTT DATA Sustainability Report 2023　Data Book

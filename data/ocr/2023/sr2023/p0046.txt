@@ -1,0 +1,22 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Our vision extends to expanding our services into Asian countries where Japanese cars are prevalent, with the goal of 
+creating a platform with international reach. In addition, we are actively exploring opportunities to extend the application of this 
+system beyond electric vehicle batteries, addressing industries where cross-supply and value chain data collaboration are 
+essential. 
+ 
+ Image of the Battery Traceability Platform 
+ 
+*1 The New Batteries Regulation, which sets out the entire life cycle of battery products from raw material sourcing to design, production processes, 
+reuse, and recycling, was implemented in the European Union on August 17, 2023. 
+https://eur-lex.europa.eu/eli/reg/2023/1542/oj 
+*2 NTT DATA and Denso were selected in September 2022 for the following subsidy program administered by the Ministry of Economy, Trade and Industry 
+(with the secretariat of the program being the Green Investment Promotion Organization). 
+Subsidy project demonstrating and supporting CASE-ready unmanned automatic driving and other applications (designed to promote the construction 
+of a robust product ecosystem and shape future rules) for fiscal 2023 (including carbon footprint, reuse/recycling, and data linkage infrastructure 
+development) 
+https://www.meti.go.jp/information/publicoffer/saitaku/2022/s220920001.html 
+https://www.teitanso.or.jp/case/ 
+https://www.nttdata.com/global/ja/news/release/2022/101300/ 
+*3 QR code is a registered trademark of Denso Wave Incorporated.

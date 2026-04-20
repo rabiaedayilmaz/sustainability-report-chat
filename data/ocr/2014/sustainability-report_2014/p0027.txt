@@ -1,0 +1,105 @@
+Scope 3 Emission Rates (By Category) 
+ Innovative Technologies That Improve Power Efficiency
+Start of Supply Chain Greenhouse Gas 
+Emissions Management under Scope 3
+Initiatives at Data Centers Recognized at 
+the Green Enterprise IT Awards 2013
+To realize a low-carbon society, it is important for not only 
+the Company’s facilities but also society as a whole to 
+engage in energy-saving measures. The NTT DATA Group 
+places considerable emphasis on promoting an 
+environmentally oriented management approach, whereby 
+it gives due consideration to the natural environment in 
+every aspect of its corporate activities. As part of that 
+approach, the Group has broadened the scope of its 
+aggregate calculation of CO2 emissions and, from fiscal 
+2014, started management under Scope 3, which 
+calculates the aggregate amount of CO2 emissions by 
+taking into account product and service life cycles, from 
+their procurement through their distribution and to their 
+disposal. As a result, the NTT DATA Group was able to 
+calculate its total emissions, including overseas Group 
+companies, at 2,803,744t-CO2 and was able to visualize 
+the CO2 emissions across the entire supply chain.
+Moving forward, the entire NTT DATA Group will in 
+the years ahead take more highly effective measures 
+toward the creation of a low-carbon society and will 
+confront challenges in conjunction with its clients and 
+business partners.
+In these times when data centers (DCs) are becoming more 
+common, a major talking point within the IT industry is the 
+importance of energy saving at such facilities. Meanwhile, 
+based on the experience gained through electricity saving 
+measures in the wake of the Great East Japan Earthquake, 
+we have seen growing interest from society at large in the 
+mechanisms that operate DCs even when electricity is in 
+short supply.
+Recognizing that the implementation of sound electric 
+power management is of the utmost importance, NTT DATA 
+continues to engage in ongoing efforts aimed at improving 
+the quality of its DCs, which store and manage clients’ 
+systems data.
+Working with Intel Corporation, whose central 
+processing units (CPUs) have been adopted in many 
+servers, NTT DATA is making progress in verifying detailed 
+utilization limits in line with server loads. Based on the results 
+of this work, NTT DATA and Intel were recognized as finalists 
+in the IT Product Deployment category of the Green 
+Enterprise IT Awards 2013 that were sponsored by Uptime 
+Institute LLC in the United States.
+* Ratio of trace amounts recorded as 0%.
+Use of sold 
+products 52%
+Purchased goods 
+and services 40%
+Fuel- and energy-related activities
+ (not included in Scope 1, 2) 1%
+Transportation/
+distribution
+ (upstream) 1%
+Waste generated in operations 0%
+Capital goods 4%
+Employee commuting 0%
+Business travel 1%
+Investments 0%
+End of life treatment of sold products 1%
+Upper limit set at 90%
+for high-load servers
+Upper limit set at 70%
+for low-load servers
+Server
+DC overall
+Server
+DC overall
+
+Power consumption (kW)
+Power consumption (kW)
+100%
+90%
+100%
+70%
+* Comparison of the amounts of electric power consumption for 700 servers
+23.5%
+decrease
+27.3%
+decrease
+16% 
+decrease
+18% 
+decrease
+Key Achievement
+Detailed server electric power management
+Contribution to both energy saving 
+at and stable operation of DCs
+Key Achievement
+Visualization of CO2 emissions across the entire 
+supply chain
+Taking measures in conjunction 
+with clients and business partners 
+from which significant effects can 
+be expected
+NTT DATA CSR Report 2014 26
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

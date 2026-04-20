@@ -1,0 +1,121 @@
+Management System
+NTT DATA Group Corporation, NTT DATA Japan Corporation, and Group companies in Japan integrate environmentally 
+responsible practices throughout their operations and maintain a strong commitment to environmental initiatives. 
+In 1998, we established the Environmental Management System (EMS) framework, and in 1999, we achieved ISO 
+14001 certification for our EMS, which is a recognized international standard for environmental management.
+ 
+Starting from 2004, we extended our commitment to environmental management across the Group, including 
+some Group companies in Japan, by implementing a Group-wide EMS. We also obtained ISO certification as the 
+Group certification.
+ 
+The Group-wide EMS comprises the Environmental Conservation Promotion Committee (formerly Eco Activity 
+Promotion Committee), chaired by an executive officer of NTT DATA Group Corporation and composed of environmental preservation promotion officers from each department under the Group-wide EMS, and the Environmental 
+Conservation Promotion Liaison Committee (formerly Eco Activity Liaison Committee), chaired by the head of the 
+Green Innovation Office and composed of environmental managers and promotion officers from each department 
+under the Group-wide EMS.
+ 
+The Environmental Conservation Promotion Liaison Committee meets regularly to share information about our 
+environmental activities, environmental goals, departmental initiatives, and other relevant topics within the NTT 
+DATA Group. This information is then integrated into the environmental activities of each department.
+ 
+In addition to the companies within the Group-wide EMS, there are Group companies in Japan and outside 
+Japan that have independently established their own EMS and obtained ISO 14001 certification. Each of these 
+companies conducts environmental activities. Since 2020, we have also been conducting environmental liaison 
+meetings for Group companies in Japan outside of the Group-wide EMS, strengthening our environmental management across the organization.
+Material Balance
+NTT DATA understands and analyzes how and at what stages resources and energy are used, as well as where 
+environmental impacts occur, to reduce the environmental impact associated with our business activities. This 
+impact primarily arises from GHG emissions due to energy consumption, mainly electricity.
+ 
+Additionally, the use of paper resources, water resources, and activities such as data center construction also 
+have various environmental impacts. We cannot ignore the environmental effects of energy consumption and 
+other factors during the operation of our systems and services at our customers’ sites. 
+ 
+Therefore, we accurately assess and analyze the environmental impact of our business activities and connect 
+this information to various improvement initiatives.
+ [Reference page] Non-Financial Data “Material Balance”
+Group EMS Structure
+NTT DATA Group Corporation President and CEO
+Corporate Management 
+Committee
+Environmental Conservation Promotion Committee Chairperson
+ (NTT DATA Group Corporation Representative Director and 
+Senior Executive Vice President)
+Chief Environmental Manager
+(NTT DATA Group Corporation 
+Sustainability Innovation 
+Department Head of 
+Green Innovation Office)
+Internal Environmental 
+Auditing Team
+Group EMS Secretariat
+(NTT DATA Group Corporation 
+Sustainability Innovation 
+Department)
+Environmental 
+Supervisors
+Employees and Partners
+Waste-Disposal 
+Supervisors
+Each 
+Workplace
+Internal audit
+Internal 
+audit
+Environmental Conservation 
+Promotion Committee Member
+Environmental 
+Advocates
+Environmental Manager
+Environmental Conservation 
+Promotion Committee Member
+Environmental 
+Advocates
+Environmental Manager
+Environmental Conservation 
+Promotion Committee Member
+Environmental 
+Advocates
+Environmental Manager
+Organizations within 
+NTT DATA Japan
+Environmental 
+Conservation 
+Promotion 
+Committee
+Environmental 
+Conservation 
+Promotion Liaison 
+Committee
+Environmental Management System
+Organizations within 
+NTT DATA 
+Group Corporation
+Group companies 
+in Japan
+Environmental 
+Supervisors
+Employees and Partners
+Waste-Disposal 
+Supervisors
+Each 
+Workplace
+Environmental 
+Supervisors
+Employees and Partners
+Waste-Disposal 
+Supervisors
+Each 
+Workplace
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

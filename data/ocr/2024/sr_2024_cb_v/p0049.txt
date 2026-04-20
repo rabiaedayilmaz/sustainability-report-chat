@@ -1,0 +1,93 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+A Trusted Research Network Enabling Shared Use of Healthcare Data While Ensuring 
+Patients’ Privacy
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+NTT DATA’s Global Healthcare Data Network
+Community
+Engagement
+• The healthcare data analytics market is growing rapidly. With a total size of USD 26 billion in 2022, it is projected to reach USD 120 billion in 2030.
+• Demand for AI is rising in medical and life sciences fields, including imaging services and imaging biomarkers. AI models require data sets, which is leading to regulatory concerns
+around data privacy and challenges regarding data structuring, especially in research conducted across multiple sites or using several data providers.
+Clinical data is indispensable to accelerating research
+and development in medicine. When sharing such highly
+sensitive data, robust security measures are required to
+protect against cyberattacks and unauthorized access.
+Data sharing systems and system coordination based on
+advanced technologies, such as highly-reliable cloud
+services and AI, are needed to enable safe, efficient
+management and sharing of large quantities of medical
+data.
+Different medical institutions use various systems and
+file formats, which can hinder data sharing when linking
+systems. To ensure data standardization and compatibility,
+common standards and platforms are necessary.
+Business need
+Solution
+NTT
+DATA
+has
+partnered
+with
+Rhino
+Federated
+Computing to develop a global federated data network to
+enhance clinical data accessibility and AI development.
+Supported
+by
+NTT
+Innovation
+Laboratory
+Israel,
+this
+advanced network integrates NTT DATA’s Advocate AI
+tools with Rhino’s federated* computing architecture. It
+allows
+clinical
+research
+organizations
+and
+healthcare
+providers to collaborate seamlessly, leveraging a diverse
+range of global datasets to accelerate AI development and
+clinical
+research
+in
+healthcare.
+By
+utilizing
+federated
+computing, the network allows organizations to share
+hospital data without compromising security. Since the data
+remains locally stored, it reduces the risks of exposure and
+ensures regulatory compliance. This approach facilitates
+the development of robust AI and machine learning models
+that can predict and improve treatment outcomes across a
+variety of patient populations and geographies. The global
+network spans leading academic medical centers in the
+United States, the Middle East, APAC, and the United
+Kingdom,
+fostering
+greater
+collaboration
+and
+enabling
+large-scale, data-driven projects in clinical research.
+Digital
+Accessibility
+Powered by
+Rhino Federated Computing
+*Federation:
+A distributed computing model where resources, including data,
+computing power and storage, are shared across different entities
+that remain decentralized.
+Impact
+Compound annual growth rate (CAGR) of healthcare data 
+analytics market
+23%

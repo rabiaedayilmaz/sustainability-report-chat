@@ -1,0 +1,45 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+NTT DATA’s Greenhouse Gas Emissions 
+ 
+To reduce the risks of climate change and realize a decarbonized society, it is important to engage in energy-saving measures 
+not only for the Company’s facilities but also for the overall society. We integrate environmental considerations into all aspects 
+of our corporate activities. To this end, from fiscal 2013 we broadened the scope of our aggregated calculation of GHG emissions 
+and began management under Scope 3, which calculates the aggregate amount of these emissions by considering product and 
+service life cycles, from procurement to distribution and final disposal. For Scope 1 and 2, we added data from global Group 
+companies assured by a third party. As a result, the total GHG emissions of NTT DATA were 1,935,854 t-CO2e in fiscal 2022. 
+ 
+ GHG Emission Rates by Scope in Fiscal 2022 
+ 
+We obtain third-party certification for data from all sites. 
+ 
+＜NTT DATA (All Group companies excluding EMEAL and NTT Ltd.)＞ 
+We received third-party verification of our GHG emissions (Scope 1, 2, and 3), energy consumption, renewable energy 
+consumption, and water consumption in fiscal 2022 from LRQA Limited. 
+Verification of Scope 1, 2, and 3 emissions, energy consumption, and renewable energy consumption in fiscal 2022 applies 
+to 158 NTT DATA companies (all Group companies excluding NTT Ltd.). Verification of water consumption applies to 70 
+companies of the NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan. 
+ 
+＜EMEAL＞ 
+We received third-party verification of our GHG emissions (Scope 1 and 2) from AENOR INTERNACIONAL, S.A.U., in fiscal 
+2022. The scope of the verification covered 66 centers in Europe, Latin America, and Africa. 
+ 
+ Summary of Third-Party Certified Data* in Fiscal 2022 
+Direct GHG emissions (Scope 1) 
+12,300 t-CO₂e 
+Indirect GHG emissions from energy sources (Scope 2, market basis) 
+82,203 t-CO₂e 
+Indirect GHG emissions from energy sources (Scope 2, location basis) 
+161,221 t-CO₂e 
+Other indirect GHG emissions (Scope 3) 
+1,837,925 t-CO₂e 
+Energy consumption 
+391,080 MWh 
+Renewable energy consumption 
+177,609 MWh 
+Water consumption 
+447,918 m³ 
+Wastewater 
+255,787 m³ 
+*Scope of data collection: All Group companies excluding EMEAL and NTT Ltd.

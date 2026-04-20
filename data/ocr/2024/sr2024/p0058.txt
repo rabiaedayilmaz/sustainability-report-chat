@@ -1,0 +1,87 @@
+Initiatives to Ensure Security
+Ensuring the Security of Commercial Systems
+In addition to known attacks against which countermeasures are available, more and more attacks exploit vulnerabilities that even software developers and system development vendors are not aware of. To address such 
+unknown attacks, we must adopt security measures across our systems without leaving any vulnerabilities.
+ 
+We share the latest trends in security technology and vulnerability information across the Group in a timely 
+manner. When building and operating our systems, we incorporate processes to maintain the necessary level of 
+security and establish mechanisms to enable the system to maintain that security level. We strive to continuously 
+provide safe and secure systems and services, including by subjecting our system to regular diagnostic testing by 
+security experts and appropriately responding to newly discovered vulnerabilities.
+Education and Awareness on Information Security and Personal Data Protection
+NTT DATA provides information security education for employees and temporary workers. We have delivered this 
+education and training via e-learning and classroom instruction to promote understanding of the Group’s policy 
+on the protection of personal information, the rules contained in the NTT DATA Group Security Policy, and the 
+need to be constantly aware of the importance of information security. In fiscal 2023, we continued implementing 
+various measures to ensure that every employee rigorously takes basic actions to maintain information security. In 
+addition, every year, all employees and collaborators of NTT DATA Group Corporation, NTT DATA Japan, and NTT 
+DATA, Inc., undergo training to identify targeted and phishing e-mails and ensure they respond correctly.
+Information Security Training at NTT DATA in Fiscal 2023 
+(current NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc.)
+Target
+Content and Format
+Participation
+All employees
+Information security and personal information protection training (e-learning)
+Target: 
+13,530 eligible employees (completion 100%)
+Achieved: 13,530 eligible employees (completion 100%)
+Position based
+Information security lectures (on-site 
+learning)
+Incorporated in position-based training conducted by the 
+Human Resource Department
+Internal security training for qualified 
+personnel (e-learning)
+Learning materials were provided online to applicable 
+personnel.
+Business partners and 
+temporary staff
+Personal information protection introduction training and information security 
+education (e-learning)
+Target: 
+Parties registered on our company system 
+49,180 people (completion 100%)
+Achieved: Parties registered on our company system 49,180 
+people (completion 100%)
+Information Security Training Handbook
+Booklets available to new business partners and temporary 
+staff via download
+All employees and 
+collaborators
+Targeted e-mail response training
+We send training e-mails to all employees and collaborators 
+(approximately 53,000 people) and conduct exercises to test 
+their ability to identify and respond to phishing attempts.
+Information Security Training at Key Group Companies in Fiscal 2023
+Target
+Content and Format
+Participation
+Group company 
+employees, business 
+partners, and 
+temporary staff
+GSP security training and personal information protection training (e-learning; in 
+three languages)
+35,615 persons (66 Group companies in Japan)
+Note: In addition to the above, information security education was provided for Group companies outside Japan under the control of each regional head office.
+Certifications Acquired (as of March 31, 2024)
+Certifications
+● Information Security Management Systems (ISMS) certification:
+39 companies in Japan, including NTT DATA Japan (out of a total of 65 companies: approx. 60%)
+● ISO/IEC 27001:
+Multiple overseas Group companies outside Japan (including in Europe, China, and India)
+● PrivacyMark of the Japan Institute for Promotion of Digital Economy and Community (JIPDEC):
+40 companies in Japan, including NTT DATA Japan (out of a total of 65 companies: approx. 62%)
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

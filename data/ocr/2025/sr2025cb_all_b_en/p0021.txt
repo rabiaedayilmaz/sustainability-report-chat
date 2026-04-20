@@ -1,0 +1,115 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+NTT DATA Japan Corporation
+Second Financial Sector
+Digital Banking Division 
+Consulting & Sales Group 
+Making mortgage applications more convenient and reducing the burden on housing 
+business operators and financial institutions
+Mortgage One® (in Japanese only) 
+Impact
+Business need
+Solution
+•
+Mortgage applicants are often required to follow analog procedures when dealing with housing business operators and financial institutions, resulting in inefficient processes that take time and effort.
+•
+With shrinking workforces due to low birthrates and aging populations, both housing business operators and financial institutions face labor shortages exacerbated by the lack in digitalization of mortgage application
+processes. This results in significant workloads, with impacts including staff having to work on their days off.
+About
+80-90%
+of mortgage
+requests
+are submitted to
+financial institutions by housing business operators, and the
+process up to loan disbursement requires close communication
+between both parties.
+However, in addition to tasks such as physically signing and
+mailing documents, current processes often involve phone calls,
+face-to-face meetings and even the need to travel and work on
+days off, placing significant strain on staff on both sides.
+Mortgage
+applications
+also
+include
+a
+complex
+array
+of
+procedures
+ranging
+from
+fire
+insurance
+applications
+to
+communication with judicial scriveners, adding further workload.
+A seamless, integrated process combining and simplifying
+these tasks is urgently required.
+For financial institutions, mortgages are important products
+directly linked to customer base expansion and stable revenue,
+making it a critical area in which to enhance profitability, employ
+more sophisticated risk management and optimize customer
+experiences. The proliferation of related systems at various
+financial institutions means digitalization is urgently needed
+across the mortgage industry, including housing business
+operators.
+NTT DATA launched Mortgage One® in June 2025 as
+a service enabling safe, easy online communication
+between applicants, housing business operators and
+financial institutions in mortgage-related processes.
+Built on secure infrastructure, this service enables
+progress management, chat-based messaging between
+the parties involved, and file uploads, reducing use of
+analog methods such as phone, fax, physical mail, and
+face-to-face meetings.
+Planned
+future
+support
+for
+online
+mortgage
+applications will enable the entire process to be handled
+digitally in one place. In addition, an integrated mortgage
+platform created by leveraging generative AI and other
+cutting-edge
+technologies
+will
+digitally
+link
+personal
+information and official documents using Japan’s My
+Number
+system
+of
+numbers
+assigned
+to
+individual
+residents and enable the digitalization of fire insurance
+sales in collaboration with insurance companies. NTT
+DATA also leads the Mortgage DX Consortium, through
+which
+it
+promotes
+industry
+standardization
+and
+the
+expansion of functions to accelerate digitalization across
+the sector. Through this work, it seeks to eliminate
+complex procedures and inefficiencies in the handling of
+mortgages in order to enhance efficiency for all related
+parties, boost customer satisfaction, and contribute to
+performance improvements in terms of home sales and
+loan amounts.
+Adoption as a platform connecting finance and real estate 
+industries: 
+Over 100 companies
+expected to implement adoption over the next five years
+Conceptual image showing Mortgage One® utilization
+Mortgage One®
+Japan

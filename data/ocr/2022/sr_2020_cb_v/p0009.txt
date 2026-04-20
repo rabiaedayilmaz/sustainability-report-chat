@@ -1,0 +1,171 @@
+Business conditions for ﬁnancial institutions are becoming 
+increasingly severe due to deteriorating proﬁtability from 
+deposit/loan services caused by low interest rates. Meanwhile, 
+regional banks are being pressured to strengthen their 
+proﬁtability, stabilize their systems, and reduce costs in order to 
+provide reliable services as local ﬁnancial infrastructure 
+providers. Moreover, declining regional populations are causing 
+the demand for funds to fall, so it is diﬃcult to assess the 
+situation in isolation. Moreover, carbon neutral and other 
+environmentally friendly initiatives have become indispensable 
+for tackling climate change.
+ 
+Since 2004, we have operated the NTT DATA Regional Bank 
+Integrated Services Center, which provides a core system for 
+multiple ﬁrst- and second-tier regional banks to share. The center 
+has helped participating banks improve their operational 
+eﬃciency. In November 2021, we formed a working group with 
+the ﬁve banks participating in MEJAR (another regional bank 
+shared-use platform that uses NTT DATA’s systems) and the 13 
+banks participating in the Regional Bank Integrated Services 
+Center to collaborate across existing boundaries. Members of the 
+working group will leverage their respective strengths to examine 
+issues common to all banks, such as improving the eﬃciency of 
+system operations, developing and procuring customer-interface 
+equipment, and developing IT and digital human resources.
+ 
+With respect to environmental initiatives, the Regional Bank 
+Integrated Services Center has reduced greenhouse gas 
+emissions by 76% (as of 2021 compared with the 2003 level), 
+achieved through the shared use of systems and provision of an 
+electronic reference service for documents addressed to 
+corporate customers and a joint sending/receiving service for 
+posted items. By ﬁscal 2030, moreover, we are targeting an 81% 
+reduction through the deployment of PITON™* and shared 
+operations, thereby contributing to decarbonization.
+* PITON™: A framework provided by NTT DATA that enables applications 
+developed for mainframes to run on open platforms.
+Green house gas emissions
+Note: Reductions in power consumption at the Regional Bank Integrated Services Center 
+are simulated values based on sampling and other methods.
+Before
+Step 1
+Step 2
+81%
+reduction
+76%
+reduction
+Target for
+FY2030
+Achieved
+Integrated
+services
+center
+Integrated
+services
+center
+Shift to
+integrated 
+services center
+Deployment of
+PITON™
+Shift to shared
+operations
+Individual
+system/
+operations
+13 lines 
+Support for customers’ greening eﬀorts
+Achieved 76% reduction 
+of greenhouse gas 
+emissions (compared to 
+individual operations) 
+thanks to deployment of 
+the Regional Bank 
+Integrated Services 
+Center; expect to achieve 
+an 81% reduction through 
+adoption of PITON™ and 
+shared operations
+Regional Bank Integrated Services Center: 
+Helping regional banks reinforce their 
+business foundations through the 
+integrated use of core systems
+NTT DATA’s Regional Bank Integrated Services Center provides a core system for multiple regional banks to share, 
+thus supporting their eﬀorts to reduce system costs, improve operational eﬃciency, and protect the environment.
+76% achieved
+Reduction of greenhouse gas emissions thanks to deployment of the 
+Regional Bank Integrated Services Center
+In trade operations, paper documents are the traditional 
+prerequisite for exchanging transaction-related information, 
+but this requires large amounts of manpower and incurs 
+major costs. Meanwhile, the globalization of supply chains 
+has caused the volume of transactions to grow, leading to 
+an increasingly serious shortage of business operators. 
+Therefore, it has become a common priority across multiple 
+industries to establish an eﬃcient mechanism for the 
+accurate and safe transfer of information, achieved by 
+digitizing business processes that are traditionally based on 
+paper documents.
+　　In 2017, NTT DATA launched a cross-industry consortium 
+with trading companies, banks, insurance companies, 
+shipping companies, and others to discuss using digital 
+technology to improve the eﬃciency and security of 
+trade-related administrative processes. In 2020, we 
+commenced full-scale operation of our TradeWaltz® trade 
+information collaboration platform and established a 
+company to operate it. TradeWaltz® uses blockchain 
+technology to share trade documents among companies as 
+reusable structured data and store them in a distributed 
+ledger, rather than simply digitizing and storing such 
+documents. It is expected to reduce workloads by up to 60% 
+by streamlining procedures that have become cumbersome 
+due to the centralized digitization of trade-related operations, 
+while also reducing the risk of document loss and falsiﬁcation. 
+It also oﬀers the potential to create new businesses by linking 
+trade information and utilizing data. In addition, the reduction 
+in the number of paper documents and their transportation 
+and storage is expected to signiﬁcantly reduce annual 
+greenhouse gas emissions.
+　　Going forward, we will roll out the service in Asia and link 
+up with other trade platforms with a view to further expansion 
+across APAC. As the ﬁrst step, we start to link up with 
+Thailand's trade platform, NDTP, in 2022.
+Freight
+Share and utilize electronic data using
+blockchain technology (Distributed Ledger) 
+®
+Importer
+Exporter
+Cargo & 
+Logistic
+CUSTOMS
+CUSTOMS
+Certiﬁcation
+Authority
+Certiﬁcation
+Authority
+Cargo & 
+Logistic
+insurer
+Issuing Bank
+BANK
+Negotiating 
+Bank
+BANK
+Benefits of using blockchain in trade operations 
+(after introducing the platform)
+Using the TradeWaltz® trade information 
+collaboration platform to digitize and 
+streamline trade-related operations
+Blockchain technology can be used to improve the eﬃciency and convenience of information exchange among 
+multiple players involved in trade transactions. It can also facilitate remote work and support the sustainable growth 
+of trade in general.
+¥295 billion/year
+Cost of sea freight trade administrative processes
+Source: Calculated based on “Doing Business—Trading Across Borders,” World Bank Group
+Economy | Clients’ Growth
+Economy | Clients’ Growth
+Future of
+Work
+Carbon
+Neutrality
+Smart X
+Co-innovation
+Smart X
+Co-innovation
+Case: TradeWaltz®
+Case: Regional Bank Integrated Services Center
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

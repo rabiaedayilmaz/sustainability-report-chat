@@ -1,0 +1,44 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Greenhouse Gas Emissions 
+ 
+ Managing Greenhouse Gas Emissions across the Value Chain 
+To reduce the risks of climate change and realize a low-carbon society, it is important to engage in energy-saving measures not 
+only for the Company’s facilities but also for the overall society. The Group integrates environmental considerations into all 
+aspects of its corporate activities. To this end, from fiscal 2013 we broadened the scope of our aggregated calculation of 
+greenhouse gas emissions and began management under Scope 3, which calculates the aggregate amount of these emissions 
+by considering product and service life cycles, from procurement to distribution and final disposal. For Scope 1 and 2, we added 
+data from overseas operations to data obtained from a third-party certifier. As a result, total greenhouse gas emissions of the 
+NTT DATA Group were 2,820,767 t-CO2e in fiscal 2020. 
+Building on this result, the entire Group will seek to identify more effective carbon-reduction initiatives and embrace 
+challenges together with clients and business partners. 
+ 
+ 
+Emission Rates by Scope in Fiscal 2020 
+ 
+ Third-Party Certification Concerning Greenhouse Gas Emissions 
+We received third-party verification of our greenhouse gas emissions (Scope 1, 2 and 3), energy consumption and water 
+consumption in fiscal 2020 from Lloyd’s Register Quality Assurance Limited. 
+Verification of Scope 1 and 2, energy consumption and water consumption applies to all organizations of NTT DATA and 
+the 82 domestic and overseas consolidated Group companies, whereas Scope 3 verification applies to the consolidated entities 
+(NTT DATA and the 315 consolidated Group companies in Japan and overseas). 
+ 
+ Summary of Third-Party Certified Data in Fiscal 2020 
+ 
+Direct GHG emissions (Scope 1) 
+5,182 t-CO2e 
+Indirect GHG emissions from energy sources (Scope 2, market basis) 
+238,431 t-CO2e 
+Indirect GHG emissions from energy sources (Scope 2, location basis) 
+269,138 t-CO2e 
+Other indirect GHG emissions (Scope 3) 
+1,439,102 t-CO2e 
+Energy consumption 
+605,109 MWh 
+Renewable energy consumption 
+52,523 MWh 
+Water consumption 
+488,315 m3 
+Wastewater 
+287,945 m3

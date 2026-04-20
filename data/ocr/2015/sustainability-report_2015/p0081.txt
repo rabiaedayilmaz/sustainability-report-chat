@@ -1,0 +1,139 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+GENERAL STANDARD DISCLOSURES
+G4-52
+Report the process for determining remuneration. Report whether remuneration consultants 
+are involved in determining remuneration and whether they are independent of management. 
+Report any other relationships which the remuneration consultants have with the organization.
+－
+G4-53
+Report how stakeholders’ views are sought and taken into account regarding remuneration, 
+including the results of votes on remuneration policies and proposals, if applicable.
+－
+G4-54
+Report the ratio of the annual total compensation for the organization’s highest-paid individual in 
+each country of significant operations to the median annual total compensation for all employees 
+(excluding the highest-paid individual) in the same country.
+－
+G4-55
+Report the ratio of percentage increase in annual total compensation for the organization’s 
+highest-paid individual in each country of significant operations to the median percentage 
+increase in annual total compensation for all employees (excluding the highest-paid individual) 
+in the same country.
+－
+Ethics and Integrity
+G4-56
+Describe the organization’s values, principles, standards and norms of behavior such as codes of 
+conduct and codes of ethics.
+P11-15
+http://www.nttdata.com/jp/ja/
+corporate/profile/mission/index.
+html
+G4-57
+Report the internal and external mechanisms for seeking advice on ethical and lawful behavior, 
+and matters related to organizational integrity, such as helplines or advice lines.
+P62-63
+G4-58
+Report the internal and external mechanisms for reporting concerns about unethical or unlawful
+behavior, and matters related to organizational integrity, such as escalation through line 
+management, whistleblowing mechanisms or hotlines.
+P62-63
+SPECIFIC STANDARD DISCLOSURES
+Disclosures on Management Approach
+Generic Disclosures On Management Approach
+G4-DMA
+a. Report why the Aspect is material. Report the impacts that make this Aspect material.
+b. Report how the organization manages the material Aspect or its impacts.
+c. Report the evaluation of the management approach, including:
+ The mechanisms for evaluating the effectiveness of the management approach
+ The results of the evaluation of the management approach
+ Any related adjustments to the management approach
+P19、25、38、56
+Economic
+Economic Performance
+G4-EC1
+Direct economic value generated and distributed
+P8、23、26
+P8-10
+G4-EC2
+Financial implications and other risks and opportunities for the organization’s activities due to 
+climate change
+P53-55
+G4-EC3
+Coverage of the organization’s defined benefit plan obligations
+P27
+G4-EC4
+Financial assistance received from government
+－
+Market Presence
+G4-EC5
+Ratios of standard entry level wage by gender compared to local minimum wage at significant 
+locations of operation
+－
+G4-EC6
+Proportion of senior management hired from the local community at significant locations of operation
+－
+Indirect Economic Impacts
+G4-EC7
+Development and impact of infrastructure investments and services supported
+ー
+G4-EC8
+Significant indirect economic impacts, including the extent of impacts
+ー
+Procurement Practices
+G4-EC9
+Proportion of spending on local suppliers at significant locations of operation
+P37
+Environmental
+Materials
+G4-EN1
+Materials used by weight or volume
+P48
+G4-EN2
+Percentage of materials used that are recycled input materials
+P44、48
+Energy
+G4-EN3
+Energy consumption within the organization
+P48、51
+G4-EN4
+Energy consumption outside of the organization
+－
+G4-EN5
+Energy intensity
+－
+G4-EN6
+Reduction of energy consumption
+P48
+G4-EN7
+Reductions in energy requirements of products and services
+－
+Water
+G4-EN8
+Report significant changes from previous reporting periods in the Scope and Aspect Boundaries.
+P48、51
+G4-EN9
+Water sources significantly affected by withdrawal of water
+－
+G4-EN10
+Percentage and total volume of water recycled and reused
+－
+Biodiversity
+G4-EN11
+Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high 
+biodiversity value outside protected areas
+－
+G4-EN12
+Description of signifi cant impacts of activities, products, and services on biodiversity in 
+protected areas and areas of high biodiversity value outside protected areas
+－
+G4-EN13
+Habitats protected or restored
+－
+
+Sustainability Report 2015
+NTT DATA

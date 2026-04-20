@@ -1,0 +1,23 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Overview of the NTT DATA Group’s Environmental Impact (Material Flows) 
+ 
+We believe that the steady and continuous achievement of our environmental impact reduction targets is a fundamental responsibility of our environmental activities. To minimize the environmental 
+impact of its business activities, the NTT DATA Group monitors and analyzes the types and amounts of resources and energy consumed by various processes and their environmental impacts. 
+The environmental impact of the Group’s business activities derives primarily from greenhouse gas emissions resulting from the consumption of energy, mainly as electric power. Other factors, 
+such as the use of paper and water resources and the construction of data centers, also have environment impacts of various magnitudes. In addition, we cannot ignore the environmental impact 
+of energy consumption resulting from the operation of systems and services provided by the Group at client companies. For these reasons, the Group strives to correctly ascertain and analyze the 
+environmental impact of its business activities and utilize its findings to make various improvements. 
+ 
+Data aggregation range 
+Fiscal 2017: NTT DATA and 69 Group companies (Japan only) 
+Fiscal 2018: NTT DATA and 69 Group companies (Japan only) 
+Fiscal 2019: NTT DATA and 72 Group companies (Japan only) 
+Fiscal 2020: NTT DATA and 79 Group companies (domestic and some overseas) 
+ 
+1. “Water consumption” until fiscal 2017 
+2. Indicates CO2 equivalent 
+3. Thermal recycling has been taken into consideration for the calculation of data since fiscal 2015. 
+4. Figures for fiscal 2017 and 2018 increased due to the construction of a new building 
+5. Increase due to expansion of overseas business scope

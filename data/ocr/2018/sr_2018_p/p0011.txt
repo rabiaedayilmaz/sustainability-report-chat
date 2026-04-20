@@ -1,0 +1,139 @@
+NTT DATA Sustainability Report 2018
+AI
+ An Example of Comprehensive Integration
+What Is It?
+Artificial intelligence (AI) is one of the technologies currently attracting a great deal of attention. In 
+specific fields, AI is already realizing remarkable capabilities that are far superior to those of humans. 
+For example, in the medical field AI has been developed that advises doctors on appropriate 
+medical treatment methods. In the financial segment, meanwhile, ultra-high-speed, ultra-highfrequency algorithmic trading accounts for more than half of all market transactions.
+The NTT DATA Group’s AI
+NTT DATA offers AI systems in three priority 
+areas: customer touchpoints, operational process advancement, and advanced composite 
+analysis (social infrastructure field).
+ In the customer touchpoints area, we enhance 
+the accuracy of customer services and customer 
+satisfaction levels.
+ As for the operational process advancement 
+area, we enable customers to reduce costs rigorously, and create added value for customers that 
+differentiates them from competitors. We achieve this through the use of AI to automate information 
+collection as well as to increase efficiency and assessment uniformity in specialized processes. 
+Moreover, we combine RPA and AI to automate office work.
+ In the area of advanced composite analysis (social infrastructure field), we provide total integration 
+that incorporates AI and IoT. We realize prediction, predictor detection, automation, and other 
+advanced processing by enabling real-time analysis and control through the synchronization of 
+on-site computers (leading-edge computers) and cloud computing.
+Main Initiatives
+• Verification of the feasibility of realizing an “AI reporter,” which automatically drafts news articles
+• Smart intensive care units that detect deterioration predictors in critically ill patients
+• Use of simulations to forecast and help alleviate traffic congestion
+Related Websites
+Services Section of NTT DATA’s Website
+ http://www.nttdata.com/jp/ja/services/sp/ai/index.html
+(In Japanese only)
+Professional service for AI utilization
+ http://nttdata-aistudio.com/aistudio/
+(In Japanese only)
+IoT, connected cars, digital marketing, and life sciences
+AI Platform
+Edge
+Cloud
+Main fields with application potential
+Breakthrough Technology
+Implement Co-Innovative Efforts Globally with Multiple Client and Partner Companies
+Continue Efforts toward New Value Creation
+Ongoing Efforts to Increase Business Agility through Proactive Deployment of
+NTT DATA Integrated Development Cloud in Japan and Overseas and to Reduce Costs
+Leveraging 
+Cutting-Edge 
+Technologies
+Production 
+Technology 
+Innovation
+AI
+Blockchain
+ Status of Efforts and Achievements
+Expanding Applications in Development 
+Environments in Japan and Overseas 
+• Promoting and accelerating efforts aimed at expanding applications in development environments in Japan and overseas
+• Start applying in China offshore development environments and 
+European Group company development environments
+Rolling Out to Client Commercial Environments
+• Launching services as an SoE platform for OpenCanvas cloud 
+service for financial institutions, among others
+• Launching the provision for commercial use in Europe
+Production Technology Innovation
+Leveraging Cutting-Edge Technologies
+NTT DATA Development Technologies for Digital
+Changes in Digital Society
+Automation & 
+Agile
+Cloud 
+Native
+Cyber Physical 
+System
+Legacy System 
+Modernization
+Power of 
+Individual
+Cloud First
+Data 
+Big Bang
+Open 
+Legacy
+Vision
+Industry Insight and 
+Free Imagination
+Co-Innovate
+Clients
+Open Partner Ecosystem
+Academia
+Realize Business Agility
+Alliance Partners
+Applied R&D
+Start-ups
+Foresight
+Identify and Apply 
+Advanced 
+Technologies
+Innovate technologies to provide systems and services that are the core of clients’ 
+competitiveness with agility and flexibility
+Leverage global cutting-edge technologies for co-innovation of unprecedented paradigm and business with clients
+In order to promptly and flexibly provide the services and solutions that are crucial to the 
+competitiveness of our customers, who are facing tough changes in the business environments 
+in which they operate, we will push ahead with further innovation in production technology, 
+combining the production technologies that we have developed to date with new production 
+technologies that respond to the needs of the digital society.
+ In addition, NTT DATA will strengthen our technological capabilities in the digital field to respond 
+to our clients’ growing needs for a strategic use of IT, by placing the right resources for research 
+and development—including our expertise, personnel, and bases—in the right place globally. We 
+will also continue to adopt cutting-edge technologies by closely cooperating with other companies 
+that have advanced technological capabilities. Through these initiatives, NTT DATA is determined 
+to create new paradigms and value that did not exist before, by enabling the application of the 
+cutting-edge technologies to business operations through co-innovation with our clients.
+Built-in AI
+Common 
+infrastructure
+Industry template
+Machine learning 
+framework
+
+経営者からの
+メッセージ
+CONTENTS
+Sustainability in the 
+NTT DATA Group
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Company 
+Data

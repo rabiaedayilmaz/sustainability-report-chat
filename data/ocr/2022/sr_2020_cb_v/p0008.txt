@@ -1,0 +1,114 @@
+Providing a one-stop approval platform;
+Contributing to the digitization of 
+small and medium-sized companies
+In the settlement operation in Japan, there has been a delay in digitization and a lot of analog work has occurred. 
+To solve this problem, NTT DATA has built, maintained, and operated systems utilizing our technical capabilities and 
+partnerships, and jointly developed a new service of Resona Bank.
+33.5%
+EC ratio including EDI (Electronic Data Interchange) 
+in business-to-business electronic commerce
+Source: “Market Survey on Electronic Commerce in 2020” (METI)
+In Japan’s settlement operations, there are many analog 
+operations and ineﬃcient operations due to delays in the 
+introduction of electronic systems. Aiming to solve the 
+social problem of improving the eﬃciency of settlement 
+operations by business operators, the Group launched 
+the “Resona Payment one stop service," a new payment 
+service for corporate and sole proprietors. 
+This service was jointly developed through Resona 
+Bank using its own customer base to understand 
+customers’ issues and needs and us using our technical 
+capabilities and partnerships to build, maintain, and 
+operate the systems. This service will streamline the 
+payment of paper, fax, and other invoices.
+With this service, by using AI-based OCR (Optical 
+Character Recognition/Reader) technology to read 
+invoice information, and automatically creating 
+information, you can make transfers seamlessly linked to 
+Resona Bank’s Internet banking “Resona Business Direct.” 
+When payment is completed, the invoice data is 
+automatically stored and easily retrieved at any time.
+Since February 2023, we have also been oﬀering credit 
+card payments as a means of payment. This enables us to 
+improve our short-term cash ﬂow by delaying actual cash 
+outﬂows by approximately one to one and a half months.
+By doing everything from uploading invoices to 
+creating transfer data, actual transfer operations, and 
+electronic storage, we are contributing to the digitization 
+of business processes for small and medium-sized 
+companies. We are also complying with the “Revised Law 
+for the Preservation of Electronic Books” and will comply 
+with the planned spread of electronic invoices through 
+the invoice system and the obligation to keep electronic 
+books. In addition, we will continue to examine various 
+issues, such as the diversiﬁcation of settlement methods 
+for electronically recorded monetary claims (abbreviated 
+as “densai”), toward the abolition of promissory notes 
+in 2026. We will contribute to the improvement of 
+productivity through the realization of eﬃcient 
+inter-company settlement.
+Small radio-controlled unmanned aircraft and drones are 
+expected to ﬁnd increased use as practical tools for solving 
+labor shortages, surveying infrastructure facilities, and 
+providing rescue operations in times of disaster. In addition, 
+BVLOS* drone ﬂights are permitted even over urban and 
+other inhabited areas following the enactment of the revised 
+Civil Aeronautics Act in December 2022. While this is 
+expected to spark growth in services utilizing drones, such 
+as urban-area cargo transport and wide-area security 
+patrol, it also highlights the need to establish and manage 
+operational routes and ensure the safety of aircraft.
+ 
+In March 2020, NTT DATA established Grid Skyway 
+Limited Liability Partnership in collaboration with TEPCO 
+Power Grid Co., Ltd., and Hitachi, Ltd. The aim of the new 
+entity is to build a common national air infrastructure “route 
+platform” that can be used safely and easily to advance 
+equipment inspections by drones and create new 
+businesses. It has been conducting ﬁeld tests in various 
+locations with a focus on airspace above electric power 
+facilities, which is considered promising for drones to safely 
+ﬂy over. For example, it performed Japan’s ﬁrst ﬂight 
+veriﬁcation involving airspace more than 150 meters above 
+the ground and demonstrated the applicability of drones to 
+patrol inspections of power lines. Replacing humans with 
+drones to conduct facility inspections and surveys is 
+expected to result in safer inspections and improved 
+operational eﬃciency.
+ 
+Going forward, we will reach out to various businesses 
+in the logistics, agriculture, forestry, and ﬁsheries industries 
+that are considering the use of drones, with a view to 
+conducting ﬁeld tests tailored to the needs of each sector.
+*BVLOS (beyond visual line of sight) ﬂight: A ﬂight in which the pilot does not 
+see the aircraft directly but operates it by remote control while watching a 
+monitor.
+Substation
+Drone Station
+Meteorological Grasp
+Sensor Data
+Wind Speed
+Location
+Route platform for drones
+Propelling an industrial revolution in the 
+skies through the expanded use of drones, 
+solving labor shortages and even 
+operating as disaster countermeasures 
+NTT DATA has drone operation management technology that will be used to build new infrastructure in the skies and 
+create services that address social issues related to labor shortages, disaster management, and the like.
+68.6 million (down 80,000 year on year)
+Japan’s labor force (2021 average)
+Source: “Labor Force Survey (Basic Tabulation),” Statistics Bureau, Ministry of Internal Aﬀairs and Communications
+Economy | Clients’ Growth
+Economy | Clients’ Growth
+Future of
+Work
+Smart X
+Co-innovation
+Smart X
+Co-innovation
+Case: Grid Sky Way
+Case: Resona Payment one stop service
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

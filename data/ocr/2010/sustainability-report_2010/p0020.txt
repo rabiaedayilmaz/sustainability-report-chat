@@ -1,0 +1,35 @@
+CLOSE UP
+NTT DATA and Its Stakeholders
+Promoting accessibility validations as a step toward 
+construction of a website that is easy to use for all
+Good Design Award 2009 for the HAREL 2.0 website 
+accessibility check site
+HAREL, an accessibility check site maintained by NTT DATA, ranks websites for 
+accessibility conformance. This service went online free of charge in August 2008. 
+Simply by inputting the website address, HAREL runs checks on source codes from 
+some 170 perspectives, which facilitates a simple, high-accuracy accessibility 
+assessment. This tool had been utilized for approximately 180,000 checks as of March 
+31, 2009.
+In October 2009, HAREL 2.0 gained the Japan Industrial Design Promotion 
+Organization’s Good Design Award 2009. We hope to make a wide range of users more 
+familiar with the methodology of accessibility through the widespread adoption of HAREL.
+Conducting website accessibility validation checks in cooperation 
+with special subsidiary NTT DATA DAICHI CORPORATION
+NTT DATA conducts accessibility validations of web pages and makes proposals to 
+resolve accessibility issues.
+During ﬁ scal 2010, we transferred this aspect of our validation business to NTT 
+DATA DAICHI CORPORATION, a subsidiary that promotes employment of people with 
+disabilities, enabling us to oﬀ er validation services from a more user-centered 
+perspective. Following ﬁ ve accessibility validation trials carried out targeting 
+development projects by NTT DATA and other Group companies, NTT DATA DAICHI 
+commenced full accessibility validation services in June 2010. 
+We aim to expand the user base for this service, both inside the NTT DATA Group 
+and for external customers. We plan to remain compatible with JIS X 8341-3:2010, 
+which was revised in August 2010. 
+HAREL 2.0 validation screen
+NTT DATA DAICHI website validation business 
+team members
+With Our Customers
+We are improving system quality and providing services that seek to enhance operability from a 
+user perspective to realize social infrastructure that provides peace of mind.
+NTT DATA CSR Report 2010

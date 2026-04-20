@@ -1,0 +1,118 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Disclosure 
+Recommendations 
+ 
+Governance 
+ 
+Disclose the 
+organisation’s 
+governance around 
+nature-related 
+dependencies, 
+impacts, risks, and 
+opportunities 
+A. Describe the board’s oversight of naturerelated dependencies, impacts, risks, and 
+opportunities. 
+We discuss and oversee the sustainability-related 
+business strategy and the achievement status of Key 
+Performance Indicators (KPIs) set throughout the entire 
+company in the Board of Directors’ meetings. 
+B. Describe management’s role 
+in assessing and managing nature-related 
+dependencies, impacts, risks, and opportunities. 
+The Representative Director and Senior Executive Vice 
+President serves as the Chairman of the Eco Activity 
+Promotion Committee in the environmental management 
+system, taking on a leadership role within the senior 
+management team. The Representative Director and 
+Senior Executive Vice President also acts as the 
+Chairman of the Green Action Committee, overseeing 
+initiatives related to nature and biodiversity through the 
+cross-organisational Nature Conservation Task Force, and 
+is the Task Force leader. 
+Strategy 
+ 
+Describe 
+management’s 
+role in assessing 
+and managing 
+nature-related 
+dependencies, 
+impacts, risks, and 
+opportunities. 
+A. Describe the nature-related dependencies, 
+impacts, risks, and opportunities the organisation 
+has identified over the short, medium, and long 
+term. 
+Regarding nature-related dependencies, NTT DATA uses 
+water for purposes such as air-conditioning management 
+in data centers and providing sanitation services in offices. 
+In regions facing water stress, there is a risk of being 
+unable to use water for these purposes during periods of 
+severe drought or other abnormal weather events 
+associated with climate change. 
+ In terms of nature-related impacts, NTT DATA generates 
+domestic wastewater from office activities, but we do not 
+discharge industrial effluent. We do, however, own fuel 
+storage facilities for the backup generators in our data 
+centers. In the event of a fuel spillage incident, there is a 
+risk of water and soil pollution. 
+ Regarding nature-related opportunities, in addition to 
+contributing to nature and biodiversity by appropriately 
+addressing potential risks, there is an opportunity 
+to offer consulting services due to the acceleration 
+of efforts in nature and biodiversity conservation. This 
+could lead to increased demand for consulting services 
+in this field. We will provide some examples of these 
+opportunities beyond the scope of the disclosure 
+recommendations. 
+ Of the above, regarding nature-related dependencies, 
+we did not have data centers located in water-stressed 
+regions. However, we have confirmed that one of our 
+office locations in Bangalore, India, is situated in a waterstressed area. 
+ Nature-related dependencies, impacts, potential risks, and opportunities 
+ 
+ 
+Risks 
+Opportunities 
+Dependencies 
+Utilization of water 
+for data center 
+cooling 
+management 
+Disruption of water-cooled 
+air-conditioning systems due 
+to water scarcity 
+Water conservation through 
+proper temperature 
+management in data center airconditioning systems 
+Utilization of water 
+for hygiene services 
+in the office 
+Challenges in providing 
+office hygiene services to 
+employees 
+Encouraging water-saving 
+behaviors and establishing 
+business continuity plans (BCPs) 
+for drought conditions 
+Impacts 
+Fuel storage 
+facilities for 
+operating backup 
+generators in data 
+centers 
+Water and soil 
+contamination 
+due to oil spills 
+Proper management of oil storage 
+facilities 
+ー 
+ー 
+ー 
+Increased opportunities to offer 
+services and consulting due to the 
+acceleration of efforts in nature 
+and biodiversity conservation

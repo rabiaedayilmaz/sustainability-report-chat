@@ -1,0 +1,83 @@
+■ Environmental Accounting Conservation Cost
+Ministry of the Environment’s
+Environmental Accounting
+Guideline Categories
+Major Initiatives
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Investment
+Expenses
+Investment
+Expenses
+Investment
+Expenses
+Business area costs
+
+Pollution prevention costs
+Asbestos countermeasures, PCB management, etc.
+
+Global environment 
+conservation costs
+Implementation of energy conservation measures; measures to reduce CO2 
+emissions through the introduction of outdoor-air cooling devices; elimination of 
+specified chlorofluorocarbons in air-conditioning equipment, etc.
+
+Resource recycling costs
+Inter-office waste disposal, construction waste countermeasures, office paper 
+curtailment countermeasures, etc.
+
+Upstream/downstream costs
+Compliance with the Act on the Promotion of Sorted Collection and Recycling of 
+Containers and Packaging
+
+Labor costs related to environmental protection activities, ISO certification 
+acquisition, building greening, environmental PR, etc.
+
+R&D costs
+Environment-related R&D
+
+Citizen activity costs
+Environmental contribution to regional communities
+
+Total
+
+Addressing Climate Change
+(Scope of data: all organizations of NTT DATA and 75 Group companies (Japan only))
+ Environmental Accounting
+〈 Aiming to Conduct Efficient and Effective Environmental Preservation Activities 〉
+In fiscal 2016, Group environmental cost comprised ¥6 million in investments and ¥449 million in expenses. Improved recycling 
+rates led to a decrease in costs for inter-office waste disposal under “Resource recycling costs,” thereby reducing costs 
+associated with business domains.
+The rising concentration of greenhouse gases and other factors are impacting the climate in ways that have led to the 
+increased severity and frequency of natural disasters such as typhoons and floods while also significantly impacting everyday 
+life across society and industry.
+In December 2015, the Paris Agreement, which serves as a new international framework for global warming 
+countermeasures beyond 2020, was adopted by the United Nations. Addressing climate change was also included in the 
+United Nations Sustainable Development Goals adopted in September of the same year. As illustrated by these developments, 
+response to climate change in terms of mitigation and adaptation has gained even greater significance as a common global 
+concern. The NTT DATA Group is pursuing strategic initiatives through its business with the intention of offering a more 
+effective response to climate change.
+ Climate Change Strategy
+Strategy for Addressing Climate Change
+〈 Company Level 〉
+〈 Asset Level 〉
+The Environmental Management Promotion Office analyzes the financial impact of regulatory trends (including carbon taxes, 
+fixed price purchase schemes for renewable energy, and cap-and-trade systems) as well as trends in environmental load 
+indicators (energy consumption/greenhouse gas emissions, paper resource usage, waste material volumes, and water usage). 
+Using their analysis, the office reports to the Corporate Management Committee on risks and opportunities it deems significant 
+and measures for addressing them.
+The Facility Management Division, which has expertise in building design, compiles information on environmental load indicators 
+for each data center and office (including energy consumption/greenhouse gas emissions, paper resource usage, waste 
+material volumes, and water usage), the status of energy conservation measures, and regulatory trends at the local government 
+(Millions of yen)
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

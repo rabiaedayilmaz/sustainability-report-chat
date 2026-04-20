@@ -1,0 +1,42 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Commencement of R&D on Data Integration Technologies for Smooth and Secure Data Exchange 
+In January 2023, NTT DATA submitted a proposal to the New Energy and Industrial Technology Development Organization 
+(NEDO) as part of its research-and-development project focused on post-5G information and communication systems and their 
+enhanced infrastructures. The proposal specifically pertained to the development of technology for the secure distribution of 
+highly sensitive data, and it was subsequently selected, designating NTT DATA as the implementing entity for this project. 
+The project aims to develop the technology required for post-5G information and communication systems, which are 
+expected to include features such as ultra-low latency and multiple simultaneous connections. Specifically, we will undertake 
+research-and-development efforts aimed at creating technologies for secure, confidential, and portable execution of data and 
+algorithms. These technologies are essential to enable safe and secure data distribution while allowing data owners to manage 
+their data appropriately. 
+Through this project, we aim to leverage our advanced technologies to enable numerous stakeholders to securely share 
+data with confidence, realizing a world where new value can be created through the effective utilization of data. 
+ 
+https://www.nttdata.com/global/ja/news/information/2023/021700/ (Japanese only) 
+ 
+Collaborative Study Aimed at Streamlining Urban Road Traffic 
+Traffic congestion not only causes significant economic losses but also contributes to increased CO2 emissions due to inefficient 
+energy usage. NTT DATA, in collaboration with Hanshin Expressway and NTT Group companies (NTT, NTT DOCOMO, NTT 
+West), is jointly conducting a study to implement innovative traffic management solutions by harnessing the digital technologies 
+of each company. 
+This collaborative study aims to systematically assess the essential technological components, operational approaches, 
+and information required to alleviate traffic congestion caused by large-scale construction projects, major events, and daily urban 
+traffic. Through thorough effectiveness verification, our objective is to contribute to the optimization of urban road traffic 
+management. Furthermore, we are exploring the possibility of conducting pilot trials at events such as the Expo 2025 Osaka, 
+Kansai. 
+ 
+1. Streamlining urban road traffic through the implementation of digital twins for people and transportation 
+Using digital twin computing, we replicate the actual traffic conditions in a virtual world based on real-world observations and 
+data from a large-scale membership database. This allows us to predict future traffic conditions. Through various simulations 
+in this virtual world, we derive strategies suitable for streamlining urban road traffic, with a focus on city highways. 
+ 
+2. Providing mobility support services to address diverse travel needs 
+Leveraging a vast membership base and utilizing statistical methods, we comprehensively understand the specific 
+circumstances of individual travel plans (Time, Place, and Objective [TPO]). Accordingly, we offer personalized mobility 
+support tailored to individual characteristics, in response to predictions of urban traffic conditions. 
+ 
+ Direction and Aim 
+ 
+https://www.nttdata.com/global/ja/news/release/2023/042102/ (Japanese only)

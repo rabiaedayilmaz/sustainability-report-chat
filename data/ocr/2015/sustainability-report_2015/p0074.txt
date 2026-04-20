@@ -1,0 +1,94 @@
+Target
+Content and Format
+Participation
+All employees
+Personal Information Protection IBT (e-learning)
+All employees, 100%
+Information security policy assessments (e-learning)
+All officers and employees, 100%
+By position
+Information security lectures (classroom instruction)
+Incorporated in position-based training 
+conducted by the Human Resource Department
+Specific projects, etc.
+Workshop on proactive basic security activities (arranged by section request)
+24 employees, 1 session
+By work group
+Case studies on actual near misses as a part of “Information Security ABCD 
+Campaign”
+Held at each section
+Business partners and 
+temporary staff
+Personal Information Protection Introduction Training/Information security 
+education (e-learning)
+All parties registered on our company system, 
+100% (24,447 persons)
+Information Security Training Handbook
+Booklets distributed to new business partners 
+and temporary staff
+Target
+Implementation Format
+Participation
+Group company employees, 
+business partners, and 
+temporary staff
+GSP security training (e-learning)
+122 companies 37,949 employees
+Personal information protection training (e-learning)
+65 companies 23,962 employees
+Information security team member
+GSP internal auditor training (studying offline at their desks)
+89 companies 399 employees
+Customers
+ Disaster 
+ Countermeasures 
+ Headquarters
+システム
+担当
+システム
+担当
+システム
+担当
+システム
+担当
+各分野等
+グループ会社
+Systems 
+manager
+Systems 
+manager
+Systems 
+manager
+Head office
+Damage reporting / business continuity decisions
+Individual system operation / restoration services
+Each section
+Group companies
+Systems 
+manager
+Information Security Education and Training
+The NTT DATA Group provides information security education for employees, business partners, and temporary workers. We have 
+delivered this education and training via e-learning and classroom instruction to promote understanding of the Group’s policy on 
+the protection of personal information, the rules contained in the Group Security Policy, and the need to be constantly aware of the 
+importance of information security in one’s work.
+We will continue implementing a broad range of measures with the primary aim of ensuring that every employee is aware of the 
+basic actions required to maintain information security.
+● Education and Training for Employees and Partner Companies
+■ Information Security Training Offered in Fiscal 2015
+■ Support for Training Activities of Key Group Companies in Fiscal 2015
+■ Structure for Responding to Earthquakes and Other Large-scale Natural Disasters
+The NTT DATA Group provides many information systems and services that support social infrastructure. As a result, a system 
+shutdown or interruption of services in the event of a disaster would have an enormous impact on society and people’s lives. 
+Therefore, we strive to constantly improve disaster business continuity plans as well as contingency plans for systems and services 
+related to social infrastructure. Since the Great East Japan Earthquake in particular, we are seeking opportunities where we can 
+apply the lessons we learned from this difficult experience.
+Disaster and System Failure Countermeasures
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

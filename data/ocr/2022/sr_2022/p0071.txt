@@ -1,0 +1,65 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+3. Information security risk 
+ 
+ 
+ 
+Risk content and 
+potential impact 
+As part of its business operations, the Group handles personal information and confidential 
+information, which could be vulnerable to information security incidents stemming from cyberattacks 
+and the like. Both in Japan and overseas, recently there has been a surge in targeted e-mail and 
+phishing attacks including ransomware related to COVID-19, as well as cyberattacks that target 
+vulnerabilities in the rapidly growing number of teleworking arrangements and online meetings. 
+Especially, there has been a surge in highly targeted cyberattacks of customer companies, with the 
+aim of attacking companies, government agencies, and other organizations that support important 
+social infrastructure. As a company that provides social infrastructure on its own, as well as a 
+business partner, we regard the risk of cyberattacks as a material risk and recognize that they could 
+materialize at any time. Materialization of such risk might damage the Group’s social credibility and 
+brand image and incur compensation claims for losses incurred, as well as legal penalties and the 
+like, which could significantly affect the Group’s business results and financial position. 
+Countermeasures 
+To minimize this risk, we have established information security policies and personal information 
+protection policies under the Information Security Committee. Related measures are subject to 
+ongoing reviews and improvements from both technological and management perspectives, 
+according to advances in information technology and changes in social conditions, and trends in 
+external threats. 
+In preparation, we have introduced various solutions to detect, prevent, respond, and recover 
+from cyberattacks. We also conduct 24-hour monitoring operations and established our own 
+computer security incident response team (CSIRT), called NTTDATA-CERT, and conduct initial 
+response training and other activities. 
+4. Compliance risk 
+ 
+Risk content and 
+potential impact 
+The Group is developing its corporate activities on a global scale, and the expansion of its overseas 
+operations has made it necessary to comply with both domestic and overseas laws and regulations. 
+Some of the laws and regulations apply not only to corporate activities within a specific country but 
+also to activities outside that country’s borders. These include the GDPR1 in the European Union 
+and the FCPA2 in the United States. The Group is required to comply with these laws and 
+regulations. Violations of these laws and regulations could incur significant fines and costs related 
+to dealing with the authorities. Other regulations also apply to the Group’s operations, including 
+accounting standards, tax laws, and transaction-related laws. In the event of a violation of laws and 
+regulations, such as improper accounting practices or fraud or embezzlement in the supply chain, 
+the Group might be required to pay a surcharge, as well as damages caused by such fraud. 
+ In addition to expense outlays and other economic losses, such violations might also cause major 
+damage to the Group’s social credibility and brand image, which could significantly affect its 
+business performance and financial position. For this reason, we deem compliance risk to be a 
+material risk. With approximately 150,000 employees and business operations in 52 countries and 
+regions (as of March 31, 2022), we cannot completely deny the possibility of this risk materializing. 
+Countermeasures 
+To prevent legal violations and other risks from materializing, the Group has established the NTT 
+DATA Group Code of Conduct as a basic standard for daily business activities and has built an 
+internal control system to ensure legality and the appropriateness of financial reporting. In addition, 
+we are working to further improve corporate ethics and strengthen compliance with laws and 
+regulations throughout the Group by implementing educational and awareness-raising activities for 
+directors and employees, establishing and operating an internal reporting system that can be used 
+by all Group employees, and other initiatives. 
+In Japan, meanwhile, we established and operate the Bribery and Corruption Prevention 
+Regulations, which prohibit providing entertainment and gifts to public officials and providing 
+inappropriate entertainment and gifts in general and call for disciplinary action in the event of 
+violation. 
+1. GDPR: General Data Protection Regulation. This applies when handling personal information in the European Union. 
+2. FCPA: Foreign Corrupt Practices Act. This a U.S. law aimed at preventing bribery.

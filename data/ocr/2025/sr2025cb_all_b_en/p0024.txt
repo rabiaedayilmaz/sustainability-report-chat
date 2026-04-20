@@ -1,0 +1,115 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Press Release:
+Initiative Utilizing Generative AI to Pass on 
+Tacit Knowledge from Skilled Workers in Japan 
+Launched (in Japanese only)
+Passing on craftsmanship into the future: Sharing knowledge and enhancing productivity 
+on the frontlines of consumer goods development
+Impact
+Manuals
+・・・
+Research data
+Formal knowledge
+Tacit knowledge
+Knowledge 
+inheritance 
+AI system
+・・・
+・・・
+Techniques
+Skills / Experience
+New staff
+Veteran technicians
+Extraction and 
+documentation of 
+tacit knowledge*
+Production technology 
+domain
+Initiative scope
+* Based on NTT’s 
+proprietary “MEISTER” 
+technology extraction and 
+content creation 
+methodology, this initiative 
+utilizes an NTT 
+TechnoCross consulting 
+service that extracts tacit 
+knowledge and formalizes 
+it as explicit knowledge.
+Business need
+Solution
+•
+While Japan’s working population has seen a temporary increase due to the participation of women and older workers in the labor market, a decrease in the number of young workers due to the declining birthrate and a
+fall in the average hours that each employee works annually are expected to lead to labor shortages.
+•
+Further enhancements to worker productivity are essential to address these labor shortages. Boosting efficiency by effectively passing on the knowledge and skills of experienced personnel is particularly crucial.
+At
+work
+sites,
+experienced
+technicians
+leaving
+their
+professions, are making it difficult to pass on their knowledge.
+Securing talent to inherit these skills is also increasingly
+challenging. There is an urgent need for efficient systems to
+pass on skilled professionals’ abundant practical knowledge.
+Such workers had typically conveyed insight and skills built up
+over years through manuals, written instructions and on-the-job
+training.
+However,
+tacit
+knowledge—the
+experience
+and
+intuition of experts—presented a challenge, because it is
+difficult to convey through manuals and must be built up
+through experience over time. The speed and efficiency with
+which knowledge can be passed on to subsequent generations
+was therefore a major issue to address.
+NTT Group has extensive experience capturing and systematizing
+the expertise and intuition of skilled workers. Lion Corporation utilized
+NTT TechnoCross Corporation’s consulting service in its powder
+laundry detergent development processes. Skills, knowledge and
+knowhow were identified through interviews and workshops with
+skilled workers, then put into a key point matrix and combined with a
+knowledge inheritance AI system, establishing a structure for the
+smooth passing on of knowhow. This initiative enables the extraction
+and organization of knowledge based solely on the experience and
+intuition of skilled workers, which was difficult to put into words. Tacit
+knowledge that once took weeks to document can now be handled in
+days. These strengths will support the training of young employees
+and overseas expansion, contributing to the resolution of social issues
+such as labor shortages and the need to pass on manufacturing skills.
+NTT DATA will use constantly-evolving generative AI to bolster the
+knowledge utilization knowhow it has built up through its global
+operations
+and
+work
+in
+wide-ranging
+industries,
+and
+promote
+implementation in business operations with the aim of supporting
+further advancements in the passing on of tacit knowledge.
+•
+Reduction in time required for new labor market participants 
+to learn skills
+•
+Enhanced productivity through early development into 
+productive workers
+Conceptual diagram showing passing on of tacit knowledge using generative AI
+Reduction of time needed to document tacit knowledge from 
+weeks to days
+Passing on Tacit Knowledge with Generative AI
+Japan
+NTT DATA Japan Corporation
+Second Industry Business Sector
+CPG Division
+NTT DATA GROUP

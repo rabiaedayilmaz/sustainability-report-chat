@@ -1,0 +1,128 @@
+Information Security Strategies
+ Key Strategies in Fiscal 2016
+Practicing and maintaining an appropriate balance between ensuring safety of information and actively 
+utilizing and sharing information, both of which are objectives of the Group Security Policy, is essential 
+if the NTT DATA Group is to continue to be a partner to customers that aids in their evolution. In fiscal 
+2016, we planned and implemented the three key measures of enhancement and strengthening of 
+security management, implementation of cyber security measures, and training of security personnel.
+ Measures to Ensure Security of Commercial Systems
+Recently, there have been multiple incidents of illegal access to information through breaches (vulnerabilities) of information systems, resulting in personal and confidential information leaks, business 
+disruption, and other harmful outcomes. Because most illegal accesses make use of known attacks, 
+against which countermeasures are available, we should apply preventative measures across our 
+systems without leaving any vulnerability.
+ 
+The NTT DATA Group shares the latest trends in security technology and vulnerability information 
+within the Group in a timely manner. In having built the system that is now in operation, the Group 
+incorporated processes to maintain the necessary level of security and has established mechanisms 
+to enable the system to maintain that level of security. The system in place is also subjected to regular 
+security diagnostic testing carried out by security experts. To be able to provide safe and secure 
+systems and services on an ongoing basis, NTT DATA has worked on, for example, appropriate 
+responses to newly discovered vulnerabilities.
+ Ensuring Safe and Secure Environments with Total Security Management
+The NTT DATA Group harnesses the expertise it has gathered from its ample experience and track 
+record to provide optimal solutions, including security governance designs that reflect changes in the 
+clients’ business structure, superior security technology required for systems where safe operation is of 
+paramount importance, and the latest security methods for safely constructing IoT environments. It has 
+recently become important to prepare against contingencies on the assumption that protective security 
+measures may be bypassed altogether by sophisticated targeted attacks or information leaks caused 
+by internal improprieties. To contain and localize the damage, we must provide reliable detection of an 
+attack and swift response and recovery. We help to reinforce the security measures of our clients by 
+offering security consulting to identify the risks and providing solutions and services for neutralizing and 
+protecting against risks. Furthermore, we provide enhanced support services for detection, response, 
+and recovery through services such as constructing systems compatible with IoT environments, including sandboxes*1, SIEM*2, SOC*3, and CSIRT, as well as monitoring system management.
+ 
+Furthermore, to reinforce information security on a global scale we operate a global security governance system centered on regional integrated companies that is similar to the system in place for 
+business management. NTT DATA reviews the information management conditions of each regional 
+integrated company on a quarterly basis to maintain an understanding of management circumstances and provide support for maintaining and enhancing the level of control.
+ 
+Since fiscal 2015, we have held workshops targeting Group companies in Japan and overseas 
+aimed at strengthening our initial response in the event of an incident.
+ Acquisition of Information Security Management Certification
+At NTT DATA Group companies, each unit that handles confidential information and personal information acquires ISO/IEC 27001 certification—the international standard for information security management systems (ISMS)—as an organization, as necessary. As of March 31, 2017, 44 Group companies, 
+including NTT DATA, have acquired this certification in Japan. Several overseas Group companies, for 
+example in Europe, China, and India, have also obtained ISO/IEC 27001 certification.
+ 
+In addition, 38 Group companies, including NTT DATA, have been granted the right to display the 
+Privacy Mark of the Japan Institute for Promotion of Digital Economy and Community (JIPDEC). As part 
+of its efforts in personal information protection, NTT DATA (CHINA) CO., LTD., obtained Personal Information Protection Assessment (PIPA) certification, equivalent to Japan’s Privacy Mark, in January 2012.
+ Information Security Management System
+ Information Security Governance
+Audits
+Members
+Reports
+Reports
+President and Chief Executive Officer
+Stakeholders
+Reporting
+Backups
+NTTDATA-CERT
+Monitoring Information 
+Security Office
+Management team: 
+CISO
+Auditing 
+Internal Audit 
+Department
+Steering Information 
+Security Committee
+Each sector (worksite, project)
+Chief Information Security Officer / Personal Information 
+Protection Manager (Supervisor)
+Internal 
+Audit 
+Department
+Information Security 
+Committee
+Information Security Steering 
+Organization / Personal Information 
+Protection Promotion Organization 
+(Information Security Office)
+NTTDATA-CERT
+Collaborating 
+Organizations
+■ Management Planning 
+and Administration Office
+■ Technological Innovation 
+Headquarters
+■ Information System 
+Department
+■ ESG Promotion, Legal, 
+and Intellectual Property 
+Departments
+■ Training Department
+• Business 
+Department
+• Staff 
+Department, 
+etc.
+• Information Security Promotion 
+Supervisor
+• Department Manager of 
+Business Personal Information 
+Protection
+Heads of 
+organizations
+• Information Security Promotion 
+Officer
+• Personal Information Protection 
+Staff
+Audits
+Assessment Information 
+Security Committee
+*1 Solution for detecting malware by running programs within a protected virtual environment
+*2 Security Information and Event Management
+*3 Security Operation Center: A center or system for conducting comprehensive monitoring of IDS/IPS, firewalls, DB firewalls, and Web application firewalls (WAF)
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+GRI Standards
+Governance

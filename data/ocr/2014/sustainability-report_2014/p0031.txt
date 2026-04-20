@@ -1,0 +1,199 @@
+Data Compilation
+CS and Quality Management Related Data
+Human Resources and Labor Related Data
+● Adhering to the belief that sustainable growth stems from a company’s client orientation, 
+NTT DATA conducts annual client satisfaction surveys and interviews.
+● In fiscal 2014, we held interviews with 57 companies (associations) and conducted surveys 
+covering 297 personnel at 148 companies (associations) (with a response rate of 96.7%).
+[Business Partner] A business partner that works hand-in-hand 
+with customers to help customers develop new businesses and 
+services from their conception to market release
+[Systems Vendor] A partner that takes steps to approach 
+customers in junction with other vendors when the necessary 
+systems and services have been clarified
+[No Response] No response or multiple selection replies (this 
+question calls for a single response)
+[IT Partner] An IT partner that brings new issues to the attention of 
+customers, working in unison to put forward systems solutions
+[Systems Integrator] A partner that is capable of providing timely 
+advice regarding the necessary systems- and service-based 
+solutions that are required to address new issues that come to the 
+attention of customers
+* Capability Maturity Model Integration (CMMI) is a model 
+created by the Software Engineering Institute of 
+Carnegie Mellon University that expresses the maturity 
+level of an organization undertaking systems 
+development. The model includes five levels of maturity.
+* Figures within the graph are percentages
+CMMI Level
+Number of organizations 
+to successfully achieve the 
+subject CMMI level
+Level 4
+(Standardized 
+processes for the 
+organization are 
+established and 
+improved)
+1 NTT DATA Group 
+member
+Level 5
+(Organizational 
+performance is being 
+improved on a 
+continuous basis via 
+process 
+improvements)
+1 NTT DATA Group 
+member, NTT DATA, 
+Inc. India
+Trends in Personnel Recruitment 
+(Number of employees)
+Fiscal 2011
+Fiscal 2012
+Fiscal 2013
+Fiscal 2014
+Nonconsolidated
+Nonconsolidated
+Group 
+companies in 
+Japan
+Nonconsolidated
+Group 
+companies in 
+Japan
+Nonconsolidated
+Group 
+companies in 
+Japan
+Number of employees
+10,139
+10,579
+22,082
+10,804
+21,745
+11,000
+21,779
+Male
+8,588
+8,882
+18,804
+8,985
+17,754
+9,086
+17,977
+Female
+1,551
+1,697
+3,278
+1,819
+3,991
+1,914
+3,802
+Number of females in managerial 
+positions [Ratio]
+67［3.5%］
+80［3.9%］
+154［5.0%］
+96［4.6%］
+217［5.4%］
+106[4.8%]
+189[5.0%]
+Trends in the Number of Employees Using the Company’s Childcare and Nursing Care Systems
+(Number of employees)
+Fiscal 2011
+Fiscal 2012
+Fiscal 2013
+Fiscal 2014
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Childcare leave
+147（241）
+7（13）
+181（303）
+6（11）
+203（332）
+5（12）
+233（366）
+11（17）
+Shorter working hours for childcare
+110（177）
+0（2）
+191（283）
+0（1）
+170（275）
+1（6）
+180（312）
+3（7）
+Nursing care leave
+2（3）
+0（4）
+3（5）
+3（9）
+1（3）
+1（5）
+4（7）
+2（5）
+Shorter working hours for nursing care
+0（0）
+1（1）
+0（0）
+1（4）
+0（0）
+1（5）
+0（0）
+0（3）
+* Figures in parentheses are the total number of employees of 17 Group companies that have introduced internal management systems.
+Fiscal 2012
+Fiscal 2013
+Fiscal 2014
+Fiscal 2015
+Number of newly recruited graduates*1 
+(Non-consolidated)
+
+Male
+
+Female
+
+Number of recruited employees with 
+disabilities*2 [Employment ratio] 
+(Non-consolidated)
+228［1.95%］
+241［2.02%］
+245［2.05%]
+254［2.10%］
+Number of retired employees using the 
+NTT DATA Reemployment System*1 
+[Utilization ratio]
+ 111［53.33%］
+120［57.14%］
+105［59.09%］
+130［74.14%］
+New recruitment
+
+Continued recruitment
+
+*1 Figures for the number of newly recruited graduates and the number of retired employees using the NTT DATA Reemployment System are as of April 1 for each fiscal year.
+*2 The number of employees with disabilities as of June 1 for each fiscal year.
+NTT DATA’s Relationship with Customers
+ Number of Organizations that Achieved 
+CMMI* Level 4 and Level 5 in fiscal 2014
+31%
+32%
+63%
+18%
+16%
+2%
+
+（%）
+NTT DATA CSR Report 2014 30
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

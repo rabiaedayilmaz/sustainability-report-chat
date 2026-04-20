@@ -1,0 +1,79 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+New Business Models for Supporting Power Grids with Electric Vehicles
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Bi-directional EV Charging
+Carbon
+Neutrality
+• With the expansion of renewables and electric vehicles (EVs), bi-directional charging has the potential to deliver environmental and economic benefits through Vehicle-to-Home (V2H),
+Vehicle-to-Business (V2B) and Vehicle-to-Grid (V2G) approaches, however, solutions addressing impacts on grid stability are required to support widespread deployment.
+EAM is a regional energy and electricity provider based
+in
+Hessen,
+Germany.
+The
+company
+assists
+cities,
+municipalities, energy cooperatives, and businesses in
+planning and executing projects focused on the utilization
+of renewable energy sources. In this project, EAM aimed
+to address technical barriers to the integration of bidirectional EV charging technologies in two clusters:
+residential and business. Expanded use of renewables
+and EVs impacts grid stability, and goals of the project
+include managing grid congestion and reducing peak
+loads, with the eventual aim of establishing practices for
+the use of electric vehicles to support the grid. This can
+reduce reliance on grid expansion, create new business
+models for energy providers to implement sustainable use
+of renewable energy, and reduce net energy costs for
+consumers.
+Business need
+Solution
+NTT DATA provides solutions including V2G/V2B/V2H
+technology
+implementations,
+bi-directional
+charging
+platform
+integrations,
+renewable
+energy
+integration
+solutions and advanced data analytics. These solutions can
+address
+grid
+stability
+challenges
+by
+stabilizing
+grid
+frequencies and voltages, flattening energy peaks and
+improving overall grid efficiency.
+In the project with EAM, testing of separate cars has
+produced positive results. Next steps include further grid
+stabilization testing and connected testing of bi-directional
+charging boxes in different residential clusters and using
+different
+car
+models.
+Demonstrating
+the
+feasibility
+of
+supporting energy grids with EVs paves the way for new
+business models supported by NTT DATA’s smart energy
+solutions. Potential applications include using dynamic
+tariffs to reduce the burden on energy systems and
+enabling car owners to generate income by feeding energy
+into the grid.
+EUR 22.2 billion per year
+Estimated potential energy cost savings in EU with
+widespread V2G adoption by 2040
+Impact

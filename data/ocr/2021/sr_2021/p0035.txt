@@ -1,0 +1,66 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+5. System operation risk 
+ 
+Some of the systems and services we provide function as key social infrastructure. If a failure occurs during operation and a 
+system or service is stopped, there could be a major impact on our clients’ business and the lives of general users. 
+Potential impact 
+Certain events, such as loss of our clients’ data, could have an even greater impact. In some cases, the 
+Group might be required to pay compensation for damages, which could have a significant effect on its 
+business results and financial position. For this reason, we deem system operation risk to be a material 
+risk. In addition, delays in the deployment of systems and services could lead to a decline in the Group’s 
+social credibility and brand image. 
+While such a risk is unlikely to materialize, we cannot completely discount it. In particular, failures 
+caused by defects in commercially available products can take a long time to address. 
+Countermeasures 
+To ensure stable system operation and uninterrupted provision of services, the Group engages in various 
+activities aimed at preventing system failures and minimizing the impact of failures that occur. For 
+example, we actively collect and disseminate information on known product malfunctions and 
+countermeasure information on commercially available products, and we analyze the causes of past 
+malfunctions. We also share the results of cause analyses of past failures and recurrence prevention 
+measures with relevant in-house parties and conduct regular inspections using checklists. In addition, we 
+are building a contact system for failure responses, and we provide training to address system failures. 
+6. Risk related to large-scale disasters and serious infectious diseases 
+ 
+As some of the systems and services provided by the Group function as social infrastructure, we have established a system for 
+business continuity and conduct disaster drills in accordance with government guidelines, while also monitoring the safety status 
+of employees and others. 
+Potential impact 
+In the event of a major earthquake, a climate change catastrophe or other large-scale natural disaster, 
+many of our systems and employees might be damaged, making it difficult for us to provide services, 
+which could have a significant impact on our clients’ operations and the lives of general users. Such an 
+outcome might damage the Group’s social credibility and brand image and incur significant restoration 
+and other costs, which could significantly affect the Group’s business results and financial position. 
+Therefore, we recognize natural disasters as a potential risk, although it is difficult to predict when they 
+will occur. 
+In addition, an outbreak of a large-scale infectious disease, such as COVID-19, might lead to 
+infections among employees and/or prevent them from going to work, making it difficult to continue 
+providing our systems and services. 
+Due to the spread of COVID-19, moreover, domestic and overseas economies still face severe 
+challenges, which could pose significant risks to our business. For example, declines in consumption in 
+the manufacturing, airline, travel and other sectors, as well as increasing credit costs charged by financial 
+institutions, could cause business conditions at client companies to deteriorate and force them to suppress 
+or postpone their IT investments. Also, existing projects might shrink in scale, and changes in business 
+conditions caused by political instability could force us to limit any new sales activities, resulting in declines 
+in digital transformation projects and our consulting business. In addition, a global economic slowdown 
+might prompt customers to request extensions in payment deadlines, and the Group’s cash flow could 
+deteriorate as a result. Although it is difficult to accurately predict how these risks might evolve, we 
+recognize that they could affect the Group’s business results and financial position 
+Countermeasures 
+With respect to our responses in the event of a disaster, our primary aims are to protect the safety of 
+employees and ensure business continuity. In the event of a disaster of a certain magnitude, we will 
+activate a business continuity plan and respond flexibly under a system in which our President and CEO 
+holds ultimate responsibility. As a countermeasure against COVID-19 and other infectious diseases, we 
+endeavor to strike a good balance between ensuring the safety of employees and partners and the 
+execution of business. To this end, we promote workstyle innovation using the best mix of online and inperson work, including by enhancing online environments and allowing employees to perform business 
+tasks online where practicable. 
+ Regarding the impact of COVID-19 on our business, we will endeavor to obtain a better 
+understanding of our customers’ circumstances. In particular, we will strive to monitor in detail the cash 
+flow situations of each company and work to ensure that we can make funds available as soon as risks 
+materialize. 
+On the other hand, it is also possible that new customer needs with respect to workstyle innovation 
+related IT investments and digitalization could emerge and become more apparent than ever. In response, 
+we fully deploy our expertise and industry knowledge in digital and other advanced technologies that we 
+have acquired through existing initiatives to foster the digitalization of our customers and society as a 
+whole and thus expand our business.

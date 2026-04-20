@@ -1,0 +1,141 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+GENERAL STANDARD DISCLOSURES
+G4-31
+Provide the contact point for questions regarding the report or its contents.
+P2
+G4-32
+a. Report the ‘in accordance’ option the organization has chosen.
+b. Report the GRI Content Index for the chosen option (see tables below).
+c. Report the reference to the External Assurance Report, if the report has been externally 
+assured. GRI recommends the use of external assurance but it is not a requirement to be ‘in 
+accordance’ with the Guidelines.
+ー
+G4-33
+a. Report the organization’s policy and current practice with regard to seeking external assurance 
+for the report.
+b. If not included in the assurance report accompanying the sustainability report, report the 
+scope and basis of any external assurance provided.
+c. Report the relationship between the organization and the assurance providers.
+d. Report whether the highest governance body or senior executives are involved in seeking 
+assurance for the organization’s sustainability report.
+ー
+Governance
+G4-34
+Report the governance structure of the organization, including committees of the highest 
+governance body.Identify any committees responsible for decision-making on economic, 
+environmental and social impacts.
+P16、56-59
+P47
+http://www.nttdata.com/jp/
+ja/corporate/ir/management/
+governance.html
+G4-35
+Report the process for delegating authority for economic, environmental and social topics from 
+the highest governance body to senior executives and other employees.
+P16、56-59
+G4-36
+Report whether the organization has appointed an executive-level position or positions with 
+responsibility for economic, environmental and social topics, and whether post holders report 
+directly to the highest governance body.
+P16
+G4-37
+Report processes for consultation between stakeholders and the highest governance body on 
+economic, environmental and social topics. If consultation is delegated, describe to whom and 
+any feedback processes to the highest governance body.
+P17
+G4-38
+Report the composition of the highest governance body and its committees.
+P56-60
+G4-39
+Report whether the Chair of the highest governance body is also an executive officer (and, if so, 
+his or her function within the organization’s management and the reasons for this arrangement).
+P60
+G4-40
+Report the nomination and selection processes for the highest governance body and its 
+committees, and the criteria used for nominating and selecting highest governance body 
+members, including:
+ ・Whether and how diversity is considered
+ ・Whether and how independence is considered
+ ・Whether and how expertise and experience relating to economic, environmental and social 
+ topics are considered
+ ・Whether and how stakeholders (including shareholders) are involved
+P56
+G4-41
+Report processes for the highest governance body to ensure conflicts of interest are avoided and managed.
+Report whether conflicts of interest are disclosed to stakeholders, including, as a minimum:
+ ・Cross-board membership
+ ・Cross-shareholding with suppliers and other stakeholders
+ ・Existence of controlling shareholder
+ ・Related party disclosures
+－
+G4-42
+Report the highest governance body’s and senior executives’ roles in the development, approval, 
+and updating of the organization’s purpose, value or mission statements, strategies, policies, and 
+goals related to economic, environmental and social impacts.
+P56-59
+G4-43
+Report the measures taken to develop and enhance the highest governance body’s collective 
+knowledge of economic, environmental and social topics.
+P17
+G4-44
+a. Report the processes for evaluation of the highest governance body’s performance with respect 
+to governance of economic, environmental and social topics. Report whether such evaluation 
+is independent or not, and its frequency. Report whether such evaluation is a self-assessment.
+b. Report actions taken in response to evaluation of the highest governance body’s performance 
+with respect to governance of economic, environmental and social topics, including, as a 
+minimum, changes in membership and organizational practice.
+－
+G4-45
+a. Report the highest governance body’s role in the identification and management of economic,
+ environmental and social impacts, risks, and opportunities. Include the highest governance 
+body’s role in the implementation of due diligence processes.
+b. Report whether stakeholder consultation is used to support the highest governance body’s identification 
+and management of economic, environmental and social impacts, risks, and opportunities.
+P17、66-68
+P50-51
+G4-46
+Report the highest governance body’s role in reviewing the effectiveness of the organization’s risk 
+management processes for economic, environmental and social topics.
+P16、66-68
+P50-51
+G4-47
+Report the frequency of the highest governance body’s review of economic, environmental and 
+social impacts, risks, and opportunities.
+P66-68
+P50-51
+G4-48
+Signifi cant environmental impacts of transporting products and other goods and materials for 
+the organization’s operations, and transporting members of the workforce
+－
+G4-49
+Report the process for communicating critical concerns to the highest governance body.
+P17
+G4-50
+Report the nature and total number of critical concerns that were communicated to the highest 
+governance body and the mechanism(s) used to address and resolve them.
+－
+G4-51
+a. Report the remuneration policies for the highest governance body and senior executives for 
+the below types of remuneration:
+ •Fixed pay and variable pay:
+ ––Performance-based pay
+ ––Equity-based pay
+ ––Bonuses
+ ––Deferred or vested shares
+ •Sign-on bonuses or recruitment incentive payments
+ •Termination payments
+ •Clawbacks
+ •Retirement benefits, including the difference between benefit schemes and contribution rates 
+for the highest governance body, senior executives, and all other employees
+b. Report how performance criteria in the remuneration policy relate to the highest governance 
+body’s and senior executives’ economic, environmental and social objectives.
+P60
+P49
+
+Sustainability Report 2015
+NTT DATA

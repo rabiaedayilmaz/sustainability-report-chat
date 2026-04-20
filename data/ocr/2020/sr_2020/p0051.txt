@@ -1,0 +1,60 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Material ESG Issues 
+Respond to Climate Change 
+ 
+The rising concentration of greenhouse gases and other factors are impacting the climate in various ways, resulting in the 
+increased severity and frequency of natural disasters, such as typhoons and floods, while significantly affecting everyday life 
+across society and industry. In December 2015, the Paris Agreement, a new international framework for global warming 
+countermeasures beyond 2020, was adopted at the 2015 UN Climate Change Conference (COP21) and came into effect in 
+November 2016. Addressing climate change was also included as one of the Sustainable Development Goals (SDGs) adopted 
+by the UN General Assembly in September 2015. As illustrated by these developments, responding to climate change in terms 
+of mitigation and adaptation has gained even greater significance as a common global concern. The NTT DATA Group is pursuing 
+strategic initiatives through its business with the intention of more effectively addressing climate change. 
+ 
+TCFD Recommendations 
+Disclosure Section (Page) 
+[Governance] Disclose the organization’s governance around climate-related risks and opportunities. 
+a) Describe the Board of Directors’ oversight of climate-related risks and 
+opportunities. 
+Governance (p. 51) 
+b) Describe management’s role in assessing and managing climaterelated risks and opportunities. 
+Governance (p. 51) 
+[Strategy] Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy 
+and financial planning where such information is material. 
+a) Describe the climate-related risks and opportunities the organization 
+has identified over the short, medium and long terms. 
+Risks and Opportunities (pp. 53–60) 
+b) Describe the impact of climate-related risks and opportunities on the 
+organization’s businesses, strategy and financial planning. 
+Impact on Business Strategy (pp. 51–52) 
+c) Describe the resilience of the organization’s strategy, taking into 
+consideration different climate-related scenarios, including a 2°C or 
+lower scenario. 
+— 
+[Risk management] Disclose how the organization identifies, assesses and manages climate-related risks. 
+a) Describe the organization’s processes for identifying and assessing 
+climate-related risks. 
+Risks and Opportunities (pp. 53–60) 
+b) Describe the organization’s processes for managing climate-related 
+risks. 
+Risks and Opportunities (pp. 53–60) 
+c) Describe how processes for identifying, assessing and managing 
+climate-related risks are integrated into the organization’s overall risk 
+management. 
+Prioritization of Risks (p. 51) 
+[Metrics and targets] Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where 
+such information is material. 
+a) Disclose the metrics used by the organization to assess climaterelated risks and opportunities in line with its strategy and risk 
+management process. 
+Prioritization of Risks (p. 51) 
+b) Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse 
+gas (GHG) emissions and the related risks. 
+Managing Greenhouse Gas Emissions across the Value 
+Chain (p. 61) 
+c) Describe the targets used by the organization to manage climaterelated risks and opportunities and performance against those 
+targets. 
+Environmental Targets (pp. 45–46) 
+Note: Prepared by the Company based on the Recommendations of the Task Force on Climate-related Financial Disclosures (Final Report), 
+2017, page 14.

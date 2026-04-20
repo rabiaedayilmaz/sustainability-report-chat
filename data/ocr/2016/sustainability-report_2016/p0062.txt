@@ -1,0 +1,67 @@
+■ Office Waste
+ Total amount of waste Amount recycled Amount of final disposal
+
+2,000
+4,000
+6,000
+(Tons)
+4,570
+5,046
+4,763
+
+(Fiscal year)
+(Fiscal year)
+(Tons)
+
+10,000
+20,000
+30,000
+40,000
+
+36,512
+ Amount recycled 
+ Amount of final disposal
+Data for fiscal 2016 reflect the demolition of a large-scale building.
+*1 The results of our joint verification have been patented (Pat. No. 5785229 (2015))
+*2 A service for assessing the environmental impact of information systems developed by the NTT Information Network Laboratory Group. The service calculates environmental impact 
+reductions that can be achieved through reduced consumption of materials and energy, transportation volume of people and goods, etc., resulting from system introduction.
+(Scope of data: all organizations of NTT DATA and 75 Group companies (Japan only))
+■ Construction Waste
+(Scope of data: all organizations of NTT DATA and 75 Group companies (Japan only))
+ Reduction of Copy Paper Purchased
+ Proper Handling of Hazardous Materials
+In fiscal 2016, we made a committed effort to reduce unnecessary use of copy paper through measures such as promoting the 
+expansion of next-generation offices and advancing paperless meetings. As a result, we significantly exceeded our target for 
+fiscal 2016 of reducing usage by 41% compared to fiscal 2009.
+In fiscal 2017, we will further reduce the use of copy paper as part of an overall revision of our operations, including 
+improvements to our operational processes.
+The NTT DATA Group stores manufactured goods containing polychlorinated biphenyl (PCB). Accordingly, the Group handles 
+such items as waste PCB, which is designated as a specified toxic industrial waste material. Moreover, the Group disposes of 
+materials including waste acid from batteries and such contaminated industrial waste as used syringe needles. In the handling 
+of industrial waste materials requiring special storage and proper management, we carefully observe the Waste Management 
+and Public Cleansing Law and all other relevant laws and regulations particularly with respect to disposal. We have promoted 
+the systemic disposal of waste PCB since fiscal 2014 in line with the Law Concerning Special Measures against PCB Waste 
+and guidance from relevant ministries and government agencies.
+Reducing the Environmental Impact of the Value Chain
+ Reducing the Environmental Impact of Society through IT
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly verified general-purpose evaluation and 
+measurement methods*1 for quantitatively evaluating the effectiveness of environmental impact reduction for all development 
+projects. We began conducting quantitative evaluation in fiscal 2015 with tools based on the results of this verification.
+In fiscal 2015, we conducted two quantitative evaluations based on these methods, which are more suited to general-purpose 
+applications and actual business conditions than to the environmental impact assessment system*2 used in the past. From fiscal 
+2016, we began full-scale application of these methods throughout the Group and conducted 20 quantitative assessments.
+The Greening of Clients and Society
+of waste disposal. As a result, we significantly exceeded our targets by achieving a 78% reduction in the final amount of waste 
+disposal compared to fiscal 2009 and a final waste disposal rate of 1.9%.
+In fiscal 2017, we will strive to improve our recycling ratios through measures such as using disposal firms with high 
+recycling ratios and changing the processing route while maintaining our efforts on the reuse and recycling of office equipment.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

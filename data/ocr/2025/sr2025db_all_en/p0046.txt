@@ -1,0 +1,156 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Indicators for FY2025 and Beyond
+[Reference]  FY2024 Results
+Indicator
+FY2025 Target
+Medium- to 
+Long-Term Targets
+Specific Initiatives
+Indicator
+Target
+Achievement
+ 
+ Innovation through Technology
+ P46
+As society’s needs become more diverse and complex, our company will 
+create services that meet new needs by utilizing AI and the technologies and 
+know-how accumulated in existing services.
+Generative AI revenue
+FY2027 ¥300 billion
+To provide technology-driven business solutions with a wide 
+range of partners, we are strengthening global collaboration. 
+We have established the Global AI Office, which is responsible 
+for Company-wide strategy discussions on the use of generative AI and the formulation of investment portfolios.
+ー
+ー
+ー
+Development of 
+generative AI talent
+Full-employee transformation into 
+generative AI–skilled talent by FY2027
+The Global AI Office leads the development of generative AI 
+talent. A global training program is being implemented for all 
+employees, with skill levels defined as follows: White Belt—basic 
+knowledge of generative AI; Yellow Belt and Green Belt—able to 
+deliver value in projects utilizing generative AI; Black Belt—capable of leading projects and mentoring others. Talent profiles and 
+development road maps are designed according to these levels.
+ー
+ー
+ー
+ 
+ Responsible Technology and AI Ethics
+ P49
+While it is necessary to minimize the negative impact on society that our 
+services may cause as a side effect, in the IT industry, there are concerns 
+about human rights violations and ethical issues caused by technology, 
+including AI. We promote the responsible use of technology.
+Scope of business 
+operations covered by 
+AI risk checks
+Japan 100%
+Global 100%
+<FY2027>
+We have established the AI Governance Office as a dedicated 
+organization to manage risks arising from the inappropriate use 
+of AI and to promote its proper utilization. The office is responsible for establishing the Global AI Risk Management Policies, 
+developing and implementing AI risk management rules and 
+guidelines, supporting the establishment of AI governance, and 
+setting up the AI Advisory Board.
+ー
+ー
+ー
+ 
+ Sustainable Supply Chain
+ P52
+While it is expected to strengthen supply chains, reduce environmental 
+impact, and respect the human rights of workers, we will work to optimize 
+supply chains through risk monitoring, corrective support, capacity building, 
+and the use of technology.
+Percentage of suppliers 
+requiring risk-based 
+assessment with a valid 
+regulatory sustainability SAQ by year end
+80%
+100%
+<FY2027>
+To advance initiatives toward realizing a sustainable society, we 
+have published the NTT DATA Group Guidelines for Sustainability 
+in the Supply Chain and other documents. In addition to sustainability risk assessments and monitoring, we hold study sessions 
+for suppliers.
+ー
+ー
+ー
+ 
+ Digital Safety and Reliability 
+ P54
+In order to provide the social infrastructure that supports the lives of many 
+people in a stable manner, we will take preventive measures such as building 
+a management system and investing in IT system strengthening. In the event 
+of a failure, we will take prompt recovery actions and formulate measures to 
+prevent recurrence.
+Number of critical 
+system failures
+
+Continuation of 
+zero-case record
+Various measures are implemented to ensure stable system 
+operations. In particular, as a continuation of the Company-wide 
+system inspection initiated in response to a major system failure 
+in 2023, we continue the practice of having high-risk service 
+launch projects reviewed by third parties.
+Number of 
+significant system 
+failures*1
+
+ Secure and Sustainable-by-design 
+Services and Solutions 
+ P56
+Provide safe and secure commercial systems to meet customers’ expectations 
+for the installation and operation of secure systems. In addition, our company 
+will contribute to the improvement of customers’ security and sustainability 
+through our products, services and consulting services.
+Number of 
+security incidents*2 
+
+Continuation of 
+zero-case record
+Based on the NTT DATA Group Security Policy (GSP), the Information Security Committee identifies and evaluates issues and 
+determines strategies. The Information Security Steering Organization promotes and implements measures across the entire 
+Group. Daily monitoring helps prevent the occurrence of incidents.
+Number of 
+security incidents*2
+
+Sustainability 
+business sales revenue
+Collect and monitor performance results
+The sustainability business promotion subcommittee, operating 
+under the Sustainability Committee, monitors the progress of 
+sustainability-related business globally.
+ー
+ー
+ー
+*1 The target is set at 0, with a tolerance threshold of 2 based on recent actual results. 
+*2 Refers to security incidents caused by cyberattacks (excluding human errors such as misdelivery, bugs, or misconfigurations, and system-related issues) that become widely known externally.
+  Prosperity positive
+Initiatives to Achieve Materiality and KPIs
+Leveraging our long-standing experience in providing IT services that support social infrastructure and our advanced digital technologies, we aim to address social issues while achieving 
+sustainable growth.
+ 
+To realize this, we have identified five material issues as priority focus areas: “Innovation through Technology,” “Responsible Technology and AI Ethics,” “Sustainable Supply Chain,” 
+“Digital Safety and Reliability,” and “Secure and Sustainable-by-design Services and Solutions,” and are actively working on them.
+  [Reference page] Sustainability Management “Materiality and Non-Financial Indicators”
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive

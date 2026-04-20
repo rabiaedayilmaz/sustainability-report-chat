@@ -1,0 +1,56 @@
+“Tele-ICU” is a remote intensive care 
+unit (ICU) system that connects the 
+ICUs of multiple hospitals with a 
+support center staﬀed by intensive 
+care specialists in order to share 
+patient vital information, real-time 
+images, electronic medical records 
+and so on. Through Tele-ICU, we are 
+supporting improvements in 
+medical quality and work-style 
+innovations for doctors.
+Intensive care units (ICUs) need to be robust and 
+operate eﬀectively around the clock. While there are 
+around 17,000 ICU beds throughout Japan, there is a 
+shortage of intensive care specialists, numbering only 
+1,850. In some medical institutions, surgeons and 
+internal medicine doctors are forced to treat critically 
+ill patients even at night, leading to longer working 
+hours and increased mental burden on doctors.
+ 
+To address these issues, NTT DATA oﬀers 
+“Tele-ICU,” a remote ICU system, in collaboration with 
+Yokohama City University. Tele-ICU is a network that 
+connects a support center staﬀed by resident 
+intensive care specialists with the ICUs of multiple 
+medical institutions, enabling the sharing of patient 
+vital information, real-time images and electronic 
+medical records. Specialists at the support center 
+monitor patient information in real time and provide 
+remote support for medical treatment by doctors in 
+each institution. In October 2020, we established a 
+support center in a hospital attached to Yokohama 
+City University, with support from the Ministry of 
+Health, Labour and Welfare and the Yokohama City 
+Medical Bureau. The center coordinates a network of 
+around 40 ICU beds at partner facilities in Yokohama 
+City.
+ 
+We will continue working to improve the quality of 
+medical care and reduce the burden on doctors by 
+expanding the network linked to Tele-ICU and 
+upgrading its functions. As Tele-ICU also helps reduce 
+physical contact between people, we will further 
+broaden its application with a view to preventing 
+infections of medical staﬀ during the COVID-19 
+pandemic.
+Tele-ICU system: 
+Supporting improvements in 
+medical quality and work-style 
+innovations for doctors
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

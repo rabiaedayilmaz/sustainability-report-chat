@@ -1,0 +1,115 @@
+NTT DATA Sustainability Report 2018
+Information Security Strategies
+ Key Strategies in Fiscal 2017
+Practicing and maintaining an appropriate balance between ensuring safety of information and 
+actively utilizing and sharing information, both of which are objectives of the GSP, is essential if the 
+NTT DATA Group is to continue to be a partner to customers that aids in their evolution.
+ In fiscal 2017, NTT DATA has made improving security governance a priority global management 
+issue. We have engaged in initiatives to prepare our defenses against more sophisticated and 
+complicated cyberattacks, including our “in-house IT platform for minimizing risks” and “CSIRT 
+management within internal organizations.”
+ In-House IT Platform for Minimizing Risks
+Disseminating and targeted e-mail cyberattacks are becoming a regular occurrence and are 
+repeatedly causing harm to government agencies and private businesses. Many disseminating e-mail 
+attacks use already-known vulnerabilities, so they can often be prevented through security patch 
+management and other measures.
+ On the other hand, many of the more high-risk targeted e-mail cyberattacks exploit unknown 
+vulnerabilities or do not take advantage of these weaknesses at all, making them more difficult to 
+detect. For these reasons, early detection and response are important. The Company has intensified 
+vulnerability checks on its main software programs and limited the extent to which unsecure terminals 
+may utilize in-house networks. In addition, the Company is also taking measures such as malware 
+detection using anti-malware software (entry measure) and blocking with URL filters (output measure).
+ Furthermore, we are building structures that allow for faster response to security incidents such 
+as sophisticated attacks. These include security information and event management (SIEM) systems, 
+which collect and observe various logs, and other mechanisms that enable quick preservation and 
+analysis of evidence when machine damage occurs.
+Thin-client “BIZXAAS® 
+Office” DaaS
+Provides cloud services for employee PC 
+environment, prevents information leaks from PC 
+side, and realizes energy-efficient offices
+Mobile Platform 
+“MERMaides®”
+Ensures safe business domains within mobile 
+devices, offering strong protection of information 
+by encrypting operational applications and data 
+stored on devices
+“NOSiDE®” 
+quarantine system
+A quarantine system that inspects devices that 
+access the Internet and prevents information leaks 
+on the Internet due to cyberattacks and malware 
+targeting vulnerabilities
+Information distribution 
+infrastructure 
+“ETRANPOT”
+System for the secure forwarding of large files 
+among NTT DATA, NTT DATA Group companies, 
+and related clients
+Security risk
+Information leakage
+Fake emails
+Targeted e-mail 
+attacks
+Ransomware
+Suspicious emails
+ Global Governance
+Since fiscal 2012, the NTT DATA Group has been conducting business management centered on 
+solutions at its overseas bases; North America (NDI), EMEA (EMEA), APAC (NDAP), China (NDCI), 
+Business Solutions (itelligence), and everis (everis). In accordance with business management, we 
+are reconstituting operational structures to ensure information security.
+[ Collaboration in Support of Global Security ]
+The information security governance structure comprises three levels of information security 
+steering organizations located at the Head Office, regional integrated companies, and other companies on an individual basis to ensure thorough global information security governance.
+ The information security steering organizations at each level cooperate closely to maintain and 
+develop information security policies, monitor information security measures, respond to emergencies, and engage in preventive measure activities to prevent incidents.
+[ Incident Response Workshop ]
+In pursuit of stronger global governance, we are especially focused on enabling appropriate onsite incident response at the time of occurrence. We are conducting workshops in order to 
+achieve this goal. 
+ NTT DATA is conducting training based on its initial response guidelines at domestic and overseas 
+Group companies worldwide. This training enables each member of staff to understand the goals 
+of initial incident response and what he or she must do. These exercises also help enrich knowledge 
+regarding the targets and methods of cyberattackers by providing examples of prior incidents that 
+occurred within the NTT DATA Group.
+ Information Security Governance Structure
+Head Office
+Information Security Steering Organization
+(Information Security Office)
+Regional integrated 
+companies, etc.
+Information Security Steering Organization
+Other companies
+Information Security Steering Organization
+Reports 
+(excluding serious incidents)
+Reports 
+(Serious incidents)
+Information sharing
+Reports
+Request
+Request
+Request
+Business Promotion Department 
+providing oversight for each region
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

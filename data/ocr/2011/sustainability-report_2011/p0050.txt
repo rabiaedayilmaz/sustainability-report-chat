@@ -1,0 +1,56 @@
+Paradigms for Society and 
+Regional Communities 【Additional Topics】 
+NTT DATA CSR Report 2011 4/67 
+ 
+■ Proactive Testing COE 
+The Proactive Testing COE is tasked with enhancing testing processes; developing and 
+utilizing automation tools and assessment technologies and promoting test outsourcing 
+services. In these ways, the COE aims to transform testing processes in the global 
+environment and contribute to improvements in quality, productivity and shorter delivery 
+times. 
+ 
+In the future, the COE will work toward dramatic reforms in testing processes 
+keyed on the phrase of “testing that starts at the requirement/design phase,” and will seek to 
+establish an independent testing service. 
+ 
+ 
+ 
+ 
+ 
+Taking comprehensive actions to address system failures focused on 
+prevention and response 
+We have been conducting comprehensive actions to address system failures from two 
+perspectives: prevention and response. 
+Prevention involves promotion of in-house deployment and application of various product 
+groups with verified performance, availability and other features required for system 
+development and of procedures, tools and other technologies. Moreover, we conduct project 
+management strictly, utilizing supports by in-house specialized organizations, routine 
+management by project managers, systematic confirmation and decision-making. As the 
+situation demands, we are also deploying information relating hardware to failures and 
+software defects occurred within and outside the company, and procedures to deal with 
+them within NTT DATA and to Group companies. 
+We have established an emergency contact system including company and each sector 
+and formulated procedures to deal with major system failures. Furthermore, we immediately 
+analyze the cause of any major system failures and publicize measures to prevent 
+recurrence. We reflect such findings in our rules for system development, operation and 
+maintenance. The Company also conducts periodic internal audits to confirm the 
+implementation status of preventive measures. As a result, major system failures have 
+remained extremely rare events during the past three years. 
+ 
+In fiscal 2012, we plan to reduce the number of system failures even further. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional testing services 
+Create testing tools 
+Enhance testing processes 
+Develop assessment 
+technologies 
+Disaster and System Failure Countermeasures

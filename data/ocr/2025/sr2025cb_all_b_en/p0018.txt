@@ -1,0 +1,150 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Leveraging digital technology optimized in partnership with people working in food and 
+agriculture to build more sustainable communities
+Aisaku: Building Futures for Local Communities
+(in Japanese only)
+Aisaku: Building Futures for Local Communities
+(in Japanese only)
+NTT DATA Japan Corporation
+Second Financial Sector
+Food and Agriculture Business Department
+Food and Agriculture Business Group
+Impact
+Improved
+earnings
+Mutual aid systems
+Credit service systems
+Enterprise operations 
+systems
+NTT DATA: Aisaku
+Other systems
+JA members
+Staff My Page
+Member information management
+Guidance/support dealing with external parties
+Customer analysis
+Shipment forecasting
+Work process support
+Higher quality
+farming guidance
+Member My Page
+Material orders
+Electronic notifications
+Event information
+Financial services
+Other
+Cultivation management
+Electronic applications
+Market condition information
+Next-generation points
+Mutual aid services
+DX in JA services
+Improved member UX
+Shared data
+Self
+improvement
+1. Digital touchpoint reform
+2. Analog touchpoint reform
+1. Digital touchpoint reform: Promoting member-facing digital services to both enhance member services and rationalize JA management
+2. Analog touchpoint reform: Promoting digital tools for staff to support activities through data not dependent on staff experience
+3. Data utilization reform: Promoting data linkage and utilization across organizations, leveraging strengths as an integrated project
+Mutual data linkage across organizations
+3. Data utilization reform
+Enhanced service
+quality and convenience
+JA staff
+Operational
+efficiency
+Reform of JA activities
+Business need
+Solution
+•
+Japanese agriculture faces numerous challenges, particularly an aging population and lack of successorship. Statistics from the Ministry of Agriculture, Forestry and Fisheries show that the number of people working in
+agriculture fell from about 1.757 million in 2015 to 1.114 million in 2024, a decrease of approximately 37%. Declining rural populations are also leading to social issues such as an increase in abandoned farmland.
+•
+JA Group supports farmers in Japan in all processes relating to agricultural goods, from production to shipping, sale and consumption. However, a decline in membership is complicating its efforts to contribute to
+enriched, sustainable communities.
+Maintaining and developing regional economies lies at the
+foundation
+of
+JA
+Group’s
+activities,
+but
+shrinking
+rural
+populations and an aging society have led to falling agricultural
+worker numbers. This has forced
+the organization to pursue
+greater efficiency by restructuring and reforming its locations
+and facilities. Fewer locations, facilities and members of staff,
+means fewer contact points with members and local people,
+making it difficult to create opportunities to use JA Group
+services and provide flexible support to meet user needs.
+Moving forward, the group must leverage digital technology to
+provide labor-saving services that do not require face-to-face
+support alongside its diligent in-person services, all while
+maintaining the principle of equality among members.
+For JA to achieve sustainability together with communities,
+it must also redefine the relationship between members and
+regions
+and
+implement
+business
+enhancement
+with
+an
+integrated perspective.
+NTT DATA worked with JA Group to create Aisaku, a project
+providing wide-ranging digital services to enhance productivity and
+sustainability by connecting everyone involved in the production,
+shipping, sale and consumption of agricultural products.
+Specifically,
+it
+began
+providing
+farming
+support
+services
+for
+producers,
+online
+store
+services
+for
+materials,
+and
+shipment
+forecasting services in 2018. The Member My Page service for JA
+members was launched in 2022, providing a digital touchpoint to
+communicate
+with
+members
+and
+distribute
+notifications.
+This
+contributed to lower mail and labor costs, improved user convenience,
+and enhanced efficiency for staff.
+This was followed by additions such as Staff My Page as a support
+service for JA staff dealing with external parties and a next-generation
+loyalty point system for members and local people.
+Aisaku will continue to leverage digital technology optimized for
+regional societies, value local connections, and contribute to the
+building of enriched, sustainable communities.
+Enhanced organizational
+capabilities /
+management foundation
+Aisaku overview
+Aisaku
+Japan
+Adoption of Aisaku services by JA organizations:
+（As of December 2025）
+Introduced by about
+150 JA organizations
+in 40 prefectures

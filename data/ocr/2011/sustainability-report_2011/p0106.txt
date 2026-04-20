@@ -1,0 +1,39 @@
+【Additional Topics】 
+NTT DATA CSR Report 2011 60/67 
+ 
+ 
+Preventing information leakage and divulgence when outsourcing 
+NTT DATA subcontracts software development and other services to partner companies. 
+When outsourcing involves confidential or personal information, we confirm subcontractor 
+security structures and security levels. In addition, we indicate required information security 
+management levels and enter into contracts only after obtaining agreement with the terms of 
+our Special Agreement on Confidential Information and Personal Information. Also, we 
+periodically check the implementation status of security measures at various operating 
+levels after contracts have been signed. If necessary, we conduct on-site investigations to 
+prevent information leakage and divulgence. 
+ 
+[CHART] Flow of Management Process from Partner Company Selection to Contract Conclusion 
+ 
+ 
+ 
+ 
+ 
+1) Promote information security throughout the Group in response to 
+globalization 
+To promote information security management throughout the Group, when promoting PDCA 
+cycles we maintain an awareness of both the groupwide PDCA cycle and PDCA cycles for 
+individual Group companies. 
+One part of the loop, which describes the PDCA cycle for the entire Group, centers on the 
+NTT DATA IT Security Strategy Office. This loop involves monitoring the configuration status 
+of Group companies’ information security management systems, as well as the 
+implementation status of their educational measures and internal audits, as well as 
+providing support. 
+ 
+In fiscal 2011 we constructed a groupwide monitoring system, and also established 
+education systems and internal auditing systems. 
+ 
+PDCA cycles of individual Group companies, the other part of the loop, involve 
+cultivating personnel dedicated to promoting information security, Group company 
+personnel and internal audit staff. In fiscal 2011 we added 58 internal auditors from 23 
+Information Security Management Structure
+Information Security Strategies

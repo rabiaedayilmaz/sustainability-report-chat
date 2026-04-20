@@ -1,0 +1,251 @@
+NTT DATA Sustainability Report 2018
+Primary 
+Category
+Subcategory
+Emissions 
+(kg)
+Recycled 
+Amount 
+(kg)
+Waste Disposal Amount 
+(kg)
+Final 
+Disposal 
+(kg)
+Recycling 
+Rate
+(%)
+Final 
+Disposal 
+Rate (%)
+Disposal Method
+Incineration
+Landfill 
+Amount
+Unknown
+Industrial
+waste
+(Produced 
+through 
+operations)
+Waste plastic
+392,339
+387,337
+2,428
+2,575
+
+2,817
+
+Scrap metal
+379,390
+372,443
+
+6,690
+
+6,716
+
+Refuse glass, ceramic waste
+32,522
+32,400
+
+Wastepaper (only includes paper 
+from the printing business)
+
+Waste wood (only includes wood 
+from the warehouse and distribution businesses)
+
+Discarded electric machinery 
+and appliances
+89,562
+88,973
+
+Medical measuring equipment
+
+Waste batteries
+
+Product waste containing mercury
+51,797
+51,795
+
+Stable mixed waste
+105,368
+105,068
+
+Controlled mixed waste
+27,926
+26,766
+
+1,160
+
+1,160
+
+Waste oil
+
+Waste acid
+
+Waste alkali
+
+Sludge
+14,090
+14,090
+
+Waste containing asbestos
+
+Other
+
+Subtotal 4
+1,095,018
+1,080,596
+3,205
+11,217
+
+11,538
+—
+Average 99
+—
+Average 1
+Industrial waste 
+requiring 
+special 
+treatment
+Flammable waste oil
+
+Waste acid with a Ph of 2.0 or less
+
+Waste alkali with a Ph of 12.5 or 
+higher
+
+Infectious waste
+
+Specified hazardous industrial 
+waste (Discarded mercury)
+
+Specified hazardous industrial 
+waste (Other)
+
+Subtotal 5
+
+—
+Average 97
+—
+Average 0
+Grand total (Subtotals 1–5 combined)
+4,572,936
+4,505,324
+48,578
+19,034
+
+23,892
+—
+Average 98.5
+—
+Average 0.5
+(Scope of Aggregate Data: All NTT DATA organizations, 68 Group companies in Japan)
+ Fiscal 2017 Recycling Amounts
+Primary Category
+Subcategory
+Recycled Amount
+Company 
+computers
+Recycled amount (Number of units)
+4,718
+Reused amount (Number of units)
+1,430
+Thermal 
+recycling
+Recycled non-industrial waste (kg)
+461,685
+Recycled industrial waste (kg)
+312,337
+Recycling of industrial waste 
+requiring special treatment (kg)
+
+(Scope of Aggregate Data: All NTT DATA organizations, 68 Group companies in Japan)
+ Environmental Impact Data and Amount of Office Waste
+Units
+Fiscal 2014
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Scope 1
+Emissions
+t-CO2e
+6,073
+6,073
+10,547
+8,802
+Coverage rate of data
+%: sales
+
+Scope 2
+Emissions
+t-CO2e
+256,764
+238,679
+248,591
+309,063
+Coverage rate of data
+%: sales
+
+Energy
+Total consumption of 
+non-renewable energy
+MWh
+491,686
+476,607
+504,867
+666,261
+Total amount of renewable 
+energy either purchased 
+or used by the Company 
+(biomass, photovoltaic, 
+wind power, etc.)
+MWh
+
+103,342
+Total cost of energy 
+consumption
+¥1.0 billion
+
+Coverage rate of data
+%: sales
+
+Water
+Total water usage
+million m3
+0.61
+0.34
+0.55
+0.58
+Coverage rate of data
+%: sales
+
+Waste
+Total final disposal of waste
+t
+
+Coverage rate of data
+%: sales
+
+(Scope of Aggregate Data: All NTT DATA organizations, 68 Group companies in Japan)
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Governance
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment

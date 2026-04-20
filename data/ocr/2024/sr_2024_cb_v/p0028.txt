@@ -1,0 +1,112 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+NTT DATA sees generative AI as a technology that can
+go beyond single tasks and be leveraged across operating
+processes as a whole. This includes work on Smart AI
+Agent
+,
+a
+solution
+that
+can
+dramatically
+enhance
+productivity for office workers.
+With Smart AI Agent, an AI agent optimized for the office
+worker’s tasks, known as a personal agent, coordinates
+with multiple specialized AI agents with expertise in their
+respective fields to identify, organize and execute required
+tasks. The AI agent optimized to the user’s tasks can
+provide new labor capacity through means such as task
+automation. This system aims to transform ways of working
+by reducing repetitive and non-value added tasks for users.
+NTT DATA is also developing other technologies based
+on the Smart AI Agent concept. In the sales field, it has
+started operating LITRON® Sales, a service that provides
+autonomous support covering various tasks and carries out
+tasks instead of humans. Outside Japan, such systems
+have already been introduced to improve processes in the
+manufacturing industry, and further progress is expected in
+terms of adoption in various other industries.
+NTT DATA will continue to expand its lineup of services,
+contributing to enhanced productivity for office workers and
+addressing social issues such as labor shortages.
+Leveraging Generative AI to Enhance Productivity 
+for Office Workers and Address Labor Shortages
+NTT DATA Japan Corporation
+Digital Success Consulting Business Unit,
+TC Business Division 
+Smart X
+Co-Innovation
+Future of
+Work
+Smart AI Agent
+• Population decline is accelerating due to falling birthrates and aging populations, resulting in shrinking workforces.
+• Despite the potential for generative AI as an effective means to improve work efficiency and productivity, usage rates among Japanese companies are lagging behind those in the US,
+China and Germany. (Source: 2024 White Paper on Information and Communications in Japan, Japanese Ministry of Internal Affairs and Communications)
+Business need
+The generative AI market is predicted to grow about
+annually 50% from 2023 to 2030, reaching a total scale of
+JPY 1.7 trillion in Japan and JPY 31.7 trillion* globally by
+2030. Various fields are expected to leverage generative
+AI, with service development centering on generative AIrelated applications, which accounts for 90% of the
+market.
+As
+work
+style
+reforms
+become
+ever
+more
+important due to the shrinking of workforces, hopes are
+high that generative AI can enhance work efficiency.
+However, only about 46.8％of Japanese companies are
+using generative AI—about half the rate in the US and
+Germany. In terms of use cases, while overseas firms are
+leveraging generative AI to deal with clients in various
+fields, adoption in Japan has been cautious and focused
+on internal use.
+Nevertheless, about 75％of respondents in a survey
+answered that generative AI can lead to better operational
+efficiency and address labor shortages, suggesting that
+use of this technology will also advance in Japan.
+Solution
+* Exchange rate of USD 1 ＝JPY 150
+Impact
+Productivity improvement in operating activities 
+following Smart AI Agent
+introduction
+(percentage of work time spent on sales activities)
+31%
+→
+78%
+Before Smart AI Agent
+introduction
+After Smart AI Agent
+introduction
+*Percentage of work time after Smart AI Agent
+implementation calculated by NTT DATA
+based on Exhibits 10 and 11 in The Economic Potential of Generative AI by McKinsey ＆
+Company (McKinsey Global Institute analysis)
+*Based on one month of work (160 hours) for one member of sales staff
+New Generative AI Service Using AI Agents 
+Begins Operation
+NTT DATA GROUP (in Japanese only)
+Delivering new value with Smart AI Agent
+Personal
+Agent
+Personnel Agent
+Legal Agent
+Accounting Agent
+Sales Agent
+User
+Smart AI Agent
+* “Smart AI Agent
+” is a trademark of NTT DATA Group and is not a registered trademark.
+NTT DATA Group Corporation
+Innovation General Headquarters
+Apps & Data Technology Department Technology

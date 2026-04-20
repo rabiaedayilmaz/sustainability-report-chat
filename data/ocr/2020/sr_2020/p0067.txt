@@ -1,0 +1,205 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Environmental Data 
+ 
+ Fiscal 2019 Environmental Impact Data (Global, Consolidated) 
+ 
+ Fiscal 2019: Global Environmental Impact Data Trends and Coverage Data 
+ 
+Unit 
+FY2015 
+FY2016 
+FY2017 
+FY2018 
+FY2019 
+Scope 1 
+Emissions 
+t-CO2e 
+6,073 
+10,547 
+8,802 
+5,746 
+9,057 
+Coverage rate of 
+data (sales) 
+% 
+
+Scope 2 
+Emissions 
+t-CO2e 
+238,679 
+248,591 
+309,063 
+275,622 
+264,020 
+Coverage rate of 
+data (sales) 
+% 
+
+Energy 
+Total consumption 
+of nonrenewable 
+energy 
+MWh 
+476,607 
+504,867 
+666,261 
+588,179 
+589,694 
+Total amount of 
+renewable energy 
+either purchased 
+or used by the 
+Group (e.g., 
+biomass, 
+photovoltaic, wind 
+power) 
+MWh 
+
+103,342 
+102,651 
+100,931 
+Total cost of 
+energy 
+consumption 
+¥ billion 
+
+Coverage rate of 
+data (sales) 
+% 
+
+Waste 
+Total water usage 
+Million m3 
+0.34 
+0.55 
+0.58 
+0.80 
+0.74 
+Coverage rate of 
+data (sales) 
+% 
+
+Waste 
+Total final disposal 
+of waste 
+t 
+
+Coverage rate of 
+data (sales) 
+% 
+
+(Scope of data aggregation: Consolidated NTT Data Group companies) 
+ 
+ Fiscal 2019 Environmental Impact Data (Group companies in Japan) 
+Environmental Data 
+Unit 
+Amount 
+Paper resources 
+Paper resources: Total volume used (including paper from virgin pulp and 
+recycled paper) 
+t 
+
+Office paper 
+t 
+
+Client services (e.g., leaflets, pamphlets, instruction manuals) 
+t 
+
+Amount of total paper from virgin pulp 
+t 
+
+Office paper 
+t 
+
+Client services (e.g., leaflets, pamphlets, instruction manuals) 
+t 
+
+Global warming 
+Greenhouse gas emission (CO₂) conversion¹ 
+t-CO₂e 
+214,098 
+Carbon dioxide (CO₂ emissions) 
+t-CO₂e 
+213,176 
+Electricity use 
+t-CO₂e 
+205,392 
+Gas/fuel use 
+t-CO₂e 
+3,695 
+Heat use 
+t-CO₂e 
+2,641 
+Company vehicle use 
+t-CO₂e 
+1,448 
+Methane (CH₄) emissions 
+t-CO₂e 
+
+Furnaces 
+t-CO₂e 
+
+Shipping (automobiles, ships) 
+t-CO₂e 
+
+Dinitrogen monoxide (N₂O) emissions 
+t-CO₂e 
+
+Furnaces 
+t-CO₂e 
+
+Shipping (automobiles, ships) 
+t-CO₂e 
+
+Hydrofluorocarbon (HFC) emissions² 
+t-CO₂e 
+
+Perfluorocarbon (PFC) emissions 
+t-CO₂e 
+
+Sulfur hexafluoride (SF₆) emissions 
+t-CO₂e 
+
+Low-pollution vehicles owned 
+Vehicles 
+
+Hybrid vehicles 
+Vehicles 
+
+Certified fuel-saving or low-emission vehicles (gasolinepowered vehicles) 
+Vehicles 
+
+Electric vehicles 
+Vehicles 
+
+Others 
+Vehicles 
+
+Low-pollution vehicles introduced during the period 
+Vehicles 
+
+Hybrid vehicles 
+Vehicles 
+
+Certified fuel-saving or low-emission vehicles (gasolinepowered vehicles) 
+Vehicles 
+
+Electric vehicles 
+Vehicles 
+
+Others 
+Vehicles 
+
+Sustainable/new energy systems installed 
+Units 
+
+Solar power systems 
+Units 
+
+Hybrid (solar and wind power) systems 
+Units 
+
+Cogeneration systems (CGS) 
+Units

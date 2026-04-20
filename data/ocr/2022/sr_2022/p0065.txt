@@ -1,0 +1,30 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+Quality Management 
+ 
+Providing reliable systems and services 24 hours a day, 365 days a year is a key responsibility and forms the basis of our 
+customer service commitment. The NTT DATA Group aims to build social infrastructure that people can use with peace of mind. 
+To this end, we engage in various Group-wide initiatives that include obtaining quality management certifications and 
+standardizing our development and management methods. 
+ 
+ Initiatives to Improve Quality―Building a Management System Based on ISO 9001 
+and Promoting Continuous Improvement Activities 
+NTT DATA obtained ISO 9001 certification—the international standard for quality management systems—on a Group-wide basis 
+in 1998 and subsequently built an organized, systematic quality management system that is currently in operation. We are also 
+focusing on reinforcing our system on a Group-wide basis. Since fiscal 2007, for example, we have created unified rules 
+governing system development and management methods and clarified procedures for applying those rules. Furthermore, in 
+March 2010 we formulated an implementation method that reflects the unified rules and have since expanded that across the 
+Group to improve quality and productivity. 
+NTT DATA moved quickly to focus on making process improvements and enhancing system development transparency, 
+incorporating Capability Maturity Model Integration (CMMI)* into the formulation of development and operational standards. We 
+recognize the importance of raising quality control standards at development sites, including those of Group companies. 
+Accordingly, we are rolling out CMMI across the Group and sharing quality management–related information. 
+We have also developed a quality assurance system for overseas Group companies, and with support from Japan we have 
+achieved CMMI Maturity Level 2 in Romania. In addition, we continue to support process improvement utilizing CMMI to offshore 
+locations in China. Through regular opinion exchanges within Asia, we are working to raise quality at overseas Group companies. 
+ 
+*A model managed by the CMMI Institute that expresses the level of maturity of an organization undertaking system development using a five-point scale. 
+ 
+ NTT DATA’s Quality Management System (QMS)

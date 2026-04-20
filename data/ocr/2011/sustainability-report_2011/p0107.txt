@@ -1,0 +1,31 @@
+【Additional Topics】 
+NTT DATA CSR Report 2011 61/67 
+companies. 
+ 
+The NTT DATA IT Security Strategy Office also conducts Group company caravans. 
+In fiscal 2011, the office visited some 13 Group companies, including overseas locations. 
+These visits included eliciting Group companies’ problems and issues, as well as 
+considering on-site advice and improvement proposals. We also provide consistent Group 
+company security education in two languages (English and Japanese) through a web 
+interface, so as to bolster the education conducted at individual Group companies. 14,197 
+employees from 60 companies chose to participate in the educational program in fiscal 
+2011. 
+We will focus on strengthening education and operations support at overseas Group 
+companies through measures such as increasing the number of languages in which 
+programs are offered. 
+We conducted information security training at Group companies through overseas group 
+training programs offered in Chinese, Thai, and Vietnamese. 
+ 
+As the number of new overseas Group companies increases we will strengthen 
+education and operations support so as to improve the level of information security, focusing 
+on overseas Group companies. We will offer employee training, internal auditor training, and 
+information provision for Group companies in three languages: Japanese, English, and 
+Chinese. 
+ 
+ 
+ 
+2) Ensure that Basic Procedures to Prevent Accidents Are Followed and Create 
+Response Measures 
+Ensuring the safe communication of knowledge requires more than technological 
+measures. Rather, this objective requires that individual employees understand the risks 
+that surround them on an everyday basis and that they consistently follow the basic

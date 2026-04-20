@@ -1,0 +1,181 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+President and CEO
+Chief Information Security Officer (CISO)
+Information Security Committee
+Head of organizations
+Officer in charge of 
+information security
+CISO
+Related departments
+Corporate Planning Department
+Quality Assurance Department
+Information System Department
+General Affairs & Legal 
+Department
+Human Resource & Development 
+Department
+Purchasing Department, etc.
+Information Security Steering Organization
+Internal Audit 
+Department
+Report
+Audit
+Audit
+Audit
+Committee 
+members
+Committee 
+members
+Committee 
+members
+Report
+NTT DATA Group Corporation
+NTT DATA 
+Japan
+NTT DATA, Inc.
+NTT DATA 
+Group 
+Corporation
+NTT DATA 
+Japan
+NTT DATA, 
+Inc.
+Information Security Steering Organization
+Information Security Steering Organization
+Group 
+companies 
+in Japan
+Information Security Steering 
+Organization
+Information Security Steering Organization
+Group 
+companies 
+outside Japan
+Information Security Steering 
+Organization
+Business Strategy Department 
+overseeing each business area
+Information security officer/ 
+Personal information protection officer
+Head of organizations
+Report 
+(excluding 
+significant incidents)
+Report 
+(excluding 
+significant incidents)
+Report 
+(excluding 
+significant incidents)
+Report
+(excluding significant incidents)
+Report 
+(excluding significant incidents)
+Report 
+(excluding 
+significant incidents)
+Request
+Request
+Overseas region
+Japan region
+Request
+Request
+Request
+Report 
+Report 
+Information 
+sharing
+Collaboration among Information Security Management Organizations 
+within NTT DATA
+NTTDATA-CERT
+Global Security through Collaboration
+To ensure robust global governance of information security, NTT DATA has established 
+an information security governance structure consisting of a hierarchy of information 
+security steering organizations across NTT DATA Group Corporation, NTT DATA Japan 
+Corporation, NTT DATA, Inc., and each Group company. 
+ 
+The information security steering organizations at each level cooperate closely to 
+maintain and develop information security policies, monitor the progress of measures 
+under way, and take preventive measures against incidents. They also serve as task 
+forces in times of emergency.
+Information Security Governance Structure of NTT DATA
+Roles in NTT DATA’s Information Security Governance
+Chief Information 
+Security Officer (CISO)
+These officers promote information security management to 
+establish information security governance across the Group.
+Note: This executive also oversees technology development and research (CTO), digital 
+strategy (CDAIO), internal systems (CIO), and quality assurance, covering 
+technology strategy, security strategy, and quality assurance.
+The Main Structure and Initiatives in Our Information Security 
+Governance and Operations
+Meetings and 
+organizations 
+related to 
+information 
+security 
+governance
+[Meeting body] [Evaluation/orientation]
+ Information Security Committee 
+(NTT DATA Group Corporation)
+This is chaired by the Chief Information Security Officer (CISO) in 
+charge of technology management at NTT DATA Group Corporation 
+and consists of the heads of various departments within NTT DATA, the 
+officer responsible for information security at NTT DATA Japan, the Chief 
+Information Security Officer (CISO) of NTT DATA, Inc., and the heads 
+of various business divisions within NTT DATA. Audit and Supervisory 
+Committee Members also participate in the meetings. They assess 
+and evaluate the overall activities and challenges within NTT DATA to 
+determine the information security strategy for the entire organization, 
+including protection of confidential and personal information.
+[Organization] [Promotion/monitoring]
+ Information Security Steering Organization 
+(NTT DATA Group Corporation)
+This organization runs meetings as the 
+secretariat of NTT DATA Group Corporation’s 
+Information Security Committee. It collaborates 
+with NTT DATA Japan and NTT DATA, Inc., to 
+share information about the Group’s overall 
+information security policies and action plans. It 
+also regularly monitors the status of control at 
+NTT DATA Japan, NTT DATA, Inc., and various 
+regional headquarters to ensure control levels 
+are maintained and improved, providing support 
+as needed.
+Information 
+security 
+management 
+organizations
+The information security management organizations established within NTT DATA Japan, NTT DATA, Inc., and each 
+Group company are based on the information security policies and action plans developed by NTT DATA Group 
+Corporation. They consider the characteristics and circumstances of each region and business and establish a 
+management structure to implement information security measures.
+Information 
+sharing 
+between Group 
+companies
+ NTT DATA Group information security forums for Japan: These forums are sponsored by NTT DATA with participation by 
+the CISOs and information security promotion managers of domestic Group companies. Their role is to share Group 
+information security strategies and policies. 
+ Global security meetings: These meetings are hosted by NTT DATA and attended by key figures such as the CISO of NTT 
+DATA, Inc. The governance of overseas regions is also discussed. The meetings strengthen information sharing and 
+collaboration to promote governance in overseas regions. 
+ Knowledge sharing meetings: These meetings are regularly hosted by NTT DATA, with members responsible for 
+security operations from both Group companies in and outside Japan participating, where they share operational 
+know-how on security infrastructure and other relevant information.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Secure and Sustainable-by-design Services and Solutions

@@ -1,0 +1,49 @@
+m3
+974,592
+Clean water consumption
+m3
+585,474
+Sewerage water consumption
+m3
+342,411
+Gray water consumption
+m3
+38,709
+Rainwater consumption
+m3
+
+Consumption of clean, sewerage and other water
+(uncategorized)
+m3
+7,998
+Utility power
+Thousands of
+kWh
+566,177
+Kerosene
+ｋｌ
+
+Light gas oil
+ｋｌ
+
+A–C heavy oil
+ｋｌ
+
+City gas
+Thousands of
+㎥
+1,330
+Gasoline (company vehicles)
+ｋｌ
+
+Light gas oil (company vehicles)
+ｋｌ
+
+Energy consumption
+Consumption of water resources
+Resource use
+Scope of Mesurement
+・Measurement period: From April 1, 2010 to March 31, 2011
+・Measurement organization: NTT DATA (all organizations), 61 Group companies (domestic only)
+NTT DATA CSR Report 2011
+41/67

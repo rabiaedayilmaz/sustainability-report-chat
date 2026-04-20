@@ -1,0 +1,278 @@
+Planet positive
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+People positive
+Governance
+Greenhouse Gas Emissions and Energy
+Item
+Scope
+Unit
+FY2020
+FY2021
+FY2022
+FY2023*1
+FY2024
+Total
+DC Business*2
+Excl. DC Business
+Greenhouse 
+Gas 
+Emissions
+Scope 1
+③
+t-CO2e
+7,241
+9,613
+14,018
+39,507
+48,218
+23,430
+24,788
+Scope 2
+Market-based
+③
+t-CO2e
+155,165
+130,066
+83,912
+307,009
+278,970
+191,573
+87,397
+Location-based
+t-CO2e
+170,807
+165,748
+165,792
+665,870
+685,096
+493,252
+191,844
+Scope 3
+③
+t-CO2e
+1,671,259
+2,032,993
+1,837,925
+5,011,794
+5,111,151
+1,427,719
+3,683,432
+Category 1 Purchased Products and Services
+③
+t-CO2e
+782,868
+746,721
+717,508
+2,185,193
+1,752,139
+61,601
+1,690,538
+Category 2 Capital Goods
+③
+t-CO2e
+211,494
+208,849
+182,471
+665,310
+692,552
+354,430
+338,122
+Category 3 Fuel- and Energy-Related Activities Not 
+Included in Scope 1 or 2
+③
+t-CO2e
+31,945
+27,124
+18,944
+445,271
+228,759
+190,223
+38,536
+Category 4 Upstream Transportation and Distribution
+③
+t-CO2e
+56,532
+52,966
+49,269
+52,411
+27,611
+
+27,607
+Category 5 Waste Generated in Operations
+③
+t-CO2e
+3,417
+3,944
+4,129
+2,709
+1,999
+
+1,999
+Category 6 Business Travel
+③
+t-CO2e
+20,292
+22,018
+45,063
+120,118
+121,033
+7,999
+113,034
+Category 7 Employee Commuting
+③
+t-CO2e
+13,189
+30,912
+32,874
+62,206
+41,168
+
+40,477
+Category 8 Upstream Leased Assets
+③
+t-CO2e
+
+Category 9 Downstream Transportation and Distribution
+③
+t-CO2e
+
+Category 10 Processing of Sold Products
+③
+t-CO2e
+
+Category 11 Use of Sold Products
+③
+t-CO2e
+455,556
+842,495
+709,613
+343,012
+1,350,435
+
+1,350,306
+Category 12 End-of-Life Treatment of Sold Products
+③
+t-CO2e
+2,170
+1,983
+1,925
+41,332
+2,556
+
+2,554
+Category 13 Downstream Leased Assets
+③
+t-CO2e
+93,797
+95,981
+76,128
+1,091,178
+880,858
+800,863
+79,995
+Category 14 Franchises
+③
+t-CO2e
+
+Category 15 Investments
+③
+t-CO2e
+
+3,052
+11,761
+11,761
+
+Emission intensity*3
+③
+t-CO2e/million yen
+0.49
+0.48
+0.33
+0.89
+0.69
+2.20
+0.55
+Energy 
+consumption
+Electricity 
+consumption
+Electricity consumption
+③
+MWh
+608,759
+329,846
+372,509
+1,434,724
+1,644,612
+1,230,376
+414,236
+Renewable electricity consumption
+③
+MWh
+59,939
+92,077
+187,028
+770,750
+1,012,047
+743,189
+268,858
+Renewable electricity usage rate
+③
+%
+
+Overall energy 
+consumption*4
+Overall energy consumption
+③
+MWh
+641,483
+420,728
+413,000
+1,574,312
+1,822,688
+1,258,906
+563,782
+Total renewable energy consumption
+③
+MWh
+59,939
+92,077
+187,028
+770,784
+1,012,608
+743,751
+268,857
+Share of renewable energy in 
+total energy consumption
+③
+%
+
+PUE*5
+③
+Quotient
+—
+—
+1.40
+1.38
+—
+1.38
+—
+*1 NTT Limited, which was integrated into the NTT DATA in FY2022, is included from the FY2023 results.
+*2 DC Business refers to the figures for the data center business primarily conducted by the Global Technology Services Unit, in line with the definition used for financial data.
+*3 Organization-based emission intensity for allocation to our Group customers, calculated based on the Total Emissions Allocation Method (calculated by dividing Scope 1 + 2 + 3 [Upstream Categories] by sales).
+*4 Total energy consumption is the sum of electricity consumption and the consumption of fuels such as gasoline and city gas.
+*5 PUE is calculated for data centers that have continuous electricity consumption for 24 consecutive months and an IT utilization rate of 20% or more.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Appendix
+ Planet positive

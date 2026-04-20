@@ -1,0 +1,94 @@
+NTT DATA Sustainability Report 2025 Case Book
+Services that 
+are kind to 
+people
+……
+Value provided
+Results created
+Contribution to corporate/social value
+Initiatives
+Improved accessibility in government, financial, 
+legal services
+Improved usability
+(easy for anyone to use)
+Improved usage rates (penetration 
+rate and productivity), etc. of target 
+systems
+Accumulation and 
+development of
+knowledge and assets
+•
+Written accessibility selfcheck procedures
+•
+Accessible UI design 
+templates
+•
+CUD color scheme 
+evaluation support tools
+Efficient compliance with 
+standards (WCAG*, etc.)
+Realization of UI/UX that satisfies 
+public procurement and auditing 
+standards 
+Improved accessibility
+(no one left behind)
+Expansion of inclusion (reachable 
+base/audience) of target systems
+Expansion of event participation, visits, etc.
+(improved visitor/tourism revenue)
+Expansion of employment/participation 
+opportunities
+(securing wide-ranging human resources)
+Improved resilience in diverse societies
+Closing of opportunity gaps (in education, etc.)
+Transformation/optimization of purchasing 
+behavior (sustainable consumption, etc.)
+Company revenue/brand improvement
+(avoiding risk of litigation, etc.)
+Improved customer revenue/productivity
+Diversity & inclusion
+Sustainable supply chain 
+management
+People-centric company
+Trust in IT system
+safety and quality
+Contribution to creation of wideranging social value through 
+qualities of provided systems (work 
+to provide support)
+*Web Content Accessibility Guidelines: International
+guidelines for accessibility related to online content.
+Realization of vision
+Impact story
+Impact stories support the realization of visions by clarifying the specific objectives that a project seeks to achieve and visualizing the causal relationships between a 
+company’s initiatives and the desired results.
+Direct contribution to company revenue/profit 
+based on number of support projects
+JPY 2.0 to 2.4 billion
+Impact 1
+Already realized/to be realized in short term
+To be realized through future initiatives
+Number of people benefitting from 
+accessibility in government services based 
+on smartphone JKPI results
+171,000 people
+Impact 2
+Examples of Impact – Calculation Methods
+Calculations were performed based on items for which clear related data is available, among results that have already 
+been obtained. 
+1: Effects of added value, reduction of opportunity loss, and risk reduction in relation to additional costs, risk of lost orders,
+litigation risks (US, etc.) in scenarios in which accessibility support is not implemented were calculated based on past
+average results and definitions in applicable regulations.
+2: Among users of the services concerned, the number of people who can be expected to benefit from accessibility support
+(people with special visibility requirements and older people) was estimated based on statistics such as the number of
+people visiting Japan from overseas and the number of Japanese people travelling abroad.
+Improved support for
+digital accessibility in 
+various projects
+•
+Formulation of 
+policies/guidelines
+•
+Diagnoses
+•
+User testing
+Digital Accessibility Consultations

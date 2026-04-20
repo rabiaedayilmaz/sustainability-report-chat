@@ -1,0 +1,108 @@
+NTT DATA Sustainability Report 2018
+ Security Training for the Sales, Development, and Operation Phases
+The NTT Group promotes security personnel training at domestic Group companies. The NTT DATA 
+Group is also engaged in further enhancing the quality of security personnel, focused on the SI 
+business. Additionally, in fiscal 2016 NTT DATA began planning and developing its own original 
+training measures aimed at instilling the latest security knowledge and practical skills necessary for 
+sales, development, and operation phases. In fiscal 2017, we developed and expanded the scope 
+of these measures to include domestic NTT DATA Group companies. More than 1,200 employees 
+participated in training in fiscal 2017.
+ In the future, we will continue to make efforts to develop personnel with a high degree of security 
+knowledge and allocate them to key sales, development, and operational positions, thereby raising 
+security levels for the entire NTT DATA Group.
+Response to Security Incidents Involving the Leakage of Personal 
+Information
+NTT DATA maintains personal, confidential, and business information. When this information leaks, 
+it poses the threat of damaging our social credibility and brand image. Leaks may also have negative 
+impacts on the Group’s operating results and financial conditions through, for example, payments 
+for damages. We are engaging in the following initiatives aimed at predicting and alleviating these 
+security risks:
+Management system
+We established a system led by the Corporate and Technology Strategy Officer, in which the 
+Information Security Committee comprehensively evaluates activities conducted during the fiscal 
+year under review. 
+Auditing and monitoring 
+system
+The Company established a governance monitoring system that covers domestic and international 
+Group companies and operates from three points of view: thoroughness of basic operations, 
+external fraud countermeasures, and response to internal fraud.
+Incident response
+We are operating an organizational CSIRT that works to detect incidents early on and provide quick 
+and appropriate emergency response.
+Human resource 
+development
+The Company is strengthening both e-learning and classroom-based training to develop human 
+resources well-versed in security.
+ In January 2018, we confirmed that our in-house terminals were infected by ransomware* called 
+“WannaCry.” We formed a response team, led by NTTDATA-CERT, that identified the extent of 
+damage caused by the virus and worked to destroy it. We later confirmed that the virus was 
+completely removed from our internal networks.
+ Additionally, we worked to strengthen the security of our in-house IT platform and prevent similar 
+occurrences of damage by enhancing terminal security settings and establishing a mechanism for 
+continuous monitoring of the virus’s behavioral characteristics as it spread.
+ Moving forward, we will work on raising the sophistication of our response measures in preparation 
+for the appearance of new threats, utilizing IT to increase our capacity for preventing infections and 
+detecting risks early on, shortening response times, and minimizing overall damage.
+* A type of computer virus
+The NTT DATA Group provides many information systems and services that support social 
+infrastructure. As a result, a system shutdown or interruption of services in the event of a disaster 
+would have an enormous impact on society and people’s lives. Therefore, we strive to constantly 
+improve our disaster BCP as well as contingency plans for systems and services related to social 
+infrastructure. Since the Great East Japan Earthquake, we have particularly sought opportunities 
+where we can apply the lessons we learned from this difficult experience.
+ Structure for Responding to Earthquakes and Other Large-Scale Natural Disasters
+ Structure for Responding to Earthquakes and Other Large-Scale Natural Disasters
+Disaster Countermeasures Headquarters
+System manager
+System manager
+System manager
+System manager
+Damage reporting / 
+Business continuity 
+decisions
+Individual system 
+operation / 
+Restoration services
+Customers
+Head Office
+NTT DATA
+Group companies
+Each segment, etc.
+Plans and Systems Responsive to Disaster-Related Risks
+As in the case with the Great East Japan Earthquake, we face the risk of disasters of greater scale 
+and diversity, which further raises the importance of plans and systems for response.
+ In addition to establishing a BCP in the event of a disaster and a contingency plan, NTT DATA is 
+conducting drills to ensure that it swiftly responds for the continuation of its business after a disaster.
+ We hold Companywide drills for all employees, including drills for confirming personal safety and 
+setting up the Disaster Countermeasures Headquarters at the Head Office. Furthermore, each 
+organization conducts separate drills that reflect the nature of their respective operations in an effort 
+to minimize disaster risks.
+ Protecting our buildings, electrical systems, air conditioners, security, and various functions of our 
+data centers is vital for the operation of information systems. For this reason, we have obtained 
+certification for ISO 22301:2012, an international standard for business continuity management, at 
+all Group-owned buildings and have established a system able to respond in the event of a large 
+earthquake, widespread power outage, or similar incidents.
+* As of March 31, 2018
+Disaster and System Failure Countermeasures
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

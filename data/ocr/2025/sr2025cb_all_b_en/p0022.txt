@@ -1,0 +1,146 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Providing digital banking services in collaboration with digital-only brands and non-financial 
+businesses
+NTT DATA Japan Corporation
+Second Financial Sector
+Sales Planning and Promotion Department
+Second Sales Planning Section
+NTT DATA GROUP
+Impact
+Press Release:
+BeSTA-BaaS Launched as Japan’s First Jointuse BaaS Platform (in Japanese only)
+Business need
+Solution
+•
+Regional banks are downsizing, consolidating, and closing, making it more difficult for local people to access financial services.
+•
+Japan faces frequent natural disasters, including earthquakes and floods. Damage to bank branches and ATMs risks interrupting in-person provision of financial services.
+•
+Efforts to cater to the digital native generation must improve and services that meet the needs of new customers are required.
+Regional financial institutions are under strong pressure to
+digitalize and Banking as a Service (BaaS), a model in which
+banks use bank agency service or similar licenses to enable
+non-financial companies to provide banking services under
+their own brands, has seen accelerating growth. The agility and
+flexibility of banking systems must be enhanced to deliver
+diverse services while maintaining financial institutions’ nonnegotiable high standards of security and peace of mind.
+Regional
+financial
+institutions
+are
+also
+using
+digital
+technology to acquire new customers through smartphonenative brands that do not use branches or cards. This enables
+them to reach new markets nationwide, including beyond their
+own business area, and to deliver new services for the digital
+native generation.
+NTT
+DATA
+is
+engaged
+in
+open
+innovation
+with
+numerous
+stakeholders in the financial IT field and launched BeSTA-BaaS in
+October 2024.
+Financial institutions that utilize NTT DATA’s joint-use core banking
+systems can offer digital-only brands, and digital bank services can be
+provided in partnership with non-financial companies using bank
+agency service licenses. Specifically, with BeSTA®, the core banking
+system that enables the addition of new products, existing products
+and digital bank products can be delivered separately and at speed.
+Back-office
+operations
+at
+digital-only
+branches
+can
+implement
+workflows optimized for them, reducing the workload associated with
+creating new brands.
+For the banking apps that are most important to end users, the
+white-label banking app My Pallete® can be used to create bespoke
+banking apps aligned with the worldview of new digital brands or nonfinancial partners from fields such as logistics and communications.
+NTT DATA will continue applying these solutions to enhance financial
+institutions’ ability to implement DX with the aim of attracting new
+customers.
+• 10,000s of new account holders created per month
+(Simulation of use by non-financial companies. Results may 
+vary depending on number of existing customers.)
+• More than 5,000 accounts set up over 
+several months in one case study
+(Launch of second brand.)
+W Bank
+Z Bank
+Y Bank
+Existing brand
+Different sector
+Different brand
+Existing brand ecosystem
+Branch A
+Branch X
+Branch V
+Bank code
+conversion
+Regional Bank Integrated Services Center
+ANSER
+Branch B
+Addition of new 
+branches (required)
+Core banking system
+Addition of new 
+functions (required)
+Processing
+divided by brand
+BeSTA-BaaS Joint-use BaaS Platform
+Ecosystem for different brand
+Ecosystem for different sector
+New ecosystem construction
+(required)
+Bank code
+conversion
+Existing brand
+ecosystem
+Automated account setup
+and processing of
+submissions, etc.
+Submissions
+(address change, etc.)
+New ecosystem construction (optional)
+Zengin Center
+Receiving organization
+Seven Bank
+ATM
+Funds transfer transactions at 
+Branch V or Branch X of existing 
+brand
+Account transfers at Branch V or 
+Branch X of existing brand
+Branches added for
+each brand or sector
+Conversion to current
+brand’s bank code
+Establishment of separate
+bank code ecosystem
+Ecosystem
+for different brand
+Submissions
+(address change, etc.)
+Ecosystem 
+for different sector
+Submissions
+(address change, etc.)
+Products/services
+set on per-brand
+basis
+Overall image of BeSTA-BaaS
+BeSTA-BaaS
+Japan

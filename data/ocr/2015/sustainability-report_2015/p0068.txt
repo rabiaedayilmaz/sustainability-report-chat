@@ -1,0 +1,118 @@
+■ Risk Management Categories
+ 
+Head 
+ 
+Office
+NTT DATA
+ 
+Regional 
+ integrated 
+ companies, 
+ 
+etc.
+ 
+Other 
+ companies
+NTT 
+DATA
+Japan
+(NTT DATA)
+North 
+America 
+(NDI)
+EMEA
+(EMEA)
+APAC 
+(NDAP)
+China 
+(NDCI)
+Business 
+Solutions 
+(itelligence)
+everis 
+(everis)
+Region-Control Risks
+Select and evaluate material risks and establish PDCA cycles at individual bases
+Global-Control Risks
+Collect information on risk management status at bases from Head Office perspective, 
+and then analyze, evaluate, and establish PDCA cycle
+Risks faced by other companies on an individual basis
+Analyze Groupwide risks 
+and establish countermeasures
+Evaluate and analyze risk 
+management status at regional 
+integrated companies, etc.
+Analyze risks and establish countermeasures for regional integrated companies
+Evaluate and analyze risk 
+management status at other 
+companies, etc.
+Analyze risks and establish 
+countermeasures for other 
+companies
+Material Risk Selection Process
+Material risks are selected for the head office, regional integrated companies, etc., and other companies based on approximately 
+50 defined risk candidates. A cycle of evaluation and improvement is instituted for material risks based on the countermeasure 
+implementation status and actual occurrence incidents.
+■ Process of Selecting Region-Control Risk
+Approx. 50 Risk 
+Candidates
+Material Risk Countermeasures
+Example:
+ Leakage of customer / employee information
+‌Logical measures: Improved 
+security education
+Technical measures: More stringent 
+security quality standards
+Evaluation / 
+Improvement
+Selection of 
+material risks
+Evaluations 
+of remaining 
+risks
+Monitoring of 
+countermeasure 
+implementation status and 
+risk occurrence incidents
+Material Risks
+ Leakage of customer / 
+employee information
+ 
+ 
+ ‌Removal of confidential 
+information from premises
+ ‌Cyber-attacks
+ ‌Problem projects
+ ‌‌System malfunctions
+ ‌‌Natural disasters
+ ‌‌Pandemics
+ ‌‌Inappropriate outsourcing
+Formulation of material 
+risk countermeasures
+Revision of risk 
+candidates
+Leakage of customer / 
+employee information
+Risk Evaluation Results
+Large
+Low
+Medium
+High
+Very high
+Very
+Large
+Medium
+Small
+Degree of 
+impact
+Likelihood of occurrence
+Leakage of customer / employee information
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

@@ -1,0 +1,216 @@
+Risks and opportunities
+Risk / 
+opportunity 
+type
+Outline
+Time 
+horizon*1
+Financial impact of risks and opportunities
+Countermeasure costs
+Risk 1
+Increase in energy costs 
+in Japan caused by a 
+shift to renewable energy
+Transition 
+risk
+We are expected to maintain our business 
+by procuring power from renewable energy 
+to help achieve the Paris Agreement.
+Long term
+If we switch all energy currently consumed at the Company to 
+renewable energy, the estimated cost increase will be at least about 
+¥2.8 billion.
+The cost of renewable energy self-generation facilities and the cost 
+of participation in the community cooling and heating systems is 
+approximately ¥700 million.
+Risk 2
+Increase in cap-andtrade costs under the 
+Tokyo program
+Transition 
+risk
+Operational costs may increase to reduce 
+our total amount of CO₂ to help achieve the 
+target of the Tokyo Cap-and-Trade Program.
+Medium 
+term
+If we purchase offset credits for all emissions reductions required to 
+achieve the target for the 2nd period (2015-2019) of the Tokyo Capand-Trade Program, the cost is estimated to be about ¥100 million. 
+* Our emissions in the 2nd period are actually expected to be 
+partially offset by the surplus in the 1st period.
+The cumulative costs of upgrading facilities and enhancing operations 
+at the seven NTT Data buildings in Tokyo in Fiscal 2017 and 2018 
+was approximately ¥700 million.
+Risk 3
+Data center shutdown 
+due to abnormal
+weather
+Physical risk
+Abnormal weather such as large typhoons, 
+floods, heat waves, and torrential rainfalls 
+may increase the risk of data center 
+shutdown due to a power cut, flood, and 
+lightning strike.
+Short term
+If a data center is shut down for one day, the sales loss will be ¥3.2 
+billion (average daily sales calculated from total sales). In reality, we 
+would suffer further damage, such as a decline in trust, so this figure 
+is actually the lowest value that could be expected.
+The annual cost of upgrading air conditioning for the purpose of 
+preventing cessation of self-generation of power in times of crisis and 
+to reduce power consumption (minimum cost of countermeasures) is 
+approximately ¥1.0 billion.
+Risk 4
+Increase in operating 
+costs due to rising 
+average temperature
+Physical risk
+Operating costs may increase due to rising 
+average temperature.
+Short term
+If the temperature rises by 1℃, it is estimated that power 
+consumption at data centers in Japan will increase by approximately 
+5.4 million kWh and energy costs will increase by approximately ¥80 
+million per year.
+The cumulative costs of upgrading facilities and enhancing operations 
+all data centers in Japan between fiscal 2012 and 2018 exceeded 4.9 
+billion yen.
+Risk 5
+Outflow of excellent 
+human resources
+Transition 
+risk
+Employee retention may be reduced if 
+the public reputation of the Company is 
+impaired and employee satisfaction declines 
+due to the Company’s ESG performance.
+Long term
+If the Company's superiority is lost and the turnover rate is at the 
+same level as the industry standard, sales will decrease by ¥62.2 
+billion.
+Our education and training costs to enhance employees’expertise, 
+including their training on global trends in and the Group’s response 
+to climate change, are approximately ¥7.8 billion. The annual running 
+cost of telework, etc. for realizing flexible work styles that allow 
+employees to work in their home or satellite offices is approximately 
+¥1.1 billion. The total costs are, therefore, ¥8.1 billion.
+Risk 6
+Decline in reputation 
+due to delayed 
+response
+Transition 
+risk
+Investors’evaluation of the Company may 
+deteriorate, resulting in a decline in its 
+stock prices if the Company fails to respond 
+swiftly to an increasing number of requests 
+from investors to disclose ESG information.
+Short term
+If the price of shares held by overseas investors falls by 0.1%, the impact 
+on the Company’s market capitalization will amount to approximately 
+¥293 million.
+*Calculated on the basis of 1,402,500,000 outstanding shares as of 
+March 31, 2019
+The cost incurred to respond to investor requests to disclose corporate 
+information regarding climate change is about ¥20 million.
+Opportunity
+
+Increase in demand for 
+energy-efficient data 
+centers
+Opportunity 
+to increase 
+demand for 
+services
+Demand for data centers may increase 
+because the enforcement of the Paris 
+Agreement will necessitate the improvement 
+of the efficiency of IT systems, which account 
+for a large proportion of corporate energy 
+consumption.
+Medium 
+term
+Data centers and their related services are a ¥57.0 billion business (as 
+of March 31, 2019), and we believe that they will grow into a ¥62.0 
+billion business in 2020 due to demand for outsourcing to energyefficient data centers.
+The total cost of research and development in the reporting year, 
+including Green Data Center element technologies such as AI/IoT, 
+Deep learning and virtualization, was ¥15.1 billion.
+Opportunity
+
+Increase in demand 
+for cloud services due 
+to increased abnormal 
+weather
+Opportunity 
+to increase 
+demand for 
+services
+The use of cloud-based data centers, which 
+offer a high level of safety and protection of 
+corporate data from being lost in abnormal 
+weather, may accelerate.
+Short term
+The NTT DATA Group’s cloud computing services sales were ¥584.6 
+billion in 2018.
+The amount of our investments in cloud computing services made 
+between fiscal 2009 and 2016 was more than ¥10.0 billion.
+Opportunity
+
+Increase in demand for 
+smart meters
+Opportunity 
+to increase 
+demand for 
+services
+The improvement of the efficiency of social 
+infrastructure may accelerate due to rising 
+concern regarding climate change and 
+increasing energy costs.
+Short term
+We are receiving orders for smart meter operation management 
+systems and being given opportunities to plan cloud services for 
+electric power companies. For the five years beginning in 2017, we 
+are aiming for cumulative sales of ¥10.0 billion for all electricity retail 
+liberalization services.
+The total expenditure on research and development, including 
+the cost of research and development associated with smart 
+cities, such as automatic driving and traffic congestion prediction 
+and amelioration simulations, and smart meter operation and 
+management such as AI/IoT, is ¥15.1 billion.
+Opportunity
+
+Recruiting excellent 
+human resources
+Opportunity 
+to acquire 
+human 
+resources
+Adoption of more flexible work styles such 
+as telework may lead to the acquisition of 
+human resources.
+Medium 
+term
+We are promoting telework throughout the Company to realize 
+flexible work styles and reduce CO₂ emissions from commuting. Effect 
+of flexible work styles such as telework on CO₂ emissions reduction 
+is estimated to be equivalent to about ¥90 million.
+Our telework environment operating costs, such as those for 
+participation in Telework Days and development using the 
+Integrated Development Cloud, NTT Data Groupwide development 
+environment, are ¥1.1 billion.
+▶Climate-Related Risks and Opportunities
+*1: Short term: current year; Medium term: 1 year to less than 3 years; Long term: 3 to 13 years
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

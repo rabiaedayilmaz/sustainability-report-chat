@@ -1,0 +1,63 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Supplier Engagement
+Main Initiatives to Achieve the SBT 1.5°C Target
+NTT DATA monitors and analyzes suppliers’ climate change initiatives. Since April 2022, 
+we have been advancing these efforts as Japan’s first premium member of the CDP’s 
+Supply Chain Program. In fiscal 2024, we requested responses to the CDP questionnaire 
+from suppliers representing approximately 70% of NTT DATA’s procurement spending, 
+including hardware products and outsourced software development, and received 
+responses from about 270 companies to assess initiatives by industry. Based on the 
+analysis, we updated and distributed our proprietary guide, originally created in fiscal 
+2022, on calculating GHG emissions and setting reduction targets to further promote 
+initiatives among outsourced software development suppliers. In recognition of these 
+efforts, NTT DATA has been selected for the highest rating, Supplier Engagement Leader, 
+in the CDP’s Supplier Engagement Assessment for three consecutive years.
+ 
+For suppliers in Japan, NTT DATA defines the top approximately 70% by procurement 
+spending as key suppliers and supports their climate change initiatives through measures such as supplier briefings. In fiscal 2024, we held an online supplier briefing for 
+roughly the top 80% of our suppliers in Japan, with about 200 companies participating. 
+These briefings are held annually and include requests for cooperation on GHG reductions at SBT-approved levels and updates on social trends related to climate action. To 
+support suppliers’ initiatives, we also provided relevant information and GHG reduction 
+guidebooks to around 440 companies targeted for the briefings as a follow-up. 
+ 
+In addition, we engage in regular discussions with suppliers that are making 
+advanced efforts to provide low-environmental-impact products and solutions. By sharing the necessary information with NTT DATA Group Corporation, NTT DATA Japan Corporation, and Group companies in Japan, we are creating an environment that allows for 
+procurement considerations—including green purchasing—based not only on pricing 
+but also on environmental information, thereby promoting the reduction of GHG emissions on a product-by-product basis.
+Engagement with Suppliers
+For key suppliers in Japan and outside Japan, we track their climate action efforts and 
+discuss their challenges and GHG reduction plans aimed at achieving Net-Zero, thereby 
+supporting their initiatives. Specifically, for suppliers that have already calculated their 
+emissions and set reduction targets, we encourage them to reduce emissions both at 
+the corporate level and for individual products. For suppliers that have not yet calculated 
+their emissions, we request that they first undertake emissions accounting.
+ 
+To promote climate action among suppliers in Japan, NTT DATA Group Corporation, 
+NTT DATA Japan Corporation, and Group companies in Japan engage business partners* 
+through initiatives such as partner appreciation gatherings, where senior management is 
+encouraged to understand and support climate action efforts. We also hold workshops 
+aimed at building a community of environmental officers from each business partner, 
+providing explanations and group discussions based on our proprietary guide on GHG 
+emissions visualization and target setting, to deepen understanding of climate initiatives. 
+In addition, we identify challenges faced by each business partner through responses to 
+CDP questionnaires and other sources, and support their efforts through participation in 
+programs such as the Ministry of the Environment’s Model Project for Promoting Decarbonized Management for SMEs Toward GHG Reduction Targets, as well as through oneon-one dialogue sessions. Through these activities, we continue to lead and support our 
+business partners in advancing their climate action initiatives.
+* NTT DATA Group Corporation and NTT DATA Japan Corporation select contractors in Japan as business partners who are expected 
+to provide ongoing support for our business operations, in order to jointly promote quality assurance activities for clients.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

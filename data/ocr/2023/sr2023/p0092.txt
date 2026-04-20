@@ -1,0 +1,63 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Promoting Work-Style Innovation 
+ 
+In innovating work styles, our goal is for each employee to improve the quality of his or her work in the limited time available, 
+while also making effective use of the time created through reduced working hours for self-fulfillment pursuits. We want every 
+employee to continue growing and playing an active role in the Company, which will help us create our strong competitive edge. 
+We also aim to become “the company of choice in the labor market” by improving systems and working environments, enhancing 
+development productivity, and reducing long working hours through cooperation with customers and suppliers. 
+ 
+ Main Initiatives to Reform Work Styles 
+ Ongoing training for newly appointed general managers and section chiefs on the theme of “optimization of working hours” 
+ Creating environments that allow for flexible work styles in accordance with the characteristics of each organization, such as 
+Company-wide thin clients, discretionary labor, remote work, and flexible working hours 
+ Promoting the use of paid leave (refreshment leave*1, anniversary leave*2, and paternity leave*3) 
+ Increasing the flexibility of system operation to provide ample relaxation time 
+ Promoting remote work through infrastructure improvements and allowances 
+*1 Employees can take more than four consecutive days of vacation together with regular holidays when a work milestone is achieved. 
+*2 Employees decide their own anniversary date and can take planned vacations every year on this anniversary. 
+*3 Promoting the uptake of childcare leave and life planning leave for parenting purposes. 
+ 
+ Reducing Total Working Hours 
+Long working hours has been an ongoing problem in the IT industry, and NTT DATA is working Company-wide to reduce total 
+working hours based on proper working hour management. 
+Up to fiscal 2019, we were able to reduce total working hours, but since fiscal 2020, the spread of COVID-19 has resulted 
+in an increase in average total working hours per employee, with the figure standing at 1,996 hours in fiscal 2022. Total working 
+hours for managerial positions have also increased. Since the COVID-19 pandemic, many employees have been working without 
+going to the office and with the elimination of commuting hours employees have been able to work more hours and 
+communication time has risen. In addition, various factors, including the increased workload due to business expansion and the 
+challenges in resource allocation caused by higher workforce mobility, have compounded this issue. 
+Because constant long working hours have a significant impact on employee health, we are working to prevent excessive 
+working hours by using our BI platform (Tableau) to visualize the results of analysis of data related to working hours in a secure 
+and timely manner and distribute them throughout the Company. Through position-based training and our internal website, we 
+motivate employees to reduce working hours by raising awareness about the need for rationalizing working hours and embracing 
+a shift in work styles. In fiscal 2023, we have set organization-specific targets for average total working hours and will monitor 
+performance quarterly to work toward reducing working hours. 
+ 
+ Encouraging Employees to Take Paid Leave 
+NTT DATA promotes a work-life balance for its employees by encouraging them to be proactive in taking paid leave, such as 
+refreshment leave and anniversary leave. As a result, employees took an average of 16.6 days of paid leave per person in fiscal 
+2022. This figure has been gradually rising since fiscal 2020. While total working hours have increased, the number of paid leave 
+days taken has also risen, allowing for a more balanced work style. 
+[Reference page] “Employee data” Average Annual Paid Leave Taken; Rate of Paid Leave Taken 
+ 
+ Emphasizing Location-Neutral Work Styles 
+To foster a secure environment and encourage diverse, forward-thinking work styles, we have established an environment that 
+enables employees to flexibly determine their work location and schedule based on their job processes and goals. 
+As a concrete measure to realize work-style innovation, in 2018, we revised our teleworking (working from home) system 
+to increase the flexibility of working space and time. By removing limits on the number of teleworking days and allowing 
+employees to telework in places other than their homes, NTT DATA employees are now taking advantage of this system. In 
+October 2020, moreover, we established a remote work allowance to address the growing burden of overhead costs on 
+employees as the number of those teleworking increases. 
+Starting from November 2022, we have implemented a new system to support diverse work styles, embracing a hybrid work 
+approach that combines both in-person and remote work for the best mix. Our approach to work is not uniform across the entire 
+company. Instead, it allows each organization to discuss and determine the preferred work scenarios for in-person and remote 
+work based on factors such as the status of the organization and the project. This flexibility enables employees to choose the 
+system and work style that align with their business objectives. In fiscal 2022, the remote work rate reached 71%. 
+In addition to the flexible working hour and discretionary labor systems, which aim to promote flexible work hours, we 
+introduced the “Super Flex-time” system in October 2020, which eliminates core hours, to enable even greater flexibility in work 
+arrangements and expand the scope of application. 
+Moreover, our IT environment is designed with the concept of “Employee Centric,” placing the actions of our employees at 
+the core. We aim to improve not only employee productivity and engagement but also to maximize business growth and the

@@ -1,0 +1,72 @@
+*1 An organization comprised of members of both the public and private sectors that was established to promote the spread of smart communities within Japan as well as their global 
+expansion
+*2 Sponsored by the Japan Electronics and Information Technology Industries Association (JEITA). The Green IT Promotion Council is responsible for promoting green IT and helping 
+build a smart society through various activities. These include developing methods for estimating and measuring the energy-saving of and with IT devices, formulating an energysaving technology roadmap, developing public awareness about green IT in Japan and overseas, and bolstering cooperation with countries in Asia and elsewhere.
+*3 A working group of the Life Cycle Assessment Society of Japan. The group’s objectives are to establish a shared method for estimating the effect that ICT has on reducing 
+environmental impact and devise key performance indicators (KPIs) to measure energy savings achieved via environmental management in companies that supply ICT as well 
+as companies that adopt ICT.
+ Proactively Participating in Environmental Projects Promoted by Administrative and 
+Industrial Organizations
+ Promoting Green Purchasing through an Assessment of a Company’s Corporate 
+Stance and Products
+The NTT DATA Group participates in environmental projects promoted by the government and other organizations, taking 
+advantage of technologies and expertise honed from the construction of numerous public administration systems. We also 
+actively join environmental working and other groups of a variety of organizations.
+In recent years, we have been exchanging a wide range of opinions as a member of the Japan Smart Community Alliance 
+(JSCA)
+*1 and the Green IT Promotion Council
+*2. These discussions include the creation of smart communities aimed at realizing 
+next-generation sustainable societies, the development of methods for estimating and measuring the energy-saving of and 
+with IT devices, and research involving the introduction of energy management systems to buildings and stores. NTT DATA 
+also works in a study group under the business platform of the Life Cycle Assessment Society of Japan (JLCA)
+*3 on building 
+a common framework among corporations to reduce CO² emissions via the use of IT and has participated in formulating 
+common guidelines for estimating reductions in CO² emissions in ICT businesses.
+NTT DATA has established an assessment criterion with respect to environmental preservation and the eco-friendliness of products 
+and services as factors in procuring items and selecting business partners. This criterion complements such traditional criteria as 
+price and quality assessment. Collectively, this evaluation criteria sets out specific standards for selecting suppliers.
+Promoting Green Purchasing
+ Important Assessment Items
+At present, assessments conducted with the aim of promoting green purchasing center on evaluating the approach a company 
+takes with regard to environmental issues. While this naturally includes compliance with environmental laws and regulations, 
+considerable weight is also attached to whether or not ISO 14001 certification and other environmental management standards have 
+been acquired. Furthermore, we assess the operating effectiveness of environmentally oriented management in place at suppliers 
+that have not attained environmental certification. We do this by asking specific questions based on a checklist, such as whether 
+or not they have environmental guidelines, targets for reducing the environmental impact of their activities, or an environmental 
+management structure.
+■ Mechanism of Green Purchasing
+Green Rating
+③Green Rating
+①Submission of 
+Green Rating 
+sheet
+②Submission of 
+Green Rating 
+sheet
+⑥ Notification of comprehensive rating results
+④ Comprehensive rating 
+(not disclosed)
+⑤ Purchase
+Previous rating
+Corporate rating
+Service 
+rating
+Performance 
+rating
+Price
+Quality rating
+Partner 
+company
+Terms of business
+Rating of corporate 
+attitude
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

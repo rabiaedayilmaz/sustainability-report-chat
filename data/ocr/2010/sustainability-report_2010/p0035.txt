@@ -1,0 +1,214 @@
+Targets and Results
+The NTT DATA Group formulates medium-term targets for reducing environmental impacts for a 
+three-year period. Targets are reviewed each year to achieve ongoing improvement of 
+environmental protection activities.
+The NTT DATA Group establishes three-year medium-term 
+targets as part of ongoing ISO 14001 improvement activities 
+and reviews those targets each year against results. Since 
+fi scal 2010, one medium-term management focus has been 
+to enhance environmentally oriented management. In 
+pursuit of this goal, we have promoted the greening of the 
+NTT DATA Group, the greening of customers and society, and 
+environmental contributions and communications. We have 
+made adjustments to the targets and results for our 
+environmental activities attuned to this shift in direction.
+We have revised target values and the foci of activities for 
+fi scal 2011 and beyond and established more demanding 
+improvement objectives to bolster environmentally oriented 
+management. We will promote the development of groupwide 
+measures and policies in a drive to achieve these aims. 
+Fiscal 2010 results
+With regard to the greening of the NTT DATA Group, we have 
+established reduction targets for greenhouse gas emissions, 
+waste for fi nal disposal and copy paper purchased. Cuts in 
+greenhouse gas emissions were spearheaded by 
+transformation to higher effi ciency and improvements to the 
+operation of data centers and other facilities, the 
+introduction of solar power systems, energy saving in offi ces 
+and other initiatives. Although these measures resulted in a 
+2% decline in emissions volumes compared with the 
+previous fi scal year, to 296,890 tons of CO2*2, in terms of 
+basic units of sales, the reduction rate was only 8.2% of the 
+fi scal 2006 value. Waste for fi nal disposal grew 3.7%, to 417 
+tons, despite boosting the volume of waste consigned to 
+industrial waste disposal companies that have high recycling 
+ratios, carrying out thorough separation of waste and taking 
+other steps. This represented a 39% drop compared to fi scal 
+2006 values in terms of basic units of sales, falling short of 
+our target. We purchased 269.78 million sheets of copy 
+paper during the year, down 13.6% from fi scal 2006. This 
+target was comfortably achieved as a result of the 
+establishment of individual objectives by organizational 
+units and the promotion of paperless meetings. 
+In addition, we improved environmental impact 
+assessments and disseminated information to Group employees 
+to promote the greening of customers and society by striving to 
+cut the environmental impact of society through IT.
+We also carried out all seven of our planned 
+environmental contribution activities as part of our 
+environmental contributions and communications initiatives.
+Fiscal 2010 Results and Targets for Fiscal 2011 and Beyond
+Activities
+Fiscal 2010 Results
+Activities
+Targets for Fiscal 2011 and Beyond
+Target Value 
+Deﬁ nitions
+Target 
+Values
+Achieved/Achievement 
+Status
+Target Value 
+Deﬁ nitions
+
+Greening of the 
+NTT DATA 
+Group
+Reduce 
+greenhouse 
+gas emissions
+Greenhouse gas 
+emissions (CO2 
+conversion) per unit 
+net sales (ﬁ scal 2006 
+comparison)
+9.5% 
+reduction
+Not achieved
+8.2% reduction
+Reduce 
+greenhouse gas 
+emissions
+Greenhouse gas 
+emissions (CO2 
+conversion) per unit 
+net sales (ﬁ scal 2006 
+comparison)
+10% 
+reduction
+12% 
+reduction
+15% 
+reduction
+Reduce waste for 
+fi nal disposal
+Waste for ﬁ nal disposal 
+per unit net sales (ﬁ scal 
+2006 comparison)
+45% 
+reduction
+Not achieved
+39% reduction
+Reduce waste for 
+ﬁ nal disposal
+Waste for ﬁ nal disposal 
+ (ﬁ scal 2009 
+comparison)
+12% 
+reduction
+16% 
+reduction
+20% 
+reduction
+Reduce copy 
+paper purchased
+Copy paper purchased 
+(ﬁ scal 2006 comparison)
+7% 
+reduction
+Achieved
+13.6% reduction
+Reduce copy paper 
+purchased
+Copy paper purchased 
+(ﬁ scal 2009 comparison)
+15% 
+reduction
+25% 
+reduction
+35% 
+reduction
+Greening of 
+customers and 
+society
+Reduce the 
+environmental 
+impact of 
+society through 
+the promotion 
+of Green IT
+• Revise the operability and 
+other features of a quantitative 
+assessment tool to boost their 
+eﬀ ectiveness
+• Raise awareness of the 
+relationship between IT and the 
+environment among employees
+• Began investigations into 
+next versions of the tool
+• Hosted three 
+EnvironmentRelated Seminars and 
+disseminated information 
+via our Green IT Portal site 
+(updated bimonthly)
+Reduce the 
+environmental 
+impact of society 
+through IT
+CO2 reduction 
+volume
+2011, 2012: Label 
+certiﬁ cations*3
+Label 
+certiﬁ cations: 
+
+Label 
+certiﬁ cations: 
+
+1.5 million 
+tons of 
+CO2
+Expand 
+environmental 
+solutions business
+Net sales
+¥5 billion
+¥7 billion
+¥10 billion
+Environmental 
+contributions and 
+communications
+Engage in regional 
+community 
+environmental 
+contribution 
+activities
+Execution rate by 
+the organizations’ 
+planning activities
+90%
+Achieved
+100%
+Engage in regional 
+community 
+environmental 
+contribution activities
+Activity participants
+
+1,500
+3,000
+*3 Label certiﬁ cations: The number of NTT Group Solution Environmental Labels certifi ed (Refer to “Solution Environmental Label” on pages 16 and 36)
+Note: For additional information, please refer to page 45.
+Numerical Data on Targets and Results
+Fiscal 2010 results and targets for fi scal 2011 and beyond for the Group are calculated within the applicable scope of groupwide integrated ISO 14001 certifi cation (see 
+page 32).
+ *2 Converted value expressing the volume of electricity used. Conversion 
+factor based on fi scal 2006 emissions factor (0.555 kg-CO2/kWh).
+Fiscal 2010 Results and Medium-Term Targets
+Managing target achievement by establishing 
+three-year medium-term targets
+NTT DATA CSR Report 2010 35
+NTT DATA and Its Stakeholders
+CSR Infrastructure
+NTT DATA and the Environment
+NTT DATA and the Environment

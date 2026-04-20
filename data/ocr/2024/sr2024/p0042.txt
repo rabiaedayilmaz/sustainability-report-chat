@@ -1,0 +1,102 @@
+Management of 
+Risks and Impacts
+Disclose how the organisation identifies, 
+assesses, and manages 
+nature-related dependencies, impacts, risks, 
+and opportunities.
+A-(i) Process for identifying, assessing, and prioritizing nature-related dependencies, impacts, risks, and opportunities in direct operations 
+We analyze whether our locations are in proximity to regions with water stress and significant biodiversity. We also collect water usage and wastewater data for 
+each site through surveys (see the table below). In cases where our sites are in proximity to significant regions, we gather secondary data to confirm the local 
+context and conduct individual site-specific verifications. Subsequently, we identify and assess risks and opportunities.
+ 
+We also regularly monitor the management status of our fuel storage facilities.
+A-(ii) Organization’s process for identifying, assessing, and prioritizing 
+nature-related dependencies, impacts, risks, and opportunities in the 
+upstream value chain
+We request that our suppliers take environmental initiatives in accordance with the NTT DATA Group Guidelines for Sustainability in the Supply Chain. Approximately 70% of our suppliers have signed the agreement to adhere to these guidelines based on procurement amounts. In addition, we identify nature-related 
+risks through a Self-Assessment Questionnaire (SAQ).
+B. Organization’s processes for managing nature-related dependencies, 
+impacts, risks, and opportunities, along with actions taken in accordance 
+with these processes
+Analysis to identify nature-related dependencies, impacts, risks, and opportunities began in fiscal 2022, and we are currently reviewing processes and actions 
+to manage these factors. Our current analysis revealed that data centers operating in very high water-stressed areas in Southeast Asia consume water through 
+cooling systems that experience evaporation. Meanwhile, the water service providers supplying water to the data centers have confirmed that they adequately 
+consider stable water supply, as they regenerate wastewater into industrial water using reverse osmosis membranes, covering 40% of water demand with recycled water. Furthermore, the data centers are equipped with water storage tanks, which enhances their resilience for business continuity. 
+ 
+Regular training is conducted at each facility to prepare for potential oil spill incidents in oil storage facilities.
+C. How the processes for identifying, assessing, and managing nature-related 
+risks are integrated into the organization's overall risk management
+Nature-related risks and opportunities are controlled through the Internal Control Committee. Similar to climate change–related risks, we define the impact levels 
+in four categories: high, high-medium, medium, and low. One data center operating in a very high water-stressed area in Southeast Asia has estimated its financial 
+impact and is classified as having a “low” risk.
+Metrics and Targets
+Metrics and targets used 
+to assess and manage 
+relevant nature-related 
+dependencies, impacts, 
+risks, and opportunities
+A. Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk 
+management process.
+We monitor the presence or absence of operations in water-stressed areas and key biodiversity areas, as well as the water intake and discharge volumes at all sites.
+B. Disclose the metrics used by the organisation to assess and manage 
+dependencies and impacts on nature.
+When sites are located in water-stressed areas or key biodiversity regions, we are considering the adoption of Water Usage Effectiveness (WUE) as a water management metric to minimize impacts and promote water conservation activities.
+C. Metrics and targets used by the organization to manage nature-related 
+dependencies, impacts, risks, and opportunities.
+In Japan, we ensure strict compliance with relevant items of the Water Pollution Prevention Act and the Industrial Safety and Health Act. Similarly, outside Japan, 
+we undertake appropriate measures in accordance with the regulations of the respective countries. Metrics and targets for sites located in important regions are 
+currently under consideration.
+ 
+We are monitoring the creation of offerings and consulting opportunities related to nature that contribute to achieving a nature-positive society through the 
+activities of themed subcommittees of the Sustainability Committee.
+NTT DATA water withdrawal and discharge data in direct operations*1
+Unit: 1,000 m3
+Water withdrawal (total volume)
+2,098
+–
+Water discharge (total volume)
+
+＝
+Water consumption 
+ (total volume)
+1,371
+Surface water and rainwater
+
+Discharge into surface water
+
+Groundwater and spring water
+
+Discharge to third parties
+
+Third-party water sources
+1,257*2 
+*1 Due to rounding, the total volume and the total of the breakdown might not match.
+*2 Of the water withdrawal from third parties, the water withdrawal volume for one data center located in a water-stressed area in Southeast Asia 
+is 61,000 m³.
+Number of facilities operating within 25 km of important biodiversity areas
+Distance from site
+KBAs*3
+World Heritage Sites
+Natura 2000
+Number of sites
+92 out of 120 sites
+0 out of 120 sites
+29 out of 120 sites
+We conducted an investigation using IBAT to examine the connection with Key Biodiversity Areas (KBAs), World 
+Heritage Sites, and Natura 2000 sites. The results of the survey covering 120 sites in 14 countries indicated that none 
+of our sites are operating within protected areas of KBA/World Heritage/Natura 2000. In addition, for sites located 
+within 25 kilometers of important areas, it was found that these are urban areas, leading to a low level of impact.
+*3 Key Biodiversity Areas (KBAs) are critical regions for biodiversity conservation identified based on international standards.
+Strategy and Risks/Opportunities [Details]
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

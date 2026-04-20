@@ -1,0 +1,77 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Strategies 
+and costs 
+The NTT DATA Group is creating business opportunities through its cloud-related services. We offer 
+joint-use platform services tailored to customer requirements, ranging from infrastructure services 
+(data centers) to applications. Furthermore, we work with existing joint-use centers to provide 
+comprehensive construction and operation services for establishing private clouds. For example, our 
+“BIZXAAS® Office” service, which provides systems required for an office environment via cloud 
+computing, has been deployed in-house to promote telecommuting and set up satellite offices as part 
+of our BCP. In 2017, we launched efforts to consolidate the NTT DATA Groupwide development 
+environment in our Integrated Development Cloud with the aim of expanding and deploying it in 100% 
+of all new domestic development projects from March 2019. From fiscal 2009 to fiscal 2016, we 
+invested more than ¥10.0 billion in cloud computing services. 
+ 
+ Opportunity 3: Increase in demand for smart meters 
+ 
+ 
+Growing concern about climate change and rising energy costs could lead to accelerated improvements in the 
+efficiency of social infrastructure. 
+ 
+Business 
+and 
+financial 
+impacts 
+The NTT DATA Group is distinguished by its complex, large-scale project management capabilities. In 
+the electric power sector, we see growing opportunities stemming from rising demand to build efficient 
+infrastructure that uses smart grids and other IT solutions to reduce transmission loss. Meanwhile, NTT 
+DATA was chosen as a partner business in Tokyo Electric Power Company’s “Request for Proposals 
+for a Smart Meter Operation Management System” in May 2013. As of September 2017, our 
+development system had produced 13 million smart meter operation management system units in 
+Tokyo Electric’s sales area. In 2020, we aim to increase that number to 29 million. 
+In fiscal 2018, we co-founded Grid Data Bank Lab. LLP, together with TEPCO Power grid, Inc., to 
+meet expectations for resolving social issues, such as global warming, natural disasters and labor 
+shortages, as well as to create new business value by using data that transcends the boundaries of 
+various industries. The role of Grid Data Bank Lab is to examine and validate ways to achieve specific 
+objectives using various systems though cross-analysis of power data and data from different 
+industries. For example, it plans to develop a service to display the shortest evacuation route by time 
+of day in the event of river flooding by combining smart meter data processed statistically with map 
+data, without the need for personal information. Conducting composite analyses of weather information 
+and power consumption data will enable us to identify areas with high potential for installing solar 
+panels, and this can be used to plan effective subsidy measures for introducing energy-saving 
+equipment. As of January 2020, 95 companies and municipalities were participating in the project, 
+creating new businesses by analyzing a combination of electricity data collected from smart meters 
+and data from different industries. 
+In addition, everis Group, a subsidiary of NTT DATA, has been selected as a strategic partner in 
+digital transformation by Naturgy Energy Group, S.A., a gas and power business focused on Europe 
+and Latin America, with a service agreement being signed in March 2020. We plan to provide services 
+using advanced information technology in the maintenance and operation of systems related to gas 
+pipelines and electricity transmission and distribution. 
+The NTT DATA Group aims to generate ¥10 billion in cumulative sales over five years (from 2018) 
+for all services related to the deregulation of Japan’s electricity retail sector, including electricity 
+demand forecasting and customer management services. Over the next 10 years, we expect the everis 
+Group to generate around €500 million (¥60 billion) in cumulative sales of information technology–
+based services related to the transmission and distribution of gas and electricity. Across the Group, we 
+expect climate-related opportunities using information technology, such as smart meters for the 
+electricity and gas industries, to generate sales of more than ¥70 billion. 
+ 
+ 
+Strategies 
+and costs 
+In fiscal 2019, total R&D expenses amounted to ¥21.8 billion. These included R&D on technologies 
+related to smart cities, such as AI/IoT technologies for smart meter operation and management, 
+automated driving, and traffic jam prediction and mitigation simulation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Time horizon: Short term

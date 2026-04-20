@@ -1,0 +1,92 @@
+NTT DATA Sustainability Report 2018
+ Offices
+We are reducing CO2 emissions volume by approximately 12,987 t-CO2e each year by efficiently operating office facilities through efforts such as optimizing the operation of air supply and exhaust systems 
+and optimizing the number of air conditioners and hours of operation.
+ Products and Services
+The NTT DATA Group builds and operates environmentally friendly Green Data Centers. In March 
+2018, we completed construction on Mitaka Data Center EAST, a collective of key elements of the 
+services offered by our Green Data Centers, including high voltage direct current (HVDC) power supply 
+systems*1, virtualization technologies, and air current control systems for cooling. Mitaka Data Center 
+EAST shortened operating times for air-conditioning equipment by installing an outside air-cooling 
+system that utilizes natural energy. We are aiming to be in Japan’s top class of energy-efficient companies with a PUE*2 of 1.3 or less*3 (annual average, design value).
+*1: This is an electrical power system that supplies a direct current (DC) straightaway to IT devices by only conducting one conversion. 
+Previous power supply systems received power through an alternating current (AC) and then later conducted three AC–DC conversions, twice through an uninterruptable power supply and once inside of the IT device.
+*2: Power usage effectiveness: An indicator that expresses the electricity consumption efficiency of data centers
+*3: This is an indicator that expresses the electricity consumption efficiency of data centers.
+ Risks and Opportunities Related to Climate Change
+[ Transitional Risks ]
+Compliance with climate change regulations presents transitional risks of increased costs for actions 
+such as facility upgrades and additional operational functions.
+ For example, the Paris Agreement aims to realize a world with zero CO2 emissions from 2050 
+onward. For the NTT DATA Group, nearly all of our CO2 emissions come from electric power consumption, thus we assume business continuity will require the procurement of electricity from renewable 
+energy sources. However, as the potential for generating renewable energy and the certificate trading 
+system in Japan are currently underdeveloped, achieving this is extremely difficult. Also, there are 
+concerns that domestic regulations will be substantially strengthened, increasing the cost burden 
+associated with CO2 emissions and seriously hindering business continuity. If we were forced to switch 
+to renewable energy all at once at current electric power consumption levels, the estimated cost 
+increase would be at least ¥4.6 billion. In response to these types of risks, the NTT DATA Group has 
+been installing renewable energy-based private power generation equipment at its Company buildings. In March 2018, we completed construction on Mitaka Data Center EAST, which has adopted an 
+outside air-cooling system that utilizes photovoltaic power generation and natural energy (outdoor air 
+during the spring, fall, and winter), bringing our total number of buildings with photovoltaic power 
+equipment to three. Currently, two of our other buildings are also utilizing low-carbon energy, participating in district cooling and heating (DHC) systems. Installation costs for renewable energy-based 
+private power generation equipment (excluding costs at Mitaka Data Center EAST) and DHC system 
+participation costs at our other two buildings add up to roughly ¥700 million. Going forward, we will 
+move incrementally forward with the switchover to renewable energy and other low-carbon energy 
+sources. Our current renewable energy generation capacity is 169 MWh.
+ Furthermore, under the Tokyo metropolitan government’s Ordinance on Environmental Preservation, 
+large facilities are required to reduce total CO2 emissions from energy usage and to participate in a 
+cap-and-trade program of emissions trading. A total of nine NTT DATA Group buildings in Tokyo are 
+subject to the ordinance, which presents the risk of increased operating costs due to measures aimed 
+at complying with the ordinance. Estimated costs associated with this ordinance are expected to 
+amount to approximately ¥100 million between 2015 and 2019. (Calculations for the second compliance period were based on the need to purchase 10,000 t-CO2 of credits (certificates) priced at 
+¥10,000/t-CO2. However, we anticipate that we will be able to partly offset these costs against surpluses from the first compliance period.) To manage this risk, we are implementing measures such as 
+upgrading to highly efficient electrical equipment and air-conditioning equipment and enhancing 
+operation of air-conditioning, lighting, and other shared facilities. The cost of addressing this risk for 
+the period between fiscal 2016 and fiscal 2017 was approximately ¥700 million. As a result of these 
+efforts, total CO2 reductions for fiscal 2017 were 40,069 t-CO2e, a reduction rate of approximately 26%.
+ Additionally, the NTT DATA Group is working to find solutions to societal issues, such as climate 
+change, through its business operations and is implementing progressive and environmentally superior workstyles. These efforts have led to high third-party praise regarding our ESG (which was included 
+in the DJSI World and Asia Pacific indexes), as well as high employee satisfaction and retention rates 
+(turnover rate of 3.0%, lower than the telecommunications industry average of 10.2%). We estimate 
+that we would suffer an approximately ¥62 billion decrease in yearly income if the third-party praise we 
+receive concerning our ESG and our employee satisfaction rates were to fall to industry-standard 
+levels (calculated based on increases in turnover rate [10.2% - 3.0 = 7.2%] combined with net sales 
+per employee). In response to these types of risk, we conduct annual employee training regarding 
+global trends in climate change and the NTT DATA Group’s response to them. Furthermore, we have 
+distributed information access devices for teleworking to employees, allowing for flexible workstyles at 
+home or in satellite offices. Expenses for training and development aimed at raising employee expertise are approximately ¥6.7 billion, while our distribution of information access devices for teleworking 
+produces an annual running cost of roughly ¥1.1 billion.
+[ Risks Driven by Physical Impact ]
+With regard to physical impact caused by climate change, there is a risk that abnormal weather phenomena such as large typhoons, flooding, heatwaves, and torrential rains could shut down the power 
+supply to data centers, while flooding and lightning could halt operations at the data centers. Some 
+60% or more of the NTT DATA Group’s sales are connected with its data centers, and its main data 
+centers are located on middle latitudes in the northern hemisphere, which are frequently experiencing 
+heavy rainfall due to climate change. Due to these unique characteristics, suspensions of operations 
+at our data centers could have severe impacts on our business, and could also negatively impact 
+large-scale systems that support social infrastructure, such as financial and medical services. For 
+these reasons, operational suspensions at our data centers carry the risk of causing enormous 
+damage to society at large.
+ With these factors in mind, the NTT DATA Group has equipped its data centers with in-house 
+emergency generators in readiness for power outages. However, if these generators halt operations 
+due to flooding, there is a risk that our data center business continuity may be jeopardized. Operation 
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Governance
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment

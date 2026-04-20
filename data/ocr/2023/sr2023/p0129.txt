@@ -1,0 +1,62 @@
+Corporate Governance 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Internal Control 
+ 
+Basic Policy and Promotion System 
+ 
+NTT DATA works to build and enhance its internal control system under a basic policy of always considering risks arising from 
+business activities and taking various measures to ensure efficient implementation of fair and transparent business activities. 
+Accordingly, we are promoting the establishment and maintenance of an internal control system to manage the entire Group 
+with respect to compliance, information security, risk management, Group company management, and other matters. 
+Please refer to the Securities Report for the Basic Policy on the Establishment of the Internal Control System and the 
+Operating Status. 
+ https://www.nttdata.com/global/ja/investors/library/asr/ (Japanese only) 
+ 
+Specific Initiatives 
+ 
+ 
+About the Internal Control Committee 
+To establish an internal control system, NTT DATA holds regular meetings of the Internal Control Committee four times a year 
+in principle. The Committee is chaired by the Executive Officer in charge of Corporate Affairs and consists of the heads of 
+relevant corporate organizations and the executive officers in charge of risk management at Group companies in Japan and 
+overseas. The Committee reports its decisions to the Board of Directors. 
+The Internal Control Committee evaluates the effectiveness of internal controls by verifying that the systems defined in the 
+Basic Policies for the Establishment of the Internal Control System, which were adopted by resolution of the Board of Directors, 
+are properly established and function effectively each fiscal year. 
+As a result of the transition to a three-company system in July 2023, the functions and composition of the Internal Controls 
+Promotion Committee of NTT DATA Group Corp have been revised. For example, the authority of the Internal Controls 
+Committee as an organization to promote risk management throughout the Group has been strengthened in addition to its 
+existing functions. At the same time, the frequency of meetings of the Internal Controls Promotion Committee was increased to 
+ensure the effectiveness of Group-wide internal controls. We will continue to strengthen Group-wide internal controls considering 
+our global expansion. 
+ 
+ 
+Implementation Status of Internal Audits 
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent from operational divisions. The 
+number of personnel involved in the internal audit and assessment of internal control over financial reporting is 35 (as of March 
+31, 2023). In conducting effective audits from an independent standpoint, the General Manager of the Audit Department reports 
+audit plans and results to the Board of Directors as well as to the Executive Committee, and reports individually to the Audit 
+Committee and exchanges opinions to ensure mutual cooperation. 
+In fiscal 2022, the department audited in-house organizations and 41 Group companies, primarily focusing on the themes 
+of business process compliance, extended working hours, appropriateness of outsourcing contracts, and information security. 
+The department also monitored the internal auditing activities of nine Group companies. In addition, as part of Group-wide efforts 
+to enhance internal auditing, 98 domestic and overseas Group companies conducted voluntary inspections based on unified 
+audit items. 
+In addition, we are conducting symptom audits to analyze data extracted from various in-house information systems using 
+computer-assisted audit technique (CAAT)* tools. We are also expanding the scope of application to Group companies while 
+upgrading our fraudulent scenario detection capabilities. In addition to NTT DATA, the program was applied to 54 domestic and 
+overseas Group companies in fiscal 2022. 
+NTT DATA will continue collaborating with the internal audit departments and Audit and Supervisory Committee Members 
+of domestic and overseas Group companies, with the aim of establishing a global internal audit system while increasing the 
+quality and quantity of internal audits. 
+*Abbreviation for Computer Assisted Audit Techniques. Method of audit implementation called computer-aided audit technique. 
+ 
+ 
+ 
+Internal Control over Financial Reporting 
+We are committed to ensuring the reliability of our internal control system for financial reporting. To assess the effectiveness of 
+the internal control system, we verify our management philosophy and systems, the development status of various rules and 
+regulations, and the operational status of business processes. The evaluation plan and results are reported to the Steering 
+Committee, which generally meets three times a year. 
+To promote employees’ understanding of the importance, policies, and approach to internal controls, we conduct an elearning-based internal controls training program once a year, including Group companies.

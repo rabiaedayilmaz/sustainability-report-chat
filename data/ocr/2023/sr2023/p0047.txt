@@ -1,0 +1,65 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Nature Conservation 
+Generate sound global environment and contribute to people’s well-being by conserving and recovering nature capital 
+ 
+Basic Policy 
+ 
+To conserve nature capital and sustainably use ecosystem services, it is essential to understand the relationship between 
+economic activities and nature and to take appropriate measures. We identify regions with high risks related to water and 
+biodiversity and engage in activities such as reducing water withdrawals and discharge and conserving natural capital. We also 
+aim to achieve a nature-positive society by providing support to our clients through blockchain, AI, IoT, and other technologies. 
+ 
+Information Disclosure Based on the TNFD 
+ 
+The Taskforce on Nature-related Financial Disclosures (TNFD) is an initiative that aims to develop and provide a framework for 
+risk management and disclosure to enable companies to report on and take action regarding risks related to nature. Based on 
+the recommendations from the TNFD beta version, we report NTT DATA’s relationship to nature in accordance with the following 
+general requirements: “Governance,” “Strategy,” “Risk & Impact Management,” and “Metrics and Targets.” 
+ 
+General Requirements 
+ 
+Approach to materiality 
+NTT DATA has established nine material issues based on standards such as IFRS*1 and GRI, 
+with one of them being “Nature Conservation.” In alignment with the TNFD framework, our 
+analysis utilizing ENCORE*2 focuses on areas in the information technology sector that are 
+associated with dependencies and impacts on “water usage,” “water pollution,” and “soil 
+pollution. 
+Scope of disclosures 
+We have focused on our direct operations and upstream supply chain. However, note that the 
+facilities of NTT Ltd., which was integrated in October 2022, are not included. We have utilized 
+scenario analysis related to climate change in accordance with the TCFD guidelines. 
+Consideration of naturerelated dependencies and 
+impacts, and risks and 
+opportunities 
+We have derived the risks and opportunities related to our business and nature through an 
+assessment of our dependencies on nature and its impacts. In this context, our primary focus 
+areas for analysis have been the environmental control of data centers, water usage in offices, 
+and wastewater management. 
+Location 
+We conducted an analysis using WRI Aqueduct*3, WWF Water Risk Filter*4, and IBAT*5 to identify 
+water stress regions and significant interactions with nature for all 45 of our company-owned 
+sites. In regions where risks were deemed high, we considered the relevant stakeholders who 
+could be affected in those areas. 
+Integration with other 
+sustainability issues 
+We ensured alignment with the TCFD framework in our information disclosures and considered 
+changes related to dependencies on and impacts to nature based on the results of our climate 
+change scenario analysis. 
+Stakeholder engagement 
+We identified a wide range of stakeholders, including clients, employees, investors, local 
+communities, NGOs, water utility companies, and fellow water users in the same river basin as 
+part of our analysis. 
+*1 International Financial Reporting Standards (IFRS): Accounting standards established by the International Accounting Standards Board (IASB). 
+*2 Tool developed in collaboration between the Natural Capital Finance Alliance (NCFA) and the United Nations Environment Programme World 
+Conservation Monitoring Centre (UNEP-WCMC). It visualizes the impact of environmental changes on the economy. 
+*3 Global tool developed by the World Resources Institute (WRI). It assesses water risk in regions where facilities are located. It enables evaluation based 
+on aspects such as water quantity, water quality, regulations, and reputation. 
+*4 The Water Risk Filter, developed by the WWF and the German financial institution DEG, is a key online tool designed to investigate, assess, and address 
+risks related to the water environment. Used by hundreds of thousands of users, including multinational corporations, small and medium-sized enterprises, 
+and financial institutions, it serves as a primary and reliable data source for verifying risks. 
+*5 The United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC) has developed a global database that integrates 
+biodiversity information from around the world. This database provides specific information about biodiversity and crucial habitats worldwide. It enables 
+governments, development banks, companies, and other stakeholders to conduct risk assessments for biodiversity and ecosystems during the planning 
+stages of development strategies and projects.

@@ -1,0 +1,37 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Internal Control 
+ 
+Basic Policy and Promotion System 
+ 
+The NTT DATA Group works to build and enhance its internal control system under a basic policy of always considering risks 
+arising from business activities and taking various measures to ensure efficient implementation of fair and transparent business 
+activities. Twice a year, we convene meetings of the Internal Control Promotion Committee, which is tasked with assessing the 
+effectiveness of internal control systems and managing and furthering overall internal control. We also hold meetings of the 
+Steering Committee three times a year to evaluate the effectiveness of our internal control system related to financial reporting. 
+Considering our expanding global business, we will continue striving to strengthen the Group’s overall internal control capabilities. 
+ 
+Results of Activities 
+ 
+ 
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent from operational divisions. In ﬁscal 
+2020, the department audited in-house organizations and 34 Group companies, primarily focusing on the themes of business 
+process compliance, extended working hours, appropriateness of outsourcing contracts and information security. The 
+department also monitored the internal auditing activities of 10 Group companies. In addition, as part of Groupwide efforts to 
+enhance internal auditing, 102 domestic and overseas Group companies conducted voluntary inspections based on uniﬁed audit 
+items. 
+In addition, we are conducting symptom audits to analyze data extracted from various in-house information systems using 
+computer-assisted audit technique (CAAT) tools. We are expanding the scope of application to Group companies while 
+upgrading our fraudulent scenario detection capabilities. In addition to NTT DATA, the program was applied to 45 domestic and 
+overseas Group companies in fiscal 2020. 
+We are committed to ensuring the reliability of our internal control system for financial reporting. To assess the effectiveness 
+of internal controls, we verify our management philosophy and systems, the development status of various rules and regulations, 
+and the operational status of business processes. 
+NTT DATA will continue collaborating with the internal audit departments and Audit and Supervisory Committee members 
+of domestic and overseas Group companies, with the aim of establishing a global internal audit system while increasing the 
+quality and quantity of internal audits. 
+ 
+ 
+NTT DATA provides an annual e-learning course on internal control to instill its policies and views on internal controls in 
+employees, including those of Group companies.

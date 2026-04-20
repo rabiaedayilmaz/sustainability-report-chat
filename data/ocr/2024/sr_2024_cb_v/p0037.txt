@@ -1,0 +1,87 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Enhancing Water Conservation through Smart Monitoring with IoT and LoRaWAN
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Smart Monitoring
+Smart X
+Co-Innovation
+• Water leakages affect most of Europe, with over 25% of water being lost in the pipelines between water towers and users. This makes detecting and addressing leaks and backflow
+crucial to achieving sustainable use of this precious natural resource.
+CILE is a water production and distribution company
+providing
+water
+to
+800,000
+people
+across
+
+municipalities in the province of Liège, Belgium. To
+optimize water usage, and ensure a sustainable supply of
+water, the company needed to enhance the network used
+to monitor water usage, performing functions such as
+detecting leaks and backflows.
+The aim of the smart network was to conserve water by
+limiting leaks, ensuring only water that is needed is
+pumped and identifying priority areas for piping system
+maintenance and replacement. CILE had already started
+deploying sensors and a network, with more than 250,000
+IoT devices located in the towers and pipe network. The
+next step was to derive actionable insights using the data
+from those sensors.
+Business need
+Solution
+Working with Cisco and CILE, NTT DATA deployed a
+series of gateways to securely connect sensors and water
+meters
+to a
+regional
+long
+range
+wide
+area network
+(LoRaWAN) covering the entire Liège region. After creating
+a clear data structure defining what data needed to be
+gathered, NTT DATA deployed 56 gateways in a secure
+network,
+connecting the network’s IoT devices. The data
+delivered allows CILE to improve water management by
+monitoring water use and detecting problems such as
+leaks, both in customers homes and in the pipelines. As a
+low power network, the system supports the use of sensors
+capable of sending data daily for about 15 years. The
+comprehensive data from water towers and from citizens
+also support effective predictions of water consumption in
+subsequent
+days,
+enhancing
+water
+conservation
+by
+reducing excess pumping of groundwater.
+Water savings are expected to double to two million m3 in 2024.
+Building on the success in Liège, this system is being implemented
+in other regions in preparation for cross-border water exchanges.
+Efforts
+are
+also
+focused
+on
+fostering
+habits
+around
+water
+consumption among all stakeholders, including end users.
+1 million m3
+Water savings contributed to in 2023
+Impact
+CILE boosts water conservation with 
+IoT and LoRaWAN
+NTT
+Nature
+Conservation

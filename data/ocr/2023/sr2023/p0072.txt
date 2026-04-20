@@ -1,0 +1,46 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Ensure Information Security and Protect Data Privacy 
+ 
+NTT DATA recognizes the importance of achieving an appropriate balance between ensuring the safety of information and the 
+active utilization and sharing of information. We implement a wide range of measures that cover both the human and 
+technological aspects of information security. Administrative measures include formulating rules and providing education and 
+training in information security, while technological measures involve solutions that prevent information leaks and the adoption 
+of zero trust architecture. 
+To share knowledge and expertise across the entire Group, we work with Group companies in Japan to host information 
+security forums, and with NTT DATA, Inc., and Group companies outside Japan to host the Global CISO Conference and other 
+events. Through this distribution of knowledge within the Group, we are working to establish unified information security 
+governance. 
+ 
+ Basic Policy 
+NTT DATA has established rules and regulations including the NTT DATA Group Security Policy (GSP). The GSP includes a 
+code of conduct to protect information assets from serious security breaches, such as information leakage and unauthorized 
+access, and a code of conduct for the active utilization and sharing of information. To protect personal information (data privacy), 
+the GSP includes guidelines such as a privacy policy (personal information protection policy) for each Group company and 
+requires personal information to be handled appropriately according to these guidelines, so that personal information is protected 
+effectively throughout the Group. These codes of conduct, which also apply to business partners to whom we outsource 
+operations, help us ensure that our information assets are handled appropriately. 
+For Group companies in Japan, we established the NTT DATA Group Japan Regional Personal Information Protection 
+Regulations (JPP) and the NTT DATA Group Japan Regional Personal Information Management Guidelines (JPG) to comply 
+with the revised Act on the Protection of Personal Information. In these ways, we have established items to be observed and the 
+procedures to be implemented to handle personal information appropriately. 
+Furthermore, when handling personal data subject to the European Union General Data Protection Regulation (GDPR), we 
+require domestic Group companies to adhere to GDPR compliance, which includes documenting the required notifications in 
+accordance with GDPR provisions. 
+ 
+ Promotion System 
+Global Governance 
+Since fiscal 2006, NTT DATA has been working diligently to ensure information security based on the NTT DATA Group Security 
+Policy (GSP), which also applies to the Group companies outside Japan. Since fiscal 2012, we have been building a global 
+framework for promoting information security, centered on the five regional headquarters (NDS (North America), EMEAL (the 
+EMEAL region), NDAP (the APAC region), Business Solutions, and NTT Limited, as of October 2023). We manage information 
+security according to unified baselines, as well as in a flexible manner that meets the specific needs of each region. 
+ 
+Global Security through Collaboration 
+To ensure meticulous information security governance on a global scale, we manage information security through information 
+security steering organizations within various Group companies such as NTT DATA Group Corporation, NTT DATA Japan, NTT 
+DATA, Inc., and the holding company. 
+The information security steering organizations at each level cooperate closely to maintain and develop information security 
+policies, monitor the progress of measures under way, and take preventive measures against incidents. They also serve as task 
+forces in times of emergency.

@@ -1,0 +1,34 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Quality Management 
+ 
+Providing reliable systems and services 24 hours a day, 365 days a year is a key responsibility and forms the basis of our 
+customer service commitment. NTT DATA aims to build social infrastructure that people can use with peace of mind. To this end, 
+we are working on a Group-wide basis to create mechanisms for quality management to provide services with a focus on 
+enhancing system reliability. 
+ 
+ Initiatives to Improve Quality—Building a Management System Based on ISO 9001 and 
+Promoting Continuous Improvement Activities 
+NTT DATA has established and implemented an organizational and systematic quality management system based on ISO 9001 
+to improve quality, enhance productivity, and prevent unprofitable projects. In addition, we recognize the importance of enhancing 
+quality assurance capabilities, and we are actively working to develop quality assurance mechanisms within each Group 
+company. We are also facilitating information exchange through initiatives such as quality exchange meetings among them to 
+strengthen our quality management system. Moreover, We are also conducting cross-regional efforts through initiatives such as 
+the Global PMO Workshop to develop quality assurance mechanisms tailored to each region and the business situations of 
+Group companies outside Japan. 
+ 
+ Quality Management System (QMS) 
+ 
+ Enhancing and Standardizing Project Management 
+NTT DATA endeavors to enhance and standardize project management to improve the quality and efficiency of system 
+development. For example, we established the Agile Specialized Team, which applies the agile development methodology to 
+collaborate with clients in creating new businesses and services. We also integrated our R&D organization for production 
+technologies, which includes project management, with our project support organization to establish an innovative Project 
+Management Team. 
+ 
+Establishment of Project Management for Agile Development 
+Project management for agile development was established to create new businesses in collaboration with clients in response 
+to the growing business need for innovation. Around the world, we have established agile development bases through which we 
+are reinforcing three functions: the cultivation of agile and professional human resources, advanced R&D, and an on-demand, 
+agile development system.

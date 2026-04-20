@@ -1,0 +1,61 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+Promote Work-Style Innovation 
+ 
+In innovating work styles, our goal is for each employee to improve the quality of his or her work in the limited time available, 
+while also making effective use of the time created through reduced working hours for self-fulfillment pursuits. We want every 
+employee to continue growing and playing an active role in the Company, which will help us create our strong competitive edge. 
+We also aim to become “the company of choice in the labor market” by improving systems and working environments, enhancing 
+development productivity, and reducing long working hours through cooperation with customers and suppliers. 
+ 
+ Main Initiatives to Reform Work Styles 
+ Ongoing training for newly appointed general managers and section chiefs on the theme of “optimization of working hours” 
+ Creating environments that allow for flexible work styles in accordance with the characteristics of each organization, such as 
+Company-wide thin clients, discretionary labor, teleworking, and flexible working hours 
+ Promoting the use of paid leave (refreshment leave1 and anniversary leave2) 
+ Increasing the flexibility of system operation to provide ample relaxation time 
+ Expanding the eligibility and coverage of the teleworking system 
+ Using our internal website to introduce good examples of changing work styles 
+1. Employees can take more than four consecutive days of vacation together with regular holidays when a work milestone is achieved. 
+2. Employees decide their own anniversary date and can take planned vacations every year on this anniversary. 
+ 
+ Reducing Total Working Hours 
+Long working hours was an ongoing problem in the IT industry, and NTT DATA has been working Company-wide to reduce total 
+working hours based on proper working hour management. 
+Up to fiscal 2019, we were able to reduce total working hours, but in fiscal 2020 the impact of the spread of COVID-19 was 
+significant, and the average total working hours per employee increased to 1,984 hours. In fiscal 2021, the average number of 
+working hours remained the same at 1,982. Since the COVID-19 pandemic, many employees have been working without going 
+to the office and with the elimination of commuting hours employees have been able to work more hours and communication 
+time has increased. Because constant long working hours have a significant impact on employee health, we are working to 
+prevent excessive working hours by using our BI platform (Tableau) to visualize the results of analysis of data related to working 
+hours in a secure and timely manner and distribute them throughout the company. 
+ 
+ Encouraging Employees to Take Paid Leave 
+NTT DATA promotes a work-life balance for its employees by encouraging them to be proactive in taking paid refreshment leave 
+and anniversary leave. As a result, employees took an average of 17.0 days of paid leave per person in fiscal 2021. 
+[Reference Page] “Employee Data” Average Paid Leave Taken; Rate of Paid Leave Taken (Non-consolidated) 
+ 
+ Emphasizing Location-Neutral Work Styles 
+NTT DATA is promoting location-neutral working arrangements, such as moving our development environment to the cloud, 
+embracing teleconferencing, and otherwise enhancing our infrastructure. We are implementing various measures to encourage 
+employees to work without going to the office to further improve productivity in the emerging “new normal” era and to realize 
+safer environments and more diverse and advanced work styles. 
+As a concrete measure to realize work-style innovation, we have operated a teleworking (working from home) system 
+since February 2008. In April 2018, we revised our teleworking system to increase the flexibility of working space and time. 
+These revisions included removing limits on the number of teleworking days and allowing employees to telework in places other 
+than their homes. As a result, more than 90% of NTT DATA employees are now taking advantage of this system. In October 
+2020, moreover, we established a remote work allowance to address the growing burden of overhead costs on employees as 
+the numbers of teleworking increases. 
+In addition to allowing location-neutral working arrangements, we have sought to increase flexibility with respect to working 
+hours, including by introducing a flextime system in April 1993 and a discretionary work system in December 2010. More than 
+half of our employees now use either systems. In October 2020, we introduced the “Super Flex-time” system, which eliminates 
+core hours, to realize even more flexible work styles and expand the scope of their application. In July 2022, to support a variety 
+of work styles, we expanded our existing teleworking system to create a new communication style based on a hybrid system of 
+telework and office attendance. 
+We aim to enhance our corporate value into the future by creating an environment where employees can flexibly set their 
+working hours and locations according to the characteristics of their work. This will promote diversity, equity, and inclusion, and 
+transform us into a company that is attractive to working people with organizational functions and a corporate culture that enables 
+each diverse human resource to express themselves and play an active role. 
+[Reference Page] “Employee Data” Remote Work Implementation Ratio (Non-consolidated)

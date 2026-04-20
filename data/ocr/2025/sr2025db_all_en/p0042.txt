@@ -1,0 +1,77 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Recommended Disclosures
+Recommended Disclosure Content
+Activity Summary
+Governance
+Disclose the organisation’s governance of 
+nature-related dependencies, impacts, risks, 
+and opportunities.
+NTT DATA discusses and supervises the achievement status of its sustainability management strategy and 
+Group-wide KPIs at the Board of Directors. The Representative Director and Senior Executive Vice President, who 
+serves as the chair of the Eco Activity Promotion Committee, oversees the activities of the Sustainability Committee 
+as well as thematic subcommittees that discuss topics related to water and biodiversity conservation, directing 
+cross-organizational initiatives.
+Strategy
+ Strategy and Risks/
+Opportunities [Details]
+Disclose the effects of nature-related 
+dependencies, impacts, risks and opportunities 
+on the organisation’s business model, strategy 
+and financial planning where such information 
+is material
+We use water in certain data center cooling systems and sanitation services, and facilities located in high water-stress 
+regions face serious drought risks due to increasing extreme weather. One data center in Southeast Asia and two 
+data centers in South Asia are situated in regions assessed as extremely high water stress. To ensure business continuity, we have implemented measures such as installing emergency water storage tanks to secure cooling water in 
+the event of drought.
+ 
+In terms of environmental impact, we produce domestic wastewater, but we do not discharge industrial effluent. 
+We do, however, own fuel storage facilities for the backup generators in our data centers. In the event of a fuel spillage incident, there is a risk of water and soil pollution.
+ 
+Addressing these risks effectively and engaging in conservation efforts present potential new business opportunities.
+ 
+In addition, we expect an increase in the availability of solutions and consulting services focused on supporting 
+nature conservation.
+Management of 
+Risks and Impacts
+ Strategy and Risks/
+Opportunities [Details]
+Describe the processes used by the 
+organisation to identify, assess, prioritise and 
+monitor nature-related dependencies, impacts, 
+risks and opportunities
+Since fiscal 2022, we have been analyzing nature-related dependencies, impacts, risks, and opportunities, and are 
+reviewing the processes and actions needed to manage them. In the 2025 water stress analysis, one data center in 
+Southeast Asia and two data centers in South Asia were identified as high-stress facilities. At the Southeast Asia data 
+center, an emergency water storage tank has been installed. We have also confirmed that the local water utility supplying these centers treats wastewater and reuses it as industrial water, reflecting careful management of regional 
+water resources. Similarly, emergency water storage tanks have been installed at the South Asia data centers, and we 
+have verified that the local water utility is advancing plans to expand the water supply network. By continuously monitoring these risk mitigation measures and the status of regional water supply systems, we ensure business continuity.
+ 
+For nature-related risks and opportunities, we estimated the potential financial impact for sites operating in areas 
+of very high water stress. Based on our assessment of one data center in Southeast Asia and two in South Asia, we 
+concluded that nature-related risks are low.
+Metrics and Targets
+Disclose the metrics and targets used to 
+assess and manage material nature-related 
+dependencies, impacts, risks and opportunities.
+We confirm the presence or absence of operations in water-stressed areas and areas of significant biodiversity, monitoring water usage and wastewater indicators at all sites. In addition to management focused on targets for compliance with various national regulations, including the Water Pollution Prevention Act and Industrial Safety and Health 
+Act, we are considering setting goals based on opportunity assessments, such as the need for offerings that contribute to a nature-positive society and the provision of consulting services.
+ 
+Taking into account the impact of water-cooled data centers on regional water resources, we plan to manage water 
+use at our data centers using water usage effectiveness (WUE) as a key indicator. Starting in 2025, we began aggregating WUE data and have set a target to improve WUE compared with the previous fiscal year.
+General Discussion
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Water Management

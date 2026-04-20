@@ -1,0 +1,80 @@
+NTT DATA Sustainability Report 2018
+System Failure Countermeasures Focusing on Prevention and 
+Response
+Information systems have developed to the point where they have become infrastructure that supports people’s daily lives and industry, so if there were some sort of system failure it could have an 
+enormous impact on everyday tasks and business.
+ As an IT company that operates many large-scale systems that support society, the NTT DATA 
+Group is advancing extensive system failure response measures based on the dual perspectives 
+of prevention and response. These measures include inspections based on a comprehensive 
+perspective in line with the Information Technology Infrastructure Library (ITIL), ISO 20000, and 
+other standards, deployment of response know-how at the time of a failure, and development of 
+IT service managers.
+ To ensure NTT DATA and NTT DATA Group business continuity when a disaster occurs, we formulated a BCP and regularly review education, training, and business continuity planning as each 
+organization must be able to recover operations as quickly as possible and restore business to 
+standard levels in a short period of time.
+ Meanwhile, the NTT DATA Group will continue overhauling and reinforcing measures for dealing with 
+failures caused by security breaches, which have become a growing social problem in recent years.
+Human Resource Development Targeting Stable System 
+Management
+NTT DATA’s Quality Assurance Department is promoting IT-SM community activities as one of its 
+human resource development policies. These activities are aimed at stabilizing system management 
+and maintenance through the development of related personnel.
+ Our IT-SM community activities include IT service management improvement training, which 
+involves learning through examples of system failure response and prevention, and IT-SM community 
+seminars, which provide a venue for sharing and announcing these examples. Additionally, we are 
+providing support through our IT-SM training (mentoring) school for IT service managers. At this 
+school, two executive IT service managers serve as mentors, passing on skills and expertise, providing psychological support (discussion of concerns), and helping out with personal network building 
+(vertical relationships between IT service managers).
+ Furthermore, we are supporting and developing personnel involved in system management and 
+maintenance in a variety of ways. We determine standard inspection items that allow for active, 
+on-site participation and stable system management. The portal site we established offers a stable 
+management expertise list containing information related to IT-SM and stable management policies. 
+We also provide a collection of case examples for failure recovery drills and a system development 
+guide with a focus on services aimed at putting a stop to poorly managed manufacturing during the 
+development phase.
+The NTT DATA Group has established tax policies for ensuring compliance with tax-related laws 
+and regulations throughout the Group, including overseas Group companies.
+Tax Policy
+We established our basic policy on tax affairs in view of the growing importance of adopting a 
+global perspective on properly addressing and managing tax risks posed by the increasingly 
+multinational nature of our Group companies, which include regional integrated companies, and 
+the increase in international transactions brought about by the rapid globalization of our business. 
+ 
+Tax Payments and Reporting
+The NTT DATA Group pays appropriate taxes related to business operations in accordance with 
+tax-related laws and the regulations of each country and region. In fiscal 2017, corporate taxes 
+amounted to ¥38,716 million, a tax burden of 38.68% on pretax profit.
+Raising the Awareness of NTT DATA Group Employees
+We have established internal regulations and provide guidance on appropriate tax treatment to 
+employees with respect to tax affairs. The NTT DATA Group (consolidated subsidiaries) has established 
+basic guidelines on taxation and strives to thoroughly observe laws and regulations and reduce tax 
+risks through employee education, guidance, and operational improvements.
+Relationship with Tax Authorities
+We have established relationships of trust with tax authorities by providing appropriate and timely 
+information and consulting on accounting procedures. In the event that issues are discovered by 
+tax authorities, we immediately work to determine their causes, except in cases that involve litigation 
+or formal protests made regarding the actions or viewpoints of the same authorities. We then prevent 
+recurrences by adopting appropriate corrective and reform measures.
+Tax Strategy
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

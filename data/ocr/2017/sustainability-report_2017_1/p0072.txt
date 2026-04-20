@@ -1,0 +1,54 @@
+NTT DATA Technology Foresight
+We monitor changes in IT from the standpoints of political, social, economic, and technological 
+trends and annually compile and publish information society trends (near-future outlook) and technology trends via a special website.
+ “Ima-Shun!” Highlights the Latest Technology Trends
+We disseminate information on technology trends under the latest buzzwords.
+ “Innovation EYE” for Ideas on IT Strategy
+Cutting-edge IT projects are introduced by innovation navigators tasked with the mission of actively 
+transmitting the knowledge of the NTT DATA Group and contributing to society.
+http://www.nttdata.com/global/en/insights/foresight/sp/
+http://www.nttdata.com/jp/ja/insights/trend_keyword/index.html (in Japanese only)
+http://www.nttdata.com/jp/ja/insights/innovation_eye/index.html (in Japanese only)
+WEB
+WEB
+WEB
+Sharing the Fruits of Innovation
+The NTT DATA Group passes on its cutting-edge initiatives to society and contributes to the realization of a sustainable society.
+ Activities at the INFORIUM Toyosu Innovation Center
+In 2015, we set up the INFORIUM Toyosu Center 
+within our headquarters at the Toyosu Center 
+Building. Since then, we have operated the center as a place where visitors can experience the 
+cutting-edge technologies that the NTT DATA 
+Group is developing.
+ 
+As a place for creating new businesses with 
+clients, the center offers space for holding workshops on co-creation activities.
+Focus Field 2—Utilization of Advanced Technologies
+NTT DATA has specifically focused on the technology themes of AI, IoT, and advanced technology of 
+IT infrastructure (e.g., blockchain) and placed priority on investment in PoCs for applicable research 
+topics and clients. As a means of discerning research topics for the midium to long term, we try to 
+ascertain changes in the future from the four perspectives of politics, economy, society, and technology in order to discern near-future information society trends and technology trends, which we formulate and publish as NTT DATA Technology Foresight.
+ Example of Major Initiatives
+[ Development of Smart Alert Solution ]
+NTT DATA and its Group company in Spain, everis Group, have developed the Smart Alert Solution 
+for the ICU at Virgen del Rocío University Hospital in Seville, which is the largest hospital in Spain. The 
+solution predicts the risks for serious complications, and immediately sends an alert to enable doctors and others for early medical intervention. We will conduct validation in multiple countries other 
+than Spain, commercialize the solution by the end of 2017, and deploy it in hospitals all over the 
+world starting with Spain, Latin America, and North America. In fiscal 2016, R&D expenses including 
+this project amounted to ¥12,359 million.
+INFORIUM Toyosu Innovation Center, an exhibition space at the 
+head office
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+GRI Standards
+Governance

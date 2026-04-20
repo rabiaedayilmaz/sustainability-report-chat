@@ -1,0 +1,118 @@
+In December 1998, NTT DATA formulated an Information 
+Security Policy, to ensure consistent and appropriate handling 
+of information assets. We have also set up specific procedures 
+to implement this policy. In April 2008, we formulated the NTT 
+DATA Group Security Policy (GSP), compiling common rules. 
+Implementation of information management by each Group 
+company in conformance with the unified rules raises overall 
+Group security levels and realizes safe information sharing.
+We also established a Personal Information Protection Policy in 
+July 2001. We have amended this policy as necessary following 
+the full enactment of the Privacy Protection Act in April 2005 
+and taking into account regulatory revisions and changes in 
+privacy certification standards.
+Major Risks and Initiatives
+Major Risks
+Major Initiatives
+System Project Risks
+System 
+Failure Risk
+• Prevention: Improve system quality by internal development of product lines and construction technology during system 
+development, internal technical support from specialized divisions and thorough project management.
+• Failure Response: Establish recurrence prevention measures, ensure companywide awareness of incidents and countermeasures 
+and reflect internal rules in system construction and operational maintenance work →For details please refer to the web report, 
+“Building Systems that Are Safe and Secure (Disaster and System Failure Countermeasures).”
+System 
+Building Risk
+• Project planning decisions and quality, progress and cost managements are conducted under the responsibility of the project 
+manager. Create structure for appropriate process confirmation and decision-making.
+• For projects with high risk potential, including those with the risk of rising costs and declining revenue, the PMO*1 at the headquarters or 
+each internal company business sector inspects, formulates and executes an action plan from an objective perspective to reduce risk.
+Information Security Risks
+• As an information system provider, focus on the stable assurance of information security and the protection of personal information.
+Disaster Risks
+• Business Continuity Management Promotion
+• While formulating measures to prevent the infection and spread of infectious diseases such as new strains of influenza, establish 
+business continuity plans (BCPs) to ensure the availability of personnel handling high-priority operations to maintain the 
+functioning of core operations required by society.
+• As a provider of social infrastructure, have procedures and systems in place to ensure quick recovery of systems and resumption 
+of services in the event that an earthquake or other major disaster affects the Tokyo metropolitan area. To improve the NTT 
+DATA Group’s business continuity capabilities, create disaster response manuals and ensure that business continuity planning 
+incorporates corporate infrastructure. Include issues which became apparent in the Great East Japan Earthquake and response 
+measures to reflect them successively in manuals and the BCP.
+Legal Management Risks
+• The General Affairs Division is to employ measures to enhance the Code of Ethics and strengthen legal compliance.
+*1 Project Management Office: We have established PMOs at NTT DATA’s headquarters, each internal company and business sector to provide groupwide organizational 
+support for project managers. In cooperation with the project, the PMO strives to improve and stabilize processes. 
+In 1999, NTT DATA established the Information Security 
+Committee, which meets four times annually to ascertain 
+the status of activities and issues and to determine remedial 
+measures. Resolutions of the committee are deployed under 
+the IT Security Strategy Office by people throughout the Group 
+who are dedicated to promoting information security. (These 
+people numbered 760 as of April 30, 2011).
+In fiscal 2011, NTT DATA launched NTTDATA-CERT as a unified 
+response to the information security incidents*2 that have become 
+problematic in recent years. We also joined the Nippon CSIRT 
+Association, a consortium of private companies and governmental 
+organizations, in March 2011. NTT DATA also became a member of 
+FIRST*3 in April 2011, so as to create international ties.
+In fiscal 2011, NTT DATA was involved in no serious 
+accidents involving information security.
+Ensuring that Information is Shared 
+Safely and Smoothly through Consistent 
+Information Management in Accordance 
+with Common Rules
+NTT DATA Group Unified Security Policy
+Strengthening Information Security 
+Incident Response Measures
+Information Security Management Structure
+*2 Information security incidents: Threats related to information controls and 
+systems operations, such as viruses, unauthorized access, and leaks.
+*3 FIRST: Forum of Incident Response and Security Teams. FIRST is a global 
+community composed of around 250 CSIRT (see page 19) from governmental 
+organizations, academic institutions, and companies. 
+Information Security Management Structure
+Report
+Periodic reports
+President and CEO
+Internal Audit 
+Department
+Business Units, 
+Staﬀ Departments, 
+etc.
+Head of 
+Organization
+Related Staﬀ
+• Corporate Planning
+• R&D
+• Information Systems
+• General Aﬀairs, Legal Aﬀairs, 
+Intellectual Property
+• Training
+• NTTDATA-CERT
+other departments
+Chief Information Security Oﬃcer (CISO) in Charge of 
+Security Strategies
+Oﬃcer in Charge of Personal Information Management
+Information Security 
+Committee
+Audit
+Audit
+Members
+Information Security Steering 
+Organization
+Personal Information Protection 
+Promotion Organization
+(IT Security Strategy Oﬃce)
+Information Security 
+Manager
+Manager of Personal 
+Information 
+Protection 
+Personnel in charge 
+of information 
+security promotion
+Information Security
+
+NTT DATA CSR Report 2011

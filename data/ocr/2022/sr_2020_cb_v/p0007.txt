@@ -1,0 +1,181 @@
+The development of “Kashiwa-no-ha Smart City” 
+(Kashiwa City, Chiba Prefecture) started in the 2000s. 
+Houses, commercial facilities, oﬃces, hospitals, 
+universities, etc., are concentrated in the town centered 
+on the Tsukuba Express “Kashiwa-no-ha Campus 
+Station.” In this town, the government (Chiba Prefecture 
+and Kashiwa City), the people (residents living in 
+Kashiwa-no-ha and private companies participating in 
+town development), and academia (academia located in 
+Kashiwa-no-ha such as the University of Tokyo, Chiba 
+University, the National Cancer Center Hospital East, and 
+the National Institute of Advanced Industrial Science and 
+Technology) are working together on advanced attempts 
+under the three themes of “health and longevity,” “new 
+industry creation,” and “environmental harmony.” In 
+particular, as part of the “health and longevity” 
+activities, we are cooperating with the initiatives of the 
+National Cancer Center Hospital East and the “Mitsui 
+Garden Hotel Kashiwa-no-ha Park Side,” which opened 
+in the premises of the hospital, by providing health data 
+management services for cancer patients staying at the 
+hotel.
+Speciﬁcally, when an outpatient receiving cancer 
+treatment at the National Cancer Center Hospital East 
+stays at the hotel, medical devices such as thermometers, 
+blood pressure monitors, and pulse oximeters that are 
+compatible with “OMRON connect” can be rented from the 
+hotel and, using “OMRON connect,” measured data can be 
+sent to smartphones via wireless communication. In 
+addition, such data is recorded on the “Health Data Bank® 
+for Medical,” our health data management service, 
+together with daily health data measured by wearable 
+devices that can manage data of exercise, sleep, pulse, 
+etc. Even after checking out of the hotel, patients can 
+continue to use the service at home by preparing the 
+same equipment themselves.
+ With the aim of providing better treatment and hotel 
+service, with the consent of patients, we have enabled 
+medical professionals and care staﬀ who provide 
+treatment at the National Cancer Center Hospital East to 
+access the vital data accumulated. Up to now, medical 
+professionals had to understand patients’ conditions 
+outside the hospital through patients’ explanations during 
+hospital visits. However, by viewing daily vital data, they 
+can grasp patients’ condition in more detail, which is 
+expected to lead to better treatment. By sharing data with 
+medical professionals and hotel staﬀ, patients have 
+gained a sense of security by being able to consult with 
+Challenging with Kashiwa-no-ha Smart City;
+New medicine based on patient’s 
+own “health data”
+Mitsui Fudosan Co., Ltd.
+Project Manager
+Kashiwa-no-ha 
+Community Development 
+Promotion Department
+Rei Takekawa
+them while accurately understanding their condition 
+themselves. 
+Kashiwa-no-ha Smart City also plans to utilize the 
+know-how gained through this initiative to conduct 
+research on the use of health data in regional medicine 
+and online medical treatment.
+VOICE
+In “Kashiwa-no-ha Smart City,” challenges have been launched for new medicine utilizing NTT DATA’s health data 
+management service at the “Mitsui Garden Hotel Kashiwa-no-ha Park Side” located on the premises of the National 
+Cancer Center Hospital East.
+National Cancer Center 
+Hospital East
+Chief of Department of 
+Experimental Therapeutics
+Toshihiko Doi
+VOICE
+4 million people
+Health data managed by our Health Data Bank®
+[Example of initiatives] Vital data management service at the hotel linked to the hospital
+Developed services to support cancer patients in cooperation 
+with the National Cancer Center Hospital East and the Mitsui Garden Hotel
+Data access by medical professionals, etc.
+Record cancer patients’ vital data, etc.
+Data management
+Kashiwa-no-ha
+Health Data Bank®
+for medical and 
+nursing care
+Body temperature
+Blood pressure
+Blood oxygen saturation
+Heart rate
+Body weight
+Body fat percentage
+Number of steps
+Sleeping hours, etc.
+Data browsing 
+according 
+to access rights
+Appropriately understand the patient’s 
+condition with the consent of the patient
+National Cancer 
+Center Hospital East
+Patients staying 
+at the hotel
+List of external service 
+linkage status
+inquiry
+terms of 
+service
+privacy 
+policy
+Service
+Status
+OMRON
+ﬁtbit
+Linked
+Unlink
+reference
+reference
+Link
+Not 
+linked
+Mitsui Garden Hotel
+Kashiwa-no-ha Park Side
+Better 
+treatment
+More 
+comfortable 
+service
+Thermometers and 
+blood pressure monitors
+Pulse oximeter, etc.
+ﬁtbit
+Smart watches
+Wearable devices, etc.
+®
+OMRON connect
+The hotel provides an environment 
+that supports cancer patients 
+and their families 24 hours a day. 
+Together with the National Cancer 
+Center Hospital East, we aim to 
+create a new medical care model 
+using this ﬁeld. For example, 
+24-hour care staﬀ will work with 
+the hospital in case of emergency 
+and respond quickly. 
+We will promote data 
+utilization by providing health 
+data management services using digital technology.
+ In addition, we will provide a unique hospitality 
+service that sets us apart from other hotels by 
+accommodating medical tourism, providing meal menus 
+with consideration for cancer patients, and testing food 
+delivery using robots.
+If medical institutions and private 
+companies can freely exchange 
+health data with patients’ consent, 
+there is a possibility that patients 
+will be able to access the latest 
+medical care in the future 
+regardless of time or place. I 
+was hoping that there would be a 
+mechanism such as the Health 
+Data Bank® and “Kashiwa-no-ha 
+Data Platform” that would serve 
+as the basis for data 
+collaboration among businesses to bring hospitals and 
+patients closer together.
+Going forward, we hope to obtain even more sensitive 
+information on patients through the Health Data Bank® 
+and improve the quality of medical services.
+Link/ 
+Unlink Data
+Economy | Clients’ Growth
+Smart X
+Co-innovation
+Community
+Engagement
+Case: Kashiwa-no-ha
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

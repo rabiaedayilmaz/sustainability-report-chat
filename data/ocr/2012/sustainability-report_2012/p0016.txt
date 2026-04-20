@@ -1,0 +1,72 @@
+The increasing use of vehicles worldwide accompanying the 
+economic development of emerging countries has seen the 
+progressive introduction of Intelligent Transport Systems (ITS). These 
+systems help alleviate traffic congestion and reduce needless braking 
+and idling. They use roadside cameras and sensors to gather data on 
+traffic conditions in real time and then transmit information on 
+optimal routes to in-car devices. Drawing on the know-how amassed 
+in the field of ITS over the years, NTT DATA is participating in 
+large-scale demonstration trials in Beijing. The trials, held by the 
+Beijing Municipal Commission of Transport and a Japanese 
+automaker contracted by Japan’s NEDO*1, began in January 2012. 
+NTT DATA has developed the central system that gathers probe 
+data*2 and transmits eco-drive support information.
+Going forward, we plan to use the experience gained in these 
+trials to offer similar proposals to 
+ASEAN countries where there is 
+growing demand for ITS. In this 
+way, we hope to play a useful 
+part in achieving a harmonious 
+balance between the 
+environment and today’s 
+car society. 
+*1 NEDO: New Energy and Industrial Technology Development Organization
+*2 Probe data: Location, speed, acceleration, and other relevant vehicle data 
+Recent years have seen the emergence of various traffic-related 
+challenges, such as exhaust gases and other environmental 
+problems, as well as the alleviation of traffic congestion and the 
+protection of vulnerable road users. To address such issues, advances 
+have been made in research into Smart Mobility, which emphasizes 
+two-way interplay between diverse transportation modes and other 
+information infrastructure to achieve overall optimization. Deploying 
+its know-how in this field, NTT DATA Österreich has been participating 
+in demonstration trials for eMORAIL, an integrated e-mobility*3 service 
+for public transport, since 2011. The development goal is a 
+sustainable linking of e-mobility services and sharing models in the 
+first / last mile with public transport through developing offers and 
+services. eMORAIL connects the information, reservation, and 
+ticketing system of the Austrian federal railway with an electric car 
+and electric bicycle sharing system, and delivers the relevant 
+information to users via 
+smartphones. Since the 
+service permits travel without 
+using gasoline, it also helps 
+reduce the environmental 
+impact of transport providers.
+In today’s world, there is growing awareness of the risks caused by the increase in natural disasters, as well as by global warming 
+and worsening energy problems. Against this backdrop, there are mounting expectations to create next-generation social 
+infrastructure supporting sustainable urban development that enables people to live comfortable, eco-conscious lives.
+The NTT DATA Group is working to develop technologies and services that will help realize smart cities. Through our 
+participation in such projects around the world, we can make a useful contribution to resolving social issues.
+*3 e-mobility: Modes of transport like electric vehicles and the supporting
+ 
+ecosystem of services
+An electric vehicle used for eMORAIL (image)
+Announcement of demonstration trials
+Participating in Demonstration Trials for New 
+Traffic Information System Technology in China
+Participation in Smart Mobility 
+Demonstration Trials in Austria
+Applying advances in IT to 
+next-generation urban planning
+Participating in Smart City Projects in Various World Regions
+In China
+In Austria
+Paradigms for the Global Environment
+Paradigms for the Global Environment
+Approach
+Approach 3
+P
+Special
+Feature
+16 NTT DATA CSR Report 2012

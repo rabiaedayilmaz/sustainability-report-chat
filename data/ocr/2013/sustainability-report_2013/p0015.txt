@@ -1,0 +1,61 @@
+The NTT DATA Group delivers services using machine-to-machine (M2M) technologies, which connect
+and control devices with increasingly advanced information technologies through networks that extend
+from businesses to people’s daily lives. Utilizing leading-edge and first-ever technologies in Japan, we 
+constantly strive to achieve innovation as a Global IT Innovator.
+The Bridge Monitoring System monitors the physical state of a bridge around 
+the clock using sensors placed at key points of the structure. While the 
+sensors collect a diverse range of data on such factors as changes in position, stress, and vibration, the Bridge Monitoring System analyzes that data 
+in real time to provide early warnings of abnormalities, such as deterioration 
+over time or those caused by natural disasters. The system tracks bridges 
+with the aim of facilitating regular and preventative maintenance.
+ 
+The Bridge Monitoring System is not only in use on Japan’s arterial roadways but is also being installed overseas, drawing on our experiences. The 
+first project overseas to adopt the system was the Can Tho Bridge in Vietnam. 
+NTT DATA’s technology supports this structure in the Mekong Delta, where 
+the ground is loose, contributing to the local community.
+ 
+This real-time monitoring technology was recognized as a major advance 
+by International Data Group and was awarded 21st Century Achievement 
+Award Finalist in the Security & Safety category of the Computerworld 
+Honors Program.
+Linkage between cloud and 
+sensing technologies heralds a 
+new stage of efficient analysis
+Today, trials of systems like NTT 
+DATA’s Bridge Monitoring System are 
+under way at various places around 
+the world but most of them are at the 
+“sensing and acquiring data” stage. 
+In contrast, the standout analysis 
+technologies of our Bridge Monitoring 
+System enable solutions that demonstrate well the NTT DATA Group’s 
+capabilities as a Global IT innovator. 
+The increasing implementation of the 
+system would be a sound testament 
+to wide recognition of its advantages 
+not only in Japan, but worldwide.
+ 
+Our development team is now 
+striving to make even more precise 
+analysis possible by improving big 
+data analysis techniques with cloud 
+technology. The role of M2M technologies in society grows day by day. 
+NTT DATA will help forge an even 
+better society through our constantly 
+evolving Bridge Monitoring System.
+Our Bridge Monitoring System underpins bridge safety 
+ by analyzing a wide spectrum of data in real time
+OUR SOLUTIONS
+Supporting Social Infrastructure with the Power of IT
+The Bridge Monitoring System
+Sanae Miyazaki
+Manager
+Third Development Group
+First Systems Section
+e-Community Division
+Public Sector
+NTT DATA CSR Report 2013 14
+Our Mission and Solutions
+Third-party Opinion
+Who We Are
+Highlight 2013

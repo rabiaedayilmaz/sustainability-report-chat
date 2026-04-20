@@ -1,0 +1,60 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Security Incident Prevention, Detection, and Responses 
+NTT DATA operates NTTDATA-CERT as an organizational CSIRT to prevent the occurrence of information security incidents* 
+through its day-to-day activities. NTTDATA-CERT works to detect incidents early and provide quick and appropriate emergency 
+responses. 
+*Actualization of security threats related to information management and system operation, such as computer malware infection, unauthorized access, and 
+information leakage 
+ 
+Activities to Prepare for New Security Risks 
+We gather, analyze, and communicate a wide range of security-related information including the newest attack methods and 
+incident occurrences, while engaging in communication monitoring, emergency responses, research and development, and 
+collaboration with external organizations. 
+ 
+Wide-Ranging Internal and External Collaborations 
+In addition to internal activities, NTT DATA is a member of FIRST*, a global CSIRT community. We also collaborate broadly with 
+external security organizations, including the JPCERT Coordination Center (JPCERT/CC) and CSIRT teams from all member 
+companies of the Nippon CSIRT Association (NCA). With these efforts, we quickly share security-related information and enable 
+early detection and responses to security concerns. 
+*Abbreviation of Forum of Incident Response and Security Teams: A global community of 635 CSIRT teams (as of July 29, 2022) from government agencies, 
+educational institutions, corporations, and the like. 
+ 
+CSIRT Operation Utilizing OSINT 
+We employ an approach that incorporates Open Source Intelligence (OSINT) into the operation of NTTDATA-CERT, our 
+computer security incident response team (CSIRT). This involves actively utilizing legally accessible information from 
+government official announcements, mass media reports, papers, technical documents, and other sources. Our team of 
+information analysis experts at NTTDATA-CERT daily collects, analyzes, and predicts security trends based on this information. 
+The insights gained are then disseminated to our various companies as news updates or in the form of quarterly reports. 
+Furthermore, we bolster our cyberattack monitoring capabilities and integrate this valuable information into our overall security 
+strategy and measures. 
+ 
+Conducting Incident Response Workshops 
+We hold workshops for Group companies in Japan so that, in the event of an information security incident, we can respond 
+systematically and promptly to minimize the impact and ensure that the incident is terminated. Referring to the NTT DATA Group 
+Information Security Incident Response Standard for Japan, workshop participants learn how to respond appropriately to 
+cyberattacks by learning the actions they should take from an incident’s occurrence to its termination. They also learn from 
+exercises using past incidents that occurred within NTT DATA. 
+ 
+ Stepping Up Security Governance Efforts 
+We are stepping up our security governance efforts to better understand and methodically respond to the security risks that NTT 
+DATA faces globally. 
+In fiscal 2022, we engaged in improving global governance maturity, worked to strengthen and ensure the stable operation 
+of our global security infrastructure, and reliably escalated our responses to serious incidents. 
+ 
+Improving Global Governance Maturity 
+NTT DATA has established a protocol process for aggregating the security risks faced by each regional headquarters and 
+determining security measures that should be prioritized by all global Group companies. In addition, we regularly hold a Global 
+CISO Conference attended by all key persons, including the CISOs of each regional headquarters, to strengthen information 
+sharing and collaboration between Group companies and the Headquarters. 
+ 
+Global Security Infrastructure 
+To respond to diversifying working styles and to prepare for cyberattacks, which are increasingly sophisticated, we have built 
+and now operate a global security platform common to NTT DATA as the first phase. Using this security platform to strengthen 
+security when using e-mail and cloud services and to centrally manage Internet connection points helps us maintain a high level 
+of security across NTT DATA. Moreover, we can block connection points between NTT DATA’s bases in and outside Japan, 
+allowing us to prevent any damage from spreading to other areas in the event of an intrusion in the network. We also monitor 
+daily using an advanced log analysis system that enables us to detect even advanced cyber threats. 
+Since fiscal 2020, we have strengthened e-mail security and implemented a zero trust architecture to enhance users’ IT 
+environments, as the second phase of our global security infrastructure development.

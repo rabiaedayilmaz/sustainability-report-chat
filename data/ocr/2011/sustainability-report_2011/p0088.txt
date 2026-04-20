@@ -1,0 +1,112 @@
+(Kilograms)
+Incineration
+Landfill
+Mixture of Categories A and B
+(Unsorted waste)
+238,862
+132,853
+108,698
+480,413
+121,983
+Fine paper
+551,625
+
+551,767
+
+Newspapers, magazines, cardboard
+175,063
+
+175,208
+
+Refuse
+39,040
+124,469
+
+163,509
+12,447
+Paper waste
+248,959
+126,447
+
+375,406
+12,645
+Plastics (burnable)
+1,818
+30,075
+116,351
+148,244
+119,359
+Waste oil
+
+Unsorted burnable waste, other
+burnable waste
+902,594
+67,818
+12,323
+982,735
+19,105
+Bottles
+188,459
+
+1,218
+189,719
+1,222
+Cans
+273,060
+
+1,177
+274,237
+1,177
+Plastics (non-burnable)
+
+1,039
+1,039
+1,039
+PET bottles
+80,544
+
+80,544
+
+Unsorted non-burnable waste, other
+non-burnable waste
+1,753,064
+127,046
+
+1,880,110
+127,046
+OA equipment, fixtures, others
+1,894,995
+21,432
+43,944
+1,960,372
+46,087
+6,348,083
+630,337
+284,882
+7,263,303
+462,257
+Office waste of NTT DATA Group in fiscal 2011
+Final
+disposal
+amount
+Waste disposal amount
+Primary
+category
+Subcategory
+Recycled
+amount
+Category
+A+B
+Total
+emissions
+Total
+Category C
+Category A
+(burnable)
+Category B
+(nonburnable)
+Scope of Mesurement
+・Measurement period: From April 1, 2010 to March 31, 2011
+・Measurement organization: NTT DATA (all organizations), 61 Group companies (domestic only)
+NTT DATA CSR Report 2011
+42/67

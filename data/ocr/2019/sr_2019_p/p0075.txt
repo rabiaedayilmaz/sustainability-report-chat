@@ -1,0 +1,81 @@
+Prioritization of Risks
+Offices
+Products and Services
+*1: This is an electrical power system that supplies a direct current (DC) straightaway to IT devices by only conducting 
+one conversion. Previous power supply systems received power through an alternating current (AC) and then later 
+conducted three AC–DC conversions, twice through an uninterruptable power supply and once inside of the IT device.
+*2: Power usage effectiveness: An indicator that expresses the electricity consumption efficiency of data centers.
+*3: First in Japan in U.S. Green Building Council’s project category “LEED BD + C; Data Centers”
+Asset Level
+Climate Change Strategy
+Company Level
+The Representative Director and Senior Executive Vice President, who serves as the Eco Activity 
+Promotion Committee Chairperson as well as the manager of core corporate activities including 
+business strategy, risk management, IR and so on, has the highest executive responsibility for 
+climate change matters. The Eco Activity Promotion Committee Chairperson, who concurrently 
+holds the post of Chief Risk Officer, semiannually checks risk management related to climate 
+change as part of company-wide risk management. The sustainability group is responsible for the 
+specific assessment of climate change risks and opportunities and strategic planning.
+The sustainability group evaluates the business and financial impact of regulatory trends 
+(including carbon taxes, purchase schemes for renewable energy, and cap-and-trade systems) 
+and physical effects (including abnormal weather and rise of average temperature). The group 
+also monitors the progress of measures to address risks and opportunities deemed by the team 
+as material as a result of the evaluation and analyzes targets and results of environmental load 
+measurements (energy consumption/greenhouse gas emissions, paper resource usage, waste 
+material volumes, and water usage). The results of these evaluation and analysis are reported 
+to the Eco Activity Promotion Committee Chairperson. The Chairperson then proposes critical 
+matters for consideration to the Board of Directors, where discussions are held regarding possible 
+response measures. In the 2018 report, the Board of Directors reviewed the risk assessment items 
+and decided to assess climate change risks, which had been evaluated only as part of another risk 
+item, as an independent assessment item from the next fiscal year.
+The Facility Management Division, which has expertise in building design, compiles information 
+on environmental load indicators for each data center and office (energy consumption/
+greenhouse gas emissions, paper resource usage, waste material volumes, and water usage), 
+the status of energy conservation measures, and regulatory trends at the local government 
+level, and reports its findings to the sustainability group. If the team deems that any reported 
+matter is likely to significantly impact the Company’s business, it reports this matter to the Eco 
+Activity Promotion Committee Chairperson. The Chairperson then proposes critical matters 
+for consideration to the Board of Directors, where discussions are held regarding possible 
+response measures.
+The Internal Control Promotion Committee, which is responsible for company-wide risk 
+management, identifies about 40 business-related risks at the Head Office, regional integrated 
+We are reducing CO₂ emissions volume by approximately 13,300 t-CO₂e each year by efficiently 
+operating office facilities through efforts such as optimizing the operation of air supply and 
+exhaust systems and optimizing the number of air conditioners and hours of operation.
+The NTT DATA Group builds and operates environmentally friendly Green Data Centers. In March 
+2018, we completed construction on Mitaka Data Center EAST, a collective of key elements of 
+the services offered by our Green Data Centers, including high voltage direct current (HVDC) 
+power supply systems*¹, virtualization technologies, and air current control systems for cooling. 
+Mitaka Data Center EAST shortened operating times for air-conditioning equipment by installing 
+an outside air-cooling system that utilizes natural energy. We are aiming to be in Japan’s top 
+class of energy-efficient companies with a PUE*² of 1.3 or less (annual average, design value). 
+In September 2018, Mitaka Data Center EAST obtained Gold certification in the data center 
+category under the latest version (version 4) of the Leadership in Energy and Environmental 
+Design (LEED) rating system. It is the first*³ data center facility in Japan to have obtained the 
+certification.
+companies, and individual Group companies. The committee then evaluates each risk identified, 
+using a matrix with one axis being the magnitude of impact (very large, large, medium, small) and 
+the other axis being the probability of occurrence (very high, high, medium, and low). Risks with 
+very large/large impact and very high/high/medium probability, or risks with very large/large/
+medium impact and very high/high probability are defined as “material risks” and prioritized by 
+each company around the globe. In addition, risks determined to have the potential to impact the 
+entire Group are defined as global-control risks and are managed stringently and thoroughly on 
+a Groupwide basis. Risks determined by each regional integrated company as material risks are 
+also defined as “region-control risks” and undergo an evaluation and improvement cycle based 
+on the progress of measures, risk occurrence status, and other conditions. Under this Groupwide 
+risk management system, climate change risks are categorized as a kind of region-control risks 
+that multiple companies are facing.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

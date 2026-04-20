@@ -1,0 +1,54 @@
+Providing integrated smart hospital solutions 
+with AI-based diagnostic imaging
+To help lessen the burden on healthcare resources across APAC region by 
+conducting Proof of Concept (PoC) of AI diagnostic imaging solution, which detect 
+the suspected case of Covid-19 based on X-rays or CT scans, and to promote 
+integrated smart hospital solutions at the same time.
+As of November 30, 2020, the COVID-19 pandemic 
+shows no signs of slowing down, the number of new 
+infections in APAC, led by the Philippines and 
+Indonesia, continues to increase.
+ 
+Amid a global shortage of radiologists, who use 
+medical images such as X-rays and CT scans to make 
+diagnoses, NTT DATA has conducted a Proof of 
+Concept (PoC) for AI-based diagnostic imaging in 
+hospitals around the world. Recently, NTT DATA 
+started oﬀering the Covid-19 detection PoC for free of 
+charge to more than 10 government/medical 
+institutions across APAC with a newly added function 
+of AI engine that can detect the suspected case of 
+COVID-19 from X-rays and CT scans.
+This solution highlights suspected lesions identiﬁed 
+by AI on X-rays and CT scans and the identiﬁed 
+content is automatically reﬂected on the diagnostic 
+imaging report created by the radiologist to support 
+the doctor’s judgement. It enables to narrow down 
+targets of sample collection, which help to strengthen 
+medical systems and reduce the burden on doctors in 
+each country.
+ 
+PoC for AI diagnostic imaging solutions is being 
+implemented in the Philippines and Indonesia. 
+Especially in the Philippines, together with 
+Inter-Agency Task Force for a new infectious disease 
+under the direct control of the President, PoC 
+experiments in multiple cities and medical institutions 
+are carried out. 
+ 
+In the future, NT T DATA aims to provide 
+integrated smart hospital solutions with a view to 
+linking them with telehealth solution and other 
+solutions for home care patients.
+10 countries
+The number of countries in APAC region PoC was provided for free:
+The example of AI highlighting lesions from medical images and
+ reﬂecting on the diagnostic report
+Shaping a new society amid 
+the COVID-19 pandemic
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

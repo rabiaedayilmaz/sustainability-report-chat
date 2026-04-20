@@ -1,0 +1,81 @@
+Challenging Net-Zero across the Supply Chain
+At NTT DATA, Categories 1 (purchased goods and services), 2 (capital goods), and 11 (use of sold products) account 
+for approximately 63.7%* of the total emissions in Scope 3. It is essential to enhance engagement with suppliers 
+and collaborate with them to reduce GHG emissions across the entire supply chain. To achieve this, we are advancing the reduction of Scope 3 emissions by establishing environmental evaluation criteria for the procurement and 
+selection of products and services, and by requesting suppliers to cooperate in addressing climate change.
+ 
+Group companies outside Japan are also working in coordination, tailored to their business characteristics, to 
+reduce GHG emissions across the global supply chain. 
+* Of the total emissions within Scope 3, the breakdown by category is approximately 43.6% for Category 1 (purchased goods and services), approximately 13.3% for Category 2 (capital goods), and approximately 6.8% for Category 11 (use of sold products).
+Green Purchasing
+Assessments of Corporate Efforts and Products
+To promote sustainability and ESG-related initiatives across the entire supply chain, we have published the NTT 
+DATA Group Supply Chain Sustainability Guidelines, which clearly outline the expectations for compliance from our 
+suppliers. In addition, we have released the NTT Group Green Procurement Standards to complement the environmental content. Through these guidelines, we request that our suppliers implement measures to reduce GHG 
+emissions within the supply chain. 
+ 
+In its procurement and selection of products and services, NTT DATA makes judgments based on price and 
+quality as well as on environment-related factors. Specifically, we assess compliance with environmental regulations and initiatives for reducing GHG emissions within the supply chain. In particular, we monitor progress in GHG 
+emission-reduction efforts using detailed indicators.
+Process of Managing Progress in Reducing Greenhouse Gas Emissions
+Mechanism to Evaluate a Supplier’s Corporate Stance
+Classification
+Initiative Steps
+Status of Initiatives
+Formulation of 
+an implementation 
+plan
+Not started 
+(no plan to be formulated in the future)
+Formulated a plan to implement within a year
+Visualization
+Tracked Scope 1 and 2
+Tracked Scope 3
+Target setting
+Established voluntary reduction targets
+Established reduction targets that meet the 
+SBT-approved level
+Green Rating
+1 Request to 
+each company
+3 Green Rating
+4 Comprehensive rating 
+ (not disclosed)
+5 Purchase
+2 Respond to 
+questionnaire/ 
+surveys such as 
+the CDP questionnaire
+Rating of corporate efforts
+Performance rating
+Corporate rating
+Quality rating
+Price
+Service rating
+Partner Company
+Previous Rating
+STEP 0 
+No response plan for climate change
+STEP 1
+Have an implementation plan within a year
+STEP 2
+Visualization of Scope 1 and 2
+STEP 3
+Visualization of Scope 3
+STEP 4
+Set reduction targets
+STEP 5
+Set reduction targets at SBT-approved levels
+Rating of corporate efforts
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

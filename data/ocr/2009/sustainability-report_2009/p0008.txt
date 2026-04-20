@@ -1,0 +1,109 @@
+Mobile phones continue to offer increasingly diverse and 
+sophisticated functions, which now include email, web access 
+and settlement services. We contribute to user convenience by 
+creating and operating system platforms that enable the stable 
+operation of these functions. We also contribute our advanced 
+technologies to the development of next-generation 
+networks (NGNs).
+Mobile phones have become essential to our daily lives. In 
+Japan, NTT DOCOMO’s i-mode service has a leading share of 
+the market, with approximately 49 million subscribers. In 
+2003, we launched the i-mode Gateway System to provide 
+24/7 support for this large base of customers who use 
+i-mode for email and web access, as well as to provide such 
+services as i-concier.*
+In developing this system, NTT DATA constructed a 
+platform allowing access to 50,000 pages of web content 
+and 25,000 emails per second. Furthermore, the system can 
+be expanded without service outage.
+By developing and operating this system, which is the 
+largest of its kind in the world, NTT DATA offers peace of 
+mind and convenience to i-mode users.
+* i-concier
+Launched in November 2008, i-concier is a customer-personalized mobile 
+information service.
+NTT DATA develops and operates large-scale network systems 
+that support Japan’s financial and economic infrastructure by 
+linking payments and receipts among financial institutions, retail 
+and credit companies and governmental agencies. We also 
+contribute to the emergence of a cashless society by developing 
+electronic money centers and credit card verification systems.
+In Japan, people have become able to pay taxes, public utility 
+bills and other items not only at the business counters of 
+financial institutions and convenience stores, but also at 
+ATMs and via personal computers and mobile phones. The 
+Pay-easy multi-payment network has simplified payments 
+from anywhere, at any time.
+NTT DATA developed and operates Pay-easy on 
+consignment from the Japan Multi-Payment Network 
+Management Organization, in which all financial institutions 
+in Japan participate.
+In addition to enhancing consumer convenience, Pay-easy 
+increases the operational efficiency of private companies, 
+government offices, regional municipalities, and financial 
+institutions. In fiscal 2009, Pay-easy facilitated more than ¥4 
+trillion in transactions, proving itself an essential part of the 
+social infrastructure.
+Stable operation 24 hours a day,
+365 days a year
+Email service
+Web access service
+i-mode
+Gateway System
+Web access at
+50,000 transactions
+per second
+25,000 send/receive
+e-mail transactions
+per second
+User account
+Payment receipt
+account
+Multi-payment
+network
+(1) Forward payment slips and bills
+(4)
+Request
+for
+payment
+(6) Reconciliation
+ information
+ notification
+(2) Payment information
+ inquiry
+(3) Payment information
+ notification
+(5) Withdrawal
+User
+Company
+Government
+office/
+municipality
+Payment
+receipt
+Financial
+institution
+Mobile phone
+PC
+ATM
+Telecommunications Sector
+Major Systems and Services
+ Platform system supporting DCMX NTT DOCOMO Mobile Credit Service
+ Billing system (provides billing invoice data, billing system)
+ Customer management system
+ NGN operation system
+Developing a Gateway System to Support the Stable 
+Operation of the NTT DOCOMO i-mode Service
+Payment Sector
+Major Systems and Services
+ The Zengin Data Telecommunications System (A nationwide online processing 
+system for domestic fund transfers among Japanese financial institutions)
+ ANSER (automated notification service for deposits, withdrawals and transfer requests)
+ CAFIS (integrated network system for credit card transactions)
+ Integrated ATM Switching Service
+Multi-Payment Network for a Simple and Convenient 
+Payment Environment
+Note: i-mode, i-concier and DCMX are trademarks or registered trademarks of NTT DOCOMO, INC. in 
+Japan and other countries.
+NTT DATA Group Overview
+NTT DATA CSR Report 2009

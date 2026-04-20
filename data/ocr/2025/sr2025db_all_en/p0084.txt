@@ -1,0 +1,54 @@
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+Governance
+Appendix
+Management and Monitoring of Total Working Hours
+Long working hours has been an ongoing problem in the IT industry, and NTT DATA 
+Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan), are working 
+Company-wide to reduce total working hours based on proper working hour management.
+ 
+Since the COVID-19 pandemic in fiscal 2020, the average total working hours per 
+employee have increased compared with fiscal 2019, reaching 1,997 hours in fiscal 
+2024. Over the five years from fiscal 2020, the average total working hours have 
+remained stable. This trend is influenced by various factors, including changes in work 
+styles following the pandemic, increased business volume due to corporate expansion, 
+and challenges in securing human resources resulting from greater employee mobility.
+ 
+Because prolonged working hours have a significant impact on employee health, 
+we are working to prevent overwork by using our BI platform (Tableau) to securely 
+and promptly visualize analyses of working-hour data and share the results across 
+the Company. Through position-based training and our internal website, we raise 
+awareness about the need to rationalize working hours and promote a shift in work 
+styles to motivate employees to reduce their hours. Since fiscal 2023, we have set 
+organization-specific targets for average total working hours and have monitored 
+performance quarterly to drive reductions. These initiatives will continue in fiscal 2025.
+Enhancing Paid Leave Systems and Encouraging Their Use
+NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan), are promoting 
+a work-life balance by implementing Company-wide initiatives to increase the use of paid 
+leave. In fiscal 2024, the average number of paid leave days taken per employee was 
+15.5, with a paid leave utilization rate of 79.8%. Going forward, we will continue to promote a well-balanced work style by implementing paid leave initiatives based on analyses 
+of various data, aiming to further increase the utilization rate.
+  [Reference page] Non-Financial Data “Internal System Users and Working Hours”
+Labor-Management Dialogue to Enhance 
+Work Environments
+NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan), hold 
+labor-management discussions with the NTT DATA unions on working condition matters as they arise, emphasizing comprehensive dialogue in addressing various issues. 
+In fiscal 2024, to support employees undergoing infertility treatment, the Company 
+introduced a new paid leave specifically designed to help employees manage important life events while continuing to work.
+ 
+As managers hold positions responsible for business management, they do not 
+have the right to join the labor union. Excluding managers, the union membership rate 
+among employees is nearly 100%.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+People positive
+ Health and Safety

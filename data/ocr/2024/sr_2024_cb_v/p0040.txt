@@ -1,0 +1,133 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+Promoting Public-private Data Collaboration to Streamline Administrative and Private 
+Procedures
+NTT DATA Japan Corporation
+Social Infrastructure Solution Sector 
+Social Digital Transformation & Consulting Division
+Consulting Group, Business Planning Section
+Digital
+Accessibility
+Trusted
+Value Chain
+BizMINT®
+• Procedures for life events such as moving require similar applications to be submitted to multiple locations, placing a significant burden on individuals.
+• Government and private sector systems are not integrated, leading to complex procedures and time costs.
+To reduce the costs of administrative procedures related
+to
+life
+events
+and to facilitate
+the smooth
+flow
+of
+information across society, it is essential to promote
+public-private
+data
+collaboration.
+Municipalities
+are
+enhancing the convenience of procedures and counter
+services by utilizing digital technologies such as online
+applications and the use of My Number cards.
+For example, in February 2023, the Digital Agency
+launched the Online Moving Procedures Service on the
+Mynaportal, which allows users to complete various
+procedures online, including submitting a moving-out
+notice to municipalities and handling utilities such as
+electricity, gas, and water with private companies. Future
+collaborations with financial institutions and mobile phone
+companies are also anticipated.
+Business need
+Solution
+NTT
+DATA’s
+data
+distribution
+platform,
+BizMINT®,
+integrates with the Mynaportal API provided by the Digital
+Agency, offering a system that facilitates applications to
+government agencies and the provision of information held
+by these agencies to private businesses. This enables realtime sharing of information across multiple organizations,
+allowing for the swift delivery of necessary services.
+In November 2023, NTT DATA launched a service that
+integrates with the electronic application API, providing a
+one-stop solution for administrative and private company
+procedures related to moving. By combining BizMINT® with
+BizPICO®, a personal identification solution service using
+My Number cards and other public personal authentication
+services,
+NTT
+DATA
+achieves
+highly
+reliable
+data
+collaboration across public and private sectors.
+The
+platform
+includes
+essential
+features
+such
+as
+managing user consent and controlling data flow to specific
+businesses if the user does not wish to share their data.
+This ensures a secure information-sharing environment for
+both data users (individuals) and data-handling businesses.
+This service, which allows for moving applications to
+1,741 municipalities nationwide, is the first of its kind
+offered by a private company in Japan. Currently, it enables
+simultaneous
+address
+change
+applications
+for
+administrative procedures and private businesses such as
+water, electricity, and gas in Kaga City, Sapporo City,
+Sendai City, and Kagawa Prefecture. NTT DATA continues
+to expand the number of businesses nationwide that can
+handle these procedures.
+In the future, NTT DATA aims to link with the SelfInformation Acquisition API* to share information such as
+taxes, income, and family registers held by government
+agencies with private businesses, with user consent. This
+will contribute to improving operational efficiency for service
+providers,
+creating
+new
+business
+opportunities,
+and
+enhancing convenience for service recipients.
+* Self-Information Acquisition API :
+One of the services of Mynaportal.
+This API allows users to obtain
+their
+own
+information
+(such
+as
+income
+and
+household
+details)
+held by government agencies.
+Impact
+1,741 organizations
+nationwide
+Number
+of
+local
+governments
+supporting
+moving
+procedures with BizMINT®
+As of October 1, 2024
+BizMINT® and BizPICO®
+NTT DATA
+(in Japanese only)

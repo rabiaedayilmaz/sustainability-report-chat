@@ -1,0 +1,55 @@
+Developing People-friendly Systems/Improving Client Satisfaction
+We adopt a user perspective on accessibility and usability from the starting stages of system 
+development, such as system planning and requirement definition, seeking to provide services 
+designed for ease of use as well as to improve client satisfaction. 
+Universal Design Initiative
+Improving Client Satisfaction
+Promoting Improvement through 
+Interviews and Questionnaires
+In accordance with its belief that a client-oriented approach 
+lies at the root of sustainable corporate growth, NTT DATA 
+conducts oral and written surveys of its regular clients. 
+The aim of this self-monitoring exercise is to enable us to 
+deliver improved services from a client standpoint.
+ 
+In fiscal 2013, we listened to the opinions and 
+requests of 68 organizations in interviews and obtained 
+feedback in questionnaires received from 344 people in 
+148 client organizations.
+ 
+These client satisfaction (CS) surveys revealed that 
+69.1% of clients were either “very satisfied” or “satisfied” with NTT DATA’s initiatives (see the graph below).
+ 
+In fiscal 2014 as well, we plan to continue CS activities across the Group as a basic practice.
+Internal seminar held by the UD Research Group
+Overall client satisfaction with NTT DATA’s initiatives
+Very satisfied
+45.6%
+Satisfied
+23.5%
+Needs improvement
+13.2%
+Difficult to quantify or 
+no response
+17.6%
+Interview surveys
+69.1%
+Advancing Universal Design for Information Systems
+The widespread adoption of information technology in 
+society has brought with it the global problem of the digital divide*1. In Japan, there are calls to take into consideration the elderly and disabled in public spaces and to 
+improve the IT user-friendliness across a wide range of 
+devices including tablet terminals.
+ 
+The NTT DATA Group, recognizing in each IT user the 
+potential for innovation, promotes the adoption of universal design (UD)*2 in information systems. Not only do we 
+use UD in the systems and services we deliver to clients, 
+we also work to develop know-how and tools to further 
+incorporate UD, foster personnel, and raise employee 
+awareness concerning this approach to UD. We will continuously work to implement UD, which we regard as a 
+way of creating value for society.
+*1 The economic and social gap or imbalance that exists between those who 
+have access to computers and the Internet—and the capability to use 
+them—and those that do not
+*2 Design aiming for ease of use by all people, irrespective of age, gender, 
+nationality, and disability status
+NTT DATA CSR Report 2013

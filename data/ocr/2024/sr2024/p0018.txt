@@ -1,0 +1,116 @@
+FY2023 Indicators
+FY2024 Indicators
+Indicator
+Target
+Achievement
+Concrete Activity Results
+Indicator
+Target
+ Carbon Neutrality  
+ P21
+Contribute to solving climate change issues by creating innovations to 
+decarbonize society and clients.
+As the global society transitions toward decarbonization, it is imperative for companies to take the lead in addressing their own climate change issues and decarbonizing society. In addition to reducing greenhouse gas emissions through our own 
+supply chain, NTT DATA will promote innovation to support clients to achieve carbon 
+neutrality and strengthen their resilience to extreme weather events through digital 
+technology and co-creation with clients and contribute to the achievement of 
+society’s carbon neutrality.
+CO2 emissions
+Below 461,000 t-CO2t
+(including NTT Ltd.)
+Scope 1: 39,507 t-CO2
+Scope 2: 307,009 t-CO2
+Entered into a site corporate Power Purchase Agreement (PPA) and 
+implemented energy-saving measures. Promoting engagement 
+activities with suppliers to reduce GHG emissions throughout the 
+supply chain. 
+ P22
+GHG emissions (Scope 1 & 2)
+341,000 t-CO2*1
+Promotion of electrification in 
+general vehicles
+Not disclosed
+Not disclosed
+Actively promoted the electrification of vehicles that are nearing the 
+end of their lease contracts in all business divisions of the company. 
+
+ 
+ P10
+Removed
+Ongoing monitoring
+ Circular Economy  
+ P36
+Reduce waste and create a society where the value of products and 
+services continues to circulate
+We are using finite resources and generating waste in our economic activities. We 
+need to decouple economic activities from resource consumption and shift to a 
+circular economy to realize a sustainable society and environment. In addition to 
+our own initiatives, which include reusing and recycling used PCs and donating 
+unneeded emergency rations, we aim to realize a society that produces zero waste 
+and ensures that resources can be used and recycled sustainably through our 
+support to clients using blockchain, AI, IoT, and other technologies.
+Waste recycling rate
+General and 
+industrial waste: 99% or more
+Construction waste: 87%
+General and 
+industrial waste: 99%
+Construction waste: 95.5%
+Confirmed the status of locations with low waste recycling rates and 
+promoted outsourcing to recycling service providers with higher 
+recycling rates. Established goals aimed at reducing waste plastics 
+and implemented related activities from the perspective of forming a 
+circular society. 
+ P36
+Waste recycling rate
+General and 
+industrial waste: 99% or more
+Construction waste: 87%
+New
+Number of regulatory violations related to new 
+waste treatment (PCB) 
+
+ Nature Conservation 
+ P38
+Generate sound global environment and contribute to people’s wellbeing by conserving and recovering nature capital
+We are losing our natural capital at a rapid pace due to land-use changes associated with economic and social development, as well as pollution, climate change, 
+and biodiversity loss including the invasion of alien species. To conserve and sustainably use natural capital, we need to understand the relationship among economic, 
+social, and corporate activities, plus natural capital, and take appropriate measures 
+accordingly. We will promote a nature-positive approach throughout society by 
+promoting initiatives that protect the natural capital associated with our company and 
+by providing our clients with business support that utilizes our digital technologies.
+Paper consumption
+40% reduction 
+(from FY2020)
+37%
+Set reduction targets for each of our environmental management 
+systems and took steps to achieve them. 
+ P10
+Removed
+Ongoing monitoring
+New
+Number of business facilities installed in nature 
+reserves and their proportion of the total
+Monitoring indicator*2
+New
+Number of business facilities installed in water 
+risk areas and their proportion of the total
+Monitoring indicator*2
+*1 Preliminary value as of October 2024. Will be updated upon confirmation.
+*2 No target will be set, but performance will be monitored with this indicator to observe the levels.
+Initiatives toward Materiality and Achieving KPIs
+To fulfill our role in addressing global environmental issues through our business and corporate activities for the benefit of all people and future generations, NTT DATA is focusing on three material issues: Carbon Neutrality, Circular Economy, 
+and Nature Conservation.
+ [Reference page] Sustainability Management “Progress in Relation to Nine Material Issues and FY2024 Targets”
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

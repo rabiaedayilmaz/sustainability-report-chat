@@ -1,0 +1,48 @@
+【Additional Topics】 
+NTT DATA CSR Report 2011 62/67 
+procedures that are necessary to counter such risks. 
+ 
+To that end, NTT DATA established seven Information Security Basic Actions in 
+fiscal 2011. In addition to promoting in-house awareness of a comprehensive action 
+checklist, we have established companywide security accident response procedures. 
+We have also put in place procedures for the introduction of new business tools such as 
+tablet PCs and smartphones. The issue is how to use these items actively while maintaining 
+a high level of security. 
+ 
+3) Strengthen personal data protection measures 
+NTT DATA established a Personal Information Protection Policy and in-house regulations in 
+2001, and has since been engaged in a variety of related activities, such as Privacy Mark 
+acquisition in 2003. 
+ 
+Nonetheless, incidents involving the use of personal data for purposes other than 
+its intended use at the time of acquisition have occurred at other companies, and in 
+response we have redoubled our own personal information protection measures. In addition 
+to the annual self-checking of the status of personal data handling at the workplace and 
+systems levels, we are also conducting Internet-based training (e-learning) programs for all 
+employees concerning personal data protection, as well as holding classroom instruction 
+(rights protection training) for understanding the practical aspects of personal data 
+acquisition in projects. 
+ 
+These programs will continue to be conducted in fiscal 2012, and we will work to 
+strengthen our personal data protection measures even further. 
+ 
+ 
+ 
+ 
+Extending educational and promotional activities to employees and 
+partner companies 
+NTT DATA pursues information security education through e-learning, classroom instruction 
+and other forms of training for employees, temporary workers and business partners to 
+ensure safe ongoing information security practices. 
+ 
+In fiscal 2011, we conducted GSP Security Training for Group company employees 
+desiring GSP Internal Auditor Training (classroom instruction) for conducting information 
+security audits based on the NTT DATA Group Security Policy. 
+ 
+We will continue to conduct a variety of measures focused on ensuring that each 
+employee has a thorough understanding of basic actions for information security. 
+ 
+ 
+ 
+ 
+Information Security Education and Awareness

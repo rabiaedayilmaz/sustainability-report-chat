@@ -1,0 +1,101 @@
+Electric vehicles have gained worldwide attention with 
+aggressive promotion for their widespread adoption 
+anticipated for the future. However, improvements to the 
+charging infrastructure are needed for drivers to use electric 
+vehicles with peace of mind.
+Accordingly, NTT DATA is participating in fi eld trials for 
+electric vehicle charging infrastructure services as part of the 
+Fiscal 2009 Electric Vehicle Popularization and Field Trial of 
+Charging Infrastructure, which is being promoted by the 
+Ministry of Economy, Trade and Industry’s Agency for Natural 
+Resources and Energy, through activities conducted in 
+January and February 2010. 
+These measures involved NTT DATA linking charging 
+facilities individually owned by corporations and local 
+governmental bodies in a network with a view to ensuring 
+their communal use. As such, we are aiming to build an 
+environment for seamless use as a shared platform for users. 
+In cooperation with 25 companies, local authorities and other 
+organizations, we carried out validity verifi cation of a 
+framework for mutual use of multiple charging facilities 
+including authentication and management of charging 
+quantities by using 114 EVs at charging facilities in 22 
+locations spanning Tokyo, Kanagawa and Osaka.
+These fi eld trials confi rmed the possibility of providing 
+suitable services for users through the application of IT. 
+Although cost issues remain, we will move ahead with 
+investigations in light of the results of these initiatives as 
+part of the drive to popularize electric vehicles and improve 
+charging facilities. 
+Field trials leading to infrastructure 
+improvements for the charging of electric vehicles
+M e s s a g e
+Off ering IT systems and solutions in the environmental era, 
+aware of our role as a leader in the IT industry
+The progress of IT has changed our lifestyles and social framework by altering the ways we communicate and 
+handle commercial transactions. At present, pressed for urgent responses to environmental problems, IT plays an 
+increasingly dominant role in reducing our environmental impact. 
+The NTT DATA Group recognizes that certain social responsibilities accompany its status as operator of 
+the largest data center in Japan and provider of information systems that are key to the social infrastructure. 
+Accordingly, we have set the objective of reducing annual CO2 emissions by customers and society by 1.5 million 
+tons by fi scal 2013. This represents a target reduction through the provision of systems and services equivalent to 
+fi ve times the NTT DATA Group’s own emissions.
+Leveraging the experience, technologies and expertise we have accumulated as a leader in the 
+IT sector, we are proactively off ering new frameworks and solution proposals that will alleviate global 
+environmental problems.
+Outline of Field Trials
+Electric Vehicles Used by Companies and 
+Local Governmental Bodies
+Communal-use charging 
+infrastructure mark
+Car parks
+Charging Service Center
+Data management for 
+various modes of use
+Clearance between
+companies
+Invoice
+management
+User
+authentication
+Customer
+management
+Charge quantity
+management
+Electronic money
+settlement 
+Local governmental bodies
+Gas stations
+Smart cards endorsed with the above communal-use 
+charging infrastructure mark can be easily identified as valid 
+for transactions at participating charging facilities. These 
+facilities display the same mark for simple recognition as 
+participants in the shared use scheme.
+Smart
+card
+Smart
+card
+Smart
+card
+Communicationenabled charging
+ facilities 
+Noncontact Smart card 
+reader/writer
+Convenience
+stores
+Charging available 
+anywhere there are 
+facilities displaying 
+the communal-use 
+charging
+infrastructure mark
+Note: At certain charging facilities, experimental operation 
+was carried out unconnected to the charging service 
+center. 
+Note: Some functions refer to 
+planned future installation. 
+Focus
+Through the Construction of an Environmental Infrastructure Framework
+
+Satoshi Takaishi Senior Executive Manager, Environmental Management Promotion Offi ce, NTT DATA 
+NTT DATA CSR Report 2010 17

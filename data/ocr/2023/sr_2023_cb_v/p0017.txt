@@ -1,0 +1,62 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+Visualization of carbon footprint
+Collaborating to Address Eco Impacts 
+of EV Batteries while Ensuring Confidentiality
+Click here for 
+reference article
+Electric
+vehicles
+(EVs)
+are
+considered
+more
+environmentally friendly than gasoline cars that use
+fossil fuels. However, reducing the environmental impact
+of EV batteries poses a new challenge.
+The European Battery Regulation, enacted in August
+2023, mandates disclosure to the European Commission
+of CO2 emissions and resource recycling rates throughout
+the battery life cycle. In the future, Japanese companies
+will also need to comply with battery regulations to sell EVs
+and other battery-powered vehicles in the European
+market.
+In Europe, initiatives
+such as
+Catena-X, led by
+German automotive manufacturers and IT companies,
+serve as platforms for companies and organizations to
+exchange data mutually. However, when Japanese
+companies engage in data exchange through platforms
+like Catena-X, concerns arise from
+an information
+management perspective. This is because it might
+involve not only carbon footprint information but also
+confidential company data, such as the raw materials of
+automotive components, being stored overseas.
+To address this, NTT DATA has teamed up with
+government and industry stakeholders to demonstrate a
+secure data collaboration platform that enables crossindustry data exchange while safeguarding only the
+necessary information. In the future, we aim to expand
+the platform’s usage not only to other industries but also
+beyond Japan, including in Asia. By doing so, we
+contribute to achieving a carbon-neutral and resourcecirculating society.
+· As EVs become more prevalent, reducing the environmental impact of their batteries has become a challenge. 
+Alongside reducing CO2 emissions across the EV battery value chain, there is increasing demand to manage and 
+disclose rare resource use and uphold human rights.
+Battery 
+Traceability 
+Platform
+*for EV batteries exported from Japan to the EU
+100%
+Circular 
+Economy
+Carbon
+Neutrality
+Smart X
+Co-Innovation
+Conceptual diagram of the data collaboration platform

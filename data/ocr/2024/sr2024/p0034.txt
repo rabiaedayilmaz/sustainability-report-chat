@@ -1,0 +1,72 @@
+10,000
+8,000
+6,000
+4,000
+2,000
+
+9,490
+5,012
+5,504
+
+NTT DATA’s GHG emission-reduction targets, certified by the SBTi, aim to achieve a 68% reduction in Scope 1 and 2 
+emissions by fiscal 2030 and a 42% reduction in Scope 3 emissions by fiscal 2030, both compared with fiscal 2021. 
+Fiscal 2023 results were as follows. In this year, a review of the emission factors and calculation methods for Scope 
+3 emissions has led to a reduction in overall emissions. Moreover, a reassessment of the baseline and target 
+values is currently being considered.
+Metrics and targets set for climate-related risk management and opportunity-related strategies are below.
+Metrics Category
+Metrics, Targets, Results, etc.
+GHG emissions
+Metrics: Scope 1, 2, and 3 emissions
+Targets: GHG emissions
+Medium term: 
+Make the following reductions by FY2030 
+compared with FY2021.
+Scope 1 and 2: 
+ 
+Reduce by 68% (SBT1.5˚C level)
+Scope 3: Reduce by 42%
+Note: SBT certification
+Long term: 
+Achieve net-zero by FY2040 (Scope 1, 2, and 3)
+Achieve net-zero for Scope 1 and 2 by 2035
+Note: SBT certification
+Internal carbon 
+price
+Internal carbon price (FY2023): ¥6,500/t-CO2
+Note: NTT Group unified price (to be updated annually)
+Compensation
+Implementing the following performance-linked compensation: 
+1. For non–Audit and Supervisory Committee directors (excluding outside directors), 
+executive compensation is partly linked to the evaluation of progress in achieving 
+GHG emission-reduction plans.
+2. For employees, bonuses are partly linked to the evaluation of the promotion of 
+sustainability-related offerings and social contribution activities.
+Notes: 
+1. Scope 2 figures are market-based (calculated based on the amount of electricity procured by each electric power company and its emission factor, etc.).
+2. The bar for fiscal 2030 represents a revised projection.
+Total GHG Emissions (Scope 1 & 2*1)
+In fiscal 2023, total GHG emissions (Scope 1 and 2) 
+decreased by 33.4% 
+compared with the baseline year (fiscal 2021).
+In fiscal 2023, total GHG emissions (Scope 3) 
+decreased by 47.2% 
+compared with the baseline year (fiscal 2021).
+FY
+FY
+Total GHG Emissions (Scope 3)
+(thousand t-CO2e)
+(thousand t-CO2e)
+Metrics and Targets (Management Metrics and Targets for Climate-Related Risks and Opportunities)
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

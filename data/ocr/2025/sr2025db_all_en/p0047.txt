@@ -1,0 +1,103 @@
+Generative AI assets
+Methodologies
+Human resource 
+development
+Marketing
+…
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Basic Policy
+Amid increasingly diverse and complex social challenges, we create services that address 
+new needs by leveraging artificial intelligence (AI) and the technologies and expertise 
+cultivated through our existing services. Specifically, we strengthen global collaboration 
+to provide business solutions that utilize technology together with a wide range of partners. In particular, through strategic investments in growth areas such as generative 
+AI—where ordinary business investments are difficult—we aim to create innovations that 
+contribute to a sustainable society five to 10 years from now.
+Promotion System
+Under the Global Innovation Headquarters (GIH) of the Corporate Planning General 
+Headquarters, we have established a structure that oversees six functions, including the 
+Global AI Office (GAO) and Innovation Centers.
+Initiatives for Creating Innovation
+Activities of the Global AI Office (GAO)
+While generative AI has been increasingly applied to improve the efficiency of day-to-day 
+operations, the use of generative AI for fundamental business process transformation and 
+creating tangible business outcomes remains a challenge. At NTT DATA, we view generative 
+AI as a technology that can be applied across entire business processes, not just individual 
+tasks. Accordingly, we are pursuing the realization of the Smart AI AgentTM concept, which 
+leverages generative AI to dramatically enhance office workers’ productivity. 
+ 
+The Global AI Office (GAO) is responsible for formulating strategies and investment 
+portfolios for generative AI utilization across the entire NTT DATA Group. In addition, the 
+Generative AI Business Strategy Department, established in April 2024 within NTT DATA’s 
+TC&S domain, focuses on formulating generative AI strategies, managing investments, 
+and generating business outcomes for NTT DATA’s Japan operations.
+As of August 1, 2025
+Global 
+Innovation 
+Headquarters
+(GIH)
+Global Al Office
+The GIH is responsible for formulating generative AI strategies and investment portfolios 
+across NTT DATA globally. It drives value creation aimed at transforming both our own and 
+our clients’ businesses and society.
+Next-Gen Infra
+To realize infrastructure services that leverage the synergies between our established IT 
+Services and Data Center & Connectivity businesses, the GIH executes investments in the 
+cloud and cybersecurity domains and monitors the utilization and outcomes of these 
+investments.
+Global Digital 
+Asset Management
+The GIH not only plans, implements, and operates initiatives for the global deployment of 
+assets held by NTT DATA and its operating companies but also handles business planning, 
+back-end IP rule formulation, and technology consulting.
+Global Strategic 
+Alliance
+To strengthen technological capabilities and drive innovation through collaboration with 
+top-tier IT companies, including major cloud providers (hyperscalers), the GIH promotes 
+alliances based on the strategy and objectives of each partner company.
+Innovation Centers 
+Next Gen Partners 
+& Incubation
+The GIH provides the technical elements necessary for executing NTT DATA’s business strategy 
+across regions through collaboration with innovative next-generation solution partners, 
+including start-ups.
+Planning and 
+Operations
+The GIH oversees investment management, planning, general affairs, human resources, 
+labor, and information dissemination, and organizes approval meetings (IIC) for budgets and 
+activity plans related to the global investment strategy.
+Establishment of a New Organization to Accelerate the Adoption of 
+Generative AI and Agentic AI
+By leveraging generative AI, we aim to move away from labor-intensive business models 
+and drive value creation that leads to both business and societal transformation for our 
+clients and NTT DATA.
+Business Transformation for Clients and NTT DATA
+Value Creation Driving Social Transformation
+NTT DATA
+Generative AI Business Strategy Department*1
+NTT DATA, Inc.
+NTT DATA Group Corporation
+Global Al Office*2
+April 1, 2024
+*1 The Generative AI Business Strategy Department was established in April 2024, succeeding the former Global Generative AI Office. 
+*2 The Global AI Office was established in October 2023, succeeding the former Generative AI Office.
+ 
+ Innovation through Technology
+As society’s needs become more diverse and complex, our company will create services that meet new needs by utilizing AI and the technologies and 
+know-how accumulated in existing services.
+October 1, 2023
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Innovation through Technology

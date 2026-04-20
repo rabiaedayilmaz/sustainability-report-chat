@@ -1,0 +1,88 @@
+The increased use of data centers, spurred by an expansion in 
+cloud computing services, may lead to a rise in power 
+consumption and CO2 emissions. To address such issues, 
+NTT DATA is focusing on energy-saving measures for its data 
+centers as well as its offices.
+Specifically, in our data center operations we are 
+implementing such measures as the installation of energy-saving 
+equipment and the maintenance of machine room temperatures 
+at optimal levels. We are also making efforts to reduce power 
+consumption by innovating work styles and improving business 
+efficiency through the introduction of next-generation offices.
+Roughly more than two thirds of the CO2 emissions that result 
+from the NTT DATA Group’s data its business activities stems 
+from its data centers. The formulation of drastic energy 
+conservation measures for our data centers poses a formidable 
+challenge as we are entrusted with our customers’ systems. That 
+said, we are conserving the maximum amount of energy 
+allowed at the centers to the extent that such efforts do not 
+affect our customer services.
+In fiscal 2012, we implemented summertime power-saving 
+measures and carefully examined air conditioners in operation. To 
+conserve energy, whenever necessary we replaced air conditioners 
+with the latest model that raise air conditioning efficiency, and 
+optimized the rack layout. We also thinned out the numbers of light 
+bulbs and replaced conventional lights with LED fluorescent tubes, 
+as well as partially suspended elevator operations.
+Consequently, in fiscal 2012 we have managed to reduce 
+power consumption volume at data centers to 400 million kWh, 
+down by more than 20 million kWh compared with the 
+year-earlier level.
+As an element of work-style innovation, from fiscal 2010 we have 
+been moving forward with hot-desking and using 
+video-conferencing to enhance the office environment and boost 
+work efficiency as part of our Next-Generation Pilot Office 
+Construction Project.
+In fiscal 2012, we constructed next-generation offices covering 
+approximately 3,000 m2 in Toyosu Center Building (NTT DATA head 
+office building) and Toyosu Center Building Annex (one of NTT 
+DATA’s main office buildings). In the construction of 
+next-generation offices, we optimized their working spaces to 
+make them more efficient. To achieve this, we implemented a 
+variety of initiatives. These include expanding the floor space per 
+room compared with our conventional offices, which have been 
+demarcated according to organizational unit, consolidating servers 
+to data centers, introducing hot-desking, and promoting 
+paperless operations. This made space for additional staff members, 
+who moved in from a leased building. This allowed us to not only, as 
+a matter of course, cut administrative costs but also CO2 emissions.
+We plan to replace 60% of all existing offices (equivalent to 
+around 65,000 m2) in these two buildings with next-generation 
+offices by fiscal 2014. This measure is expected to effectively cut 
+power consumption by 782 MWh/year (in the case of a space 
+reduction of 
+approximately 
+20,000 m2). We 
+expect to make 
+these changes 
+gradually to our 
+own buildings 
+from fiscal 2015. 
+Deployment of an EV for Field Service
+T O P I C S
+In March 2012, NTT DATA CUSTOMER SERVICE Corporation, which primarily provides IT system 
+maintenance and construction services, deployed an electric mini-van car to its branches in the Tokyo 
+metropolitan area to reduce CO2 emissions. We commissioned Tokyo Zokei University, which specializes 
+in fine arts and design, to design the truck exteriors. Based on the concept of “bridging forests and 
+towns,” the design expresses harmonization with the natural environment as an appeal point.
+In addition to using the EV when providing day-to-day field services, we plan to use it in the 
+future as a power supply source during disasters.
+We will continue to promote the deployment of EVs at each of our branches nationwide as part of 
+efforts to reduce the environmental impact of our business activities.
+Newly introduced EV 
+Energy Conservation Activities at Data Centers
+Constructing Next-Generation Offices to Bolster Business 
+Efficiency and Environmental Performance
+Paradigms for the Global Environment
+The Greening of Our Group
+We are promoting efficient use of energy and resources and an array of other measures to reduce 
+the environmental impact posed by our offices and data centers.
+t Working to Make Power Consumption in Offices “Visible” t Introduction of Natural Energy Sources t Waste Reduction 
+t Environmental Contribution Activities (Participation in Tokyo Greenship Action/ Initiatives by Group Companies) t Environmental Communication
+Promoting Energy Conservation at Both Offices 
+and Data Centers
+A next-generation office
+Additional Topics on Website
+CSR Activities Report 2012
+
+34 NTT DATA CSR Report 2012

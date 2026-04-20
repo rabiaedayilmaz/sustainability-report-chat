@@ -1,0 +1,102 @@
+NTT DATA develops information security strategies according to the 
+following themes: 1) Promote information security throughout the 
+Group in response to globalization; 2) Ensure that basic accidentprevention procedures are followed and create response measures; 
+3) Strengthen personal data protection measures.
+Promote Information Security throughout the 
+ 
+■
+Group in Response to Globalization
+To promote information security management throughout 
+the Group, when promoting PDCA cycles we maintain an 
+awareness of both the groupwide PDCA cycle and PDCA cycles 
+for individual Group companies.
+One part of the loop, which describes the PDCA cycle for 
+the entire Group, centers on the NTT DATA IT Security Strategy 
+Office. This loop involves monitoring the configuration status of 
+Group companies’ information security management systems, 
+as well as the implementation status of their educational 
+measures and internal audits, as well as providing support. In 
+fiscal 2011 we constructed a groupwide monitoring system, and 
+also established education systems and internal auditing systems.
+PDCA cycles of individual Group companies, the other part 
+of the loop, involve cultivating personnel dedicated to promoting 
+information security, Group company personnel and internal audit 
+staff. In fiscal 2011 we added 58 internal auditors from 23 companies.
+The NTT DATA IT Security Strategy Office also conducts 
+Group company caravans. In fiscal 2011, the office visited some 
+13 Group companies, including overseas locations. These visits 
+included eliciting Group companies’ problems and issues, as 
+well as considering on-site advice and improvement proposals. 
+We also provide consistent Group company security education 
+in two languages (English and Japanese) through a web 
+interface, so as to bolster the education conducted at individual 
+Group companies. 14,197 employees from 60 companies chose 
+to participate in the educational program in fiscal 2011.
+We will focus on strengthening education and operations 
+support at overseas Group companies through measures such as 
+increasing the number of languages in which programs are offered.
+Through sustainable growth based on investment in new 
+businesses and efficient business management, NTT DATA’s 
+basic policy is to enhance corporate value over the medium 
+term and distribute appropriate dividends.
+Taking into consideration consolidated performance 
+trends, financial conditions and other items from a holistic 
+perspective, we aim for a stable dividend payout ratio of 30%.
+At the same time, we maintain sufficient internal reserves 
+to ensure ongoing stable growth through investment in new 
+business and technological development, capital investment 
+and other uses of funds.
+Each quarter we conduct a results briefing, where management 
+addresses performance and earnings forecasts, and provides an 
+explanation of our business environment and strategies. We also 
+hold small and individual meetings with investors both in Japan 
+and overseas. In fiscal 2011, we conducted a survey among all our 
+shareholders from June to July, gathering the opinions of some 
+5,000 individuals. Nearly half of these shareholders professed 
+to have deepened their understanding of top management 
+policies and strategies through information disseminated via 
+the Company’s IR tools. In addition, we take a positive stance in 
+assisting investors and analysts with their coverage, responding 
+to approximately 300 queries during fiscal 2011.
+We will step up efforts to expand and improve such IR 
+tools as the Company website in a drive to further develop our 
+interactive IR activities.
+(Fiscal year)
+
+5,000
+
+5,000
+
+6,000
+
+6,000
+
+6,000
+Annual per-Share Dividend 
+(Yen)
+CSR Infrastructure
+Proposing and Introducing Strategies to 
+Lower Information Security Risks
+Information Security Strategies
+Providing Stable Dividends that Reflect 
+Performance Trends and the Dividend 
+Payout Ratio
+Shareholder Returns
+Using Various Opportunities for Dialog to 
+Promote Communication
+Improved Communication
+• Our Basic Stance • Preventing Information Leakage When Outsourcing
+• Procedures for Preventing and Responding to Accidents
+• Strengthen Personal Data Protection Measures
+• Information Security Education and Awareness
+• Acquisition of Information Security Management Certification
+• Application of Security Technologies
+• Disclosure of Information Security Initiatives
+Additional Topics on Website
+• Basic Position on Information Disclosure
+• Distribution of Ownership among Shareholders
+• Reinforcing Information Dissemination through IR Tools
+• Third-Party Evaluations of Company Initiatives
+Additional Topics on Website
+Dialog with Shareholders and Investors
+44 NTT DATA CSR Report 2011

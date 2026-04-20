@@ -1,0 +1,169 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Information Disclosure Based on the TCFD 
+ 
+In March 2021, NTT DATA expressed its support for the recommendations of the Task Force on Climate-related Financial 
+Disclosures (TCFD). Since then, we have been promoting climate change initiatives across the entire organization and ensuring 
+transparency in our external activities. We consider addressing climate change as a critical management issue. We conduct 
+analysis and assessments following the TCFD framework regarding climate change risks and opportunities. We also actively 
+explore strategies for addressing long-term climate change risks and opportunities and are working to strengthen information 
+disclosure. In fiscal 2022, NTT DATA’s disclosure of sustainability information in the fiscal 2022 Securities Report was selected 
+as a good practice by Japan’s Financial Services Agency*. 
+*Our efforts are showcased as a good practice on the Agency’s website: https://www.fsa.go.jp/news/r4/singi/20230131/00.html (Japanese only) 
+ 
+ TCFD Recommendations, Activity Summary, and Disclosure Section 
+ 
+TCFD 
+Recommendations 
+Recommended Disclosure Content 
+Activity Summary 
+Disclosure Section 
+Governance 
+Disclose the 
+organization’s 
+governance around 
+climate-related risks 
+and opportunities. 
+a) 
+The board’s oversight of climaterelated risks and opportunities 
+・Promoted 13 task forces and subcommittees and 
+implemented cross-company initiatives through the 
+Green Action Committee 
+・Board of Directors received reports from the above 
+Committee and then monitored the formulation of 
+policies and implementation plans 
+Management System 
+(p.22) 
+b) 
+Management’s role in assessing and 
+managing climate-related risks and 
+opportunities 
+Management System 
+(p.22) 
+Strategy 
+Disclose the actual 
+and potential impacts 
+of climate-related 
+risks and 
+opportunities on 
+the organization’s 
+businesses, strategy, 
+and financial 
+planning where 
+such information 
+is material. 
+a) 
+Climate-related risks and 
+opportunities the organization has 
+identified over the short, medium, 
+and long term 
+・Selected the most critical risks and opportunities 
+based on scenario analysis, and evaluated their 
+impact on business strategy, including financial 
+implications 
+・Calculated the costs for risk mitigation measures 
+and investments in opportunities, ensuring 
+alignment with the current medium-term 
+management plan 
+Risks and 
+Opportunities 
+(pp.32–40) 
+b) 
+Impact of climate-related risks and 
+opportunities on the organization’s 
+ businesses, strategy, and financial 
+planning 
+Impact of Climate 
+Change on Business 
+Strategy (p.32) 
+c) 
+The resilience of the organization’s 
+strategy, taking into consideration 
+different climate-related scenarios, 
+including a 2˚C or lower scenario 
+・Conducted scenario analysis, primarily focused on 
+scenarios ranging from 1.5°C to 4°C 
+・Conducted a Company-wide scenario analysis 
+review in fiscal 2022 and created four scenarios 
+based on external trend analysis results through 
+
+Climate Change 
+Scenario Analysis 
+(pp.41–42) 
+Risk 
+Management 
+Disclose how 
+the organization 
+identifies, assesses, 
+and manages 
+climate-related risks. 
+a) 
+The organization’s processes for 
+identifying and assessing climaterelated risks 
+・Defined climate change risk as a significant risk 
+across the entire company 
+・Evaluated climate change risks and opportunities 
+through the Internal Control Committee and the 
+Green Action Committee 
+Risks and 
+Opportunities 
+(pp.32–40) 
+b) 
+The organization’s processes for 
+managing climate-related risks 
+Risks and 
+Opportunities 
+(pp.32–40) 
+c) 
+How processes for identifying, 
+assessing, and managing climaterelated risks are integrated into 
+the organization’s overall risk 
+management 
+Prioritization of Risks 
+(p.32) 
+Metrics and 
+Targets 
+Disclose the metrics 
+and targets used to 
+assess and manage 
+relevant climaterelated risks and 
+opportunities where 
+such information is 
+material. 
+a) 
+The metrics used by the organization 
+to assess climate-related risks and 
+opportunities in line with its strategy 
+and risk management process 
+・In consideration of the increasing demand for 
+global efforts toward accelerating net zero, and 
+changing business environments, revised our 
+vision for addressing climate change by 2050, 
+which was formulated in 2021, and in fiscal 2023, 
+established the NTT DATA NET-ZERO Vision 2040 
+with the aim of achieving net zero by 2040 
+・Set Scope 1, 2, and 3 GHG emission-reduction 
+targets based on our vision, took steps to achieve 
+these targets, and measured emissions 
+Prioritization of Risks 
+(p.32) 
+b) 
+Scope 1, Scope 2, and, if 
+appropriate, Scope 3 greenhouse 
+gas (GHG) emissions and the 
+related risks 
+NTT DATA’s 
+Greenhouse Gas 
+Emissions (p.24) 
+c) 
+The targets used by the organization 
+to manage climate-related risks and 
+opportunities and performance 
+against targets 
+Metrics and Targets 
+(Management Metrics 
+and Targets for 
+Climate-Related Risks 
+and Opportunities) 
+(p.43)

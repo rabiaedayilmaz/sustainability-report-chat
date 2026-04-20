@@ -1,0 +1,126 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Loan Digital Platform® 
+(in Japanese only)
+NTT DATA Japan Corporation
+First Financial Sector 
+Financial Global IT Services Division
+Financial Business Section 
+Second Business Planning Group
+Supporting comprehensive digital transformation of personal loan operations across all 
+financial institutions and loan guarantee companies
+Business need
+Solution
+•
+Personal banking customers increasingly favor smartphone-based services, services not requiring face-to-face interaction and options without time- or place-based restrictions.
+•
+Conventional paper-based processes are inefficient and impact the environment, heightening the need for efficient digital systems. At financial institutions and loan guarantee companies, factors such as overlap
+between management processes and use of fax result in increased operational costs and complexity.
+In a fiercely competitive market, factors such as falling
+populations mean financial institutions are facing an ever more
+unforgiving business environment and are accelerating their
+digital
+transformation
+(DX)
+efforts
+to
+enhance
+their
+competitiveness.
+This
+includes
+developing
+personal
+loan
+products in which the entire process, from application to
+contract conclusion, can be completed without face-to-face
+service.
+However, the diverse array of personal loan products,
+including the fact that the loan guarantee company often varies
+depending
+on
+the
+specific
+product,
+has
+prevented
+comprehensive,
+fundamental
+improvements,
+with
+many
+financial instructions and loan guarantee companies still using
+paper documents and faxes. This means financial instructions
+and loan guarantee companies are continuing to run both
+system- and paper-based operations, leading to ballooning
+management costs and operational inefficiencies.
+NTT DATA worked with SMBC Consumer Finance Co.,
+Ltd. to deliver the Loan Digital Platform®. This service for
+personal loan customers, financial institutions and loan
+guarantee companies enables all necessary processes
+to be performed online, from application to contract
+conclusion. With the entire process supported online and
+identity verification as standard, users can apply for a
+personal loan and proceed to conclude the contract on a
+single smart device. When requesting screening by loan
+guarantee companies, the industry-first automatic retrial
+function
+enables
+fully-automated
+submission
+of
+screening
+requests
+to
+multiple
+loan
+guarantee
+companies,
+eliminating the
+need to send faxes or
+manually enter data. By unifying the interface used to
+connect with loan guarantee companies, loan screening
+data can be received from any loan guarantee company
+on the platform without changing the interface layout,
+accelerating
+new
+product
+releases
+by
+financial
+institutions. Form formats that minimize drop-off before
+application registration is complete have also been
+adopted,
+lowering
+per-customer
+acquisition
+costs.
+Eliminating
+the
+physical
+and
+time
+limitations
+of
+conventional in-store applications has also enhanced
+operational efficiency and customer convenience.
+By providing additional functions and services in future,
+this solution can contribute to further problem solving
+and revitalization across the entire industry.
+•
+Enabling DX by establishing a position as a standard platform 
+linking financial institutions and loan guarantee
+•
+Paper saving through reduction of faxes between banks and 
+loan guarantee companies
+(Total amount of reduced paper, including banks planned for 
+implementation as of October 2025) 
+Impact
+Conceptual diagram showing Loan Digital Platform® utilization
+Approx. 360,000 pages / year 
+Loan Digital Platform®
+Japan

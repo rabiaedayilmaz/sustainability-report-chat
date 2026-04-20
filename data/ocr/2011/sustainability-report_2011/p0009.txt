@@ -1,0 +1,120 @@
+• Medical Insurance Claim Processing System
+• Regional Health Information Network System
+• Health Data Bank (ASP service for health management)
+• Creative Health Sankenjin (healthcare management and lifestyle practice 
+improvement support service)
+• Health Checkup Support System
+• Emergency Medical Information System
+Major Systems and Services
+Medical and Healthcare Sector
+We provide services to promote health and 
+disease prevention, a regional health information 
+network system that provides better healthcare 
+services and a wide-area disaster and emergency 
+medical information system.
+• “Biz ∫” next-generation business platform
+• ERP solutions
+• AMO solutions
+• M2M solutions
+• Global business intelligence services
+• Global EC solutions
+• Smart card/wireless settlement 
+solutions (e-money and point 
+management)
+• Pharmaceutical industry data exchange 
+system JD-NET
+• EDI for the consumer-electronics industry
+Major Systems and Services
+Manufacturing, Distribution and Service Sectors
+We provide a diverse range of support to help our 
+customers develop their businesses. We address 
+customers’ needs to rationalize and streamline 
+their production, sales, logistics and other business 
+processes, as well provide end-user needs analysis 
+and system optimization.
+• Shinkin Shared Center 
+• Foreign Exchange ASP
+• Exchange information system 
+• Insurance Enterprises Common Gateway
+• Zaimon financial data distribution gateway service
+Major Systems and Services
+Financial Sector
+The NTT DATA Group provides systems for a wide 
+range of ﬁnancial institutions, such as governmental 
+ﬁnancial institutions, securities and insurance 
+companies, banks, credit banks, credit unions, labor 
+banks and agricultural cooperatives. We also oﬀer a 
+range of services to help ﬁnancial institutions raise 
+business eﬃciency and improve service quality.
+• Data center solutions (Green Data Center, others)
+• Environmental operation support solutions
+• Environmental management consulting
+• Environmental impact reduction solutions
+• Infrastructure services for recharging electric vehicles
+• Energy management systems, others
+Major Systems and Services
+Environmental Sector
+Our Green IT Solutions reduce the environmental 
+impact of customers and society as a whole 
+toward realizing a sustainable society. We provide 
+new services that lead to establishing “smart 
+communities” and the social infrastructures of 
+tomorrow by making full use of the latest ICT.
+• The Zengin Data Telecommunications System (a nationwide online processing system 
+for domestic fund transfers among Japanese financial institutions)
+• ANSER (automated notification service for deposits, withdrawals and transfer requests)
+• CAFIS (integrated network system for credit card transactions)
+• Integrated ATM Switching Service
+Major Systems and Services
+The NTT DATA Group develops and operates 
+large-scale network systems that link payments 
+and receipts among ﬁnancial institutions, retail 
+and credit companies and governmental 
+agencies. We are also working toward a cashless 
+society by developing electronic money centers.
+• BIZXAAS, a comprehensive cloud-computing service
+• Lindacloud hardware/software integration server
+• Various data centers
+Major Systems and Services
+Payment Sector
+Infrastructure to Support an Array of Industries
+We supply platforms and solutions that support 
+advanced IT services across a diversity of sectors, 
+independent of industry and business category. 
+We are oﬀering services optimized to customer 
+needs, from developing and operating private 
+clouds to developing shared services. 
+Business Fields
+In addition to systems that support society as a 
+whole, such as taxation, employment/labor, 
+trade and transportation systems, we provide 
+systems and services designed to make regional 
+societies safe, convenient and prosperous. In this 
+manner, we help to create social infrastructure 
+with an end-user perspective.
+• Social Insurance Online System
+• Motorcar Total Information Advanced 
+System (MOTAS)
+• Nippon Automated Cargo and Port 
+Consolidated System (NACCS)
+Major Systems and Services
+• Regional Tax Portal System (eLTAX)
+• Communication System for 
+Disaster Mitigation
+• FairCast Child Safety 
+Communication Network
+• i-mode gateway system
+• Billing system (provides billing invoice data, billing system)
+• Customer management system
+Major Systems and Services
+Public Administration Sector
+Telecommunications, Broadcasting and Utility Sectors
+We provide platforms that support stable 
+operation of mobile phones, which oﬀer 
+increasingly diverse and sophisticated functions, 
+contributing to increased user convenience. We 
+also provide billing systems and customer 
+management systems for broadcasters and 
+utility industries.
+
+NTT DATA CSR Report 2011

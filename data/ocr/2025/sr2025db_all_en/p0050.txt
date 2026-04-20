@@ -1,0 +1,111 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Realize business transformation utilizing AI
+Active promotion of AI
+Thorough implementation of AI governance
+Support from both promotion and control perspectives
+AI
+Governance
+Office
+AI
+Showcase early examples 
+with advanced customers
+Response
+Prevention
+Evaluation
+Detection
+Strategic partnerships 
+with key players
+Develop technical 
+assets
+NTT DATA
+ 
+ Responsible Technology and AI Ethics 
+While it is necessary to minimize the negative impact on society that our services may cause as a side effect, in the IT industry, there are concerns about 
+human rights violations and ethical issues caused by technology, including AI, and promote the responsible use of technology. 
+Basic Policy
+Artificial intelligence (AI) will increasingly permeate society, influencing human behavior 
+and decision-making. Among AI technologies, generative AI is rapidly gaining adoption 
+and offers capabilities approaching human-level accuracy, making it accessible. However, 
+its use entails various risks, including misjudgments based on inaccurate outputs, information leaks, and infringement of others’ rights.
+ 
+As a company that promotes AI research, development, operation, and utilization, we 
+aim to mitigate risks related to “ethics and social acceptability,” such as discrimination, 
+human rights violations, and the dissemination of false information caused by AI, and to 
+realize a human-centered society in which humans and AI truly coexist.
+AI Governance
+Basic Policy
+NTT DATA is committed to expanding its business through both promotion and control, 
+utilizing AI to achieve customers’ business transformation.
+ 
+NTT DATA will reduce the occurrence of problems in AI projects from various perspectives and improve the reliability of the AI solutions that we provide. This will enable society and customers to maximize the benefits of AI utilization and create an environment 
+that will enable them to realize a sustainable society.
+Client
+Client
+Promotion System
+We have maintained the AI Governance Office since 2023 as a dedicated organization to 
+manage risks arising from the improper use of AI and to promote its appropriate utilization. For the promotion of AI governance globally, the AI Governance Office leads the 
+initiative and has formed the Global AI Governance CoE, which comprises experts from 
+various fields, including legal, intellectual property, risk management, information security, and AI technology, across the Group companies.
+ Establishment of a New AI Governance Office Aimed at Strengthening AI Risk Management (Japanese only)
+NTT Group 
+AI Charter
+1. Enabling Sustainable Development
+2. Human Autonomy
+3. Ensuring Fairness and Openness
+4. Security
+5. Privacy
+6. Communication & Co-Creation 
+with Society
+AI
+AI
+AI Governance Office
+● A dedicated organization 
+responsible for AI risk 
+management
+● Collaborates with AI 
+risk-related departments 
+across Group companies 
+to build a global AI 
+governance system
+AI
+AI
+AI Governance Office
+● Participation of 
+external experts from 
+various fields such as 
+technology, law, and 
+consumer perspectives
+● Discusses the state of 
+our AI governance and 
+individual projects
+Policies 
+● AI risks to be managed
+● AI risk management framework
+Rules and 
+Guidelines 
+● Internal management rules
+● Generative AI usage guidelines
+Support 
+Activities
+● Employee training
+● Risk assessment and mitigation 
+planning
+● Governance construction 
+support for Group companies
+ NTT Group AI Charter
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Responsible Technology and AI Ethics

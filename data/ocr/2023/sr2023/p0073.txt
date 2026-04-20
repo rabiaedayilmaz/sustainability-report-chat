@@ -1,0 +1,29 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Information Security Governance Structure of the NTT DATA Group 
+ 
+ Security Management Structure of the NTT DATA Group 
+ 
+ Roles in NTT DATA Group Corporation’s Information Security Governance 
+ 
+ 
+ 
+Director and deputy 
+director in charge 
+of technology 
+management 
+(responsible persons) 
+These officers promote information security management to establish information security 
+governance across the Group. 
+Notes: 
+・The director in charge of technology management oversees the division of responsibilities covering technology 
+development and research (CTO), quality assurance, and security (CISO). 
+・The deputy director in charge of technology management oversees the division of responsibilities covering 
+technological R&D (DCTO), quality assurance, and security (DCISO). 
+Personal information 
+protection managers 
+(responsible persons) 
+These officers with responsibilities and authority for planning and operating the personal 
+information protection management system oversee efforts related to personal information from a 
+Group-wide perspective.

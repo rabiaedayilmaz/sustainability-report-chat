@@ -1,0 +1,36 @@
+Paradigms for Society and 
+Regional Communities 【Additional Topics】 
+NTT DATA CSR Report 2011 6/67 
+ 
+Making our website accessibility check site, HAREL, freely available to the 
+public 
+HAREL, an accessibility check site maintained by NTT DATA, ranks websites for 
+accessibility conformance. This service went online free of charge in August 2008. 
+Simply by inputting the website address, HAREL runs checks on source codes from some 
+170 perspectives, which facilitates a simple, high-accuracy accessibility assessment. This 
+tool had been utilized for approximately 190,000 checks as of March 31, 2011. 
+ 
+In addition to making use of cloud technologies, we operate the check site in 
+conjunction with NTT DATA DAICHI. The check site aims to meet the specifications outlined 
+in JIS standard JIS X 8341-3:2010, taking into consideration the use of web content by the 
+elderly and people with disabilities. 
+ 
+We intend to make a wide range of users more familiar with the methodology of 
+accessibility through the widespread use of HAREL. 
+ 
+[PHOTO] HAREL validation screen 
+ 
+ 
+ 
+Conducting website accessibility validation checks in cooperation with 
+special subsidiary NTT DATA DAICHI CORPORATION 
+Taking over these operations from NTT DATA in fiscal 2010, NTT DATA DAICHI conducts 
+accessibility validations of web pages and makes proposals to resolve accessibility issues. 
+In fiscal 2011, NTT DATA DAIICHI launched a web accessibility validation service 
+compatible with JIS standard JIS X 8341-3：2004. We introduced the service on four projects, 
+centering on public and financial sector websites. 
+We aim to continue working to raise awareness of web accessibility and offer validation 
+services that are compatible with JIS standard JIS X 8341-3:2010, expanding the service to 
+web systems under contract to Group companies. 
+ 
+[PHOTO] NTT DATA DAICHI website validation business team members

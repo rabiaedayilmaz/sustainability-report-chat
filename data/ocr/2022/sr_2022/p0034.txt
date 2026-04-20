@@ -1,0 +1,25 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+decarbonized, leading to even greater business opportunities. 
+We have also begun phasing in renewable energy sources, having declared that all the Group’s data 
+centers will be carbon-neutral by 2030. As a result, all cloud services provided by our data center assets 
+will be powered by renewable energy. 
+We estimate that the increase in cloud-related sales will have a positive impact on net sales of more 
+than ¥150 billion in fiscal 2025. 
+Strategies 
+and costs 
+As part of our efforts to improve climate-related resilience and promote renewable energy in the cloud, in 
+April 2022 we introduced 100% renewable energy to provide three services, including Open Canvas®, a 
+highly reliable and secure cloud service. We also declared that all our data centers will be carbon-neutral 
+by 2030 and have begun phasing in renewable energy sources accordingly. Introducing 100% renewable 
+energy to these services is part of that strategy, and we plan to systematically transition the cloud 
+services that use our data centers to renewable energy operations. 
+During the period of our Medium-Term Management Plan (FY2022–2025), we will invest ¥19 billion 
+in technology development related to resilience improvement and renewable energy deployment in the 
+cloud. This includes ¥10 billion to develop resilient cloud-related technologies that address climate 
+change and strengthen our global delivery centers, and ¥9 billion in additional investments to reinforce 
+and extend the lives of existing cloud services. 
+ 
+[Time horizons] Short term: FY2022–2025; Medium term: FY2026–2030; Long term: FY2031–2050

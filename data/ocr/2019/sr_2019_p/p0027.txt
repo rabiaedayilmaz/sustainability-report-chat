@@ -1,0 +1,94 @@
+A farming support platform is a platform aim to realize efficient, highvalue-added, labor-saving, and low-cost agricultural production, 
+efficient and sophisticated management and business operations, and 
+visualization of tacit knowledge, know-how, and the like. Agriculture 
+has been marked as part of the Japanese government’s growth 
+strategy, and smart agriculture utilizing IT is being promoted as a way 
+to address various issues,
+NTT DATA also develops solutions for evaluating growth stages of 
+crops by utilizing artificial intelligence and image analysis technology 
+and for identifying the type of pest or weed found on a farm, which 
+have been offered to our customers as optional functions of the 
+platform. By using these solutions, even inexperienced farmers can 
+apply fertilizer or control pests at the proper timeing.
+Farming support platform 
+GAP stands for Good Agricultural Practices, or the management 
+of agricultural production processes, which represent efforts to 
+ensure sustainable food safety, environmental preservation and 
+occupational safety. By recording the efforts and improvement 
+initiatives conducted for these purposes and obtaining government 
+certifications for them, the relevant crops will be approved for 
+government procurement as Safe & Reliable farm produce.
+GAP
+Use fertilizers and pesticides in 
+appropriate places and quantities
+
+Commercial Farming Support Platform 
+that Assists Smart Farming
+The platform screens on a smartphone
+Using the platform at a farm
+CASE
+In April 2019, NTT DATA started making commercially available 
+a commercial farming assistance platform (cloud service) to 
+be used exclusively by agricultural organizations including 
+agricultural cooperatives and agricultural corporations.
+The platform supports of some of the commercial farming 
+business processes conducted by producers and agricultural 
+organizations, ranging from production planning and 
+confirmation and approval of cultivation records. By having 
+producers input their crop growth status information through 
+smartphones and tablets and making the data accessible by 
+agricultural organizations’ personnel, the platform not only 
+visualizes the status of crop growth at the producers’ farms 
+but also promotes communication between producers and 
+agricultural organizations in order to improve the quality and 
+efficiency of commercial farming activities. Furthermore, the 
+platform is the official farm management system certified and 
+Contributions 
+to SDGs
+● Helping address labor shortages
+● Improving productivity
+● Promoting automation/efficiency
+recommended by the Japan GAP Foundation and can thus be 
+used to implement the Good Agricultural Practices (GAP) and 
+obtain GAP-related certifications.
+Producers have long used paper forms to write down and 
+submit production plans or cultivation results to agricultural 
+organizations. With this platform, however, this will be a 
+thing of the past. Just by inputting necessary data using your 
+smartphone or tablet, your forms will be created automatically 
+and become ready for submission to agricultural organizations. 
+It will also make it possible for agricultural organizations’ 
+personnel to see the input data any time to check on the 
+observance status of the applicable pesticide use standards 
+and estimate harvest shipping periods and volumes, etc.
+When developing this platform, we devoted every possible 
+effort to make the platform easy to use by commercial farmers, 
+whose ICT skills tend to be modest. For this purpose, we 
+involved producers from the planning stage and let them try 
+out the system and give us comments on its usability, while 
+continuing to revise the design based on feedback gathered 
+from them, including their observed behaviors when using 
+the system. As a result of these efforts, we succeeded in 
+developing a system that producers can use easily and that 
+won’t interfere with their daily farming activities. The data input 
+by producers can also be used for their own farming activities.
+The platform is offered for an organization-wide flat-rate 
+license fee. The monthly fee for a customer with up to 100 
+licensed users is 50,000 yen. The platform has already been 
+introduced to and operated by JA Groups in Ibaraki and Kagawa.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

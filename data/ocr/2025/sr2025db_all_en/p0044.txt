@@ -1,0 +1,134 @@
+Recommended Disclosures
+Recommended Disclosure Content
+Activity Summary
+Management of 
+Risks and Impacts
+Describe the processes 
+used by the organisation 
+to identify, assess, 
+prioritise and monitor 
+nature-related dependencies, impacts, risks and 
+opportunities.
+A-(i) Describe the organisation’s processes for identifying, 
+assessing and prioritising nature-related dependencies, 
+impacts, risks and opportunities in its direct operations.
+We analyze whether our sites are located in water-stressed regions or areas of significant biodiversity and collect water use and wastewater data from each site via surveys. For sites situated in important regions, we gather secondary data to verify the local context and 
+conduct fact-checking individually. Based on this information, we identify and assess relevant risks and opportunities. 
+We also regularly monitor the management status of our fuel storage facilities.
+A-(ii) Process for identifying, assessing, and prioritizing 
+nature-related dependencies, impacts, risks, and opportunities in the upstream value chain
+We request that suppliers implement environmental initiatives in accordance with the NTT DATA Group Guidelines for Sustainability in the 
+Supply Chain. Approximately 70% of suppliers, by procurement value, have signed an acknowledgment of these guidelines. In addition, 
+we identify nature-related risks through the Supplier Assessment Questionnaire (SAQ).
+B. Organization’s processes for managing nature-related 
+dependencies, impacts, risks, and opportunities, along 
+with actions taken in accordance with these processes
+Since fiscal 2022, we have been analyzing nature-related dependencies, impacts, risks, and opportunities and are currently reviewing the 
+processes and actions required to manage them. Our analysis has identified that one data center in Southeast Asia and two data centers 
+in South Asia, located in regions of extremely high water stress, consume water in cooling systems where evaporation occurs. We have 
+confirmed that the water utility supplying the Southeast Asia data center treats wastewater through reverse osmosis to produce industrial 
+water, meeting approximately 40% of water demand with recycled water and demonstrating careful management to ensure a stable 
+water supply. At the South Asia data centers, authorities and public water utilities are implementing water network expansion and pipeline 
+projects, strengthening local water supply infrastructure. In addition, the data centers are equipped with water storage tanks, and we 
+assess their resilience for business continuity as high.
+Regular training is conducted at each facility to prepare for potential oil spill incidents in oil storage facilities.
+C. How processes for identifying, assessing, prioritising and 
+monitoring nature-related risks are integrated into and 
+inform the organisation’s overall risk management processes
+For nature-related risks and opportunities, we estimated the potential financial impact for sites operating in areas of extremely high water 
+stress. Based on assessments of one data center in Southeast Asia and two in South Asia, we evaluated nature-related risks as low.
+Metrics and Targets
+Metrics and targets used 
+to assess and manage 
+relevant nature-related 
+dependencies, impacts, 
+risks, and opportunities
+A. Disclose the metrics used by the organisation to assess and 
+manage material nature-related risks and opportunities in 
+line with its strategy and risk management process.
+We monitor the presence or absence of operations in water-stressed areas and key biodiversity areas, as well as the water withdrawal and 
+discharge volumes at all sites.
+B. Disclose the metrics used by the organisation to assess 
+and manage dependencies and impacts on nature.
+Considering the impact of water-cooled data centers on regional water resources, we plan to manage water use at our data centers using 
+WUE as a metric. Starting in 2025, we began aggregating WUE data and have set a target to improve WUE compared with the previous 
+fiscal year.
+C. Targets and goals used by the organization to manage 
+nature-related dependencies, impacts, risks, and 
+opportunities
+In Japan, we ensure strict compliance with relevant items of the Water Pollution Prevention Act and the Industrial Safety and Health Act. 
+Similarly, outside Japan, we undertake appropriate measures in accordance with the regulations of the respective countries. Metrics and 
+targets for sites located in important regions are currently under consideration.
+We monitor emerging opportunities for nature-related offerings and consulting services that support the achievement of a water-positive 
+society through the activities of thematic subcommittees under the Sustainability Committee.
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Number of sites operating in water-stressed regions
+Total number of sites (data centers)
+
+Number of sites operating in regions of 
+extremely high water stress
+21 (15%)
+Of these, number of sites consuming water for 
+evaporation for data center cooling
+3 (2%)
+Strategy and Risks/Opportunities [Details]
+NTT DATA water withdrawal and discharge data in direct operations*1
+Unit: 1,000 m3
+Water withdrawal (total volume)
+3,840
+–
+Water discharge (total volume)
+2,724
+＝
+Water 
+consumption 
+ (total volume)
+1,116
+Fresh surface water, including rainwater, 
+water from wetlands, rivers, and lakes
+
+Discharge to fresh 
+surface water
+
+Groundwater
+2,425
+Groundwater
+1,186
+Third-party sources
+1,402*2
+Discharge to third-party destinations
+1,538
+We conducted an investigation using IBAT to examine the connection with Key Biodiversity 
+Areas (KBAs), World Heritage Sites, and Natura 2000 sites. The results of the survey covering 
+141 sites in 16 countries indicated that none of our sites are operating within protected areas 
+of KBA/World Heritage/Natura 2000. In addition, for sites located within 25 kilometers of 
+important areas, it was found that these are urban areas, leading to a low level of impact.
+Number of sites operating within 25 km of important biodiversity areas
+Distance from site
+KBA*
+World Heritage Sites
+Natura2000
+Number of sites
+98 out of 141 sites
+0 out of 141 sites
+39 out of 141 sites
+* Key Biodiversity Areas (KBAs) are critical regions for biodiversity conservation identified based on international standards.
+*1 Due to rounding, the total volume and the total of the breakdown might not match.
+*2 Of the water withdrawn from third-party sources, the volume for one data center in Southeast Asia located in a water-stressed region is 60.2 thousand m3. Of the water withdrawn from groundwater sources, the volume for the first 
+data center in South Asia located in a water-stressed region is 0.7 thousand m3 and for the second South Asia data center it is 8.9 thousand m3. 
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Water Management

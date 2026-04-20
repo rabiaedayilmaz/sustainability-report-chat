@@ -1,0 +1,87 @@
+The proliferation of cloud-computing and smart devices has 
+increased the reliance on information technologies for 
+everyday life and business activities. At the same time, the 
+threat of cyber attacks has grown, while the tactics used have 
+become increasingly diverse. In order to continue delivering 
+safe and secure systems, the NTT DATA Group is constantly 
+engaged in technical development, the results of which are 
+reﬂected in the Group’s systems and services. This work 
+requires keeping abreast of social, technological, and business 
+trends, as well as trends in cyber attacks.
+In recent years, there have been multiple incidents of targeted 
+cyber attacks in which specialized methods are used to steal 
+intellectual property and personal information of certain 
+companies, divisions, and users. Against this backdrop, the 
+Group has been focusing on services to address cyber attacks.
+In March 2012, we launched services to strengthen 
+resilience against targeted attacks. One part of these services 
+uses mock targeted attack emails to measure the information 
+security literacy of employees and provides training on how to 
+respond in the event of an attack. Another part provides 
+comprehensive assessments of a business’ resilience against 
+targeted attacks, including from a system-centered perspective. 
+With these services, we make our clients’ resilience to targeted 
+attacks “visible.” In these ways, we help our customers protect 
+valuable information by providing pointers on how to make 
+information security improvements. 
+Because the Group supplies many services and information 
+systems that support social infrastructure, if a disaster causes 
+the disruption of services or systems to go down, the impact 
+on society and people’s lives is enormous.
+Therefore, we strive to constantly improve disaster business 
+continuity plans (BCPs) as well as contingency plans for systems 
+and services related to social infrastructure.
+As a result of the Great East Japan Earthquake that occurred in 
+March 2011, we became aware of risks related to the 
+large-scale power outages caused by rolling power cuts and 
+risks related to the closure of some of our business sites due to 
+damage caused by the tsunami. In view of this experience, we 
+re-examined the Company’s contigency plans for social 
+infrastructure-related information systems and services based 
+on the scenario of a large earthquake with an epicenter in the 
+Tokyo metropolitan area.
+In February 2010, NTT DATA obtained BS25999-2: 2007 
+certiﬁcation—a British business continuity management 
+speciﬁcation—for the maintenance, operation, and 
+management of its data center buildings in the greater Tokyo 
+area. This reﬂected the importance we place on protecting the 
+facilities such as buildings, electricity, air conditioning, security, 
+and other functions in our data centers that are vital for the 
+operation of information systems. In March 2011, this 
+accreditation was extended to include NTT DATA’s data center 
+buildings in other parts of the country. As a result, we now have 
+contingency arrangements in place in the event of a large 
+earthquake, widespread power outage, or similar incident. 
+Providing Services for Strengthening Resilience against 
+Targeted Attacks 
+Plans and Arrangements for Disaster-Related Risks 
+NTT DATA launched NTTDATA-CERT in order to prevent information security incidents as well as to enable an 
+immediate response in the event of such an incident. 
+In March 2011, NTT DATA became a member of the Nippon CSIRT* Association, and the following month 
+joined FIRST, its global equivalent. Thus, the Oﬃce collects a wide range of information on security-related trends, 
+makes it easy to understand and disseminates it via email and the Internet on an almost daily basis. In this way, we 
+use the information we obtain to improve the security of our systems. NTTDATA-CERT will continue active 
+collaboration with overseas Group companies in order to further enhance the eﬃciency and eﬃcacy of NTT DATA’s 
+incident response measures.
+Developing Systems that are Safe and Secure 
+We work to provide services that concentrate on raising system reliability. This helps realize social 
+infrastructure that provides peace of mind. 
+• Activities to Improve Quality (Quality Management Based on ISO9001/Standardizing and Enhancing Project Management and Testing Services) 
+• Disaster and System Failure Countermeasures (Revision of the Disaster BCPs after the Great East Japan Earthquake/System Failure Countermeasures) 
+Reinforcing the Information Security of Systems 
+and Services
+Strengthening Disaster Preparedness 
+* CSIRT: Computer Security Incident Response Team is a group of security specialists set up to handle incident response
+Shigefumi Takahashi
+IT Security Strategy Office
+Quality Assurance Department
+NTT DATA Corporation
+Additional Topics on Website
+Comment from a Manager 
+at NTTDATA-CERT
+Strengthening Information Security on the Structural Side
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2012

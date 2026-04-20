@@ -1,0 +1,151 @@
+1,074.4
+1,139.0 1,142.9
+
+1,161.9
+(Fiscal year)
+
+1,251.1
+
+Net sales
+(Billions of yen)
+23,080
+31,739
+34,543
+
+49,991
+(Fiscal year)
+
+58,668
+
+Number of 
+employees 
+95.9
+98.5
+81.6
+
+78.3
+(Fiscal year)
+
+80.4
+
+Operating 
+income 
+(Billions of yen)
+Operating 
+income 
+margin (%)
+7.1
+8.7
+8.9
+6.7
+6.4
+Company Profile 
+Consolidated Net Sales
+Consolidated Number of Employees 
+Consolidated Operating Income/
+Operating Income Margin
+NTT DATA provides information systems that support 
+society as a whole, including taxation, 
+employment/labor, trade, and transportation systems, as 
+well as systems and services that make communities 
+safe, convenient, and prosperous. In these ways, we help 
+create social infrastructure with an end-user perspective.
+Public Administration Sector
+Business Fields
+We provide systems and services that support the safety 
+and security of people’s health and lives, including 
+healthcare management systems, a regional health 
+information network system, and a wide-area disaster 
+and emergency medical information system.
+Medical and Healthcare Sector
+We deliver systems and services that raise the efficiency 
+and improve the quality of services of a wide range of 
+financial institutions. These include governmental 
+financial organizations, securities firms, insurance 
+companies, banks, credit banks, credit unions, labor 
+banks, and agricultural cooperatives. 
+Financial Sector
+We contribute to the realization of a cashless society 
+through the building of electronic money centers and the 
+development and operation of network systems that link 
+payments and receipts collected by financial institutions, 
+retailers, credit companies, and government agencies. 
+Payment Sector
+We enhance the convenience of mobile phone users by 
+building and operating infrastructure that supports 
+stable operation. We also contribute to business 
+development through the delivery of billing systems 
+and customer management systems for the 
+broadcasting and utility sectors.
+Telecommunications, Broadcasting and 
+Utility Sectors
+NTT DATA delivers consulting and IT services that support 
+business growth by improving the efficiency of business 
+processes used in production, sales, and distribution, 
+analyzing customer needs, and optimizing systems.
+Manufacturing, Distribution and 
+Service Sectors
+NTT DATA contributes to the realization of a sustainable 
+society by providing IT solutions that help reduce the 
+environmental impact of customers and society. We also 
+build “smart communities” that utilize the latest information 
+communications technologies. 
+Environmental Sector
+NTT DATA supplies infrastructure and solutions that 
+support IT services for customers in all sorts of fields. We 
+also meet customer needs for cloud-computing services 
+ranging from private cloud to shared cloud services.
+Infrastructure to Support 
+an Array of Industries
+t Service Delivery Platform (SDP) for mobile phone
+t Billing systems, provide billing invoice data
+t Customer management systems, etc.
+t Social Insurance Online System
+t “MOTAS,” Motorcar Total Information Advanced System 
+t “NACCS,” Nippon Automated Cargo and Port Consolidated System
+t “eLTAX,” Regional tax portal system, etc.
+t “Biz ∫,” a next-generation business platform
+t “INERPIA,” ERP (Enterprise Resource Planning) solutions
+t “TISAFYS,” AMO (Application Management Outsourcing) solutions
+t “Xrosscloud,” M2M solutions
+t “Direct Channel Platform,” Global E-Commerce service, etc.
+t Data Center solutions, “Green Data Center” and others
+t Office building energy saving solutions 
+t Environmental impact reduction solutions 
+t Environmental management consulting, etc.
+t “BIZXAAS,” a comprehensive cloud-computing service
+t Global ITO services (data center, network services)
+t Provision of Big Data application technologies, such as Hadoop 
+t “Lindacloud,” a vertically integrated server, etc.
+t Medical Insurance Claim Processing System
+t “Health Data Bank,” ASP service for health management
+t “Creative Health Sankenjin,” healthcare management and lifestyle improvement support service
+t Health Checkup Support System, etc.
+t Shinkin Shared Center
+t Foreign Exchange ASP (Application Service Provider)
+t Exchange information system
+t Insurance Enterprises Common Gateway
+t “Zaimon,” financial data distribution gateway service, etc.
+t The Zengin Data Telecommunications System, a nationwide online processing system for 
+domestic fund transfers among Japanese financial institutions
+t “ANSER,” automated notification service for deposits, withdrawals, and transfer requests, etc.
+Name: 
+NTT DATA Corporation
+Head Office: 
+Toyosu Center Building, 3-3 Toyosu 3-chome, 
+ 
+Koto-ku, Tokyo 135-6033
+Established: 
+May 23, 1988
+President and CEO: Toshio Iwamoto
+Common Stock: 
+¥142,520 million (as of March 31, 2012)
+Business Year: 
+April 1 to March 31
+Employees: 
+10,579 (non-consolidated) 
+ 
+58,668 (consolidated) (as of March 31, 2012) 
+Subsidiaries and Affiliates: Subsidiaries: 223 Affiliates: 20 (as of March 31, 2012) 
+
+NTT DATA CSR Report 2012

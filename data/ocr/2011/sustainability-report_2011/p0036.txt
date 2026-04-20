@@ -1,0 +1,113 @@
+In June 2010, the Green IT Promotion Council*1 forecast that 
+Japan would achieve energy savings by IT equipment of 
+between 21.4 and 42.8 million tons of CO2 per year by 2020, and 
+that energy savings through IT application would amount to 
+between 68 and 137 million tons of CO2 per year.
+The NTT DATA Group has employed an environmental 
+assessment system since 2006. We use this system to evaluate 
+and measure the quantitative impact of environmental 
+impact reductions. 
+In fi scal 2011, we worked toward our fi scal 2013 target 
+of reducing CO2 emissions by customers and other members 
+of society by 1.5 million tons on an annual basis. These eff orts 
+focused primarily on promoting quantitative assessments of the 
+environmental impact reduction from introducing and using 
+systems in the public and fi nancial sectors. 
+We will continue to conduct in-house training on assessing 
+the environmental impact of systems as part of our eff orts to 
+promote environmentally responsible system development.
+In addition to providing solutions and services that respond 
+to customers’ environmental needs, we help to build the IT 
+infrastructures that form the basis for smart grids and 
+smart communities. 
+We plan to reinforce our environmental solutions business 
+via the Smart Business Promotion Offi ce, which commenced 
+operations in February 2011.
+ Improving the Infrastructure for Charging 
+Electric Vehicles
+As one aspect of its eff orts to realize smart communities, NTT 
+DATA builds infrastructures for charging electric vehicles (EVs). 
+In April 2010, we began providing a service that certifi es 
+EV charging stations. By creating a network of charging stations, 
+this service handles such central functions as authentication, 
+settlement and remote maintenance, as well as providing the 
+cloud functionality needed for EV chargers. In January 2011, we 
+also began providing this service for a housing complex. 
+In March 2011, seven companies in the NTT Group 
+began conducting fi eld trials on EV car sharing. In these trials, 
+chargers with a user authentication system were set up at NTT 
+Group company sites to determine the business feasibility of 
+an EV car sharing service between NTT Group companies and 
+accumulate expertise related to EVs and introducing peripheral 
+infrastructures. Trials are scheduled to last two years, through 
+March 2013. 
+To expand the EV usage environment, we will work to 
+increase charging stations and link charging infrastructure 
+services and car-sharing services. 
+Examples of IT System Environmental Impact Assessments
+EV charging infrastructure for a housing complex 
+Source: Daiwa House Industry Co., Ltd.
+Environmentally Responsible System Development
+Measuring the Eff ects of 
+System Introduction
+Providing Environmental Solutions
+Providing IT Solutions that Reduce the 
+Environmental Impact of Our Customers 
+and Society as a Whole
+The Greening of 
+Customers and Society
+IT solutions are expected to contribute to the creation 
+of smart grids and smart communities. This should 
+facilitate the greening of customers and society 
+as a whole by making more things electronic and 
+reducing the need to transport people and goods.
+CO2 Reduction Eﬀ ect of Introducing ANSER
+Fiscal 2000
+Movement of 
+people
+Movement of 
+people
+Human labor
+Human labor
+Use of paper
+Use of paper
+ICT equipment
+ICT equipment
+ICT equipment
+ICT equipment
+System 
+development
+System 
+development
+ANSER 
+center
+ANSER 
+center
+Communication circuits
+ ANSER center
+Communication circuits
+ ANSER center
+Communication 
+circuits
+Communication 
+circuits
+Fiscal 2010
+
+CO2 reduction rate: 91%
+CO2 reduction: 65 thousand tons/year
+(Thousands of tons of 
+CO2 per year)
+ANSER, an Automation Service for 
+Financial Operations
+ANSER is a service that can be used to conduct fi nancial 
+transactions that were previously handled at fi nancial 
+institution counters and ATMs via PC, at companies, homes 
+and other non-bank locations. Using our environmental 
+assessment system to determine the resulting reduction in 
+CO2 emissions, we determined that in fi scal 2010 this system 
+resulted in an annual savings of 65,000 tons of CO2 (91%), 
+compared with fi scal 2000 levels. 
+*1 Green IT Promotion Council: An organization set up by the Ministry of 
+Economy, Trade and Industry as part of its Green IT Initiative to realize a society 
+that balances environmental protection and economic growth.
+36 NTT DATA CSR Report 2011

@@ -1,0 +1,70 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+25 countries
+Purchasing renewable energy and utilizing solar and wind power to reduce data center 
+greenhouse gas emissions
+NTT Global Data Centers
+Speak to our experts
+•
+Data centers are essential to the digital economy, but their rapid growth can pose environmental challenges through significant energy and water consumption. The International Energy Agency estimates that data
+centers consumed about 460TWh of electricity worldwide in 2022, almost 2% of total global electricity demand. The agency also predicts that global electricity consumption by data centers could more than double by
+2026.
+•
+As data usage and AI adoption rise, so do greenhouse gas (GHG) footprints, operators need to adopt sustainable practices, including both optimizing energy consumption and the timely implementation of renewable
+energy at scale.
+As part of NTT DATA, Global Data Centers (GDC) builds and
+operates data centers around the globe, currently possessing
+more than 160 data centers in over 25 countries and regions,
+with an IT load of 1.7MW.
+Sources of operational greenhouse gas emissions include
+electricity usage for cooling, refrigerant leakages from cooling
+infrastructure and fuel usage for backup power systems.
+GDC is driving towards achieving Net-Zero emissions in its
+operations (Scope 1, 2) by 2030 and across the complete value
+chain (Scope 3) by 2040 as part of NTT DATA’s net-zero
+commitment validated by the Science Based Targets initiative
+(SBTi).
+NTT DATA is securing renewable energy at speed and scale to fulfil
+both its own 2030 Net-Zero target and client expectations. GDC
+reflects this commitment to renewable and low-carbon energy through
+its
+diverse
+renewable
+energy
+installations,
+strategic
+long-term
+partnerships, and investments in sustainable infrastructure.
+GDC is accelerating procurement of power purchase agreements
+(PPAs) with bundled energy attribute certificates (EACs) for a major
+part of its energy consumption. PPAs ensure high-quality renewable
+energy, provide mid- to long-term certainty, and reduce dependency
+on the grid.
+By focusing on additional PPAs, and thus investing in new power
+plants, GDC is also adding more renewable energy to the market,
+primarily solar and wind.
+GDC’s formalized relationships with global and regional renewable
+energy providers ensure access to a strong pipeline of PPAs, and
+GDC is also collaborating closely with grid operators by participating in
+demand side response markets and investing in battery energy
+storage systems
+(BESS) to stabilize the grid
+and to
+enhance
+renewable energy yield.
+Business need
+Solution
+Conceptual image of a data center using renewable energy
+Data Centers Decarbonization with Renewable Energy
+Impact
+Renewable energy usage for Scope 2
+60%
+up from 36% in FY2022
+PPA contracts for Scope 2, 3
+Increased by 120% year 
+on year to 660GWh
+An additional 1.1 TWh to be added by FY2026

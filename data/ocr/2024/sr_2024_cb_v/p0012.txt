@@ -1,0 +1,107 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Scalable Energy Savings in Schools Through IoT, AI and Analytics
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Carbon
+Neutrality
+Sustainable Schools
+• Data-driven analytics of energy use in buildings have significant potential for reducing energy and operating costs, a particularly pressing need given factors such the EU Energy
+Efficiency Directive 2023/1791 requiring a 1.9% reduction in annual energy consumption in public buildings, compared to 2021 levels.
+• School buildings often lack sufficient indoor climate controls to maximize the health, safety and productivity of both teachers and students.
+According
+to
+the
+World
+Economic
+Forum
+(WEF),
+buildings are responsible for 40% of global energy
+consumption and 33% of greenhouse gas emissions.
+GovTech Midtjylland, a joint venture between 13 Danish
+municipalities, was exploring ways to use IoT sensors and
+AI technology to provide energy use transparency and
+uncover opportunities for energy cost savings through
+analytics and AI modelling. To produce actionable insights,
+they wanted a solution that could capture and consolidate
+different kinds of usage and consumption data and show
+specific, tangible optimization opportunities. As building
+resources
+and levels
+of digitalization
+differ between
+municipalities, the solution had to be flexible to scale
+across different maturity levels.
+GovTech Midtjylland engaged NTT DATA as a partner
+with expertise bringing together IoT, AI, data modelling
+and analytics for similar use cases.
+Business need
+Solution
+NTT DATA used the Momenttum platform to build easyto-use dashboards to consolidate, calculate and report on
+data
+such
+as
+room
+bookings,
+heating
+use,
+power
+consumption,
+the
+weather,
+and
+IoT
+sensor
+readings.
+Ensuring the platform is open, flexible and intuitive to use
+facilitated its utilization across municipalities with varying
+sizes and levels of digitization.
+Through workshops and close dialogue, NTT DATA also
+assisted
+GovTech
+Midtjylland
+in
+identifying
+energy
+consumption
+hotspots
+and
+reduction
+priorities.
+For
+example, schools had a good grasp of how buildings were
+used during school times, but there was no clarity on
+energy use at night, on weekends or during holidays. The
+platform identified significant potential savings outside of
+school hours.
+By tracking attendance using CO2 sensors, the platform
+provides an accurate view of how rooms are used at all
+times,
+enabling
+schools
+to
+identify
+and
+eliminate
+unnecessary energy consumption and providing tangible
+cost saving opportunities.
+Impact
+Student and teacher productivity and well-being 
+were increased due to optimization of heat, light and 
+ventilation.
+“The tool clearly illustrates the potential savings, proving the necessity of optimizing” - Henrik Bojsen
+(Team Leader of Syddjurs Municipality)
+If used nationally, it was estimated that the platform can save DKK 37 million (USD 5.32 million)
+nationwide. This is equivalent to 1 million kg of CO2 reductions, or up to 10,000 short haul passenger
+flights.
+DKK 34,966
+(USD 5,029)
+GovTech
+Identifying Potential Energy Savings 
+with IoT and Forecasting
+Estimated average saving per school

@@ -1,0 +1,45 @@
+NTT DATA CSR Report 2010 36/48 
+【Additional Topics】
+ 
+Development of a system to confirm the achievement of targets in the domestic integrated 
+market for emissions trading 
+A system for Japan’s trial emissions trading scheme in the domestic integrated market* was put into 
+effect in October 2008 with the aim of harnessing market mechanisms to reduce CO2 emissions. 
+Under commission from the Ministry of the Environment, in March 2009 NTT DATA completed 
+development of and put into operation a system to confirm the achievement of targets. This system 
+monitors participating companies’ progress toward their emission reduction targets and manages 
+emissions trading in the marketplace. 
+ 
+* Emissions trading in the domestic integrated market：. 
+This system was put in place to enable companies and other organizations to reach their voluntary 
+emission reduction targets by trading credits for emissions beyond their domestic targets (credits), 
+trading domestic credits produced by small and medium-sized companies to reduce their emissions, 
+and trading Kyoto credits by reduced emissions on overseas projects. 
+ 
+Developing the Offsetting Credit scheme 
+At present, the United Nations employs Kyoto credits as carbon offsets, applied mainly to reduce 
+overseas emissions, but demand is mounting to reduce domestic emissions, as well. In response, in 
+November 2008 Japan’s Ministry of the Environment established the Offsetting Credit (J-VER) scheme 
+to certify the carbon offset credits acquired by reducing or absorbing greenhouse gas emissions on 
+domestic projects. 
+The ministry commissioned NTT DATA to develop a system for issuing, storing, transferring and 
+invalidating credits and handling other record-keeping aspects of this scheme. This system became 
+operational in March 2009. 
+ 
+Helping EU countries link to the National Registry System through the ITL 
+To monitor international emissions trading, individual countries must link their national registry systems 
+to the international transaction log (ITL). 
+In 2008, all EU national registry systems were linked to the ITL, enabling emissions trading 
+between Japan and EU countries, as well as among nations within the European Union. NTT DATA 
+participated in the process of testing the ITL links to Japan’s national registry system and those of 
+individual EU countries. Applying this experience, we also supported the UNFCCC secretariat’s efforts 
+in this regard. 
+As of March 31, 2010, 11 countries outside the European Union were connected with the ITL. 
+ 
+ 
+Promoting the greening of data centers with increased demand 
+In recent years, the energy consumed by server operation and the cooling of high-volume 
+heat-generating equipment at data centers around the world has increased. To meet its responsibility 
+as the largest data center operator by floor space in Japan, NTT DATA promotes the suppression of 
+energy consumption and the reduction of CO2 emissions at its data centers. We began providing 
+Green Data Center services in January 2008 to reduce environmental impact and improve IT efficacy.

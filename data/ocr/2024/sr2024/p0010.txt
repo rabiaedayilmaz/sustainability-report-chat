@@ -1,0 +1,279 @@
+Material Issues
+SDGs Goals
+FY2023 Indicators
+Company-Wide Targets
+Company-Wide Achievement
+Degree of Target 
+Achievement
+FY2024 Indicators
+Scope
+Company-Wide Targets
+Action Policy
+Environment
+——
+Regenerating 
+Ecosystems
+ P16
+Carbon Neutrality 
+ P21
+Reductions in CO2 emissions
+Below 461,000 t-CO2 
+(including NTT Ltd.)
+Scope 1: 39,507 t-CO2
+Scope 2: 307,009 t-CO2
+Ongoing
+GHG emissions (Scope 1 & 2)
+Indices linked to directors’ remuneration
+
+341,000 t-CO2 or below
+(Preliminary value as of October 2024 
+will be updated once finalized)
+Reduction of GHG emissions through renewable energy adoption and energy-saving initiatives
+Promotion of EVs for household use
+Not disclosed
+Not disclosed
+Removed
+Ongoing monitoring
+Circular Economy 
+ P36
+Waste recycling rate
+General and 
+industrial waste: 99% or more
+Construction waste: 87%
+General and 
+industrial waste: 99%
+Construction waste: 95%
+Ongoing
+Waste recycling rate
+
+General and 
+industrial waste: 99% or more
+Construction waste: 87%
+Continue to promote the contracting of recycling collectors with high recycling rates
+New
+Number of regulatory violations related to 
+new waste treatment (PCB) 
+
+Aiming for zero regulatory violations by promoting proper management
+Nature Conservation 
+ P38
+Paper consumption
+40% reduction (from FY2020)
+37%
+Removed
+Ongoing monitoring
+New
+Number of business facilities installed in nature 
+reserves and their proportion of the total
+
+Monitoring indicator*1
+Understanding the current status based on data center location information
+New
+Number of business facilities installed in water 
+risk areas and their proportion of the total
+
+Monitoring indicator*1
+Economy
+——
+Clients’ 
+Growth
+ P42
+Smart X Co-Innovation 
+ P44
+B2B2X revenue
+Not disclosed
+Not disclosed
+Removed
+Removed from non-financial targets as the medium-term goals have been achieved and the 
+establishment phase has concluded
+Create offerings and expand business related to materiality across various business domains to realize a smart and innovative society
+Create offerings and expand business related to materiality across various business domains to 
+realize a smart and innovative society
+Trusted Value Chain 
+ P48
+Number of security incidents
+
+Reviewed
+Number of security incidents*2
+
+Continue efforts in accordance with new indicator definition
+Number of significant system failures
+Not disclosed
+
+Ongoing
+Number of significant system failures*3
+
+0*3
+Continue efforts to prevent significant system failures based on the comprehensive system 
+inspection conducted at end of previous fiscal year
+Compliance IBT participation rate
+100%
+100%
+Removed
+Removed from non-financial targets due to high-level participation 
+Number of anti-competitive/bribery violations
+
+Ongoing
+Number of anti-competitive/bribery violations
+
+Continuously promote strict adherence to the NTT DATA Code of Conduct and various legal 
+compliance measures
+Ratio of direct communication with 
+important suppliers
+100%
+100%
+Reviewed
+Direct dialogue ratio with suppliers requiring 
+improvement requests
+
+100%
+Engage in dialogue with approximately 50 suppliers requested to make improvements regarding 
+sustainability initiatives, in collaboration with the eight major companies of the NTT Group
+Future of Work 
+ P68
+Employee satisfaction*4
+73% or more
+71% 
+(reference: 83% for the global total 
+excluding Group companies in Japan)
+Ongoing
+Employee engagement rate*5
+Indices linked to directors’ remuneration
+
+73%
+Continuously implement improvement activities based on survey results, engage in dialogue with 
+management, and reflect employees’ voices in our initiatives to maintain and enhance engagement
+Ratio of remote working
+Monitoring indicator
+63.2%
+—
+Ongoing
+Ratio of remote working
+
+Monitoring indicator*1
+Ongoing monitoring
+Turnover rate
+Monitoring indicator
+3.0%
+—
+Ongoing
+Turnover rate
+
+Monitoring indicator*1
+Ongoing monitoring
+Society
+——
+Inclusive 
+Society
+ P82
+Human Rights & DEI 
+ P84
+Ratio of newly appointed female managers
+30%
+22.8%
+Ongoing
+Ratio of newly appointed female managers*5
+Indices linked to directors’ remuneration
+
+30%
+Promote initiatives to increase the number of female managers and further enhance the 
+formation of a diverse talent pool
+Ratio of female managers
+15% (by end of FY2025)
+10.8%
+—
+Ongoing
+Ratio of female managers
+
+15% (by end of FY2025)
+Ratio of female directors
+25% (by end of FY2025)
+22.7%*7
+—
+Reviewed
+Ratio of female directors*6
+
+20 persons (by end of FY2025)
+Ratio of external hiring
+30%
+45.6%
+Ongoing
+Number of female directors*5
+
+30%
+Continue to maintain recruitment scale for both new graduates and experienced professionals and strengthen the hiring of experienced individuals who can immediately contribute as 
+skilled personnel
+Ratio of male employees taking childcare leave
+100%
+105.7%
+Ongoing
+Ratio of male employees taking childcare leave
+
+100%
+Further promote the creation of an environment that encourages men’s participation in 
+childcare to maintain and enhance the current level
+Ratio of Sustainability management Internet 
+Based Training participation
+100%
+100%
+Removed
+Removed from non-financial targets due to high-level participation
+Number of confirmed human rights violations
+
+Ongoing
+Number of confirmed human rights violations
+
+Establish forums for dialogue among employees on topics such as harassment as part of 
+human rights awareness to further raise consciousness
+Sustainability initiatives information dissemination
+67 cases
+Not disclosed
+Removed
+Removed from non-financial targets due to high-level dissemination
+Digital Accessibility 
+ P91
+Ratio of participation in internal workshops 
+or external support activities aimed at solving 
+social issues
+70% or more
+88.2%
+Reviewed
+Employee participation rate in workshops or 
+external support activities leading to 
+sustainability practices
+
+80%
+Add workshop menus that encourage employees to consider the relationship between our 
+business operations and sustainability to further promote personal engagement, aiming to raise 
+awareness of sustainability practices among all employees
+Community Engagement 
+ P91
+*1 No target will be set, but performance will be monitored with this indicator to observe the levels.
+*2 This indicator will be redefined in FY2024, and the official indicator name will include “the number of widely recognized 
+incidents caused by cyberattacks, internal fraud, or negligence.”
+*3 The target value is set at zero, with an allowable limit based on recent performance at two incidents.
+*4 Employee satisfaction: the percentage of employees who gave a positive evaluation to the statement “I take pride in 
+working at this company” (NTT DATA Group Corporation, NTT DATA Japan Corporation, NTT DATA, Inc. (Japan)). 
+*5 Only the name has been changed; the definition of the indicator is the same as in FY2023.
+*6 Executive officers and organizational leaders, etc.
+*7 Results from NTT DATA Group Corporation only.
+<Legend for Scope Items>  Achievement Status: 
+ Achieved at least 100%, 
+ Target achieved, 
+ Target not achieved 
+Scope:  1   NTT DATA Group Corporation, NTT DATA Japan Corporation, NTT DATA, Inc. (Japan) 
+2   In addition to 1 , includes Group companies in Japan 
+3   In addition to 2 , includes Group companies outside Japan
+Progress in Relation to the Nine Material Issues and FY2024 Targets
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Environment
+Regenerating Ecosystems
+NTT DATA Sustainability Report 2024  Data Book
+
+Sustainability Management

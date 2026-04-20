@@ -1,0 +1,64 @@
+Strengthen Green Procurement Initiatives to Reduce GHG Emissions
+The NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan are formulating green procurement measures tailored to the characteristics of domestic businesses. In February 2022, to strengthen efforts to 
+reduce GHG emissions across the supply chain, we specified evaluation criteria for suppliers and products in the 
+NTT Group Green Procurement Standards. In addition, we established the Hardware Procurement Rules*, which 
+serve as a reference for hardware procurement. We have commenced implementation for approximately 80 
+Group companies in Japan. Specifically, these rules recommend purchasing from hardware vendors that have 
+received SBT validation or have announced GHG emissions targets and results at the SBT validation level. 
+ 
+In addition, starting from fiscal 2023, we have initiated training sessions targeting all employees responsible 
+for procurement across Group companies in Japan to promote awareness and understanding of green procurement principles.
+ * On the Establishment of the Hardware Procurement Rules 
+https://www.nttdata.com/global/ja/news/release/2022/022802/ (Japanese only)
+Supplier Engagement
+Main Efforts to Achieve the SBT 1.5°C Target
+NTT DATA defines our major suppliers as those accounting for approximately 70% of our total procurement 
+amount, and we promote their climate change initiatives through measures such as supplier briefing sessions.
+ 
+In fiscal 2023, we continued to hold online supplier briefing sessions for our top suppliers, accounting for 
+approximately 80% of purchases from NTT DATA Group Corporation, NTT DATA Japan, and Group companies in 
+Japan, with around 120 companies participating. We hold briefing sessions annually, requesting cooperation for 
+emissions reduction at SBT certification levels and introducing social trends related to climate change initiatives. To 
+support each company’s efforts, we provide follow-up information, including the Q&A content from the sessions, 
+to approximately 230 target companies. 
+ 
+In addition, we are strengthening efforts to gather and analyze information on our suppliers’ climate change 
+initiatives. As a result of our initiatives, in April 2022 we became the first Japanese company to become a CDP 
+Supply Chain Premium Member. In fiscal 2023, NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan requested that suppliers accounting for 80% or more of total purchases of hardware and outsourced 
+software development answer questions in the CDP questionnaire related to the visualization of GHG emissions 
+and reduction target setting. We received responses from about 150 companies, allowing us to understand the 
+status of initiatives by industry. Based on the results of the analysis, we updated and distributed the explanatory 
+document created in fiscal 2022 regarding the calculation of GHG emissions and the setting of reduction targets 
+for suppliers of outsourced software development to promote their initiatives. 
+ 
+These efforts have been recognized, and for two consecutive years, we have been selected as a Supplier 
+Engagement Leader, the highest rating in the supplier engagement assessment conducted by CDP. In fiscal 2024, 
+we will increase the number of suppliers from whom we request responses, and we will begin engaging suppliers 
+using the CDP Supply Chain Program, including overseas Group companies.
+ 
+In addition, we engage in regular discussions with suppliers that are making advanced efforts to provide 
+low-environmental-impact products and solutions. By sharing the necessary information with NTT DATA Group 
+Corporation, NTT DATA Japan, and Group companies in Japan, we are creating an environment that allows for procurement considerations—including green purchasing—based not only on pricing but also on environmental 
+information, thereby promoting the reduction of GHG emissions on a product-by-product basis.
+Business Partner (BP)* Engagement
+NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan hold a BP Presidents’ Meeting, 
+attended by the heads of our BPs, to foster understanding and secure their cooperation in our climate change 
+efforts. We also organized workshops aimed at building a community of environmental representatives from our 
+BPs. During these workshops, we provide explanations and have group discussions on GHG emission visualization and reduction goal setting using materials created by NTT DATA. Through this, we strive to increase understanding of our climate change initiatives. In addition, based on the responses to the CDP questionnaire, we 
+identify the challenges each company is facing and support their efforts by participating in the Ministry of the 
+Environment’s program aimed at promoting decarbonization in small and medium-sized enterprises and conducting individual dialogue sessions with companies. Through these measures, we aim to continue to lead BPs’ 
+climate change initiatives.
+* NTT DATA Group Corporation selects Japanese outsourcing partners that are expected to provide continuous cooperation for our business development in the future, as 
+part of our efforts to jointly promote quality assurance activities for our clients.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

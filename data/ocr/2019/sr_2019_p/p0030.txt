@@ -1,0 +1,79 @@
+CASE04
+“Beyond the Payments”―Providing Services to Realize a World Where Consumers Can Enjoy 
+Safe and Stress-free Shopping Anywhere
+Electronic signature enables paperless payment
+Maki Fukushima
+Deputy Manager 
+Business Promotion Development Office 
+Cards & Payments Services Division
+Makoto Tomita
+Manager 
+Arch Solution Group 
+Cards & Payments Services Division
+CAFIS terminal in use
+Leading the popularization of cashless payments
+In the beginning of 1980s, at the dawn of the history of 
+credit cards in Japan, all credit card companies had their 
+own terminals for credit card processing. Therefore, if shops 
+wanted to accept several different credit cards, they had to 
+have separate terminals for each of them. Furthermore, credit 
+card companies and processing terminals were connected by 
+telephone line, placing a large economic burden in the form 
+of high connection charges on credit card member stores 
+located outside the Tokyo area. What’s worse, the processing 
+terminals in those days did not support Point of Sales (POS) 
+systems and there was no infrastructure to relay credit data 
+between processing centers of major companies that were 
+using POS and processing centers of credit card companies.
+To solve these issues, CAFIS was launched as a shared-use 
+service that relays credit information by interconnecting credit card 
+terminals, stores and credit card companies’
+ processing centers. 
+CAFIS dramatically improved the convenience of credit card use in 
+Japan, a very cash-oriented country, leading to the popularization 
+of ensuing cashless payment services across the nation.
+The popularization of CAFIS also helps enhance internet 
+governance and the value of data in today’s informationoriented society, eventually contributing to global environment 
+preservation. Spreading the use of the payment platform, which is 
+safe, speedy and lightweight, will undoubtedly ensure governance 
+and improve the value of data. It will also provide consumers and 
+store clerks with smooth and convenient shopping experiences, 
+resulting in the stimulation of consumer spending.
+Introducing more services to address future issues
+CAFIS also aims to mitigate the environmental burden on society 
+as a whole through its portfolio of services. For instance, the 
+CAFIS Payment Slip Storage Service has eliminated the issuance 
+of paper-based payment slips for customers to sign, thus 
+making it possible to complete a direct debit procedure without 
+using paper or a seal. Also, with CAFIS Arch, we succeeded in 
+substantially reducing the use of paper, movement of goods and 
+mobilization of people through measures such as adopting cloud 
+computing and improving the efficiency of business processes. 
+Based on our estimate, annual CO₂ emissions can be reduced 
+by 53% following the adoption of CAFIS services.
+NTT DATA has developed information systems for 
+many types of industry and various lines of business. The 
+comprehensive findings we have gained from past projects can 
+be promptly utilized for addressing new issues and building the 
+foundation for developing future systems from the customer’s 
+perspective. Under the slogan of “Beyond The Payments” 
+and striving to offer additional services other than payment 
+solutions, NTT DATA aims to turn the world into a place where 
+anyone can enjoy safe and stress-free shopping anywhere, 
+whenever they feel like shopping and making payments.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

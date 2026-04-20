@@ -1,0 +1,124 @@
+Comparative Table with GRI Standards 
+
+NTT Data Sustainability Report 2020 Data Book 
+ 
+P023-024 
+P028 
+P033-037 
+P040-041 
+P046-048 
+P051 
+P061-062 
+P065-068 
+P075 
+P084 
+P090 
+P096-097 
+ 
+◆ Topic-specific Standards 
+Disclosure 
+Indicator 
+Source of Reference 
+Data Book 
+NTT Data Official Website 
+200: Economic 
+Economic Performance 
+201-1 
+Direct economic value generated and distributed 
+― 
+INVESTORS 
+ https://www.nttdata.com/global/en/investors 
+201-2 
+Financial implications and other risks and 
+opportunities due to climate change 
+P050-060 
+― 
+201-3 
+Defined benefit plan obligations and other 
+retirement plans 
+― 
+― 
+201-4 
+Financial assistance received from government 
+― 
+― 
+Market Presence 
+202-1 
+Ratios of standard entry level wage by gender 
+compared to local minimum wage 
+― 
+― 
+202-2 
+Proportion of senior management hired from the 
+local community 
+― 
+― 
+Indirect Economic Impacts 
+203-1 
+Infrastructure investments and services 
+supported 
+P028-034 
+P056-057 
+P062 
+P091-093 
+P097-098 
+― 
+203-2 
+Significant indirect economic impacts 
+P028-034 
+P056-058 
+P097 
+― 
+Procurement Practices 
+204-1 
+Proportion of spending on local suppliers 
+― 
+― 
+Anti-corruption 
+205-1 
+Operations assessed for risks related to 
+corruption 
+P035-038 
+― 
+205-2 
+Communication and training about anticorruption policies and procedures 
+P035-038 
+― 
+205-3 
+Confirmed incidents of corruption and actions 
+taken 
+P035-038 
+― 
+Anti-competitive Behavior 
+206-1 
+Legal actions for anti-competitive behavior, antitrust, and monopoly practices 
+P038 
+― 
+Tax 
+207-1 
+Approach to tax 
+P038 
+― 
+207-2 
+Tax governance, control, and risk management 
+P038 
+― 
+207-3 
+Stakeholder engagement and management of 
+concerns related to tax 
+P038 
+― 
+207-4 
+Country-by-country reporting 
+― 
+― 
+300: Environmental 
+Materials 
+301-1 
+Materials used by weight or volume 
+― 
+― 
+301-2 
+Recycled input materials used 
+― 
+―

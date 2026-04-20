@@ -1,0 +1,62 @@
+Measures and costs
+Energy-saving measures for data centers
+As part of energy-saving measures in our data centers, we successfully reduced cooling energy consumption by 
+approximately 35%. This was achieved by utilizing temperature data collected from sensors in AI-controlled air 
+conditioning to identify and intensively cool high-temperature areas at the server level. In addition, we continue to 
+invest in other energy-saving initiatives using IoT technology.
+Introduction of renewable energy
+By promoting the adoption of renewable energy, we plan to achieve net-zero emissions for our data centers by 
+fiscal 2030 and for our offices by fiscal 2035. As part of our efforts to increase the use of renewable energy in data 
+centers and offices, we signed an offsite physical corporate PPA* in 
+March 2024 to supply renewable energy to our Mitaka Data Center 
+EAST. This PPA will cover approximately 20% of the electricity used by 
+the Mitaka Data Center EAST with solar power, which is expected to 
+reduce CO2 emissions by about 1,580 tons annually. In addition, we 
+are conducting a pilot test by installing film-based perovskite solar 
+panels on the building’s exterior walls to verify power generation efficiency and GHG reduction effects. Moving forward, we aim to expand 
+the installation of these panels on the exterior walls of data centers 
+and offices to promote local production and consumption of renewable energy and broader adoption.
+* An offsite physical corporate Power Purchase Agreement (PPA) refers to a long-term electricity purchase agreement in which a company buys renewable energy at a 
+fixed price from a retail electricity provider. The electricity is supplied from a power generation facility located away from the demand site through a general transmission and distribution network, ensuring 30-minute real-time matching of supply and demand, with the provider delivering both the electricity and its environmental 
+benefits to the client. 
+Costs
+To ensure the continuity of NTT DATA’s operations, we anticipate the need for procuring electricity from renewable 
+sources. As a result, we are driving decarbonization of our own supply chain through energy efficiency measures 
+and the adoption of renewable energy. We have budgeted a cumulative investment of ¥19 billion for energy-saving 
+measures and the introduction of renewable energy from fiscal 2022 to fiscal 2025.
+Installed on walls (provided by NEDO)
+Climate Change Risks and Response
+Risk
+
+  Increase in costs due to carbon pricing (e.g., carbon tax) 
+[Transition risk: Regulations]
+Assumed business and financial impacts
+With the rapid expansion of IT usage, as seen in digital transformation and generative AI, the environmental 
+burden imposed by IT systems on the planet is on the rise. Our energy consumption might also increase 
+within our cloud services and data centers. A significant portion of our consolidated net sales comes from 
+regions that have already implemented carbon pricing (such as carbon taxes), such as the European Union 
+and Japan, or from regions where such measures are being considered. If carbon pricing is fully introduced 
+in Japan, where many of our clients are located, it could significantly impact at least 40% of our net sales and 
+pose a risk of reduced business profitability.
+Financial impact
+We expect achieving net zero by 2050 to become widely accepted at a global level, leading to increased regulatory demands on businesses to adhere to these standards. Assuming that carbon pricing is applied to our 
+residual emissions between fiscal 2022 and 2040 based on the International Energy Agency (IEA)’s Net-Zero 
+scenario, we estimate that carbon pricing costs will total ¥23 billion for the cumulative period from fiscal 
+2022 to fiscal 2025.
+ Net Zero by 2050 
+https://www.iea.org/reports/net-zero-by-2050
+ World Energy Outlook 2022 
+https://www.iea.org/reports/world-energy-outlook-2022
+Time horizon: Long term
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

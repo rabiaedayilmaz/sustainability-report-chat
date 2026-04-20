@@ -1,0 +1,140 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Comprehensive, Actionable Insight to Drive Decarbonization in IT Systems
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Software Carbon Footprint Calculator
+• The environmental impact of digital technology is increasing exponentially and requires urgent attention. A significant portion of companies' Scope 2 emissions is attributable to their IT
+systems. Accurately calculating such emissions and understanding their composition and underlying drivers is critical for effective emission reduction strategies.
+• The complexity of software lifecycles and the wide-ranging factors involved make accurately determining energy consumption at each stage difficult and have prevented the
+establishment of unified calculation methodologies. Software energy consumption is also often not recorded in detail, and companies therefore lack tools to communicate this information
+to stakeholders in an easy-to-understand manner.
+IT systems play a significant role in overall emissions
+levels, and companies are working to enhance their IT
+operations’ energy efficiency, reduce systems’ footprints
+in
+line
+with
+sustainability
+goals,
+and
+comply
+with
+sustainability reporting requirements.
+Many businesses with complex IT infrastructure use
+inefficient
+legacy
+systems
+with
+massive
+energy
+consumption. In such large-scale systems, identifying
+priority areas to upgrade can enable businesses to
+maximize
+immediate
+environmental
+impact. However,
+software's carbon footprint constantly changes due to
+technological advances and changes in usage. Identifying
+priority measures therefore requires mechanisms that
+overcome
+this
+to
+accurately
+calculate
+systems’
+environmental
+footprint.
+Such
+mechanisms
+are
+also
+essential for confirming effectiveness and monitoring
+progress towards environmental goals.
+Business need
+Solution
+NTT DATA is a steering member of the Green Software
+Foundation and played a key role in developing Software
+Carbon Intensity (SCI), a standard method of measuring
+the carbon footprint of software. The SCI Specification was
+adopted as an ISO standard in 2024.
+NTT DATA is enabling companies to leverage SCI and
+related metrics in their emission reduction efforts through
+solutions such as its proprietary tool for comprehensive
+monitoring of CO2 emissions and SCI. This tool goes
+beyond
+CO2
+calculation
+to
+offer
+advanced
+analytics
+capabilities
+such
+as
+forecasting,
+ML-based
+anomaly
+detection and automated report generation. Results based
+on precise, granular calculation of IT-related emissions are
+made easily accessible in internal dashboards to give
+decision-makers real time insight. This empowers them to
+know which IT systems generate the most significant
+inefficiencies, identify where new technological solutions
+can
+have
+the
+greatest
+impact,
+implement
+targeted
+solutions, and keep optimizing performance. In addition to
+reducing
+carbon
+footprints,
+optimizing
+software
+and
+hardware usage for greater sustainability lowers costs by
+reducing
+overall
+resource
+consumption.
+NTT
+DATA’s
+monitoring
+tools
+also
+support
+the
+implementation
+of
+efficient, scalable, and sustainable IT solutions to prepare
+businesses
+for
+future
+advancements
+and
+regulatory
+changes,
+ensuring
+they remain competitive
+in rapidly
+evolving markets.
+Carbon
+Neutrality
+Impact
+Percentage
+of
+applications
+with
+potential
+carbon
+reductions identified by NTT DATA’s technology within the
+IT network at Intesa Sanpaolo, Italy’s largest bank
+About 70%

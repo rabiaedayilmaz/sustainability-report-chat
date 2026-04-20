@@ -1,0 +1,92 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Internal Auditing Department
+Group companies (individual)
+Performed annually and internally in accordance with GSP
+NTT DATA Group 
+Corporation
+NTT DATA Japan
+NTT DATA, Inc.
+(Head Office) 
+ Audits are performed on targets selected based on results of risk evaluations. 
+ Audits based on the GSP are conducted, including an assessment of security 
+measures for confidential information, such as personal data.
+ We monitor audit items shared 
+between Group companies.
+Internal Auditing System
+NTT DATA’s Audit and Monitoring System
+Audit and 
+monitoring 
+system
+ We established an audit and monitoring system covering Group companies in and outside Japan based on meticulous 
+information security under the NTT DATA Group Security Policy (GSP) (since fiscal 2006). 
+ We promote security audits from the three perspectives listed below. Risk-based audits enable focused and efficient 
+audits in high-risk areas.
+1. Rigorous basic tasks: Check the safety management status of the organization based on the GSP and the safety 
+management status of systems that handle personal information.
+2. Response to external threats: In light of increasingly sophisticated cyberattacks, the effectiveness of systematic 
+measures—such as addressing and managing vulnerabilities, and detecting and blocking attacks—is confirmed.
+3. To prevent information leakage due to internal improprieties, in addition to systematic and physical measures such as 
+access control and removal management, the effectiveness of measures, including management of outsourced 
+parties, shall be confirmed.
+Security Incident Prevention, Detection, and Responses
+NTT DATA operates NTTDATA-CERT as an internal CSIRT to not only prevent information 
+security incidents* through routine activities but also detect them early and respond 
+swiftly and accurately in emergencies.
+* Actualization of security threats related to information management and system operation, such as computer malware infection, 
+unauthorized access, and information leakage
+Activities to Prepare for New Security Risks
+We collect, analyze, and disseminate a wide range of security-related information, including the latest cyberattack trends and techniques, while engaging in network monitoring, 
+emergency responses, research and development, and collaboration with external 
+organizations.
+Wide-Ranging Internal and External Collaborations
+NTTDATA-CERT shares threat information and regularly exchanges insights with CSIRTs 
+across the NTT Group. Beyond its internal activities, it participates in the global CSIRT 
+community, FIRST*, and collaborates widely with external security organizations, including CSIRTs of companies that are members of the JPCERT Coordination Center and the 
+Nippon CSIRT Association. Through these efforts, NTTDATA-CERT enables the rapid sharing of security-related information and facilitates early detection and prompt response to 
+information security incidents.
+* FIRST (Forum of Incident Response and Security Teams): A global community comprising 817 CSIRT teams (as of August 2025) from 
+government agencies, educational institutions, corporations, and other organizations.
+CSIRT Operation Utilizing OSINT
+We incorporate an Open Source Intelligence (OSINT) approach into the operation of 
+NTTDATA-CERT, our computer security incident response team (CSIRT), actively utilizing 
+legally accessible information from government announcements, media reports, academic papers, technical documents, and other sources. NTTDATA-CERT’s information 
+analysis experts collect, analyze, and forecast security trends daily. The insights are 
+then shared with NTT DATA Group companies through news updates and the Quarterly 
+Report on Global Security Trends*. The information security steering organizations also 
+leverage these insights to enhance cyberattack monitoring and integrate them into our 
+security strategies and countermeasures.
+ For past issues of the Quarterly Report on Global Security Trends, please refer to this link.
+Incident Response Training
+We conduct workshops for Group companies in Japan to ensure that, in the event of an 
+information security incident, they can respond systematically and promptly, minimizing 
+impact and bringing the incident to a swift resolution. Based on the NTT DATA Group 
+Information Security Incident Response Standard for Japan, participants learn the appropriate actions to take from the occurrence to the resolution of an incident. They also 
+engage in exercises using past incidents within NTT DATA to practice effective responses 
+to cyberattacks.
+ 
+In addition, to further enhance NTTDATA-CERT’s cyberattack response capabilities, we 
+continuously participate in external training exercises, including cross-sector exercises 
+hosted by NCA/NISC and “Locked Shields,” organized by the NATO Cooperative Cyber 
+Defense Center of Excellence (CCDCOE).
+Stepping Up Security Governance Efforts
+We are stepping up our security governance efforts to better understand and methodically respond to the security risks that NTT DATA faces globally.
+ 
+In fiscal 2024, we continued efforts to enhance the maturity of global governance, 
+ensure the stable operation of our global security infrastructure, and strengthen our 
+escalation procedures for handling serious incidents.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Secure and Sustainable-by-design Services and Solutions

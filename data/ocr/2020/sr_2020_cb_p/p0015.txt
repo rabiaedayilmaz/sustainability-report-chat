@@ -1,0 +1,99 @@
+3,300 companies
+Number of companies adopting the system (as of September 30, 2020)
+Number of users (as of July 31, 2020)
+WinActor®*/WinDirector®: 
+Saving labor and improving the 
+work efficiency of routine tasks
+NTT DATA promotes diverse work styles and strives 
+to improve the productivity of its own employees by 
+incorporating innovative working arrangements using 
+digital technologies. These eﬀorts have enabled us to 
+amass expertise related to work-style innovations, 
+which we leverage to provide services for customers.
+ 
+BizXaaS Oﬃce® is a cloud-based platform that 
+provides the oﬃce environment necessary for basic 
+business operations and can be accessed from a 
+variety of internal and external devices. To address 
+the growing use of cloud services and the urgent need 
+for cybersecurity measures, we have added services 
+to our lineup that enable companies to manage 
+security when using cloud services. More than 150 
+companies were using the service as of July 31, 2020. 
+The system provides the same level of security as a 
+physical oﬃce environment. In addition to eliminating 
+restrictions on where people can work, it is expected 
+to stimulate communication between teams and 
+organizations through web conferencing and the like. 
+Accordingly, it facilitates teleworking arrangements 
+and work-style innovations and fosters improvements 
+in productivity and employee engagement.
+BizXaaS Ofﬁce® (Digital Work Space)
+Customer Data Center 
+Cloud services
+BXO Data Center
+Business
+system
+Management
+server
+Head oﬃce
+Branch oﬃce
+Home/remote locations
+External location
+Virtual
+PC environment
+Virtual
+PC environment
+Exchange
+mail
+Optional
+services
+Thin client terminal
+Thin client terminal
+Remote client terminal
+Internet (Internet VPN)
+File
+sharing
+Considering labor shortages and other social issues, 
+there is an increasing need for companies in various 
+industries to enhance routine tasks through labor saving 
+and improvements in eﬃciency and quality, in order to 
+assign human resources to higher-value-added areas.
+ 
+In response, NTT DATA oﬀers a software robot-based 
+solution called WinActor®*/ WinDirector® that was born 
+from the research technology and know-how of the NTT 
+Group. This solution allows numerous applications 
+that can be operated on Windows terminals to be 
+automated. It also improves productivity by reducing 
+the processes and costs required for routine work 
+and preventing and reducing human error caused by 
+inputting mistakes and the like.
+ 
+More than 3,300 customers were using the solution 
+as of September 30, 2020. We are utilizing it to promote 
+digital transformation both inside and outside the 
+Company, including by establishing a WinActor 
+information portal for in-house tasks and a WinActor 
+user forum for external users.
+ 
+NTT DATA will continue fostering productivity 
+improvements, cost reductions and work-style 
+innovations in its quest to realize an unprecedentedly 
+smart society.
+*WinActor® is a registered trademark of NTT Advanced Technology Corporation.
+BizXaaS Office®: 
+Delivering work-style innovations 
+and productivity improvements
+More than 150 companies
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

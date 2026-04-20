@@ -1,0 +1,56 @@
+Governance 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Information Security Strategies 
+ 
+For the NTT DATA Group to remain a business transformation partner for its customers, it must practice and maintain an 
+appropriate balance between ensuring the safety of information and actively utilizing and sharing information, both of which are 
+objectives of the NTT DATA Group Security Policy. 
+In fiscal 2019, we focused on the issue of improving security governance in NTT DATA’s global management. Specifically, 
+we worked to ensure the stable operation of our global security infrastructure and reliably escalate our responses to serious 
+incidents. In addition to these activities, we stepped up our security governance efforts to better understand and methodically 
+respond to the security risks that the NTT DATA Group faces globally. 
+ 
+Stable Operation of Global Security Infrastructure 
+To prepare for cyberattacks, which are becoming increasingly sophisticated, we operate a security platform common to all NTT 
+DATA Group companies. Using this security platform to centrally manage Internet connection points enables us to maintain a 
+high level of security across the entire NTT DATA Group. Moreover, we can block connection points between the NTT DATA 
+Group’s domestic and overseas bases, allowing us to prevent any damage from spreading to other areas in the event of an 
+intrusion in the network. We also have an advanced log analysis solution that enables us to detect even advanced persistent 
+threats (APTs). 
+ 
+Early Escalation to Address Serious Incidents 
+To ensure early detection and report responses in the event of a serious incident, we systematically established incident 
+response organizations in the NTT DATA Group’s domestic and overseas bases. This guarantees our ability to respond 
+immediately to problems on site and deal with high-level incidents. In addition, we have rules within the Group that clearly define 
+the various roles, responsibilities and reporting standards. In the event of a serious incident, this system ensures prompt reporting 
+from NTT DATA Group domestic and overseas companies to the Head Office via regional head offices. 
+Note: In fiscal 2019, we received no specific complaints regarding breaches of customer privacy or loss of customer data. 
+ 
+Improving Global Governance Maturity 
+The NTT DATA Group has established a protocol process for aggregating the security risks faced by each regional head office 
+and determining security measures that should be prioritized by all global Group companies. In addition, we regularly hold a 
+Global CISO Conference attended by all key persons including the CISOs of each regional head office to strengthen information 
+sharing and collaboration between Group companies and the Head Office. 
+ 
+Results of Activities 
+ 
+Ensuring the Security of Commercial Systems 
+Recently, there have been multiple incidents of illegal access to information through breaches (vulnerabilities) of information 
+systems, resulting in personal and confidential information leaks, business disruption and other harmful outcomes. Because 
+most illegal access makes use of known attacks against which countermeasures are available, we need to apply preventive 
+measures for known attacks across our systems without leaving any vulnerabilities. 
+We share the latest trends in security technology and vulnerability information across the Group in a timely manner. When 
+building and operating our systems, we incorporate processes to maintain the necessary level of security and establish 
+mechanisms to enable the system to maintain that security level. We strive to continuously provide safe and secure systems 
+and services, including by subjecting our system to regular diagnostic testing by security experts and appropriately responding 
+to newly discovered vulnerabilities. 
+ 
+Comprehensive Security Management to Ensure Safe and Secure System Environments 
+The NTT DATA Group harnesses the expertise it has gathered from its experience and track record to propose optimal solutions 
+that reflect changes in its clients’ business structure. For example, we offer global security governance frameworks that also 
+cover client sites across the world and superior security technologies required for systems that handle important information. 
+We also provide the latest security solutions that realize secure remote working environments to promote new work styles. 
+Recent years have highlighted the importance of preparing against contingencies on the assumption that protective security 
+measures might be bypassed altogether by sophisticated targeted attacks or information leaks caused by internal misconduct. 
+To contain and localize any damage, we must provide reliable detection of an attack and swift response and recovery. We help

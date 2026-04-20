@@ -1,0 +1,72 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+Enhancing User Convenience and 
+Reducing Employee Workload with 
+Checkout-free Shopping
+Enhancing User Convenience and Reducing 
+Employee Workload with Checkout-free Shopping
+Click here for 
+reference article
+· In Japan, a shortage of labor is emerging due to the declining working-age population. It is estimated that by 2030, 
+there will be a shortage of 600,000 workers in the retail sector, including supermarkets and convenience stores.
+600,000
+(Source: Persol Research and Consulting and Chuo
+University’s “Estimates for the Labor Market in 2030”)
+Future
+of
+Work
+Smart X
+Co-Innovation
+CATCH&GO®
+Click here for 
+reference article
+(Source: Persol Research and Consulting and Chuo University’s “Estimates for the Labor Market in 2030”)
+The retail and distribution sectors, crucial for daily life,
+face concerns about store survival. To address this,
+implementing measures to reduce employee workload,
+enhance labor productivity, and transition to sustainable
+store formats is essential.
+NTT DATA has developed and provided the digital
+store
+operation
+service,
+Catch&Go®,
+to
+the
+retail
+industry. In October 2023, in collaboration with Daiei,
+the first ground-level walk-through store adjacent to a
+supermarket was opened in Yokohama, Kanagawa
+Prefecture. Users scan a QR code displayed on their
+registered smartphone app at the store gate before
+entering. The store utilizes cameras to take footage of
+user movements and weight sensors to detect product
+selections, which are then analyzed in real time using AI
+technology. Customers can select from an array of
+approximately 400 different products and settle their
+accounts in as little as 10 seconds, bypassing the
+checkout counter and simply leaving the store with their
+chosen items. Meanwhile, real-time data on product
+dynamics and user movements allow the store to make
+improvements in product display and layout, leading to
+enhanced
+store
+marketing
+and
+waste
+reduction,
+ultimately increasing sales.
+In addition to addressing issues in the retail and
+distribution sectors, we aim to enhance user convenience,
+provide
+personalized
+product
+recommendations,
+and
+create new purchasing experiences and store models
+through digital technology.
+Conceptual diagram of Catch&Go®

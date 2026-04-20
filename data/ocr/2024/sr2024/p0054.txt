@@ -1,0 +1,83 @@
+Ensure Information Security
+NTT DATA recognizes the importance of achieving an appropriate balance between ensuring the safety of information and the active utilization and sharing of information. We implement a wide range of measures that cover both 
+the human and technological aspects of information security. Administrative measures include formulating rules 
+and providing education and training in information security, while technological measures involve solutions that 
+prevent information leaks and the adoption of zero trust architecture.
+ 
+To share knowledge and expertise across the entire Group, we work with domestic Group companies to host 
+NTT DATA Group information security forums in Japan, and with Group companies outside Japan to host global 
+security meetings. Through this distribution of knowledge within the Group, we are working to establish unified 
+information security governance.
+Basic Policy
+NTT DATA has established rules and regulations including the NTT DATA Group Security Policy (GSP). The GSP 
+includes a code of conduct to protect information assets from serious security breaches, such as information leakage and unauthorized access, and a code of conduct for the active utilization and sharing of information. These 
+policies apply across the entire Group, including domestic and overseas Group companies. In addition, these 
+codes of conduct, which also apply to business partners to whom we outsource operations, help us ensure that 
+our information assets are handled appropriately.
+Promotion System
+Since fiscal 2006, NTT DATA has been working diligently to ensure information security based on the NTT DATA 
+Group Security Policy (GSP), which also applies to the Group companies outside Japan. Since fiscal 2012, we have 
+been building a global framework for promoting information security, centered on the five regional headquarters 
+(NDS (North America), EMEAL (the EMEAL region), NDAP (the APAC region), Business Solutions, and NTT Limited, as 
+of October 2023). We manage information security according to unified baselines, as well as in a flexible manner 
+that meets the specific needs of each region.
+Global Security through Collaboration
+To ensure meticulous information security governance on a global scale, we manage information security through 
+information security steering organizations within various Group companies such as NTT DATA Group Corporation, 
+NTT DATA Japan, NTT DATA, Inc., and the holding company.
+ 
+The information security steering organizations at each level cooperate closely to maintain and develop information security policies, monitor the progress of measures under way, and take preventive measures against incidents. They also serve as task forces in times of emergency.
+Information Security Governance Structure of NTT DATA Group Corporation
+President and CEO
+Chief Information Security Officer (CISO)
+Information Security Committee
+Head of organizations
+Officer in charge of 
+information security
+CISO
+Related departments
+Corporate Planning Department
+Quality Assurance Department
+Information System Department
+General Affairs & Legal Department
+Human Resource & 
+Development Department
+Purchasing Department,etc.
+Information Security 
+Steering Organization
+Internal Audit 
+Department
+Report
+Audit
+Audit
+Audit
+Committee 
+members
+Committee 
+members
+Report
+NTT DATA Group Corporation
+NTT DATA Japan
+NTT DATA, Inc.
+Roles in NTT DATA Group Corporation’s Information Security Governance
+Chief Information 
+Security Officer (CISO)
+These officers promote information security management to establish information 
+security governance across the Group.
+Note: Technology management includes the Chief Technology Officer (CTO; technology development and research), Chief 
+Digital and AI Officer (CDAIO; digital strategy), Chief Information Security Officer (CISO; security), Chief Knowledge 
+Officer (CKO; information management), Chief Information Officer (CIO; internal systems), and quality assurance.
+Committee 
+members
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

@@ -1,0 +1,31 @@
+NTT DATA CSR Report 2010 35/48 
+【Additional Topics】
+ 
+Proposing systems that support emissions trading 
+Since the beginning of the first commitment period (2008–2012) of the Kyoto Protocol, which sets 
+binding targets for reducing greenhouse gases emissions, Japan has actively pursued its 6% reduction 
+target. In September 2009, the Japanese government also declared its intent to reduce greenhouse 
+gas emissions by 25% compared with 1990 levels by 2020. Against this background, the emissions 
+trading*1 of greenhouse gases has attracted particular attention. 
+Along with the development and operation of Japan’s National Registry System*2 as the 
+infrastructure for international emissions trading, NTT DATA develops and operates systems to 
+manage emissions by companies voluntarily participating in Japan’s Voluntary Emissions Trading 
+Scheme run by the government. 
+In fiscal 2010, NTT DATA developed a function to link National Registry System data with that of 
+the government’s general electronic application system. This development makes it possible for 
+companies to undertake some processes previously handled by the national government, which made 
+government operations substantially more efficient and shortened the time required to transfer credits. 
+We launched a service incorporating this function in March 2010. 
+We will continue to reduce and manage CO2 emissions in Japan by offering systems that support 
+corporate emissions identification and trading. 
+ 
+*1 Emissions trading: 
+Mechanism that enables countries and companies unable to achieve reduction targets directly to purchase 
+credits from countries and companies that have reduced emissions beyond their targets. 
+ 
+*2 National Registry System: 
+A system to manage the possession and transfer of national and corporate credits as defined by the Kyoto 
+Protocol. NTT DATA developed this system in 2002 under commission from Japan’s Ministry of Economy, 
+Trade and Industry (METI) and Ministry of the Environment. In November 2007, the system was linked to the 
+international transaction log (ITL), which is managed by the United Nations Framework Convention on 
+Climate Change (UNFCCC). This completion of links enabled the transfer of credits for emissions trading.

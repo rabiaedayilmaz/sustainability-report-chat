@@ -1,0 +1,68 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+Stricter regulations in Japan to comply with the Paris Agreement might result in significantly higher 
+CO2 emission costs. 
+ 
+Assumed business and financial impacts 
+We generate around 90% of consolidated net sales in regions such as the European Union and Japan, where carbon pricing 
+(carbon tax) has already been introduced or is under consideration for introduction. The confirmation of plans to introduce a 
+carbon pricing system in Japan, where we have many clients, will have a significant impact on at least 50% of net sales. 
+In the IT services industry, the use of digital technology to improve business efficiency will increase alongside growing 
+demand for remote working arrangements due to COVID-19. In the IT services industry, there is growing demand for digital 
+solutions to meet clients’ needs such as pursuing operational efficiency and establishing remote work environments. NTT DATA’s 
+energy usage in cloud computing and data centers has the potential to continue increasing without mitigation measures in place. 
+Given the nature of our business, with around 80% of Scope 1 and 2 emissions coming from electricity use related to cloud 
+computing and data centers, the continued use of fossil fuel–derived electricity could have a significant management impact. 
+Using electricity derived from fossil fuels could have a significant impact on business operations. In such a case, it is necessary 
+to procure electricity from renewable sources. However, in Japan, where renewable energy is currently about ¥2–5/kWh more 
+expensive than electricity derived from fossil fuels, there is a risk of increased electricity procurement costs, which could lead to 
+a decrease in business revenue. 
+ 
+●Financial impact 
+We expect achieving net zero by 2050 to become widely accepted at a global level, leading to increased regulatory demands 
+on businesses to adhere to these standards. Based on the assumption that the annual GHG emissions for fiscal 2020 (Scope 1 
+and 2: 162 Kt-CO2e) will continue until 2025, we have estimated a cumulative carbon price cost of approximately ¥7 billion from 
+fiscal 2022 to 2025, using the carbon price* scenario presented by the International Energy Agency (IEA). As a reference, if the 
+same level of emissions continues until 2040, we have estimated a cumulative carbon price cost of approximately ¥30 billion 
+from fiscal 2025 to 2035. 
+*Net Zero by 2050 (https://www.iea.org/reports/net-zero-by-2050) and World Energy Outlook 2022 (https://www.iea.org/reports/world-energy-outlook-2022) 
+ 
+ 
+Measures and costs 
+Introduction of renewable energy 
+To minimize the impact of carbon taxes, we have implemented 
+measures such as purchasing renewable energy and installing 
+self-generation facilities for renewable energy in our buildings. 
+Currently, we have three buildings with solar power generation 
+facilities, including the largest in Japan, the Mitaka Data Center 
+EAST. 
+In fiscal 2022, NTT DATA generated 825 MWh of renewable 
+energy in Japan, including some that was sold back to the grid. 
+We are also increasing our efforts to adopt more renewable energy 
+sources. Furthermore, by promoting the adoption of renewable 
+energy in our global data centers and offices, we are planning to 
+achieve net zero for our own service usage in data centers by fiscal 2030 and for both data centers and offices by fiscal 2035. 
+In addition, as part of the collaborative efforts with Okinawa Prefecture and Okinawa Electric Power Company to achieve a 
+carbon-free society by 2050, the electricity used at the BPO center located in the municipality has been carbon-neutralized. 
+NTT DATA is actively working on establishing a decentralized energy infrastructure to accelerate the adoption of renewable 
+energy across society. Our aim is to promote the widespread use of renewable energy based on the premise of stable power 
+supply. 
+ 
+Our efforts toward new technologies in renewable energy 
+As part of our plans to increase renewable energy in data centers and offices, we are also 
+introducing new technologies. For instance, we are conducting pilot experiments by 
+installing thin-film perovskite solar cells on the exterior walls of buildings, and from 2024, 
+we plan to install them on the exterior walls of data centers to verify their power generation 
+efficiency and GHG reduction effects. In the future, we plan to install them on the exterior 
+walls of existing facilities, enabling the generation and utilization of renewable energy, 
+thereby achieving local production and consumption of renewable energy and expanding 
+its adoption in our data centers and offices. 
+ 
+ 
+Risk 3: Increase in costs due to carbon pricing (e.g., carbon tax) 
+[Transition risk: Regulations] 
+Time horizon: Long term 
+First in Japan, a carbon neutral Green BPO Center using resources in Okinawa 
+Image: Installed on walls (provided by NEDO)

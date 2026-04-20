@@ -1,0 +1,78 @@
+CSIRT Management within Internal Organizations
+1. Thoroughness of basic operations
+We verify the management statuses of internal organizations and systems that process 
+personal information based on our GSP.
+2. External fraud countermeasures
+In order to respond to increasingly sophisticated and complicated cyberattacks, we check the 
+statuses of system countermeasures at Group companies.
+3. Response to internal fraud
+We confirm the statuses of system response measures to ensure proper reaction to and 
+prevention of internal fraud.
+Auditing and Monitoring System
+NTTDATA-CERT is aiming to be a 
+CSIRT team that can prevent, 
+detect, and respond to threats.
+Incident response
+ 
+Open-source intelligence
+(OSINT)
+External collaboration
+Research and development
+Cyberattack monitoring
+▶ NTTDATA-CERT’s Vision
+Incident Response Workshop
+The NTT DATA Group is managing NTTDATA-CERT as an organizational CSIRT to prevent the 
+occurrence of security incidents through its day-to-day activities. NTTDATA-CERT works to 
+detect incidents early and provide quick and appropriate emergency response.
+Activities in Preparation for New Security Risks
+We established NTTDATA-CERT in July 2010, after collecting the CSIRT activities that had 
+been implemented internally in each business sector since 2000. NTTDATA-CERT’s primary 
+activities include wide-ranging gathering, analysis and communication of information related to 
+the newest attack methods and incident occurrences, communication monitoring, emergency 
+response, research and development, and collaboration with external organizations. We are 
+working to bolster our ability to respond to the most current risks as cyberattack targets and 
+methods change each year.
+Collaborative and Wide-Ranging Domestic and International Activities
+The scope of NTTDATA-CERT’s activities extends beyond the limits of the NTT DATA Group. 
+The team is widely collaborating with external security organizations, including the JPCERT 
+Coordination Center (JPCERT/CC) and CSIRT teams from all member companies of the Nippon 
+CSIRT Association (NCA).
+With these efforts, we are quickly sharing security-related information and enabling early 
+detection and response to security concerns.
+Activities Utilizing OSINT
+We adopt an open-source intelligence (OSINT) approach when operating NTTDATA-CERT, 
+which involves actively utilizing information obtained lawfully through mediums including 
+official government announcements and mass media, such as reporting, academic articles, and 
+technical data. Information collected daily is analyzed by NTTDATA-CERT’s experts, who then 
+predict future security trends and distribute their findings to all companies in the NTT DATA 
+Group through quarterly reports and security-related news briefings.
+Additionally, the NTT DATA Group uses this information in its security strategies and 
+countermeasures, including cyberattack monitoring intensification and the selection of new 
+research and development themes for the next fiscal year.
+We hold workshops for Group companies to ensure that they can provide an appropriate initial 
+response to an incident on site. The workshops are conducted based on our initial response 
+guidelines and designed to help the staff understand the goals of initial incident response and 
+what each of them must do and deepen their knowledge regarding the targets and methods of 
+cyber attackers through examples of incidents that occurred within the NTT DATA Group.
+Since 2006, the NTT DATA Group has been diligently working to secure information security in 
+accordance with its GSP. We are also establishing auditing and monitoring systems at domestic 
+and overseas Group companies.
+The Company has been pressing forward with initiatives related to security auditing 
+while focusing on three points of view: thoroughness of basic operations, external fraud 
+countermeasures, and response to internal fraud.
+Moving forward, we will continue to pursue thoroughness of basic operations and pay 
+particular attention to fraud response measures.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

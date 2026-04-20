@@ -1,0 +1,113 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Creating a digital twin of Japanese territory to support national defense exercises through 
+more accurate real-time alignment with actual conditions
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Innovation Technology Department
+First Public Sector Mobility & Resilience Division
+Impact
+Source: Public Opinion Survey on Self Defense Force and Defense Issues, November 2022, Public Relations Office, Cabinet Office, Government of Japan (https://survey.gov-online.go.jp/r04/r04-bouei/gairyaku.pdf) (in Japanese only)
+Rich location
+information
+2D map
+MMS*
+Tactical operation simulations
+to prepare for emergencies 
+Ordinary operations
+Rapid tactical operations
+based on prior simulations
+2. Simulations with 
+digital twins
+Existing map data
+Satellite data (optical/SAR)
+Data linking
+*Mobile Mapping System
+High-accuracy
+data integration
+Spatiotemporal data
+management
+1. Generation of real-time digital 
+twin of national territory
+4. Repetition of simulations 
+with real-time strategic data
+3. Simulations used for 
+advance preparation
+Emergency situations
+IOWN 4D digital platform
+Point cloud data, etc.
+Business need
+Solution
+•
+As the global situation has grown increasingly unstable in recent years, Japan’s national security environment is also becoming more complex.
+•
+In a 2022 Japanese Cabinet Office survey of Japanese citizens aged 18 and over (1,602 valid responses, response rate of 53.4％), 86.2% of respondents agreed that current global conditions put Japan at risk of
+becoming involved in a war, with 38.1％ answering that they agreed and 48.1％ responding that they agreed more than they disagreed. In addition, 83.6% expressed agreement with using cutting-edge technologies
+from private companies, universities and other research institutions for defense purposes.
+In its mission to maintain national security, Japan’s Ministry
+of Defense holds simulations and exercises preempting various
+scenarios. However, exercises with real units take time, require
+funding and face scope limitations. Tabletop exercises address
+these restrictions, but conventional technology struggles to
+recreate
+Japan’s
+territory
+with
+high
+accuracy
+while
+also
+reflecting real-time data such as weather, geography and the
+position and movement of objects, resulting in positional
+inaccuracies and delays tracking movements.
+In addition, high levels of confidentiality and security must be
+maintained while collecting, analyzing and leveraging vast
+amounts of data from various angles. In particular, while
+satellite image data delivers a bird’s eye view and is the most
+effective source of situational awareness, high-accuracy image
+processing AI models are required to interpret huge quantities
+of data quickly and precisely. Obtaining enough high-quality
+data to train such models is difficult, and issues to address
+included high development costs relative to the outcomes
+achieved through machine learning.
+NTT
+DATA
+utilized
+NTT
+laboratories’
+cutting-edge
+IOWN®
+technology to build a 4D digital platform
+and combined existing map
+data with point cloud data of buildings and similar objects to enhance
+map accuracy. This overcomes technical barriers such as limits on
+spatial awareness to generate a digital twin of Japanese territory in
+real time while enabling processes such as immediate data updates
+and simulations. This supports a range of simulations beyond previous
+capabilities, which can contribute to bolstering national defense.
+NTT DATA is also developing AI models for satellite image data
+analysis and is using image generation AI to create and utilize large
+quantities of high-quality satellite image data suitable for machine
+learning, thereby enhancing the accuracy of image analysis models
+while significantly reducing development costs.
+The 4D digital platformTM is also intended for deployment in various
+fields supporting Japan’s security, and NTT DATA also aims to expand
+in diverse industries around the world through satellite data image
+analysis based on technology that generates AI training data. Through
+this work, NTT DATA will continue its contribution to safety and
+security of mind for people in Japan.
+Leveraging the latest technology in security operations
+enables
+more
+reliable
+execution,
+enhancing safety
+and security of mind for residents.
+Conceptual Diagram of IOWN® Deployment
+MOD Deployment of Digital Twins with
+IOWN® Technology
+Japan

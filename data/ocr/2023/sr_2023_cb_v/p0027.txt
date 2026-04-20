@@ -1,0 +1,103 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT Luxembourg (Luxembourg)
+Reduction in fuel consumption per flight
+Predictive Maintenance in Aircraft Equipment: 
+Anticipating Deterioration and Failures to
+Extend Component Service Life
+Click here for the 
+refence video
+· Airports in major cities worldwide are facing congestion issues during aircraft takeoffs and landings, making it crucial to safely 
+and efficiently manage the departure and arrival of numerous flights without delays.
+· Environmental concerns, including noise pollution for residents near airports due to equipment aging, and rising CO2 emissions 
+from fuel consumption, call for proactive measures.
+AVATAR
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Click here for 
+reference article
+The AVATAR (Transformative Digital Air Vehicle with
+IoT Sensor for Safer Urban Skies) project is part of
+Horizon 2020, an EU R&D program, with a budget of
+around 80 billion euros.
+NTT Luxembourg is in a consortium of six partners to
+develop an IoT sensing skin and digital twin platform
+that will enable continuous monitoring of aircraft. This
+optimizes
+the
+service
+life,
+which
+contributes
+to
+sustainable air mobility and the acceleration of the
+digital transformation of aviation vehicles.
+The IoT sensing skin will collect data from various
+sensors embedded in the aircraft structure, such as
+strain, temperature, pressure, vibration, and acoustic
+emission. The data will be transmitted to a cloud-based
+platform, where advanced algorithms will process and
+analyze it, creating a digital twin—a virtual replica of the
+physical
+aircraft,
+which
+can
+simulate
+its
+behavior,
+performance, and condition in real time.
+The digital twin platform will provide valuable insights
+for
+the
+aircraft
+operators,
+manufacturers,
+and
+maintenance providers, enabling them to optimize the
+service life of each aircraft and its components, reduce
+operational costs, and improve safety and reliability. The
+digital twin platform will also support the design and
+certification of novel solutions for urban air mobility,
+such as electric or hybrid unmanned vehicles, which
+have the potential to reduce noise and emissions, and
+increase
+the
+accessibility
+and
+affordability
+of
+air
+transport.
+AVATAR is a visionary and ambitious project that will
+have
+a
+significant
+impact
+on
+the
+economic
+and
+environmental
+sustainability
+of
+urban
+air
+mobility.
+AVATAR is a project that will make air transport smarter,
+more sustainable, connected, and accessible to all.
+Image of AVATAR project
+The London School of Economics predicts that the
+benefits of Connected Airline Operations enabled by
+SATCOM will reduce fuel consumption per flight by
+2.5%, resulting in an annual reduction of 21.3 million
+tons of CO2 emissions.
+2.5%
+30%
+Reduction in direct operating costs 
+through equipment failure prediction and 
+maintenance

@@ -1,0 +1,26 @@
+Paradigms for the 
+Global Environment 【Additional Topics】 
+NTT DATA CSR Report 2011 44/67 
+ 
+ 
+ 
+ 
+・Providing solutions that visualize energy consumption of individual PCs 
+The Act on the Rational Use of Energy (Energy Saving Act), which went into effect in April 
+2010, made companywide reporting of energy use obligatory. This legislation spurred 
+full-edged corporate efforts to determine the amount of CO2 emitted by offices, as well as 
+other facilities, and enact measures to reduce these emissions. However, measuring the 
+amount of energy used by PCs and other office equipment was problematic, making specific 
+countermeasures difficult to formulate. 
+To address this situation, NTT DATA INTELLILINK CORPORATION made an 
+eco-management function a standard part of NOSiDE Inventory Sub System/Asset 
+Management, its IT asset management and policy-based network access control package 
+software, providing an effective solution that enables companies to introduce measures for 
+reducing the use of electricity in the office. As of March 31, 2011, we had already delivered 
+99 such systems. Visualizing power consumption for each organizational unit in this way 
+facilitates the consideration and introduction of energy-saving measures. 
+ 
+In 2011, we began augmenting this setup with measures such as XECHNO taps, 
+the company’s power-saving electrical taps that link to NOSiDE to cut power while in 
+standby mode. 
+Providing Environmental Solutions

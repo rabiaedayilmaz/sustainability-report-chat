@@ -1,0 +1,60 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Time horizon: Short term
+Data center shutdown due to abnormal weather
+[Physical risk: Acute]
+Assumed business and financial impacts
+The physical risks associated with extreme weather events, such as severe typhoons and 
+sudden heavy rainfall, can be significant, leading to disasters such as flooding. As a globally 
+prominent data center operator, we regard our data center business as a key area for 
+medium- to long-term business foundation, with continuous growth expected in the future. 
+We also own data centers located in high-risk areas to meet client demands, which pose 
+physical risks of operational shutdown in the event of extreme weather occurrences.
+Financial impact
+Some of our data center sites are located in areas identified as high risk in the IPCC Sixth 
+Assessment Report. However, we are implementing various measures, including hazard mapping, to ensure business continuity. Assuming a disaster affects three of our approximately 
+140 data center sites for five days, the estimated revenue impact would be ¥100 million.*
+* Based on fiscal 2024 data center net sales of ¥377.8 billion × (3/140 sites) × (5/365 days) ≈ ¥100 million
+Measures and costs
+ Strengthen data center resilience
+When constructing data centers, we incorporate designs that consider natural disaster 
+risks such as flooding. The costs associated with these measures are included in the 
+overall capital expenditures for data centers. In fiscal 2024, capital expenditures for the 
+data center business totaled ¥413.0 billion.
+Time horizon: Short term
+Loss of reputation due to delayed responses
+[Transitional risk: Reputational]
+Assumed business and financial impacts
+In recent years, various regulations are anticipated globally due to the growing trend toward 
+environmental consideration, and companies’ attitudes toward sustainability have increasingly 
+influenced the decision-making of stakeholders, including consumers. If companies delay in 
+responding to investor demands for climate-related information disclosure or fail to adequately 
+implement GHG emission-reduction initiatives, they might face a decline in stakeholder trust, 
+which could result in decreased revenue. 
+Financial impact
+If our data centers lag in addressing climate change, leading to reduced trust and evaluation 
+from clients, the data center business could experience decreased revenue. Assuming an 
+impact of approximately 1% on fiscal 2024 data center net sales of ¥377.8 billion, the estimated revenue effect would be ¥3.8 billion.
+Climate Change Risks and Response
+Measures and costs
+ Initiatives for external communication on climate change
+To share the Group’s climate change initiatives with stakeholders, we continuously communicate through our Group website and sustainability reports. As the costs associated 
+with these initiatives are currently minimal, they are omitted from this section.
+Risk
+
+Risk
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

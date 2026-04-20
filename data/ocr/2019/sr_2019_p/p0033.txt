@@ -1,0 +1,85 @@
+The Vatican Library
+This project at the Vatican Library aims to digitize the Library’s entire 
+collection comprising some 80,000 codices, amounting to about 
+40 million pages. The total volume of the data is expected to be a 
+whopping 45 petabytes.
+
+“AMLAD®”
+A Digital Archive Application that Helps Develop a Platform for Preserving 
+Digitized Historical Documents and Making Them Available to the Public
+AMLAD® helps enhance the value of digital assets
+AMLAD
+® is a digital archive service capable of providing a mechanism 
+for storing all data formats including text, image, video and audio and 
+enabling users to easily search and view the stored data using their 
+own devices such as personal computers and smartphones. NTT 
+DATA has incorporated many functions into AMLAD
+®, including not 
+only multi-directional search but also various data linkage methods 
+and flexible administrative functions, by utilizing its cutting-edge 
+archive technologies fostered through the project it completed for 
+the National Diet Library in Japan.
+©Biblioteca Apostolica Vaticana
+Digitization work in progress
+©Biblioteca Apostolica Vaticana
+Website of the Vatican Library’s Digital Archive
+The Vatican Library
+An example of the manuscripts to 
+be digitized
+CASE
+In March 2018, NTT DATA completed the digitization of 3,000 
+handwritten documents of historical importance owned by 
+the Vatican Library (Biblioteca Apostolica Vaticana). It also 
+developed DigiVatLib, a platform to allow the Library to 
+preserve the digitized images of the documents and make 
+them available to the public, by using AMLAD
+Ⓡ, NTT DATA’s 
+digital archive solution. The Vatican Library was established 
+in 1451, or around the middle of the 15th century, by Pope 
+Nicholas V. The Library has a massive collection comprising 
+some 1.1 million works including numerous historical books, 
+documents and illuminated manuscripts, some of which are 
+more than 2,500 years old. The collection includes, among 
+others, some 8,200 pieces of rare, one-of-a-kind handwritten 
+manuscripts or codices such as the Codex Vaticanus.
+In the past, the Vatican was torn between two conflicting 
+goals it wished to achieve: addressing the critical need 
+to preserve the Library’s rare materials and making them 
+Contributions 
+to SDGs
+● Helping protect and enhance preservation of cultural and natural 
+heritage sites across the world
+● Enabling the provision of quality education
+● Developing social infrastructure that is convenient, safe and secure
+available to the public as important assets representing the 
+history of mankind so that people across the world could read 
+them. To solve this dilemma, the Vatican decided to digitize 
+the manuscripts and chose to adopt AMLAD® for the task.
+Kicking off in March 2014, the project involved us scanning 
+3,000 manuscripts one page at a time using a scanner 
+specially developed for this purpose. Digitized images of 
+the pages were then converted into formats suitable for 
+long-term storage and registered in DigiVatLib together with 
+their metadata. NTT DATA completed all of the planned 
+digitization processes in March 2018 and now carries out 
+maintenance work for DigiVatLib.
+Many libraries, museums and archives around the world 
+have recently taken an interest in this project at the Vatican 
+Library and have contacted us to inquire about the possibility 
+of creating their own digital archives with AMLAD®.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

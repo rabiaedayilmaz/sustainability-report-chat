@@ -1,0 +1,93 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Environment
+Regenerating Ecosystems
+Material Issues
+SDGs
+Automated Analysis Relating to Real Estate Net Zero Carbon (NZC) Strategies
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Carbon
+Neutrality
+DECARBUILD
+• The building sector, including both construction and operation of buildings, represents approximately 38% of global energy-related emissions. More than 70 countries and 700 cities have
+established net zero carbon emission targets, and this sector will play an important role in achieving these aims.
+• Decarbonization is expected to be increasingly relevant to future regulatory environments across the world. Holders of expansive and complex real estate portfolios need to manage vast
+amounts of data to ensure cost effectiveness and ongoing compliance with these shifting environmental requirements.
+When creating net zero carbon (NZC) strategies for real
+estate, operators start by establishing a clear picture of
+energy consumption in each building and for their portfolio
+as a whole, then formulate and execute energy efficiency
+measures (EEMs). During implementation, setting annual
+budgets linked to the carbon reductions achieved and
+monitoring adherence to decarbonization objectives are
+key issues. When owners or tenants are responsible for
+numerous buildings, the vast quantity of information being
+handled
+and
+the
+huge
+number
+of
+potential
+EEM
+combinations make joint strategies significantly more
+complex,
+creating
+challenges
+in
+terms
+of
+definition,
+execution and monitoring.
+Business need
+Solution
+Impact
+Up to 20%
+NTT DATA
+developed
+DECARBUILD
+as
+a tool
+for
+automating background analysis relating to real estate NZC
+strategies. All information relevant to EEMs identified
+during energy audits—including each building’s type, size,
+location and energy consumption—is integrated into a
+single, up-to-date, cloud accessible location. Using an
+approach based on Science Based Target initiative (SBTi)
+frameworks, decarbonization pathways are mapped out
+both for individual buildings and for the overall portfolio.
+Impact forecasts are then automatically calculated by
+comparing emission reductions to SBTi curves. Users can
+simulate and monitor the progress of their strategies to
+identify barriers to smooth implementation, then come up
+with and execute countermeasures. DECARBUILD also
+supports
+automatic
+selection
+of
+EEMs
+based
+on
+preconfigured
+scenarios
+and
+user
+priorities,
+such
+as
+reducing the time to reach net zero, cost efficiency or their
+fixed annual budget.
+Deployment of this tool is planned to expand beyond the
+building sector to other fields where NZC strategies are
+applicable,
+including
+data
+centers,
+industry
+and
+telecommunications.
+Energy audit time saved through use of standardized 
+list of EEMs and unique data repository

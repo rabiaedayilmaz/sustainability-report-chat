@@ -1,0 +1,123 @@
+5,000
+4,000
+3,000
+2,000
+1,000
+
+3,373
+4,693
+3,592
+3,254
+
+2,500
+2,000
+1,500
+1,000
+
+1,457
+
+2,076
+1,941
+
+Proper Management of Hazardous Materials
+NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan store manufactured goods containing waste polychlorinated biphenyl (PCB), which is designated as a specified toxic industrial waste material, and 
+dispose of materials, including waste acid from batteries. We properly manage and dispose of these specified 
+industrial waste materials in full compliance with the Waste Management and Public Cleansing Law and all other 
+relevant laws and regulations. Since fiscal 2013, we have been systematically disposing of PCB-containing waste 
+materials based on the Act on Special Measures concerning Promotion of Proper Treatment of PCB Wastes and 
+guidance from related ministries and agencies.
+Commencement of Battery Traceability to Achieve a Circular Economy
+The European Battery Regulation*1, which will become mandatory in 2025, requires the disclosure of CO2 emissions and resource recycling rates throughout the entire life cycle of batteries.
+ 
+NTT DATA has established a battery traceability platform that visualizes carbon footprint (CFP) information 
+across the supply chain, as well as recycling and reuse information. In May 2024, we launched a service that 
+enables companies to aggregate and share CFP information during battery manufacturing.
+ 
+Moving forward, we will promote the establishment of interoperability with overseas data spaces, global expansion, and initiatives related to a circular economy targeting rare minerals. By advancing the deployment of this 
+platform across various industries, we aim to drive Japan’s international competitiveness while contributing to the 
+Ministry of Economy, Trade and Industry’s initiative, the “Ouranos Ecosystem*2,” which seeks to build a cross-border 
+data collaboration framework across companies and industries, in support of achieving carbon neutrality and promoting green transformation (GX) across various sectors.
+*1 In the European Union, the European Battery Regulation, which governs the entire life cycle of battery products—from raw material sourcing to design, production 
+processes, reuse, and recycling—came into effect on August 17, 2023.
+https://eur-lex.europa.eu/eli/reg/2023/1542/oj
+*2 NTT DATA Group Corporation has been selected for a public recruitment project related to the “Ouranos Ecosystem,” an initiative led by the Ministry of Economy, Trade 
+and Industry aimed at building a cross-border data collaboration framework across companies and industries. Since October 2023, we have been developing and 
+demonstrating this initiative as part of the Digital Infrastructure Development Project for Industrial DX (JPNP22006), commissioned by the New Energy and Industrial 
+Technology Development Organization (NEDO). 
+https://www.nedo.go.jp/koubo/IT3_100282.html
+https://www.nttdata.com/global/ja/news/release/2023/101301/ 
+Promotion through Co-Creation with Clients
+We are using NTT DATA’s digital technologies to help create a circular economy for clients and society. To this end, 
+we deploy blockchain technology to build various mechanisms and AI and IoT technologies to achieve advances 
+in industrial waste treatment. We are also building a platform to manage the cycle, from collection to disposal of 
+waste, in compliance with laws and regulations while developing a prototype platform that can be interconnected 
+with “GAIA-X*,” an international data distribution platform used mainly in Europe.
+* “GAIA-X” is an initiative announced by the German and French governments in October 2019 aimed at supporting data exchange while safeguarding security and data sovereignty.
+Office Waste
+(Waste generated from offices and data centers)
+ Recycling amount 
+Note: The quantities for final disposal and amount reduced 
+are too minor to be displayed on the graph.
+ Recycling amount 
+ Final disposal amount
+FY
+FY
+Construction Waste
+(Waste generated from construction and demolition of the Company’s 
+own buildings)
+Flow of goods
+Flow of information
+Automobile
+Recycled material: 
+Black mass
+User
+Automobile
+Material
+Raw material
+OEM
+Smelter
+Mineral
+Mine
+Battery pack
+Cell
+Recycler
+Battery pack
+Second-hand 
+company
+Battery Traceability Platform
+Composition, 
+performance, and 
+utilization information
+Performance and 
+utilization information
+Performance 
+information
+Dismantling 
+method 
+Utilization 
+information
+Battery manufacturing information
+Battery pack
+Dismantler
+Launched in May 2024
+(t)
+(t)
+Image of the Battery Traceability Platform
+Material 
+manufacturer
+Battery pack 
+manufacturer
+Battery cell 
+manufacturer
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

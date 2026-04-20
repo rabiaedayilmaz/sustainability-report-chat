@@ -1,0 +1,147 @@
+Environmental Accounting
+Aiming to Conduct Efficient and Effective Environmental Preservation 
+Activities
+Ministry of the 
+Environment’s 
+Environmental 
+Accounting 
+Guideline Categories 
+Major Initiatives
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Fiscal 2018
+Business area costs
+
+Pollution 
+prevention costs
+Asbestos countermeasures, 
+PCB management, etc.
+
+Global 
+environment
+Implementation of energy 
+conservation measures; 
+measures to reduce CO2 
+emissions through the 
+introduction of outdoor-air 
+cooling devices; elimination 
+of specified CFCs in airconditioning equipment, etc.
+
+Resource 
+recycling costs
+Inter-office waste disposal, 
+construction waste 
+countermeasures, office paper 
+curtailment countermeasures, 
+etc.
+
+Upstream /
+Downstream costs
+Compliance with the Act 
+on the Promotion of Sorted 
+Collection and Recycling of 
+Containers and Packaging
+
+Activity 
+management costs
+Labor costs related to 
+environmental protection 
+activities, ISO certification 
+acquisition, building greening, 
+environmental PR, etc.
+
+R&D costs
+Environment-related R&D
+
+Citizen activity 
+costs
+Environmental contribution to 
+regional communities
+
+Total
+
+Addressing Climate Change
+TCFD recommendations
+Page(s) on which the information 
+is disclosed
+[Governance] Disclose the organization’s governance around climate-related risks and opportunities.
+a) Describe the board’s oversight of climate-related risks and opportunities.
+P74 Climate Change Strategy
+b) Describe management’s role in assessing and managing climate-related risks and 
+opportunities.
+P74 Climate Change Strategy
+[Strategy] Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s 
+businesses, strategy, and financial planning where such information is material.
+a) Describe the climate-related risks and opportunities the organization has identified 
+over the short, medium, and long term.
+P75-79 Risks and Opportunities
+b) Describe the impact of climate-related risks and opportunities on the organization’s 
+businesses, strategy, and financial planning.
+P75-79 Risks and Opportunities
+c) Describe the resilience of the organization’s strategy, taking into consideration 
+different climate-related scenarios, including a 2°C or lower scenario.
+　―
+[Risk management] Disclose how the organization identifies, assesses, and manages climate-related risks.
+a) Describe the organization’s processes for identifying and assessing climate-related 
+risks.
+P75-79 Risks and Opportunities
+b) Describe the organization’s processes for managing climate-related risks.
+P75-79 Risks and Opportunities
+c) Describe how processes for identifying, assessing, and managing climate-related risks 
+are integrated into the organization’s overall risk management.
+P74 Prioritization of Risks
+[Metrics and targets] Disclose the metrics and targets used to assess and manage relevant climate-related risks and 
+opportunities where such information is material.
+a) Disclose the metrics used by the organization to assess climate-related risks and 
+opportunities in line with its strategy and risk management process.
+P74 Prioritization of Risks
+b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) 
+emissions, and the related risks.
+P80 Managing Greenhouse Gas 
+Emissions across the Supply Chain
+c) Describe the targets used by the organization to manage climate-related risks and 
+opportunities and performance against targets.
+P71 Fiscal 2018 Target Attainment 
+Status
+* Prepared by the Company based on the Recommendations of Task Force on Climate-related Financial Disclosures 
+(Final Report), 2017, page 14.
+▶ Environmental Accounting Conservation Cost
+(Scope of data: All organizations of NTT DATA and 68 Group companies (Japan only)) Unit: millions of yen
+In fiscal 2018, Group environmental cost comprised ¥42 million in investments and ¥351 million 
+in expenses.
+The business area costs for resource recycling (investments) increased compared with fiscal 
+2017 as a result of promotion of paperless initiatives such as the introduction of electronic 
+conference systems.
+Investment
+Expenses
+Investment
+Expenses
+Investment
+Expenses
+Investment
+Expenses
+The rising concentration of greenhouse gases and other factors are impacting the climate in ways 
+that have led to the increased severity and frequency of natural disasters such as typhoons and 
+floods while also significantly impacting everyday life across society and industry. In December 
+2015, the Paris Agreement, which serves as a new international framework for global warming 
+countermeasures beyond 2020, was adopted at the 2015 United Nations Climate Change 
+Conference (COP21). Addressing climate change was also included in the United Nations SDGs 
+adopted in September 2015. As illustrated by these developments, response to climate change 
+in terms of mitigation and adaptation has gained even greater significance as a common global 
+concern. The NTT DATA Group is pursuing strategic initiatives through its business with the 
+intention of offering a more effective response to climate change.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

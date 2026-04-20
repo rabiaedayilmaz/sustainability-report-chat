@@ -1,0 +1,140 @@
+Maintaining quality and ensuring stable operation of 
+information systems requires process management, 
+spanning upstream and downstream processes, and 
+continuous improvements based on a PDCA cycle.
+NTT DATA became ISO 9001 certiﬁ ed in 1998. Since 
+then, we have pursued process improvements incorporating 
+CMMI*1, system development transparency, formulation of 
+development and operational standards, and other activities. 
+During ﬁ scal 2010, two organizations achieved CMMI 
+Maturity Level 4 and 5, respectively. We are striving to extend 
+levels 4 and 5, which are achieved by comparatively few 
+companies worldwide, to other Group organizations in a bid 
+to boost companywide maturity. 
+Since ﬁ scal 2008, NTT DATA has created uniﬁ ed companywide 
+rules and clariﬁ ed procedures for their application with the 
+objective of boosting quality and productivity. In March 2010, we 
+formulated an implementation method, which we have deployed 
+companywide, reﬂ ecting uniﬁ ed rules for development and 
+management procedures. Further, we have expanded 
+TERASOLUNA*2 development procedures to NTT DATA Group 
+companies and held explanatory brieﬁ ngs on 18 occasions. 
+Future endeavors will include the formulation and 
+expansion of management procedures and the 
+improvement and dissemination of educational contents.
+ 
+Project
+Project Planning
+Improvements
+Project
+Operation
+Procedures
+Improvements
+Operating
+Procedures for
+Business Sectors
+Improvements
+Rules, Detailed
+Rules and 
+Implementation
+Methods
+Review
+Products
+(Systems,
+Services)
+Executive Management of
+Business Sectors
+Top Management
+Quality Management 
+Representative
+Instructions
+Deployment
+Report
+Analysis 
+and 
+Evaluation
+Performance 
+Monitoring
+Deployment
+Deployment
+NTT
+DATA
+Quality
+Policy
+Improvement
+Objectives
+Customers
+Requirements
+Customer Satisfaction
+Customers
+*1 CMMI: Capability Maturity Model Integration (CMMI) is a set of best 
+practices of system development formulated by the Software Engineering 
+Institute, Carnegie Mellon University, incorporating system development 
+best practices. The CMMI model indicates process improvement steps to 
+enable organizations gradually to optimize their development and 
+management processes for their business environment.
+We promote system failure countermeasures from two 
+perspectives: prevention and response.
+Prevention involves promotion of in-house deployment 
+and application of various product groups with veriﬁ ed 
+performance, availability and other features required for 
+system construction and of procedures, tools and other 
+technologies. Moreover, we support project management 
+through in-house specialized organizations and control and 
+systematic conﬁ rmation and decision-making by project 
+managers. As the situation demands, we are also extending 
+information relating to failure by hardware products 
+produced externally and in-house and corruption of 
+software products and bugs and procedures to deal with 
+them within NTT DATA and to Group companies. 
+Each sector has established an emergency contact 
+system and formulated response procedures. Furthermore, 
+we immediately analyze the cause of any failure and 
+publicize in-house measures to prevent recurrence. We 
+reﬂ ect such ﬁ ndings in our provisions for system 
+construction and operation maintenance processes. The 
+Company also conducts periodic internal audits to conﬁ rm 
+the thoroughness of countermeasures.
+Non-functional requirements*3 are highly technical, diﬃ cult 
+to realize and hard for customers to understand. But without 
+shared awareness with customers, development projects 
+can require reworking and suﬀ er from time overruns, and 
+running systems can face operational diﬃ culties. 
+Accordingly, NTT DATA; FUJITSU LIMITED; NEC Corporation; 
+Hitachi, Ltd.; Mitsubishi Electric Information Systems 
+Corporation; and Oki Electric Industry Co., Ltd., launched the 
+Non-functional Requirement Grade Investigative Committee 
+in April 2008. This body ultimately compiled a Nonfunctional Requirement Grade, which after gaining external 
+assessment for eﬀ ectiveness was publicly posted online in 
+February 2010.
+Furthermore, the Non-functional Requirement Grade 
+Investigative Committee received the Good Design Award 
+2009 as a mark of acclaim for the new requirement deﬁ nition 
+method for system development to resolve communications 
+issues between customers and parties receiving the 
+outsourcing orders.
+NTT DATA Quality Management System
+*2 TERASOLUNA: A solution that incorporates NTT DATA’s technologies for 
+project management, development processes, frameworks, etc., 
+accumulated from its numerous system development projects.
+Collaboration with Companies Industrywide
+*3 Non-functional requirements: These requirements specify criteria to 
+judge the operation of systems, such as data volume, response time and 
+processing capacity, plus hardware failure, disaster countermeasures and 
+other durability factors.
+Disaster and System Failure Countermeasures
+Activities to Improve Quality
+Building a management system based on ISO 9001 
+and ensuring continuous improvements
+System failure countermeasures focused on 
+prevention and response
+Establishment of a Non-functional Requirement 
+Grade to visualize customer requirements
+Uniﬁ cation of internal rules for development and 
+management and clariﬁ cation of implementation 
+procedures
+NTT DATA CSR Report 2010 21
+NTT DATA and Its Stakeholders
+NTT DATA and the Environment
+CSR Infrastructure
+NTT DATA and Its Stakeholders

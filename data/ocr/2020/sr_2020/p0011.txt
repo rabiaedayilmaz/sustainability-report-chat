@@ -1,0 +1,91 @@
+Sustainability Management 
+
+NTT DATA Sustainability Report 2020 Data Book
+12 Material ESG Issues and KPIs 
+In fiscal 2019, the NTT DATA Group decided on 12 new material ESG issues after discussions at a meeting of the Board of 
+Directors. In fiscal 2020, we have set targets (KPIs) for the 12 material ESG issues with the aim of ensuring that each and every 
+employee engages in business and corporate activities with an awareness of ESG management and the need to achieve the 
+SDGs. By using these targets as management evaluation indicators for each organization, we aim to further promote ESG 
+management. 
+Category 
+Material ESG Issue 
+Main KPIs (FY2020) 
+Business 
+(innovation) 
+■① Offer social infrastructure and
+business category–specific solutions 
+based on advanced technologies 
+・Number of new and wide-ranging businesses created to
+address social issues
+・Number of orders received for solution proposals to
+resolve social issues, value of such orders received and
+number of service starts
+■② Build and ensure stable
+management/operation of IT 
+infrastructure 
+・Number of improvements in operational and maintenance
+processes
+・System utilization rate
+Human resources 
+■③ Secure and develop IT human
+resources 
+・Number of digital personnel, number of experienced
+employees, improvements in personnel system
+・Career interview implementation rate
+・Number of digital training sessions (related to advanced
+technologies)
+・Self-innovation time uptake hours
+■④ Promote diversity and inclusion
+・Number of measures taken to ensure the advancement of
+diverse human resources
+・Increase in the number of female executives and
+managers
+・Improvement in our One Voice (employee engagement
+survey) score
+■⑤ Promote workstyle innovation
+・Number of proposals and orders for customers’ workstyle
+innovation
+・Number of workstyle innovation measures and
+organizational improvement measures taken
+・Digital Work Place utilization rate
+Security 
+■⑥ Ensure information security
+・Number of orders received for projects that enhance
+customer security
+・Number of secure public clouds provided
+・Number of measures taken to strengthen internal security
+levels
+■⑦ Protect data privacy
+Environment 
+■⑧ Respond to climate change
+・Number of orders received to address customers’
+environmental issues
+・Reduction of greenhouse gas emissions based on SBT1
+and TCFD2 initiatives
+Community 
+■⑨ Promote IT education
+・Number of contribution activities resulting from the
+provision of IT education opportunities in local
+communities
+・Creation of IT opportunities in primary education through
+NTT DATA Academia (total number of participants and
+number of forums held)
+Disaster risk 
+■⑩ Respond to disaster risks
+・Number of orders received for BCP-related solutions
+・Improvement of the BCP plan for disaster risk
+Compliance 
+■⑪ Ensure compliance
+・Implementation of measures to strengthen global
+compliance
+Supply chain 
+■⑫ Promote a responsible supply chain
+・Increase in coverage of suppliers who provide a written
+ledge to comply with the NTT DATA Guidelines for CSR in
+the Supply Chain.
+Common to (1)–(12) 
+・Penetration rate of social contribution policies among
+employees
+1. Science-based targets (SBT): Science-based greenhouse gas emission reduction targets in accordance with the Paris Agreement.
+2. Task Force on Climate-related Financial Disclosures (TCFD): This privately led task force focuses on securing the disclosure of climaterelated financial information and was established under the Financial Stability Board at the request of the G20’s ministers of finance
+and central bank governors.

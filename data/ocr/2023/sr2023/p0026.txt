@@ -1,0 +1,28 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Toward Achieving Sustainable IT 
+ 
+To reduce environmental impact in a society where digitalization is accelerating, NTT DATA has been intensifying efforts to 
+reduce GHG emissions across various IT systems, including data centers, hardware such as IT equipment, and software. 
+Specifically, we analyze the current state of GHG emissions, identify areas where reductions are possible, define priority areas 
+for action based on the analysis, and then execute GHG emission-reduction initiatives accordingly. NTT DATA, through our own 
+initiatives, aims to reduce environmental impact across our clients and the broader IT landscape within society. 
+ 
+ Green Data Centers® 
+With the advancement of digitalization, the rapid growth in demand for data processing, storage, and communication services 
+provided by data centers has resulted in an increase in GHG emissions, in tandem with energy consumption. In October 2022, 
+we integrated NTT Ltd., which provides data center solutions with a broad presence in Europe, North America, India, and the 
+APAC region. This integration allows us to establish a structure to address the digital demands of our clients and society. In 
+addition, NTT DATA is committed to pursuing sustainability in data centers through energy efficiency, energy conservation, and 
+the adoption of renewable energy, as part of our efforts to reduce environmental impact. 
+ 
+GHG Reduction Targets for Data Centers 
+As part of our transition plan toward achieving NET-ZERO Vision 2040, we are actively working on reducing GHG emissions 
+from data centers. We are actively promoting efforts to reduce electricity consumption and enhance energy efficiency in our data 
+centers, which account for approximately 70% of our total electricity usage. Our goal is to achieve 100% utilization of renewable 
+energy in all data centers in 2030, and thus we plan to increase our utilization ratio of renewable energy. 
+By offering data centers powered by renewable energy for our clients, we aim to contribute to the reduction of GHG 
+emissions for our clients and society as a whole. 
+ 
+ Renewable Energy Implementation Process for Data Centers

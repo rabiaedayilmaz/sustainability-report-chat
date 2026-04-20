@@ -1,0 +1,66 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+In pursuit of decarbonization, companies are urged to
+calculate and disclose not only their own GHG emissions
+(Scope 1 and 21) but also those from other companies
+related to their activities (Scope 3). However, calculating
+Scope 3 emissions poses challenges due to methods
+hindering visualization of companies' reduction efforts,
+alongside the costs and operational requirements of data
+collection.
+At NTT DATA, we have developed and offer the GHG
+visualization platform, C-Turtle®, which utilizes primary
+data (actual measurement data), including CDP2 data,
+to achieve calculation based on the Company-wide
+Emission
+Allocation
+Method,
+aiming
+to
+promote
+emission reduction throughout the entire supply chain.
+We also established a system for providing free access
+to SMEs—a significant portion of the supply chain—
+supporting activities to improve emission visualization
+accuracy and foster reduction efforts in society.
+In addition
+to deployments
+in manufacturing and
+distribution, we have been expanding our reach in the
+financial sector since July 2023.
+In February 2024, we began implementation in the NTT
+Group, and we plan to gradually expand collaboration
+with suppliers on reduction efforts to around 1,000
+companies by fiscal 2027.
+Emission reduction rate achieved 
+through C-Turtle® implementation
+Sharing Emission Reduction Efforts in
+the Supply Chain Toward Decarbonization
+Click here for 
+reference article
+· When greenhouse gas (GHG) emissions increase excessively, global warming progresses, leading to rising sea levels, 
+abnormal weather patterns such as heavy rainfall and droughts, ecosystem collapse, and consequent threats to people's 
+livelihoods due to water and food shortages.
+70%
+Notes:
+1. Scope 1: Direct emissions from sources such 
+as the use of fuel 
+Scope 2: Indirect emissions from the use of 
+purchased electricity and heat 
+Scope 3: Other indirect emissions throughout 
+the supply chain (excluding Scope 1 and 2) 
+2. CDP is an international NGO operating a 
+global information disclosure system for 
+greenhouse gases.
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+C-Turtle®
+Conceptual diagram of C-Turtle® 
+Click here for 
+reference article

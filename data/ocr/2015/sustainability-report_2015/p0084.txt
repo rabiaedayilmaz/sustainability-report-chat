@@ -1,0 +1,55 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+SPECIFIC STANDARD DISCLOSURES
+G4-SO11
+Number of grievances about impacts on society filed, addressed, and resolved through formal 
+grievance mechanisms
+P62
+Product Responsibility
+Customer Health and Safety
+G4-PR1
+Percentage of significant product and service categories for which health and safety impacts are 
+assessed for improvement
+P19-20
+G4-PR2
+Total number of incidents of non-compliance with regulations and voluntary codes concerning the 
+health and safety impacts of products and services during their life cycle, by type of outcomes
+－
+Product and Service Labeling
+G4-PR3
+Type of product and service information required by the organization’s procedures for product 
+and service information and labeling, and percentage of significant product and service 
+categories subject to such information requirements
+－
+G4-PR4
+Total number of incidents of non-compliance with regulations and voluntary codes concerning 
+product and service information and labeling, by type of outcomes
+－
+G4-PR5
+Results of surveys measuring customer satisfaction
+P21
+Marketing Communications
+G4-PR6
+Sale of banned or disputed products
+－
+G4-PR7
+Total number of incidents of non-compliance with regulations and voluntary codes concerning 
+marketing communications, including advertising, promotion, and sponsorship, by type of outcomes
+－
+Customer Privacy
+G4-PR8
+Total number of substantiated complaints regarding breaches of customer privacy and losses of 
+customer data
+－
+Compliance
+G4-PR9
+Monetary value of significant fines for non-compliance with laws and regulations concerning the 
+provision and use of products and services
+－
+
+Sustainability Report 2015
+NTT DATA

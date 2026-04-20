@@ -1,0 +1,48 @@
+■ NTT DATA Technology Foresight Formulation Process
+NTT DATA Group specialists 
+around the world
+NTT R&D laboratories
+External specialists
+Public information surveys
+NTT DATA Technology Foresight
+Information 
+society trends
+Technology 
+trends
+Social issues
+Business issues
+Focus Field 1—Software Engineering
+Focus Field 2—Advanced Technology
+Focus Field 3—IT Base Technology
+NTT DATA aims to utilize the automated software development tool TERASOLUNA*1 for all projects to which it can be applied. 
+As such, we have doubled the number of specialist support organizations tasked with furthering its penetration. TERASOLUNA 
+Reengineering, which automates the specification analysis of existing systems, has already been applied to approximately 30 projects. 
+In addition, usage of the TERASOLUNA ViSC v1.6 automated development tool has been extended to over 80 different projects.
+Furthermore, TERASOLUNA Suite, which links the various TERASOLUNA automated tools, has been employed in over 200 
+projects, leading to the realization of high-quality, rapid system development.
+We have realized practical application of translation services for technical documents utilizing the automatic translation engine 
+platform for building statistical machine translation systems among multiple languages developed by NTT. Furthermore, in 
+cooperation with social welfare service corporation Tokyo Seishinkai and general incorporated association Universal Accessibility 
+Evaluation Organization, we have begun verification testing of nursing care services utilizing communication robots, which perform 
+communication using ICT systems to provide various services, for senior assisted living centers.
+In order to accelerate the use of open-source software (OSS), we are taking a leadership role in advancing the activities of the OSS 
+development community. As one facet of these efforts, we conducted in-house development of functions for use in mission critical 
+system functions and reflected these in OSS source code. This was done with the aim of responding to the needs of corporations 
+to handle large quantities of data. Moreover, we produced the first Japanese committers (main developers) in projects related to the 
+Apache Hadoop OSS framework.
+Furthermore, leveraging the accumulated know-how concerning the application of OSS, the Company has further built upon its 
+track record of incorporating OSS databases into large-scale systems. In addition, we presented past examples of the utilization of 
+PostgreSQL database in large-scale systems at PostgreSQL Conference Europe 2014.
+In addition, we hold lectures and exhibitions related to NTT DATA Technology Foresight as part of our efforts to formulate and 
+utilize a near-future outlook for information society trends and IT-related technology trends. In the fiscal year ended March 31, 2015, 
+these activities were conducted at ITpro Expo and other domestic events as well as at international events, such as The Open golf 
+*1 TERASOLUNA is currently offered only in Japan.
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

@@ -1,0 +1,56 @@
+Basic Policy
+Heatwaves, floods, and forest disasters are just a few examples of the 
+various impacts that recent climate change has had on human life, making 
+the response to climate change an urgent and critical social issue. 
+Addressing climate change requires reducing greenhouse gas emissions, 
+which necessitates a transformation in economic activities. It is essential 
+to take action not only at the individual company level but also throughout the supply chain and across society as a whole to achieve this change. 
+NTT DATA is pursuing the reduction of GHG emissions not only through 
+our own activities but also across the entire supply chain and broader 
+society through “Green Innovation,” harnessing the power of digital technology. In addition, we will contribute to the realization of a decarbonized 
+society by promoting the green transformation of the data centers, IT 
+equipment, and software that are integral to the digital society.
+Carbon Neutrality
+Contribute to solving climate change issues by creating innovations to decarbonize society and our clients’ operations
+NTT DATA NET-ZERO Vision 2040 —Formulation of a vision for net-zero GHG emissions by 2040—
+Amid the rising global demand for accelerated initiatives toward achieving Net-Zero emissions and given the expanded scope of operations resulting from the business combination with NTT Ltd., NTT DATA has revised its goal for achieving Net-Zero greenhouse gas emissions. In fiscal 2023, 
+our new target for Net-Zero emissions, as described in SBTi,* has been moved forward from 2050 to 2040, and this target was incorporated into 
+our newly formulated NTT DATA NET-ZERO Vision 2040. Based on this new vision, NTT DATA will continue efforts to reduce its Scope 1, 2, and 3 greenhouse gas emissions. These targets are now incorporated into the newly formulated NTT DATA NET-ZERO Vision 2040, for which we obtained SBT 
+certification in March 2024.
+ 
+NTT DATA aims to achieve net zero for direct and indirect emissions from its own operations (Scope 1 and 2) for data centers by 2030, the entire 
+company including offices and other facilities by 2035, and its entire supply chain (Scope 3) by 2040.
+* The Science Based Targets initiative (SBTi) is a global initiative that supports and certifies organizations in setting science-based targets aimed at limiting the rise in the world’s average temperature to below 1.5 degrees 
+Celsius compared to pre-industrial levels.
+NTT DATA NET-ZERO Vision 2040
+Scope 1 & 2
+Scope 3
+Data centers
+Scope 1 & 2  Net-Zero
+Offices 
+Scope 1 & 2  Net-Zero
+Supply chain
+Scope 1–3  Net-Zero
+
+Compared to FY2021:
+100% reduction
+100% reduction
+
+Compared to FY2021:
+100% reduction
+2030 Targets
+Compared to FY2021:
+68% reduction
+42% reduction
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

@@ -1,0 +1,40 @@
+In fiscal 2016, employees at NTT DATA were appointed members of the Project Management Committee of Apache Hadoop, 
+an open-source software for high-speed parallel distributed computing of large-scale data, and the similar open-source 
+software, Apache Spark. This was a first for a Japanese company. As the main developers, our employees are also responsible 
+for community management. NTT DATA is ranked fourth in the world, as of March 31, 2016, in terms of its contribution to the 
+Hadoop community and actively provides feedback to the open-source community from the experiences gained in cluster 
+operations. We have applied the results of these activities to launch an Apache Spark construction and management 
+solution service.
+In our initiative to enable communication robots to engage in customer service-related operations, we developed a cloud 
+robotics platform. This coordinates with a sensor device that automatically detects approaching customers and incorporates 
+speech-based communication technology as a mechanism for using the cloud to provide functions required by robots 
+such as speech recognition and speech synthesis. We used the platform to conduct a verification test involving robots 
+taking questionnaires from visitors to the National Museum of Emerging Science and Innovation. We also conducted a joint 
+verification test with RESONA Bank, Ltd. on customer support at its strategic Toyosu Branch (Seven Days Plaza Toyosu). 
+Through these activities we intend to accumulate know-how on using communication robots. We also plant to widen their 
+capabilities for assisting customer service-related operations such as customer guidance and product information, with the 
+goal of commercializing the service by the end of fiscal 2017.
+R&D expenditures for fiscal 2016, including these projects, was ¥12,410 million.
+ Example of Major Initiatives
+ Example of Major Initiatives
+Focus Field 3—Advanced Technology
+We strive to continuously propose and provide systems that appeal to clients, and an important factor in doing that is to focus 
+on developing cutting-edge technologies that meet society’s future needs by following the trend information presented by the 
+NTT DATA Technology Foresight. In fiscal 2016, we decided to strengthen our initiatives in artificial intelligence (AI), including 
+communication robots, an area that is growing in both significance and as a focus of attention among technology trends, by 
+setting up a unit dedicated to AI.
+Information from the NTT DATA Technology Foresight is available through lectures conducted outside the Company, private 
+seminars and by other means.
+Through these activities we seek to promote NTT DATA’s technology and innovation, enhance our brand and deepen client 
+loyalty. In fiscal 2016, we observed significant activity in our “Co-Creation Workshops” aimed at using the information 
+to generate new business ideas in collaboration with our clients, and this has led to orders for new projects.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

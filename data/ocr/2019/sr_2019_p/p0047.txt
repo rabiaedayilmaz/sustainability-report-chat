@@ -1,0 +1,82 @@
+The NTT DATA Group harnesses the expertise it has gathered from its ample experience and track 
+record to propose optimal solutions that reflect changes in the clients’ business structure.
+For example, we offer global security governance frameworks as well as offer superior security 
+technology required for systems where safe operation is of paramount importance and the latest 
+security methods for safe IoT environments.
+It has recently become important to prepare against contingencies on the assumption that 
+protective security measures may be bypassed altogether by sophisticated targeted attacks or 
+information leaks caused by internal misconduct. To contain and localize the damage, we must 
+provide reliable detection of an attack and swift response and recovery. We help to reinforce 
+the security measures of our clients by offering security consulting to identify the risks and 
+providing solutions and services for neutralizing and protecting against risks. Furthermore, we 
+provide enhanced support services for detection, response, and recovery by constructing systems, 
+including UEBA*¹, EDR*², sandboxes*³, SIEM*⁴, SOC*⁵, and CSIRT*⁶, as well as monitoring system 
+management.
+Ensuring Safe and Secure Environments with Total Security Management
+Initiatives for Improving Client Satisfaction
+*1: User and Entity Behavior Analytics: Solution for learning behaviors of people and objects at normal times by 
+machine learning and issuing alerts when abnormal behaviors are detected.
+*2: Endpoint Detection and Response: Solution to keep an eye on the endpoints, such as PCs and servers, and enable 
+integrated management of incident detection and subsequent response processes.
+*3: Solution for detecting malware by running programs within a protected virtual environment.
+*4: Security Information and Event Management: Solution for detecting, analyzing, and visualizing traces or signs of 
+unauthorized access that are difficult to find by security equipment alone.
+*5: Security Operation Center IDS/IPS: A center or an organization for comprehensive monitoring and management of 
+firewalls, DB firewalls, WAFs, etc.
+*6: Computer Security Incident Response Team: An incident response team of computer security specialists. The 
+team collects and analyzes information on security incidents, security-related technologies, and vulnerabilities, and 
+conducts activities including implementing effective countermeasures and training.
+Initiatives that involve listening to what clients have to say and targeting improvements in their 
+levels of satisfaction are an important issue when considering contributions toward addressing 
+societal issues through business operations. In line with its Clients First approach, the NTT DATA 
+Group strives to improve client satisfaction as a means of contributing to their success.
+▶︎ NTT DATA’s Actual Position for Customers
+Intention of maintaining current 
+relationship or selecting as 
+primary candidate
+18%
+Customer responses
+
+client companies 
+and organizations
+（427 people）
+No intention of maintaining 
+current relationship and 
+selecting as primary candidate
+2%
+Intention of maintaining 
+current relationship and 
+selecting as primary candidate
+80%
+Promoting Improvement through Interviews and Questionnaires
+In accordance with its belief that a client-oriented approach lies at the root of sustainable 
+corporate growth, NTT DATA conducts oral and written surveys of its regular clients every year. 
+The aim of this self-monitoring exercise is to enable us to deliver improved services from a client 
+standpoint.
+In fiscal 2018, we conducted interviews with and listened to the opinions and requests of 
+people from 57 client companies and organizations, obtaining information regarding their opinions 
+and requests. We also gained feedback through questionnaires received from 427 people in 183 
+client companies and organizations. The first questions in this survey are about the relationship 
+with the Company, asking whether respondents intend to continue the relationship going forward 
+and whether they would like to be the first choice for consultation. In response, 80% of clients 
+responded “I would like to continue the relationship going forward” and “I would like to be the 
+first choice for consultation.” Based on interviews and survey results, the entire Company will 
+engage in improvement activities, the analysis of results, identification of issues, formulation of 
+improvement action plans, and the implementation of action plans.
+In the years to come, we will continue to systematically engage in these efforts with the 
+intention of further improving the level of customer satisfaction.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Social
+Social
+NTT DATA Sustainability Report 2019

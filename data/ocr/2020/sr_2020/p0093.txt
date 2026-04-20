@@ -1,0 +1,46 @@
+Social 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ AI Guidelines 
+The NTT DATA Group’s AI Guidelines, which summarize the Group’s approach, were established to mitigate discrimination and 
+accidents caused by AI and utilize AI for social development. Based on the guidelines, we promote the development of AI 
+technology and the application of the technology to business. 
+ 
+Outline of the Group’s AI Guidelines 
+1. Realize a sustainable and happy society 
+2. Use co-creation to deliver new AI values 
+3. Emphasize fair, reliable and explainable AI 
+4. Ensure safe and secure data distribution 
+5. Contribute to the sound dissemination of AI 
+ 
+https://www.nttdata.com/jp/ja/news/release/2019/052900/ (Japanese version only) 
+ 
+ Global Open Innovation 
+The growing prevalence of the Internet and various other technologies and falling prices of services have increased the number 
+of cutting-edge venture companies across the world. NTT DATA promotes open innovation, working with venture companies that 
+possess advanced business models and technologies, as well as large client companies, to accelerate the creation of innovative 
+businesses while building win-win relationships with them. We have built a community of more than 4,000 people that takes part 
+in regular monthly meetings and global open innovation contests. Through these forums, our business divisions engage in 
+innovative creation of next-generation social infrastructure in collaboration with venture companies and large client companies. 
+Since launching this activity in 2013, we have collaborated with venture companies in FinTech, energy, digital marketing, 
+healthcare and various other fields, resulting in the commercialization of more than 20 businesses to date. 
+We have held global contests since fiscal 2016. The contests help foster cross-border alliances among venture companies 
+working to resolve numerous issues in various countries, our clients in different countries and the business divisions of the NTT 
+DATA Group, which has a global network. We also foster the creation of new businesses through true open innovation and help 
+improve the overall strength of the NTT DATA Group worldwide. In fiscal 2018, we launched the SDGs Startup Program with the 
+aim of resolving issues facing society through open innovation and helping achieve the 17 SDGs set forth by the United Nations. 
+ 
+https://oi.nttdata.com/en/ (English) 
+ 
+Fiscal 2019 Activities 
+NTT DATA Open Innovation Contest 
+In fiscal 2019, we held the 10th Open Innovation Business Contest in 16 cities around the world. The winner of the contest was 
+Binah.ai, a developer of non-contact vital data acquisition technologies. After the contest, we set up collaborative study teams 
+with each winning company to carry out proof-of-concept (PoC) activities for commercialization. We also collaborate with various 
+Open Innovation Business Contest participants, including the 2018 contest winner (Cloudpick) and cashier-less digital stores. 
+ 
+https://oi.nttdata.com/en/contest/10th/grand_finale 
+ 
+https://www.nttdata.com/jp/ja/news/services_info/2020/080300/ (Japanese version only) 
+ 
+https://www.nttdata.com/jp/ja/news/release/2019/090200/ (Japanese version only)

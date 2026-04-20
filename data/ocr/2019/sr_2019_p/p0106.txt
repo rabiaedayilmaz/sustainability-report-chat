@@ -1,0 +1,166 @@
+200: Economic
+Pages
+201: Economic Performance
+201-1
+Direct economic value generated and distributed
+P47-48, 51-54, 62, 102
+201-2
+Financial implications and other risks and opportunities due to climate change 
+P73-79
+201-3
+Defined benefit plan obligations and other retirement plans 
+P51-52
+201-4
+Financial assistance received from government
+P4
+202: Market Presence
+202-1
+Ratios of standard entry level wage by gender compared to local minimum wage
+P52
+202-2
+Proportion of senior management hired from the local community
+203: Indirect Economic Impacts
+203-1
+Infrastructure investments and services supported
+P21-38, 40-46, 62-65
+203-2
+Significant indirect economic impacts
+P21-38
+204: Procurement Practices
+204-1
+Proportion of spending on local suppliers
+P49-50
+205: Anti-Corruption
+205-1
+Operations assessed for risks related to corruption 
+205-2
+Communication and training about anti-corruption policies and procedures
+P91-93
+205-3
+Confirmed incidents of corruption and actions taken
+P91-92
+206: Anti-Competitive Behavior
+206-1
+Legal actions for anti-competitive behavior, anti-trust, and monopoly practices
+P91-92
+300: Environmental
+301: Materials
+301-1
+Materials used by weight or volume
+Not applicable
+301-2
+Recycled input materials used
+Not applicable
+▶Topic-Specific Standard (200: Economic 300: Environmental 400: Social)
+301-3
+Reclaimed products and their packaging materials
+Not applicable
+302: Energy
+302-1
+Energy consumption within the organization
+P72, 80, 84
+302-2
+Energy consumption outside of the organization
+302-3
+Energy intensity
+302-4
+Reduction of energy consumption
+P72, 84
+302-5
+Reductions in energy requirements of products and services
+P72
+303: Water 2018
+303-1
+Interactions with water as a shared resource
+303-2
+Management of water discharge-related impacts
+303-3
+Water withdrawal
+P84
+303-4
+Water discharge
+P72
+303-5
+Water consumption
+P72, 84
+304: Biodiversity
+304-1
+Operational sites owned, leased, managed in, or adjacent to, protected areas 
+and areas of high biodiversity value outside protected areas
+304-2
+Significant impacts of activities, products, and services on biodiversity
+304-3
+Habitats protected or restored 
+304-4
+IUCN Red List species and national conservation list species with habitats in 
+areas affected by operations
+305: Emissions
+305-1
+Direct (Scope 1) GHG emissions
+P72, 80, 84
+305-2
+Energy indirect (Scope 2) GHG emissions 
+P72, 80, 84
+305-3
+Other indirect (Scope 3) GHG emissions 
+P72, 80
+305-4
+GHG emissions intensity 
+305-5
+Reduction of GHG emissions 
+P72, 80, 84
+305-6
+Emissions of ozone-depleting substances 
+305-7
+Nitrogen oxides (NOx), sulfur oxides (SOx), and other significant air emissions
+306: Effluents and Waste
+306-1
+Water discharge by quality and destination 
+306-2
+Waste by type and disposal method 
+P72, 83-85
+306-3
+Significant spills 
+306-4
+Transport of hazardous waste 
+306-5
+Water bodies affected by water discharges and/or runoff
+307: Environmental Compliance
+307-1
+Non-compliance with environmental laws and regulations
+P70
+102-54
+Claims of reporting in accordance with the GRI Standards 
+102-55
+GRI content index 
+P104-106
+102-56
+External assurance
+P80
+103: Management Approach
+103-1
+Explanation of the material topic and its Boundary
+P12-18
+103-2
+The management approach and its components
+P12-18, 39-40, 48, 50, 
+52, 63, 67-68, 86-88, 91, 
+93, 95, 97, 101-103
+103-3
+Evaluation of the management approach
+P14-18, 40, 68-69, 
+87-91, 95-101
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+GRI Standards
+NTT DATA Sustainability Report 2019

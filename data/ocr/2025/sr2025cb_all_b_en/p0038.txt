@@ -1,0 +1,99 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+An integrated disaster information system delivering real-time information sharing to 
+enhance regional disaster resilience and keep residents safe
+NTTDATA Kansai
+Second Public Sector
+EYE-BOUSAI Integrated Disaster 
+Prevention System
+(in Japanese only)
+Business need
+Solution
+•
+Regions across Japan have been struck by severe natural disasters, including heavy rain and typhoons. Forecasts also indicate a high probability of a megaquake in the Nankai Trough within the next 30 years.
+•
+Local governments are streamlining their workforces, increasing the need for self-support and mutual assistance among residents. However, aging populations and weakening local ties are aggravating support
+shortages in the event of natural disasters.
+During natural disasters, local governments, fire services,
+police, defense forces and other related bodies collect and
+share
+information
+separately,
+often
+meaning
+delayed,
+fragmented delivery of information to residents and news
+organizations. Local governments with limited workforces can
+also be slow to issue evacuation orders, share information
+about relief and distribute supplies. Disaster responses are a
+race against time, necessitating systems to unify information
+from relevant bodies, frontlines and disaster prevention centers,
+then distribute it quickly and efficiently, even with limited staff.
+Digital technology is needed to collect, share and distribute
+information in centralized manner in order to reduce casualties
+and enable appropriate decision making.
+EYE-BOUSAI is an integrated disaster prevention system that
+collates and analyzes diverse information in real time. This includes
+observation information from the Japan Meteorological Agency and
+disaster prevention bodies covering weather, earthquakes, river
+floods and landslides, information on lifelines such as electricity,
+gas and railway operations, the extent of damage shown in photos
+and videos from frontline staff and residents, and information from
+evacuation
+sites.
+This
+platform
+bridges
+real-time
+awareness
+between disaster prevention centers and those in the damaged
+areas. EYE-BOUSAI visualizes collected data in formats including
+GIS maps to support rapid decision making, therefore enabling
+quick, reliable batch distribution of evacuation orders and other
+important information through channels ranging from social media
+to disaster prevention apps, TV, radio and websites.
+NTT DATA developed the system based on experience from the
+Great Hanshin-Awaji Earthquake in 1995. Accumulating expertise
+ever since, the system has been adopted by numerous prefectures
+and designated cities across Japan. Mitigating the psychological toll
+on disaster victims and responders while reducing the time required
+for information collection, information dissemination and decision
+making, EYE-BOUSAI enables focus on life-saving actions. In
+addition, the low-cost subscription model does not require full-time
+staff, enabling mutual support and joint use among small and
+medium-sized local authorities with the aim of improving information
+sharing and response capabilities when disasters occur.
+
+System enabling
+focus on saving lives
+Supports rapid, precise 
+alignment of information 
+awareness and
+decision making
+
+Cloud system
+delivering 
+disaster resilience
+Provides disaster resilience and 
+confidentiality for safe operation 
+even during
+large-scale disasters
+
+Growth-based
+system
+resilient to change
+Continuous upgrades
+in pursuit of
+ideal operational
+management
+EYE-BOUSAI features
+EYE-BOUSAI
+Japan
+Impact
+among Japanese prefectures and designated cities
+No.1 market share 
+nationwide

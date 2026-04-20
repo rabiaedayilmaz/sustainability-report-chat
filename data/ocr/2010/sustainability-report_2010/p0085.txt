@@ -1,0 +1,35 @@
+NTT DATA CSR Report 2010 37/48 
+【Additional Topics】
+ 
+ 
+This service comprises four individual services: the iDC, design and construction, housing, and 
+shared IT platform services*1, supporting the creation of new corporate value from environmental and 
+IT perspectives. 
+ 
+From January 29 through October 30, 2009, we conducted testing on a high-voltage direct current 
+power supply systems. Designed to reduce by up to 20% the amount of electricity consumed by data 
+center power supplies, we verified an 18% total reduction in energy consumed by power sources, 
+cooling systems and IT equipment. Through cooperation within the NTT Group, we are working toward 
+the goal of using high-voltage direct current power supplies on commercial systems by the end of fiscal 
+2011. 
+ 
+Attesting to the success of its Green Data Center service initiatives, NTT DATA received the 
+Economy, Trade and Industry Minister’s Prize in the Green IT Awards 2009. Describing our testing of 
+high-voltage direct current power supplies, which are attracting attention throughout the world, a 
+ministry representative accorded our efforts high praise, noting that the effort was “achieved on a large 
+scale and with innovation and creativity ” 
+ 
+Going forward, we will cultivate technical knowledge and expertise regarding energy efficiency in 
+our data centers through the ongoing verification of elemental technologies. As a member of the Green 
+Grid Association*2, we also will participate in data center issue resolutions and the formulation of 
+effective benchmarks from a global perspective. 
+ 
+*1 Shared IT platform service: Rather than the conventional approach of having IT infrastructures for each system, this 
+low-cost, simple and stable system shares an IT infrastructure over multiple systems. In addition to the hardware aspect, 
+which includes buildings, networks and computers, this service shares operations and maintenance, and other software 
+such as OS and middleware. 
+ 
+*2 Green Grid Association: A global consortium (headquartered in Oregon, the United States) of IT companies and 
+professionals seeking to improve energy efficiency in data centers and business computing ecosystems. In December 
+2007, NTT DATA joined this association, which seeks to standardize throughout the industry a common set of metrics, 
+guidelines and indices.

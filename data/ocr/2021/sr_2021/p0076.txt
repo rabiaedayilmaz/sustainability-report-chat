@@ -1,0 +1,57 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ Climate Change Scenario Analyses 
+ 
+Reasons for conducting scenario analyses and setting a boundary and time horizon 
+Scenario Identification 
+We started scenario analyses in 2018 and have since gradually expanded their boundaries and time horizons. Between July 
+2020 and March 2021, we focused on setting the scope of study and defining/identifying various scenarios. We used IPCC 
+reports and the IEA’s World Energy Outlook as the main inputs for examining the scope of the projected future world, and used 
+EPA, EEA and MOE country analysis documents as reference. We adopted RCP8.5 and RCP2.6 as physical scenarios and set 
+RCP2.6 to a 1.5°C-level scenario based on the content of the 1.5°C Special Report (SR1.5). For transitional risks, we adopted 
+the IEA Sustainable Development Scenario, supplemented by the NZE2050 scenario, and assessed the potential impact on our 
+business and value chain based on the future trajectory of the global scenario. 
+ 
+Boundary (Target Range) 
+The NTT DATA Group’s business focuses on five areas—public & social infrastructure, financial, enterprise & solutions, North 
+America and EMEA/Latin America—and expects to be impacted by climate-related factors from its clients in each area. For this 
+reason, we have established a boundary of “all businesses and their associated value chains” to identify risks and opportunities 
+and examine their financial impact. 
+ 
+Time Horizon 
+For time horizon, we selected the long-term period up to fiscal 2050 to meet the expectations of clients, shareholders, society 
+and other stakeholders who demand a long-term vision for climate change in line with the Paris Agreement. As an intermediate 
+point, we have set a medium-term horizon up to 2030, which coincides with the SBTs. 
+ 
+Results of Fiscal 2020 Scenario Analyses 
+Scenario Analysis Details 
+We used two main scenarios to provide a detailed assessment of climate-related risks and opportunities. The first is a 1.5°C 
+scenario that assumes we move to a low-carbon economy based on the Paris Agreement, and the other is a 4°C scenario that 
+assumes no more climate change measures are taken other than those currently planned. While setting targets based on the 
+1.5°C scenario, we also identified climate-related risks under the 4°C scenario and are reflecting these in our business strategies. 
+Under the scenario analysis started in fiscal 2018, we used the IPCC’s sub-2°C scenario (RCP2.6) and 4°C scenario 
+(RCP8.5)—both regarded as credible around the world—to get a complete picture of potential impacts. We then added the 
+Sustainable Development Scenario (SDS) of the International Energy Agency (IEA) to quantify the financial impact. Since 
+electricity accounts for 95% of our Scope 1 and 2 emissions, we use the values of the SDS and the High-Level Commission on 
+Carbon Pricing to gauge the impact of carbon pricing on electricity costs. 
+Based on the content of the Special Report on 1.5°C (SR1.5), the Group decided to adopt the 1.5°C level scenario, having 
+judged that damage would be quite large in the sub-2°C scenario. Any missing information is supplemented by data from the 
+EEA, EPA, MOE and various countries. 
+As a result of the scenario analysis, the Board of Directors committed to the SBT 1.5°C level in fiscal 2019, and in June 
+2020 we obtained certification from the SBT initiative. The1.5°C scenario assumes that while climate change measures would 
+be strengthened, including through the introduction of carbon pricing, the physical impacts of climate change would remain at 
+the reporting year level and no impacts of greater severity will occur. The 4°C scenario assumes that climate change measures 
+will remain at the reporting year level, but physical impacts of climate change, such as more extreme weather events, will occur. 
+In the 1.5°C scenario, we assessed that increasing the use of renewable energy will reduce financial risks in current and 
+long-term carbon pricing in all domains. In the public, financial and corporate domains, realizing high energy savings in the 
+application-facility layer over the medium and long terms will enhance our competitive advantage. In the corporate sector, 
+including manufacturing and distribution, we assess that there is an opportunity to increase sales by capturing demand for the 
+Group’s green knowledge and solutions because client companies are required to move toward decarbonization. Without real 
+action, however, there is a risk that the Group will not be selected as a partner by leading decarbonization companies in the 
+short term. In particular, we recognize the importance, in both social and corporate terms, of capturing the increase in smart 
+energy–related demand in the field of social infrastructure and providing technologies and mechanisms to meet that demand. 
+In the 4°C scenario, we assessed the risk of a slightly higher level of impact on sales due to an increase in extreme weather 
+events and resulting damage to society and the economy, as well as a decline in clients’ revenues. In each of our business 
+domains, we concluded that the rise in average temperatures due to abnormal weather would cause a surge in air-conditioning 
+costs at data centers, which account for 70% of the Group’s electricity consumption. In Japan, where precipitation is on the rise,

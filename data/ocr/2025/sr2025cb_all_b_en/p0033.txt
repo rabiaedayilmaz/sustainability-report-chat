@@ -1,0 +1,48 @@
+NTT DATA Sustainability Report 2025 Case Book
+Special Feature: Initiatives to Visualize Social Impact
+Impact Summary (Part 1 of 2)
+The Shinkin Bank Division understands structural social issues that shinkin banks, SMEs, and local communities face,
+including falling populations, labor shortages, difficulty acquiring investment, and delays in making use of information and
+digital technology within regions. In the shinkin bank field, the falling number of members, employees and branches and the
+digital gap are barriers to use of services, particularly for older people and SMEs. Impaired access to financial services can
+also impede local economic cycles. This initiative aims to leverage technology to support shinkin banks as financial
+institutions that accompany communities, thereby enhancing sustainability for people and business in each region.
+Social Issues Targeted
+The ultimate objective is to leverage the power of finance to achieve regional revitalization that supports people and
+businesses. As a hypothetical mechanism to this end, desirable states were defined for three beneficiaries, comprising
+regional businesses and individuals in addition to shinkin banks, which act as touchpoints between people and businesses
+in a region. For shinkin banks, reducing operational burdens, particularly for frontline staff, and the complementary goal of
+enabling people to concentrate on core tasks were identified as initial impacts to focus on. For individuals and regional
+businesses, more convenient access to financial services is a starting point that can expand into greater economic
+circulation in the region and help to create more regions where everyone can enjoy access to financial services.
+Impact Strategy
+Logic Model
+From the Shinkin Joint System, which enhances system efficiency and reduces costs
+through joint use between multiple shinkin banks, to network and sales office systems
+and applications that act as customer touch points, the power of technology supports
+shinkin banks by enabling stable system provision. The Shinkin Joint System is a core
+system that performs data management as a basis for the various types of information
+that make up the general ledgers of more than 230 shinkin banks nationwide, making it
+part of shinkin banks’ infrastructure. The system uses scale to provide high-quality
+service, including rapid security responses and backups should natural disasters arise.
+Initiative Content
+System Planning, Development and Maintenance for Shinkin Banks Nationwide
+To dramatically enhance work efficiency and enable shinkin bank employees to focus
+on their core tasks, NTT DATA provides support to digitize various shinkin bank
+operations. One example is the adoption of a mechanism for sales office counter support
+systems that links tablet input and devices. Once input, data is linked to the Shinkin Joint
+System, enhancing efficiency and reducing errors, thereby improving the customer UX. 
+UI/UX improvements in customer touchpoints can also further solidify “face-to-face” 
+service as an existing strength of shinkin banks, enhance service quality through shinkin
+banks’ ability to align with communities, and support the resolution of increasingly
+diverse regional issues.
+Developing Systems to Support Rationalization and Efficiency
+When visualizing social impact, in addition to allocating time to learn about the division’s history built up over more than
+half a century, with a focus on written materials, the initiative took a deeper dive into the existence of shinkin banks as
+regional financial institutions, the hope that they bring to each region, the role they play, and the possibilities they present.
+After investigating these fundamental aspects, we put the social impact that our division strives to achieve into words, then
+designed an impact strategy. We then collected impact data by interviewing stakeholders with reference to social impacts in
+the field and demonstrated the confidence level of the logic model.
+Social Impact Visualization Process
+Notable Outcomes
+Empowering Shinkin Banks to Continue Supporting Communities Through Technology

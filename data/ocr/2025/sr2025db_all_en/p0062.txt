@@ -1,0 +1,144 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+NTT DATA Personal Information Protection Governance Structure
+Roles in Personal Information (Privacy) Protection at NTT DATA
+Representative Director and 
+President
+The representative director and president oversees personal information protection as top 
+management and appoints personal information protection managers and the personal 
+information protection auditors.
+Personal information protection 
+managers (responsible persons)
+Appointed by the president, these officers have the responsibility and authority for the planning 
+and operation of the personal information protection management system, leading efforts in 
+personal information protection from a Group-wide perspective. The officers appoint managers 
+responsible for personal information protection training and for handling complaints and 
+consultations on a Company-wide basis. They also direct each organizational head to oversee the 
+handling of personal information within their respective areas of operation.
+Managers responsible for personal 
+information protection training
+These managers are responsible for planning and implementing Company-wide education 
+programs on personal information protection, as well as overseeing training operations for 
+employees and staff.
+Managers responsible for handling 
+complaints and consultations on 
+a Company-wide basis
+These managers are responsible for receiving and addressing inquiries and complaints related 
+to personal information on a Company-wide basis.
+Personal information protection 
+auditors
+Appointed by the president, this role carries the responsibility and authority to conduct internal 
+audits and report findings from an impartial and objective standpoint independent of the 
+personal information protection manager.
+  [Reference page] “Ensure Information Security”
+Representative Director and President / Top management
+Personal information protection managers (responsible persons)
+Heads of 
+organizations
+Head of Company-wide 
+complaints and 
+consultation desk
+Head of Company-wide 
+personal information 
+protection training
+Personal information 
+protection auditors 
+(Internal Audit 
+Department)
+Report 
+Audit
+Audit
+Audit
+Audit
+Audit
+Personal information protection 
+management organization
+Each organization
+Personal information 
+protection management 
+organization
+Personal information 
+protection management 
+organization
+Report 
+Audit
+Report 
+Report 
+NTT DATA Group Corporation
+Representative Director and 
+President / Top management
+Representative Director and 
+President / Top management
+Personal information protection managers
+Personal information protection managers
+Personal information 
+protection auditors
+ (Internal Audit Department)
+Personal information 
+protection auditors
+ (Internal Audit Department)
+Managers 
+responsible for 
+personal 
+information 
+protection 
+training
+Managers 
+responsible for 
+personal 
+information 
+protection 
+training
+Managers 
+responsible for 
+handling 
+complaints and 
+consultations on a 
+Company-wide 
+basis
+Managers 
+responsible for 
+handling 
+complaints and 
+consultations on a 
+Company-wide 
+basis
+NTT DATA Japan
+NTT DATA, Inc.
+Protect Data Privacy
+Basic Policy
+NTT DATA addresses personal information protection (data privacy) in accordance with 
+the NTT DATA Group Data Protection Policy (DP Policy) and strictly complies with personal 
+data protection laws and regulations in each country and region, such as the EU General 
+Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), China’s 
+Personal Information Protection Law (PIPL), and Japan’s Act on the Protection of Personal 
+Information (APPI).
+ 
+Specifically, each Group company establishes privacy policies and internal rules in 
+accordance with the DP Policy and applicable local laws, requiring the proper handling of 
+personal information. This ensures that personal information is appropriately protected 
+across the Group. These policies and rules also cover partner companies entrusted with 
+business operations, enabling proper management of information assets that include 
+personal data. In Japan, each company strives to maintain a common standard equivalent to PrivacyMark certification requirements, regardless of whether PrivacyMark certification has been granted. 
+ 
+NTT DATA recognizes the importance of personal information (including specific personal information under Japanese law), regards the protection of personal data as a core 
+business activity, and considers its thorough implementation a social responsibility. 
+Accordingly, we have established the Personal Information Protection Policy described 
+below and ensure that all officers, employees, and business partners are informed of it 
+and comply with it.
+ Privacy Statement (NTT DATA Group Corporation’s Personal Information Protection Policy)
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Secure and Sustainable-by-design Services and Solutions

@@ -1,0 +1,71 @@
+Activities Based on the NTT Group’s R&D 
+— Realizing a Social Infrastructure Supporting Secure Data Flow among Organizations
+Data utilization is now indispensable for solving management challenges and enhancing market competitiveness. 
+Organizations must not only manage and utilize their data effectively but also actively share it with relevant parties 
+to address industry and societal issues and generate added value. In particular, for achieving carbon neutrality and 
+establishing a resource-circulating society, it is essential for companies involved in the entire product life cycle—
+from manufacturing and usage to reuse, recycling, and disposal—to ensure the proper circulation of data related 
+to CO2 emissions and material composition at each stage.
+ 
+NTT DATA is developing a system that enables multiple organizations to securely exchange necessary data with 
+trusted counterparts. By collaborating with clients across various industries and government bodies, we are working to establish this as a new social infrastructure. The results of this initiative are utilized in applications such as 
+the battery traceability platform (
+ see page 37).
+R&D on Data Integration Technologies for Smooth and Secure Data Exchange
+In January 2023, NTT DATA submitted a proposal to the New Energy and Industrial Technology Development Organization (NEDO) as part of its research-and-development project focused on post-5G information and communication systems and their enhanced infrastructures. The proposal specifically pertained to the development of 
+technology for the secure distribution of highly sensitive data, and it was subsequently selected, designating NTT 
+DATA as the implementing entity for this project.
+ 
+The project aims to develop the technology required for post-5G information and communication systems, 
+which are expected to include features such as ultra-low latency and multiple simultaneous connections. Specifically, we are undertaking research-and-development efforts aimed at creating technologies for secure, confidential, and portable execution of data and algorithms. These technologies are essential to enable safe and secure 
+data distribution while allowing data owners to manage their data appropriately.
+ 
+Through this project, we aim to leverage our advanced technologies to enable numerous stakeholders to 
+securely share data with confidence, realizing a world where new value can be created through the effective utilization of data.
+ Commenced Research and Development on Data Collaboration Technologies Aimed at Achieving Smooth and Secure Data Flow 
+https://www.nttdata.com/global/ja/news/information/2023/021700/ (Japanese only)
+Standardization Efforts for Realizing a Society Where Domestic and International Data Ecosystems 
+Are Interconnected
+Currently, various sectors both domestically and internationally are working toward the realization of frameworks 
+known as “data collaboration platforms” or “data spaces,” and NTT DATA is actively involved in several projects to 
+Utilizing Combinatorial Optimization in Exploring Synthetic Scent Patterns
+NTT DATA Group Corporation, in collaboration with Komi Hakko Corporation, has developed a method to efficiently 
+explore synthetic scent techniques that were previously challenging to discover. Through joint experiments that 
+generate a wide range of scents from a limited number of components, combinatorial optimization was applied 
+using digitized scent data and an Ising machine, which can solve equations known as Ising models. This process 
+resulted in the discovery of new synthetic patterns, including a novel approach to creating cinnamon scent.
+ Development of a Method for Exploring Synthetic Patterns of Odors That Are Difficult for Humans to Detect 
+https://www.nttdata.com/global/ja/news/topics/2024/012500/ (Japanese only)
+Establishment of a Consortium for Decentralized ID and Digital Certificates
+NTT DATA Japan has established the DID/VC Co-Creation Consortium in collaboration with Mitsubishi UFJ Trust and 
+Banking Corporation, Itochu Techno-Solutions Corporation, TOPPAN Digital Inc., Hakuhodo Key 3 Inc., Hitachi, Ltd., 
+Fujitsu Limited, and Anderson Mori & Tomotsune. This consortium aims to co-create business opportunities 
+related to decentralized identifiers (DIDs) and verifiable credentials (VCs). The Blockchain team from the Innovation 
+Center is also contributing to this initiative. By developing interoperability rules and fostering business collaboration for the social implementation and promotion of DIDs and VCs, the consortium seeks to realize a safe and 
+secure digital society.
+ Establishment of DID/VC Co-Creation Consortium Focused on Decentralized IDs and Digital Certificates 
+https://www.nttdata.com/global/ja/news/release/2023/101000/ (Japanese only)
+Other Notable Global Measures
+In addition to the initiatives mentioned above, many other efforts are being conducted in collaboration with local 
+offices in various countries. Here are four representative examples.
+1 Utilizing satellite imagery and soil data to predict agricultural yield and CO2 emissions, contributing to green 
+agriculture (India) 
+2 Automating factory equipment inspection tasks, traditionally performed by humans, using robots (Japan) 
+3 Collaborating with NVIDIA to visualize and simulate manufacturing plants with digital twins, enhancing 
+production efficiency (Italy)
+4 Streamlining urban management operations of city council command centers using digital twins and cloud 
+architecture, improving planning costs and increasing citizen satisfaction (Spain)
+ NTT DATA Group Expands Collaboration with NVIDIA to Promote the Enterprise Utilization of Digital Twins 
+https://www.nttdata.com/global/ja/news/topics/2023/100500/ (Japanese only)
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

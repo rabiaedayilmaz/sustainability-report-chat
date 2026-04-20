@@ -1,0 +1,51 @@
+■ NTT Data Global-Control Risks 
+Material Risk
+Reason for Selection and Countermeasures
+Information leakage
+(Personal / Confidential information)
+Reason: 
+ Need to respond to government request for effective management of customer and other information and
+ related regulations
+Countermeasures: Employee education and awareness campaigns on security rules
+Cyber-attacks 
+Reason: 
+ Direct impact on NTT DATA services related to systems for government agencies and financial institutions
+Countermeasures: Development of appropriate and effective measures for responding to ever more sophisticated 
+ cyber-attacks
+Accounting fraud 
+(Including window dressing)
+Reason: 
+ Risk of losing stakeholder trust and damaging shareholder value
+Countermeasures: Focus on prevention by strengthening inspection and monitoring of potential risks
+Bribery
+Reason: 
+ Institution of more stringent law enforcement and harsher penalties around the world
+Countermeasures: Strengthening of preventative measures by reexamining approval rules and conducting employee training
+ 
+Global-Control Risks
+Tax Policy
+Relationship with Tax Authorities
+Raising the Awareness of NTT DATA Group Employees
+Global-control risks with the potential to impact the entire Group are identified by the Internal Control Committee by incorporating 
+input from outside specialists and adopting a broad perspective that encompasses such factors as changes in social trends.
+In 2015, the following material risks have been identified as global-control risks, and are being addressed through measures 
+spearheaded by NTT DATA’s head office.
+We established our basic policy on tax affairs in view of the growing importance of adopting a global perspective on properly 
+addressing and managing tax risks posed by the increasingly multinational nature of our Group companies and the increase in 
+international transactions brought about by the rapid globalization of our business.
+We have established relationships of trust with tax authorities by providing appropriate and timely information and consulting on 
+accounting procedures.
+We are seeking to establish thorough legal compliance and to reduce tax risks by educating employees on proper tax accounting, 
+sharing related information and holding consultations.
+The NTT DATA Group has established tax policies for ensuring compliance with tax-related laws and regulations throughout the 
+Group, including overseas Group companies.
+Tax Strategy
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

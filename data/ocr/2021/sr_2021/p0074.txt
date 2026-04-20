@@ -1,0 +1,161 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ Climate-Related Risks and Opportunities 
+ 
+Risks (1–5) and Opportunities (1–5) 
+Risks and Opportunities 
+Type 
+Outline 
+Time 
+Horizon 
+Likelihood 
+of 
+Occurrence 
+Degree of 
+Impact 
+Financial Impact of Risks and Opportunities 
+Countermeasure Costs 
+Risk 1 
+Increase in costs 
+due to carbon 
+pricing (e.g., 
+carbon tax) 
+Regulatory risk 
+To comply with the Paris 
+Agreement, domestic regulations 
+will be significantly tightened and 
+the cost burden for CO2 
+emissions will increase. 
+Long 
+term 
+Virtually 
+certain 
+Medium–
+high 
+If a carbon tax of US$100/t-CO2 were imposed 
+under a new carbon pricing mechanism, the 
+impact based on our fiscal 2020 emissions 
+would have been ¥8.0 billion. Also, if we 
+comply with the Tokyo Cap-and-Trade Program 
+(Japan’s current carbon pricing system), the 
+impact would be ¥0.3 million. This would bring 
+the total impact to ¥8.3 billion. 
+The current combined cost of installing renewable 
+energy private power generation facilities and 
+participating in the DHC system is around ¥800 million. 
+Risk 2 
+Risk of not being 
+selected as a 
+partner by 
+advanced 
+decarbonization 
+companies 
+Market risk 
+There is a risk that clients will 
+migrate to our competitors if we 
+are slow to make our products 
+greener. 
+Medium 
+term 
+Virtually 
+certain 
+High 
+If Japan were to adopt the same 100% data 
+center renewable energy procurement 
+conditions as the European Commission, we 
+would experience a ¥252.9 billion loss in sales 
+to “national government ministries and local 
+governments, etc.” in our financial results. 
+In fiscal 2020, NTT DATA invested around ¥22,739 
+million in total R&D expenses aimed at becoming a 
+partner for clients’ green innovation. We are working on 
+production technology innovation to enable faster 
+system development, higher quality and the construction 
+of cloud computing platforms for the shift to cloud 
+computing and digitalization, as well as R&D on cuttingedge technologies and innovations for proactively 
+incorporating new technological trends into our 
+business. 
+Risk 3 
+Data center 
+shutdown due to 
+abnormal 
+weather 
+Physical risk 
+Large typhoons, floods, heat 
+waves, torrential rains and other 
+abnormal weather events 
+increase the risk of data center 
+operational shutdown due to 
+power outages, flooding and 
+lightning strikes. 
+ 
+Short 
+term 
+Virtually 
+certain 
+Medium–
+high 
+One day of operational suspension would 
+result in around ¥3.2 billion in lost sales 
+(based on the daily sales rates against total 
+net sales). In reality, we would suffer further 
+damage, such as a decline in trust, so this 
+figure is actually the minimum estimated 
+value. 
+The annual cost of renewing our air-conditioning systems 
+to reduce power consumption and prevent a shutdown of 
+in-house power generation at data centers in the event of 
+a disaster is around ¥1.2 billion (minimum assumed 
+cost). In addition, to enhance the sophistication and 
+resilience of infrastructure facility inspections, including 
+by using drones to inspect electric power equipment, we 
+established Grid Sky Way LLP together with other 
+companies with an investment of ¥200 million. 
+Risk 4 
+Increase in airconditioning 
+costs due to 
+rising average 
+temperatures 
+Physical risk 
+Operating costs will increase in 
+line with rising average 
+temperatures. 
+Long 
+term 
+Virtually 
+certain 
+Medium 
+We estimate that a 1.0°C rise in temperature 
+would increase electricity consumption at our 
+data centers in Japan by around 4.5 million 
+kWh, resulting in an annual increase in energy 
+costs of around ¥70 million. 
+The cost of upgrading facilities and enhancing 
+operations at all the NTT DATA Group data centers in 
+Japan totaled around ¥700 million in fiscal 2019–2020. 
+Risk 5 
+Loss of 
+reputation 
+due to delayed 
+responses 
+Reputational risk Any delay in responding to 
+investor requests for ESG 
+information disclosure could lead 
+to loss of reputation and a decline 
+in share price. 
+Short 
+term 
+Virtually 
+certain 
+Medium–
+high 
+If the price of our shares held by overseas 
+investors were to fall by 1%, we estimate that 
+the impact on the Company’s market 
+capitalization would be around ¥3,822 million 
+(based on 1,402,500,000 shares issued as of 
+March 31, 2021). 
+Expenses related to investor requests for corporate 
+information regarding climate change are about ¥55 
+million.

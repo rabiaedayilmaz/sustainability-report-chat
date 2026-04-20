@@ -1,0 +1,84 @@
+In response to the disaster, NTT DATA provided the “FairCast” Child 
+Safety Communication Network to schools in affected regions 
+free of charge, from June 2011 through March 2012, enabling 
+schools to maintain contact with students’ families. 
+The system uses email, telephone, and fax to send information 
+between schools and students’ families. In the immediate 
+aftermath of the disaster, schools experienced difficulties in 
+securing reliable means of communicating with students and their 
+families. We decided to deploy “FairCast” because we realized that 
+in areas devastated by the disaster it would be an effective method 
+of communication for local communities. 
+The first system was installed in the Ishinomaki City Iinokawa 
+Dai-ichi Elementary School in Miyagi Prefecture in June 2011. 
+Between then and the end of March 2012, we installed FairCast in 72 
+schools in Iwate, Miyagi, and Fukushima prefectures. The system was 
+used to issue notices 
+concerning all sorts of 
+situations, including sudden 
+school closures and changes 
+in dismissal time.
+In May 2011, NTT DATA made available free of charge a mobile medical 
+care support system that combines cloud services and tablet terminals. 
+Doctors from Fukushima Medical University used the system when 
+conducting examinations at evacuation centers.
+We developed the system in just three weeks in response to 
+talks with doctors from Fukushima Medical University who were 
+providing mobile medical care services to those residents of Fukushima 
+Prefecture affected by the earthquake. Utilizing our existing 
+mechanisms and expertise, we created a system that allows doctors 
+who are conducting examinations to use a mobile tablet terminal to 
+access patients’ medical records stored in a database. Thanks to the 
+system, doctors can easily and safely share information on medical 
+treatment. Access to patients’ records has the benefit of reassuring 
+patients that the attending doctor has their vital medical information at 
+hand, and can therefore continue providing the 
+exact treatment they require. There are no 
+security risks concerning the system’s network or 
+the management of information, because when 
+developing the system we included security 
+features that comply with the guidelines of the 
+Ministry of Health, Labour and Welfare. 
+We will also examine the potential for using 
+such systems in wide-ranging medical fields and not 
+only in times of disaster and other emergencies.
+Office of NTT DATA Ishinomaki BPO Center
+Paradigms for Society and Regional Communities
+With the elapse of time since the disaster, there has been growing demand for the creation of 
+stable employment in affected areas. The NTT DATA Group is supporting the creation of new 
+employment through the establishment of NTT DATA Ishinomaki BPO Center in Ishinomaki 
+City, Miyagi Prefecture, as part of efforts to provide ongoing support for the recovery of areas 
+badly hit by the disaster.
+ The first step was taken in January 2012 by NTT DATA TOHOKU Corporation, which 
+employed three Ishinomaki residents. The new employees were assigned to some 
+administrative tasks within the Group, such as working in claim management, which includes 
+the issuing of invoices. In April 2012, NTT DATA 3C Corporation hired 12 residents from 
+Ishinomaki City and the surrounding area in order to launch a call center and undertake BPO 
+work as a second step. The Group will continue active efforts to create new jobs. Our plan is 
+to have between 50 and 60 local employees by the end of fiscal 2013, and aim to expand this 
+workforce to around 100 people in the next two or three years. 
+Using IT to Support Recovery in Regions 
+Affected by the Great East Japan Earthquake
+The NTT DATA Group’s involvement in activities to support regions affected by the disaster started 
+immediately after the earthquake struck on March 11, 2011. 
+Since then, we have harnessed the Group’s systems, services, technologies, and expertise to provide 
+ongoing assistance in affected areas. 
+Case 1
+Providing the “FairCast” Child Safety 
+Communication Network as a Means for Schools
+to Contact Students’ Families
+Case 2
+Providing a Mobile Medical Care Support System 
+to Facilitate Mobile Medical Care 
+in Evacuation Centers
+Supporting mobile 
+medical care at Fukushima 
+Medical University
+An NTT DATA employee shows a teacher how 
+to use FairCast
+Helping Create Employment in Affected Areas
+CSR Activities Report 2012
+uake
+Close Up
+
+22 NTT DATA CSR Report 2012

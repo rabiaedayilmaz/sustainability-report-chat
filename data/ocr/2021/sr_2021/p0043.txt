@@ -1,0 +1,15 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Results of Activities 
+ 
+ 
+As an IT company that operates many large-scale systems that support society, the NTT DATA Group is advancing extensive 
+system failure response measures based on the dual perspectives of prevention and response. These measures include 
+inspections based on a comprehensive perspective in line with the Information Technology Infrastructure Library (ITIL), ISO 
+20000 and other standards, as well as deployment of response know-how at the time of a failure and development of IT service 
+managers. To ensure NTT DATA and NTT DATA Group business continuity when a disaster occurs, we have formulated BCPs 
+and regularly review education, training and business continuity planning. This is because each organization must be able to 
+recover operations as quickly as possible and restore business to standard levels in short periods. 
+The NTT DATA Group will also continue renewing and reinforcing measures against failures caused by security breaches, 
+which have become a growing social problem in recent years.

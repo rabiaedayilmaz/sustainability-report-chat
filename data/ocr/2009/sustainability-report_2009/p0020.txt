@@ -1,0 +1,128 @@
+Maintaining quality and ensuring stable 
+operation of information systems requires 
+process management, spanning upstream 
+and downstream processes, and continuous 
+improvements based on a PDCA cycle.
+NTT DATA became ISO 9001 certified in 
+1998. Since then, we have pursued process 
+improvements incorporating CMMI*1, system 
+development transparency, formulation of 
+development and operational standards, and 
+other measures. The Company also promotes 
+application of the CMMI model, including 
+levels 4 and 5 (high-maturity practices), and 
+furthering their implementation, including at 
+Group companies.
+Furthermore, NTT DATA Regional Bank 
+Integrated Services Center became ISO 20000 
+certified for the running, maintenance and 
+management of information systems in 
+March 2008, making it the first domestic 
+account-based shared-use center to gain 
+such recognition.
+Measures to Improve Quality
+Building a management system 
+based on ISO 9001 and ensuring 
+continuous improvements
+Unification of internal rules for development 
+and management and clarification of 
+implementation procedures
+Since fiscal 2008, NTT DATA has created 
+unified companywide rules for system 
+development and management and 
+clarified procedures for their application. In 
+addition, we have optimized development 
+and management, which formerly used 
+workplace-specific methods, through 
+consistent development and management 
+tools spanning sales through operation.
+NTT DATA also conducts educational 
+programs on quality management and 
+development procedures targeting each 
+Group company.
+Business continuity plan for 
+swift recovery and operational 
+continuance in the event of disaster
+Our business continuity plan (BCP) includes 
+disaster risks and response measures to 
+ensure the continuity and swift resumption 
+of business without extended disruption 
+to customers’ information systems in the 
+eventuality of earthquakes or other disasters.
+Our BCP focuses on maintaining social 
+infrastructure information systems and 
+continuity of vital in-house business with 
+consideration of the urgency of information 
+systems and societal needs. In fiscal 2009, we 
+added measures in anticipation of a pandemic 
+arising from swine flu. We will enhance our 
+BCP response through practical training using 
+emergency drills.
+Disaster and System Failure 
+Countermeasures
+System failure countermeasures 
+focused on prevention and response
+We promote system failure countermeasures 
+from two perspectives: prevention and 
+response. Prevention includes in-house 
+deployment and application of product 
+Customers
+Customers
+Requirements
+Project
+Project Planning
+Improvements
+Project Operation
+Procedures
+Executive Management of Business Sectors
+Improvements
+Operating Procedures
+for Business Sectors
+Quality
+Policy
+Improvement
+Targets
+Top Management
+Quality Management Representative
+Improvements
+Rules, Guidelines and
+Implementation Methods
+Review
+Products
+(Systems and Services)
+Instructions
+Deployment
+Report
+Analysis and
+Evaluation
+Performance
+Monitoring
+Customer Satisfaction
+Deployment
+Deployment
+NTT DATA
+NTT DATA Quality Management System
+*1 CMMI
+Capability Maturity Model 
+Integration (CMMI) is a 
+process improvement 
+approach formulated by 
+Carnegie Mellon University 
+Software Engineering 
+Institute incorporating 
+system development 
+best practices. The 
+CMMI model indicates 
+improvement channels 
+to enable organizations 
+to create, complete, and 
+improve development and 
+management processes 
+to facilitate optimization 
+in step with their business 
+environment.
+Improving system quality and providing services from a user perspective
+for social infrastructure that provides peace of mind.
+NTT DATA and Its Stakeholders
+With Our Customers
+NTT DATA CSR Report 2009

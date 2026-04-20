@@ -1,0 +1,157 @@
+The environmental impact posed by the NTT DATA Group’s business 
+activities primarily arises from the emission of greenhouse gases 
+resulting from the consumption of energy, mainly as electric power. 
+However, there are many other factors that affect the environment, 
+including data center construction and the use of paper and 
+water resources. In addition, we cannot ignore the environmental 
+impact of energy consumption resulting from customers’ operation 
+of systems and services provided by the NTT DATA Group. The 
+NTT DATA Group strives to correctly ascertain and analyze the 
+environmental impact of its business activities and to utilize these 
+results in various improvement activities.
+Environmental Impact Overview
+Within the NTT DATA Group
+Outside NTT DATA Group
+Energy
+FY2009
+FY2010
+FY2011
+Utility power (10,000 kWh)
+56,803 
+59,717
+56,618
+Kerosene (kl)
+
+Light gas oil (excluding 
+Company vehicles) (kl)
+
+A–C heavy oil (kl)
+
+City gas (10,000 m3)
+
+Gasoline (Company 
+vehicles) (kl)
+
+Light gas oil (Company 
+vehicles) (kl)
+
+INPUT
+OUTPUT
+Business Activities
+Water resources 
+FY2009
+FY2010
+FY2011
+Clean water consumption
+
+Gray water consumption
+4.4
+4.1 
+3.9
+(10,000 m3)
+Paper resources
+FY2009
+FY2010
+FY2011
+Office paper
+1,418 
+1,426
+1,151 
+Fliers, pamphlets, etc. 
+for customers
+
+(Tons)
+FY2009
+FY2010
+FY2011
+Drainage amount
+
+Water resources
+(10,000 m3)
+FY2009
+FY2010
+FY2011
+Amount generated 
+6,010
+9,545
+7,263 
+Recycled amount
+4,883
+8,169
+6,348 
+Final disposal amount
+
+Office waste
+(Tons)
+FY2009
+FY2010
+FY2011
+Amount generated
+
+Recycled amount
+
+Final disposal amount
+
+Construction waste
+(Tons)
+FY2009
+FY2010
+FY2011
+Electricity use
+24.9 
+25.4
+21.8 
+Gas/fuel use
+0.4 
+0.4
+0.3 
+Company vehicle use
+0.2 
+0.2
+0.2 
+Total
+25.5
+26.0 
+22.3 
+Greenhouse gas*4
+(10,000 tons of CO2)
+*4 CO2 conversion factor uses factors from each fiscal 
+year (CO2 emission factor by power company)
+Sales
+Planning/design
+Development/
+testing
+Data center
+Installation at 
+customer site
+Service operation 
+at customer site
+Greenhouse gas (CO2)
+Energy
+Scope of Environmental Impact Measurement
+Measurement period: From April 1 to March 31 of the following year
+Measurement organization: Fiscal 2009 NTT DATA (all organizations), 78 Group companies (domestic only) / Fiscal 2010 NTT DATA (all organizations), 65 Group companies 
+(domestic only) / Fiscal 2011 NTT DATA (all organizations), 61 Group companies (domestic only)
+Construction materials
+Construction materials, cables, etc.
+Specified chlorofluorocarbon used 
+for air conditioning systems 
+FY2009
+FY2010
+FY2011
+Number of air conditioning 
+system units using specified 
+chlorofluorocarbon (CFC)
+
+(Units)
+The NTT DATA Group’s Environmental Impact
+Monitoring and Analyzing Environmental 
+Impact by Looking at the Activities of the 
+Entire Group
+• Environmental Impact Data of the NTT DATA Group in Fiscal 2011 • Office Waste of NTT DATA Group in Fiscal 2011
+Additional Topics on Website
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2011

@@ -1,0 +1,56 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+Nature Conservation 
+Generate sound global environment and contribute to people’s well-being by conserving and recovering nature capital 
+ 
+Main Initiatives 
+ 
+Deploying digital technology, the NTT DATA Group promotes nature-positive activities for clients and society (Green Innovation by IT). 
+These include forest conservation, landslide countermeasures, and water resource management using high-precision remote sensing 
+technology and drone analysis. We are also working to realize environmentally friendly agricultural techniques that minimize the use of 
+pesticides and fertilizers through scientific IT-based farmland management while using blockchain technology to improve traceability 
+across the entire value chain. 
+As an internal initiative (Green Innovation of IT), we are working to conserve water resources at Mitaka Data Center EAST. As an 
+NTT Group company, we are also working to eliminate the use of paper, in principle. 
+ 
+ Contribution through Support to Clients (Green Innovation by IT) 
+Deploying “Aisaku” to Lower Environmental Impact through Reduced Use of Pesticides and Fertilizers 
+Aisaku, a platform that supports business reforms for agricultural producers and production areas through DX, is aimed at helping 
+agricultural cooperatives and production organizations throughout Japan. By managing data on soil characteristics, pesticides, and 
+fertilizers for each farm, it helps reduce unnecessary use of pesticides and fertilizers and realizes environmentally friendly green 
+agriculture. 
+ 
+ 
+ 
+Manages information on soil 
+diagnosis results for each farm to 
+visualize the degree of risk of 
+disease outbreak 
+Promotes recordkeeping of 
+cultivation history based on the 
+environmentally friendly “Kyoto 
+Cultivation Guidelines” for 
+reducing the use of pesticides 
+and chemical fertilizers. 
+- Optimized pesticide 
+application rate per farm 
+- Reduced risk of yield loss 
+- Greater protection from 
+contamination by bacteria 
+ 
+ - Accurate and prompt farm 
+guidance and consultation 
+for compliance with 
+pesticide/fertilizer cultivation 
+standards 
+- Prevents unnecessary 
+pesticide/fertilizer purchases 
+- Improves administrative 
+efficiency 
+- Fosters sales price stability 
+ 
+Streamlined inventory 
+management of pesticides and 
+fertilizers required for JGAP 
+certification acquisition

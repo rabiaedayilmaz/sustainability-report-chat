@@ -1,0 +1,88 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Automated Integration of Product Carbon Footprint Measurement and Tracking Across 
+Supply Chains 
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Carbon
+Neutrality
+SiGREEN Integration
+• Effective sharing of product carbon footprint (PCF) data is essential to management of upstream and downstream (Scope 3) emissions, but presents challenges ranging from a lack of
+high-quality data to differences in emission calculation standards and concerns regarding information security and data sovereignty.
+Through its PCF management tool, SiGREEN, leading
+technology company Siemens aims to enable secure
+information
+sharing
+that
+supports
+companies
+and
+suppliers in managing and reducing emissions across the
+entire supply chain. However, challenges associated with
+PCF management include a lack of data availability,
+limited
+comparability,
+discrepancies
+in
+emission
+calculation
+standards,
+dependence
+on
+low-quality
+secondary
+data
+and
+the
+need
+for
+high
+levels
+of
+coordination between partners. Siemens sought a solution
+to overcome these obstacles as a crucial step towards
+promoting sustainability through effective management of
+Scope 3 emissions.
+Business need
+Solution
+NTT DATA developed a proof of concept project during
+which it successfully demonstrated seamless data transfer
+processing between SiGREEN and two enterprise resource
+planning
+(ERP)
+systems.
+​Through
+the
+use
+of
+APIs,
+SiGREEN established reliable and efficient aggregation of
+PCF data while ensuring calculations were compliant with
+applicable standards.
+The seamless data transfer demonstrated in this proof of
+concept provides continuous up-to-date emission data from
+across the supply chain, enabling the identification of a
+“dynamic” carbon footprint. Comprehensive insights of this
+nature
+can
+empower
+companies
+to
+make
+informed
+sustainability decisions regarding emissions both upstream
+and downstream in the supply chain, laying the foundation
+for more sustainable product lifecycle and supply chain
+management.
+Impact
+Compliant with all relevant industry standards, including:
+The successful integration of the SiGREEN platform with ERP systems demonstrated the benefits of effective data sharing across organizational data systems.
+• ISO 14067
+• GHG Protocol Product Standard
+• WBCSD Pathfinder Framework 
+• Catena-X Rulebook

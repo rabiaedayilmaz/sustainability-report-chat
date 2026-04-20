@@ -1,0 +1,116 @@
+Initiatives for Standardizing User Cards for 
+Electric Vehicle Chargers
+The Green IT Promotion Council forecasts that Japan would 
+achieve energy savings by IT equipment of several tens of 
+millions of tons of CO2 per year by 2020, and that energy savings 
+through IT applications would amount to around 100 million tons 
+of CO2 per year. The NTT DATA Group has employed an 
+environmental assessment system since 2006. We use this system 
+to evaluate and measure the quantitative impact of 
+environmental impact reductions achieved by our IT solutions.
+In fiscal 2012, we worked toward our fiscal 2013 target of 
+contributing to a 1.5 million-ton reduction in CO2 emissions by 
+customers and other members of society on an annual basis. 
+These efforts focused primarily on conducting 54 quantitative 
+assessments of the environmental impact reduction achieved 
+from introducing and using systems in the public and financial 
+sectors. According to our estimate based on the results of the 
+quantitative assessments to date, our contribution to the 
+reduction of CO2 emissions totaled to 2.4 million tons on an 
+annual basis, far exceeding our target.
+We will continue to conduct in-house training on assessing 
+the environmental impact of systems as part of our efforts to 
+promote environmentally responsible system development. 
+In addition to providing solutions and services that respond to 
+customers’ environmental needs, we help to build the IT 
+infrastructures that form the basis for smart grids and smart 
+communities. We are focused on creating smart businesses and 
+providing energy-saving related services in response to the need 
+to reduce CO2 emissions. 
+In December 2011, NTT DATA launched initiatives to standardize 
+quick charger user cards with Saitama City, Kanematsu Corporation, 
+NEC Corporation, and Hitachi, Ltd., in tandem with the activities of 
+a working group of the CHAdeMO Association.* 
+So far, Saitama City has installed these chargers at its ward 
+office sites, etc., as part of its efforts to build an electric vehicle 
+(EV) charging safety net, and is considering a billing mechanism. 
+Meanwhile, the CHAdeMO Association has been allowing EV 
+users to use quick chargers, while at the same time considering a 
+members-only quick charging service business model that 
+provides a return to installers of quick chargers.
+Under such circumstances, NTT DATA, taking advantage of 
+its expertise in providing EV charging infrastructure services since 
+2010 and knowledge regarding the construction of social 
+infrastructure systems, has decided to collaborate with Saitama 
+City and CHAdeMO. 
+Looking ahead, NTT DATA, Saitama City, CHAdeMO and the 
+three other companies will aim to build EV charging 
+Internet Account Transfer Acceptance Service
+The Internet account transfer acceptance service is a service 
+that provides online contract for account transfers, enabling a 
+paperless transfer acceptance process that eliminates the 
+need to affix a personal seal. In the past, bank transfers could 
+only be conducted using a prescribed paper form, which was 
+filled out by hand and stamped with a seal by the person 
+making the transfer request, and then processed by a 
+financial institution and the company receiving the payment. 
+The introduction of this service lowered CO2 emissions 
+by 82% annually, thanks to reductions in transportation (the 
+movement of goods) and human labor, according to the 
+results of a quantitative assessment of the service’s 
+contribution to reducing environmental impact. In fiscal 
+2014, the number of such online bank transfer transactions is 
+expected to reach approximately 5 million, and it is hoped to 
+lead to a reduction in CO2 emissions by 23,355 tons per 
+annum (equivalent to the amount of CO2 emissions 
+absorbed by an approximately 6,363-hector natural 
+broad-leaved forest in a year).
+Example: An Environmental Impact Assessment of an IT Solution
+The Greening of Customers and Society
+IT solutions are expected to contribute to the creation of smart grids and smart communities. 
+This should facilitate the greening of customers and society as a whole by reducing the need to consume 
+materials and energy as well as transport people and goods.
+Measuring the Effects of System Introduction
+Providing IT Solutions that Reduce the 
+Environmental Impact of Our Customers and 
+Society as a Whole
+Paradigms for the Global Environment
+CSR Activities Report 2012
+
+Image showing a standardized ID system for the 
+IC cards used for user authentication
+Company 
+A’s system
+Convenience 
+store
+Company 
+B’s system
+Parking lot
+Company 
+C’s system
+Gas station
+Able to recharge EV 
+anywhere with a single card
+CHAdeMO code
+Company A
+IC card
+Company B
+IC card
+Company C
+IC card
+1,500
+1,000
+
+Conventional 
+services
+The Online Bank 
+Transfer Service
+IT equipment/
+software
+Movement
+of goods
+Human labor
+(tons of CO2 per year)
+CO2 reduction rate: 82%
+CO2 reduction: 1,023 tons per year 
+32 NTT DATA CSR Report 2012

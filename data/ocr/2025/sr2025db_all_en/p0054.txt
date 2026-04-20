@@ -1,0 +1,65 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+ 
+Based on these guidelines, we will continue to inform our suppliers about the items 
+they should comply with in seven sustainability areas: human rights and labor, occupational health and safety, environment, fair business and ethics, quality and safety, information security, and business continuity planning. We will also continue our efforts to 
+enhance suppliers’ understanding of NTT DATA’s initiatives in these areas.
+ Procurement and Purchasing (Japanese only)
+ 
+In relation to these guidelines, we are implementing compliance measures that 
+include obtaining consent forms, incorporating conditions into existing trade agreements with suppliers, and obtaining consent as a prerequisite for initiating new transactions with suppliers. In Japan, we have obtained consent for compliance from suppliers 
+covering 85.1% of our procurement amount.
+ 
+In addition, we have included compliance requirements based on these guidelines in 
+the common contract template for NTT DATA Group Corporation, NTT DATA Japan, and 
+Group companies in Japan. Similarly, we have implemented compliance with the guidelines in contract documents for Group companies outside Japan, adapting them to the 
+unique characteristics and business practices of each region.
+Sustainability Risk Assessment and Support
+NTT DATA Group Corporation, NTT DATA Japan Corporation, and Group companies in 
+Japan assess suppliers’ sustainability risks through joint NTT Group surveys and sustainability evaluations conducted by EcoVadis, a France-based rating agency.
+ 
+In addition, because sustainability initiatives in the IT industry are not yet fully mature, 
+some suppliers might be unable to respond immediately to assessments by external rating 
+agencies. To support such suppliers, NTT DATA conducts its own sustainability surveys. 
+In fiscal 2024, approximately 220 suppliers (covering 76.3% of procurement spending) 
+responded to these surveys, in combination with the EcoVadis sustainability evaluation.
+ 
+Going forward, we plan to further strengthen efforts to address issues and collaborate with suppliers according to their individual circumstances. Through these initiatives, 
+we aim to visualize and mitigate risks within the supply chain, contributing to the establishment and maintenance of a supply chain that supports the realization of a sustainable society.
+  [Reference page] Non-Financial Data “Supply Chain Status”
+Monitoring
+As part of sustainability risk monitoring for key suppliers, we conduct on-site assessments through direct engagement, such as company visits. These assessments aim to 
+request the establishment of sustainability management systems through dialogue 
+with suppliers and to verify risk items identified in sustainability surveys. In fiscal 2024, 
+on-site assessments were jointly conducted with the NTT Group for the top 55 suppliers by procurement spending. No significant sustainability risks, including human 
+rights issues, were identified.
+ 
+In addition, during on-site investigations, we confirm each supplier’s initiatives, identify areas of concern, and promote the understanding and adoption of our guidelines.
+Communication with Suppliers
+NTT DATA Group Corporation, NTT DATA Japan Corporation, and Group companies in 
+Japan regularly hold study sessions on sustainability initiatives for key suppliers, primarily 
+business partners*. These sessions aim to raise awareness of sustainability across the 
+entire supply chain—including environmental and human rights aspects—and to promote proactive engagement in sustainability initiatives.
+ 
+Furthermore, we have established common whistleblowing systems across NTT DATA 
+Group Corporation, NTT DATA Japan, and Group companies in Japan, where suppliers can 
+seek advice and make reports. Our Group Internal Reporting Policy stipulates that no 
+adverse treatment shall be taken against those who report through this channel.
+  [Reference page] “Whistleblowing Systems”
+* At NTT DATA Group Corporation, business partners are designated as domestic contractors in Japan that are expected to continue 
+supporting the Group’s business activities in the future, primarily to jointly promote quality assurance activities for clients. 
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Sustainable Supply Chain

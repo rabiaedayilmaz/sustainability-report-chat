@@ -1,0 +1,93 @@
+Through the Carbon Oﬀ set Products Project (COP)*3 
+inaugurated by the NTT DATA Institute of Management 
+Consulting in October 2007, we support the reduction of 
+CO2 emissions from corporate business activities and 
+environmentally friendly strategic product development 
+through carbon oﬀ sets.
+COP is a member of the Co-op Net Business Federation, 
+the ﬁ rst in the world to use carbon oﬀ sets to reduce CO2 
+emissions from stores to zero. In addition to opening six 
+zero-CO2 emissions stores in Saitama, Chiba and Tokyo from 
+June 2008 to September 2009, in June 2009 we opened a 
+zero-CO2 emissions refrigerator center in Inzai, Chiba. 
+TOPPAN PRINTING CO., LTD. also introduced zero-CO2 
+emissions initiatives on a trial basis by employing carbon 
+oﬀ sets toward its Sodegaura Beverage Plant and head oﬃ ce 
+building.
+We plan to continue preparing to facilitate the eﬀ orts 
+by corporate COP participants to achieve zero-CO2 emissions 
+factories and zero-CO2 emissions transport.
+The Act on the Rational Use of Energy (Energy Saving Act), 
+which went into eﬀ ect in April 2010, made companywide 
+reporting of energy use obligatory. This legislation spurred 
+full-ﬂ edged corporate eﬀ orts to determine the amount of 
+CO2 emitted by oﬃ ces, as well as other facilities, and enact 
+measures to reduce these emissions. However, measuring 
+the amount of energy used by PCs and other oﬃ ce 
+equipment was problematic, making speciﬁ c 
+countermeasures diﬃ cult to formulate.
+To address this situation, NTT DATA INTELLILINK 
+CORPORATION made an eco-management function a 
+standard part of NOSiDE Inventory Sub System/Asset 
+Management, its IT asset management and policy-based 
+network access control package software, providing an 
+eﬀ ective solution that enables companies to introduce 
+measures for reducing the use of electricity in the oﬃ ce. 
+Based on the data that it gathers on individual oﬃ ce PC use, 
+the system calculates the amount of electricity consumed by 
+each PC. Visualizing power consumption for each 
+organizational unit in this way facilitates the consideration 
+and introduction of energy-saving measures.
+The Japanese government is working to provide 
+organizations in ASEAN countries with information on 
+Japanese companies’ cutting-edge energy conservation and 
+control technologies, as well as promoting energy-saving 
+diagnosis at local companies and provide them with 
+information. As part of these eﬀ orts, the Ministry of 
+Economy, Trade and Industry sponsored the Asia Green IT 
+Seminar, held on February 23 and 25, 2010, in Singapore and 
+Thailand, attracting more than 150 participants at each 
+session. 
+Employees from NTT DATA, NTT DATA Institute of 
+Management Consulting and NTT DATA INTELLILINK 
+attended this seminar. In addition to oﬀ ering suggestions on 
+measures to address the facility-related and operational 
+issues that local data centers face, NTT DATA Group members 
+introduced groundbreaking energy-saving technologies for 
+data centers. 
+We will continue our active cooperation with 
+governmental agencies and industry organizations, in Japan 
+and overseas.
+On October 30, 2009, Japan’s Ministry of Internal Aﬀ airs and 
+Communications launched the “ICT Policy Task Force for a 
+Global Era” to study new ICT policies to help resolve the 
+economic and social issues facing Japan. 
+Members of NTT DATA and the NTT DATA Institute of 
+Management Consulting took part in the “Working Group to 
+Analyze the Impact of the ICT Sector on Climate Change by 
+2020.” This working group, under the “Committee for the 
+Study of Global Issues,” a committee of the task force, looked 
+at smart grids and other ways of using ICT. The group also 
+studied the introduction of new environmental legislation 
+and policies.
+Asia Green IT Seminar attracted more than 150 participants
+Note: For additional information, please refer to page 45.
+*3 Carbon Oﬀ set Products Project (COP): This project employs Kyoto credits, 
+which are certiﬁ ed by the United Nations in accordance with the Kyoto 
+Protocol, underpinning the reliability of carbon oﬀ sets.
+Supporting Greenhouse Gas Emissions Countermeasures
+Supporting environmentally friendly product 
+development and CO2 reduction through carbon 
+oﬀ sets
+Helping to Provide Information and Off er Proposals
+Leading-edge energy-saving technologies 
+introduced at the Asia Green IT Seminar
+Providing solutions that visualize energy savings 
+for individual PCs
+Proposing new ways to leverage ICT as part of a 
+Ministry of Internal Aﬀ airs and Communications 
+committee and working group
+NTT DATA CSR Report 2010 37
+NTT DATA and Its Stakeholders
+CSR Infrastructure
+NTT DATA and the Environment

@@ -1,0 +1,113 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Press Release:
+MUFG Bank, NTT DATA and NTT WEST
+Announce Successful All-Photonics Network
+Demonstration in Data Center Interconnection
+Leveraging IOWN technology to enhance the resiliency, efficiency, and agility of nextgeneration financial systems
+Impact
+Intra-region application deployment 
+and data migration
+Data backup and workload migration 
+between regions
+
+Two financial data center interconnection use cases
+* IOWN (Innovative Optical and Wireless
+Network): Next-generation communications
+and information infrastructure designed for
+ultra-high
+capacity,
+ultra-low latency and
+ultra-low power consumption.
+Business need
+Solution
+•
+As IT innovation enriches our lives, it has become a fundamental pillar of social infrastructure—alongside transport and power networks.
+•
+As the volume of data continues to grow exponentially, data handling requires the same reliability as other infrastructure types, supported by vast bandwidth and low-latency communication to realize a data-driven
+society.
+In financial systems, maintaining uninterrupted service—
+even during large-scale natural disasters—is a top priority. To
+achieve
+such
+resiliency,
+ultra-low
+latency
+communication
+enabling rapid switching to backup systems across distant
+locations
+is
+essential.
+Stable
+service
+continuity
+requires
+geographically-distributed data centers, which demand reliable,
+low-latency
+data
+connectivity
+to
+achieve
+energy
+efficient,
+flexible use of system resources.
+NTT DATA conducted a successful series of demonstration tests
+using IOWN* technology to address challenges related to digital
+transformation and next-generation financial systems, as a joint
+assessment with MUFG Bank, Ltd. and NTT WEST, Inc. The first
+assessment evaluated the live migration of a virtualized simulated
+financial system across multiple data centers within a 70km radius.
+The results showed system stoppages of one second or less when
+switching between locations. The second assessment evaluated
+database synchronization performance using a long-distance optical
+communication network, simulating distances ranging from 250 to
+2,500km.
+A significant reduction in delays and fluctuations was
+observed, showcasing capabilities that overcome the long-standing
+challenge of synchronizing database transfers across vast distances.
+NTT DATA will build on the results of these demonstration tests and
+continue exploring possible system configurations and the potential for
+IOWN technology to meet the diverse requirements of actual financial
+systems.
+Data centers in remote areas have traditionally relied on site
+switching for disaster recovery, but keeping standby systems
+running increases environmental impact. IOWN technology
+empowers
+each
+data
+center
+system
+with
+real-time
+data
+transfers and synchronization, enabling dynamic roles that
+support not only disaster recovery but also efficient resource
+utilization, while also contributing to the prevention
+of critical system downtime.
+(Under verification)
+Press Release:
+MUFG
+Bank,
+NTT
+DATA
+and
+NTT
+West
+Publish
+PoC
+Report
+on
+Inter-Data
+Center
+Connectivity Using IOWN APN
+Distributed Data Center Interconnection Using
+IOWN® Technology
+Japan
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Innovation Technology Division
+IOWN Innovation Office

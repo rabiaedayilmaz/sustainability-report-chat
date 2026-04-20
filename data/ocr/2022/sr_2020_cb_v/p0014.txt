@@ -1,0 +1,123 @@
+The network of Renfe, Spain’s national railway operator, 
+serves as the main transportation artery connecting that 
+country’s major cities. Major metropolitan areas also have 
+their own transportation networks, including metro and 
+buses, controlled by diﬀerent operators. 
+　　In cooperation with Siemens Mobility, NTT DATA EMEAL 
+has started developing and operating a MaaS digital platform 
+that connects various Renfe transportation services. This 
+system allows users to set their own travel plans, search for 
+seats in multiple transportation modes, make reservations, 
+and make payments all in one place. Once completed, the 
+platform will be available across all the country, including 
+such major metropolitan areas as Madrid, Barcelona, 
+Valencia, Bilbao, and Seville, and is expected to attract at 
+least 650,000 new rail passengers. Despite the rise in user 
+numbers, the eﬃciency of travel will increase, which we 
+expect to reduce congestion and expand the range of travel, 
+thus improving convenience for users.
+　　In addition, Europe is encouraging greater use of 
+railways, which produce relatively low CO2 emissions, as a 
+measure to combat climate change. The increased use of 
+railways will also contribute to a signiﬁcant reduction in 
+greenhouse gas emissions. Going forward, we will deploy 
+mobility-related data to provide new mobility services that 
+help meet the needs of users and create more opportunities 
+to go out.
+In Spain, a Mobility-as-a-Service (MaaS) platform is being rolled out that will unify seat reservations and ticket 
+arrangements for multiple public transportation and mobility services, such as trains, buses, and metro. The 
+platform promises to help improve the convenience of transportation in that nation. 
+Connecting customers with multiple 
+transportation services to achieve seamless 
+integration of travel and consumption
+2-fold increase
+in high-speed rail passengers by 2030 compared with current levels
+ (EU targets)
+Advances in digital technology are expediting our 
+evolution into a digital society. In this context, national and 
+local governments that provide administrative services 
+are moving in earnest to utilize the cloud, taking 
+advantage of the launch of Japan’s Digital Agency.
+ 
+NTT DATA oﬀers OpenCanvas for Government®, a cloud 
+service designed to help government information systems 
+use the cloud safely and securely. The service is 
+mission-critical (high availability/high reliability/high 
+performance) and guarantees conﬁdentiality. By also 
+combining various cloud platforms with ﬂexibility and 
+advanced features, such as improved agility and 
+scalability, OpenCanvas for Government® can provide 
+optimal cloud computing solutions required for 
+government information systems that support social 
+infrastructure. It can also be connected to various cloud 
+services provided by public and private organizations in a 
+secure and reliable manner, paving the way for cashless 
+and other new services—developed through collaboration 
+between government and ﬁnancial institutions—to 
+emerge.
+ 
+Going forward, we will promote cloud services and 
+create new digital services, not only for governments but 
+also for public institutions, in our quest to help realize a 
+digital society where all citizens can easily access a full 
+spectrum of government administrative services.
+By providing secure and reliable cloud environments, we support the digitization of public services and help realize a 
+society where all citizens can enjoy administrative services easily and conveniently at any time and from any place.
+Cloud service that promotes digitization 
+of government services
+Provides optimal 
+management services using 
+advanced digital technology
+Integrated 
+management cloud
+Support for bringing in 
+equipment necessary for 
+customer requirements 
+and patch control 
+OS/middleware operation 
+guarantee
+Cloud that 
+comes to you
+Transparent operations 
+through information 
+disclosure and audit 
+support, as well as 
+operational quality 
+based on dedicated 
+high-security zones and 
+personnel
+Highly reliable/
+available cloud
+Platform that can connect 
+SoE domains (resistant to 
+change) and SoR domains 
+(emphasizing reliability and 
+availability) within the 
+premises
+Best-mix cloud
+Provides and expands 
+SaaS functionality for 
+the public sector and 
+functionality for integration 
+with other companies’ 
+clouds and banks that 
+promote government 
+digitization
+Connected cloud
+60.0% (FY2018)
+Online usage of national government services 
+(percentage of online usage of services that can be provided online)
+Source: “Research on the Promotion of Digital Government, etc. (2021),” Ministry of Internal Aﬀairs and Communications
+Society | Inclusive Society
+Society | Inclusive Society
+Digital
+Accessibility
+Digital
+Accessibility
+Trusted
+Value Chain
+Case: OpenCanvas for Government®
+Case: MaaS platform
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

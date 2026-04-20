@@ -1,0 +1,61 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+5. System operation risk 
+ 
+Risk content and 
+potential impact 
+Some of the systems and services we provide function as key social infrastructure. If a failure occurs 
+during operation and a system or service is stopped, there could be a major impact on our clients’ 
+business and the lives of general users. Moreover, certain events, such as loss of our clients’ data, 
+could have an even greater impact. In some cases, the Group might be required to pay 
+compensation for damages, which could have a significant effect on its business results and financial 
+position. For this reason, we deem system operation risk to be a material risk. In addition, delays in 
+the deployment of systems and services could lead to a decline in the Group’s social credibility and 
+brand image. 
+While such a risk is unlikely to materialize, we cannot completely discount it. In particular, 
+failures caused by defects in commercially available products can take a long time to address. 
+Countermeasures 
+To ensure stable system operation and uninterrupted provision of services, the Group engages in 
+various activities aimed at preventing system failures and minimizing the impact of failures that 
+occur. For example, we actively collect and disseminate information on known product malfunctions 
+and countermeasure information on commercially available products, and we analyze the causes of 
+past malfunctions. We also share the results of cause analyses of past failures and recurrence 
+prevention measures with relevant in-house parties and conduct regular inspections using 
+checklists. In addition, we are building a contact system for failure responses, and we provide 
+training to address system failures. 
+6. Risk related to large-scale disasters and serious infectious diseases 
+ 
+ 
+ 
+Risk content and 
+potential impact 
+As some of the systems and services provided by the Group function as social infrastructure, we 
+have established a system for business continuity and conduct disaster drills in accordance with 
+government guidelines, while also monitoring the safety status of employees and others. 
+However, in the event of a major earthquake, a climate change catastrophe, or other large-scale 
+natural disaster, many of our systems and employees might be damaged, making it difficult for us to 
+provide services, which could have a significant impact on our clients’ operations and the lives of 
+general users. Such an outcome could possibly damage the Group’s social credibility and brand 
+image and incur significant restoration and other costs, which could significantly affect the Group’s 
+business results and financial position. Therefore, we recognize natural disasters as a potential risk. 
+In addition, an outbreak of a large-scale infectious disease, such as COVID-19, might lead to 
+infections among employees and/or prevent them from going to work, making it difficult to continue 
+providing our systems and services. 
+Although it is difficult to accurately predict the probability of these risks arising, we recognize 
+that they could affect the Group’s business results and financial position. 
+Countermeasures 
+With respect to our responses in the event of a disaster, our primary aims are to protect the safety 
+of employees and ensure business continuity. In the event of a disaster of a certain magnitude, we 
+will activate a business continuity plan and respond flexibly under a system in which our President 
+and CEO holds ultimate responsibility. In addition, to ensure business continuity, we will take 
+advantage of the COVID-19 pandemic to strengthen our online environment and conduct business 
+online where it is possible. This will ensure the safety of our employees and collaborators while 
+guaranteeing business continuity. 
+On the other hand, it is possible that new customer needs with respect to work-style innovation–
+related IT investments and digitalization could emerge and become increasingly apparent. In 
+response, we will fully deploy our expertise and industry knowledge in digital and other advanced 
+technologies that we have acquired through existing initiatives, as a provider of systems and 
+services that support social infrastructure, to foster the digitalization of our customers and society 
+as a whole and thus expand our business.

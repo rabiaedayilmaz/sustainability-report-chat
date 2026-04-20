@@ -1,0 +1,41 @@
+Internal Control
+ Maintaining and Continuously Strengthening Internal Control Systems
+ Implementation Status of Internal Audits
+ Education and Training Related to Internal Control Systems
+The NTT DATA Group builds and maintains internal control systems in accordance with a basic policy of always considering 
+risks arising from business activities and taking various types of measures to realize efficient implementation of equitable, 
+transparent business activities.
+Twice a year, we also convene meetings of the Internal Control Promotion Committee, which is tasked with assessing the 
+effectiveness of internal control systems and managing and furthering overall internal control. In addition, NTT DATA actively 
+conducts internal audits that focus on a range of different risks.
+Given continued global business expansion going forward, the Company will maintain efforts to strengthen the Group’s 
+overall internal control capabilities by further advancing efforts to establish global internal audit capabilities while introducing 
+efficient methods of auditing.
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent from operational divisions.
+In fiscal 2016, the Company audited in-house organizations, 10 domestic Group companies and 10 overseas Group 
+companies. This audit primarily focused on risks specific to the Company. These risks include bid rigging, dumping and other 
+corruption risks as well as overall information security. Also, the Company monitored the internal auditing activities of 24 Group 
+companies. 
+In addition, to expand and improve internal auditing of the Group as a whole, 83 domestic and overseas Group companies 
+conducted autonomous inspections based on unified audit items.
+In terms of new initiatives, we have also introduced a monitoring indicator system to detect indications of fraud before it 
+occurs, and we are expanding the functions of the system using CAAT (computer-assisted audit techniques) tools to analyze 
+data from various in-house information systems. This auditing system is already being applied to our internal organizations, 
+and we are seeking to advance the initiative by considering expanding its application to Group companies in Japan and 
+anticipating more of its deployment in our overseas Group companies as well.
+Going forward, NTT DATA aims to realize coordination with the internal audit divisions of domestic and overseas Group 
+companies and to advance measures to establish a global internal auditing system while increasing the quality and quantity 
+of internal audits.
+As an annual exercise, NTT DATA provides an e-learning course on internal control related to financial reporting in order to 
+emphasize the importance of internal controls and promote understanding among employees about the NTT DATA Group’s 
+policies and views. We plan to continue providing these courses.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

@@ -1,0 +1,155 @@
+FY2010
+FY2011
+FY2012
+Electricity use
+25.4
+21.8
+20.9 
+Gas/fuel use
+0.4 
+　0.3
+0.4 
+Company vehicle use
+0.2 
+　0.2
+0.2 
+Total
+26.0
+22.3 
+21.5 
+Greenhouse gas*
+FY2010
+FY2011
+FY2012
+Drainage amount
+
+Water resources
+FY2010
+FY2011
+FY2012
+Amount generated
+9,545
+7,263
+5,824 
+Recycled amount
+8,169
+6,348
+5,129 
+Final disposal amount
+
+Office waste
+FY2010
+FY2011
+FY2012
+Amount generated
+
+Recycled amount
+
+Final disposal amount
+
+Construction waste
+Within the NTT DATA Group
+Outside the NTT DATA Group
+Specified chlorofluorocarbon used
+for air conditioning systems
+FY2010
+FY2011
+FY2012
+Number of air conditioning
+system units using specified
+chlorofluorocarbon (CFC)
+
+Construction materials
+Energy
+FY2010
+FY2011
+FY2012
+Utility power (10,000 kWh)
+59,717
+56,618
+52,213
+Kerosene (kl)
+
+Light gas oil (excluding
+Company vehicles) (kl)
+
+A–C heavy oil (kl)
+
+City gas (10,000 m3)
+
+Gasoline (Company
+vehicles) (kl)
+
+Light gas oil (Company
+vehicles) (kl)
+
+Water resources
+FY2010
+FY2011
+FY2012
+Clean water consumption
+
+Gray water consumption
+4.1
+3.9 
+3.5 
+Paper resources
+FY2010
+FY2011
+FY2012
+Copy paper
+1,426 
+1,151
+
+Fliers, pamphlets, etc.
+for customers
+
+INPUT
+OUTPUT
+Business Activities
+(10,000 m3)
+(Tons)
+(Units)
+(10,000 tons of CO2)
+(10,000 m3)
+(Tons)
+(Tons)
+Sales
+Planning/design
+Development/
+testing
+Data center
+Installation at
+customer site
+Service operation
+Energy at customer site
+Greenhouse gas (CO2)
+Energy
+Scope of Environmental Impact Measurement
+Construction materials, cables, etc.
+NTT DATA’s CSR initiatives are 
+evaluated by domestic and 
+overseas research agencies 
+(August 2012) 
+Third-Party Evaluation 
+of NTT DATA’s CSR
+* CO2 conversion factor uses factors from each fiscal
+ year (CO2 emission factor provided by power companies)
+42 NTT DATA CSR Report 2012
+Dow Jones Sustainability Asia Pacific Index
+FTSE4Good Index
+Morningstar 
+Socially Responsible 
+Investment Index 
+oekom research AG 
+(NTT DATA has been graded as a 
+“Prime” leader in the Internet & 
+Software industry category.) 
+Data Compilation
+The NTT DATA Group’s Environmental Impact
+The environmental impact of the NTT DATA Group’s business activities derives chiefly from greenhouse gas emissions from energy 
+consumption centering on electricity.
+Measurement period: From April 1 to March 31 of the following year
+Measurement organization: Fiscal 2010 NTT DATA (all organizations), 65 Group companies (Japan only) / Fiscal 2011 NTT DATA (all organizations), 61 Group companies
+ 
+(Japan only) / Fiscal 2012 NTT DATA (all organizations), 65 Group companies (Japan only)

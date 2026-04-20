@@ -1,0 +1,104 @@
+CLOSE UP
+The Greening of Customers and Society
+NTT DATA disseminates information and proposes concepts on environmental impact reduction 
+through IT activities. We develop technologies and services that support customers’ 
+environmental protection activities.
+Trial operation of intermediary website designed to help 
+popularize CO2 emissions trading
+In recent years, the use of carbon oﬀ sets*1 has gained popularity as a way 
+for companies that cannot reduce carbon emissions through their own 
+eﬀ orts to conduct environmental preservation activities nevertheless. 
+However, companies that wish to purchase carbon credits often face 
+diﬃ culty in ﬁ nding appropriate sellers. These transactions tend to be large 
+in scale, and in Japan no systems are in place to simplify this process.
+To address this situation, in February 2010 NTT DATA completed the 
+development of a website for the intermediary trading of CO2 emissions. 
+In March and April 2010, on a trial basis the Company provided emissions 
+trading services to gauge the balance between supply and demand for 
+emission credits, and to shorten the transfer period by using the site to 
+trade Kyoto credits and other emission rights. This approach proved 
+successful in shortening the processing interval between application and 
+transfer from one month to two weeks. 
+Based on these results, NTT DATA plans to commercialize an 
+emissions trading intermediary service using this website in ﬁ scal 2011. 
+Going forward, we aim to utilize this site to attract numerous companies 
+and other organizations, thereby promoting carbon oﬀ sets and 
+contributing to achievement of Japan’s greenhouse gas reduction targets.
+Information systems are expected to reduce the 
+environmental impact of society as a whole by reducing the 
+need for transportation, delivery, and production of physical 
+media. In June 2010, the Green IT Promotion Council forecast 
+that Japan would achieve energy savings by IT equipment of 
+between 21.4 million tons of CO2 and 42.8 million tons of 
+CO2 per year by 2020, and that energy savings through IT 
+application would amount to between 68 million tons of CO2 
+and 137 million tons of CO2 per year. 
+In tandem with initiatives to promote the use of IT, the 
+NTT DATA Group is moving forward with environmentally 
+responsible system development. We have utilized the 
+Kankyo Shiro*2 environmental assessment system since 
+2006, enabling the evaluation and measurement of 
+environmental impact arising from the introduction and 
+application of systems above a prescribed size. In December 
+2009, we also set up a specialized team within the 
+Environmental Management Promotion Oﬃ ce to assess 
+environmental impact, and we are increasing the number of 
+assessments that the team handles. 
+We will continue to conduct in-house training on 
+assessing the environmental impact of information systems. 
+This will assist in environmentally responsible system 
+development and increase the number of solutions certiﬁ ed 
+with the NTT Group Solution Environmental Label (see page 
+16).
+*2 Kankyo Shiro: A system for assessing the environmental impact of 
+information systems developed by the NTT Information Sharing Laboratory 
+Group. The system calculates environmental impact reductions that can be 
+achieved through reduced transportation volume, equipment 
+digitalization, etc., resulting from system introduction.
+NTT Group Solution Environmental Label Certifi cation
+• Koufuri-Kun (NTT DATA BILLING SERVICE CORPORATION)
+• Pandora-AX system for electronic forms (NTT DATA BUSINESS BRAINS 
+CORPORATION)
+• u:ma Authenticated Print (NTT DATA)
+• LinkFlow, a trust business support ASP service that helps ﬁ nancial institutions 
+integrate the liquidation of receivables and management of payables (NTT 
+DATA)
+Intermediary website for 
+CO2 emissions trading 
+3. Emission credits
+ 
+Match application 
+ 
+amounts between 
+ 
+seller and buyer
+4. Sort, transfer
+2. Apply to 
+ sell specific 
+ amount
+1. Apply to 
+ purchase specific
+ 
+amount
+Payment
+Payment
+CO2 emission
+credits
+CO2 emission
+credits
+CO2
+CO2
+CO2
+CO2
+CO2
+Buyer
+Seller
+*1 Carbon oﬀ sets: Mechanism to oﬀ set CO2 emissions by 
+investing in clean energy and aﬀ orestation businesses that 
+protect woodland sinks.
+Emission Trading Service Structure
+Environmentally Responsible System Development
+Measuring the eﬀ ects of system introduction
+NTT DATA CSR Report 2010
+
+NTT DATA and the Environment

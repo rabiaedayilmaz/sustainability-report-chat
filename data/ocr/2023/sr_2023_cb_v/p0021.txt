@@ -1,0 +1,90 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA (Japan)
+Percentage of companies that have 
+implemented telework
+Proposing New Work Styles Leveraging 
+the Benefits of Real and Digital Realms
+Click here for 
+reference article
+With the increasing adoption of telework, a hybrid work
+model has emerged, offering employees the freedom to
+choose
+between
+telework
+and
+office-based
+work.
+However, this transition brings about various challenges,
+including communication among employees, operational
+efficiency, and ensuring information security. Addressing
+these
+multifaceted
+challenges
+requires
+careful
+consideration and solutions.
+NTT DATA has introduced Work Re:Invention, a novel
+approach to working that integrates cutting-edge digital
+technologies
+with
+the
+benefits
+of
+face-to-face
+communication. Through this approach, NTT DATA
+provides services aimed at enhancing productivity for
+companies and improving employee satisfaction with
+their work styles.
+The BizXaaS Office® service facilitates the balance
+between work-style reform and security measures by
+offering a resilient infrastructure rooted in the Zero Trust
+Network* concept, effectively mitigating security risks.
+In addition, we provide services that support the creation
+of an optimal work environment through the utilization of
+XR
+technology–enabled
+metaverse
+spaces,
+where
+meetings can take place virtually (telework) or in person
+(onsite/face-to-face); AI-driven knowledge sharing both
+internally and externally; and the collection and analysis of
+data concerning employee health and work situations.
+Our service has already been adopted and utilized by
+at least 10 companies, supporting many employees in
+achieving autonomous work styles.
+· In Japan, more than 50% of companies have introduced telework. However, considering the importance of addressing 
+communication and work efficiency issues when opting for a flexible work style, there is a declining trend among companies 
+without telework arrangements, with only 3.5% planning to introduce it in the future.
+55.2%
+(Source: 2022 Communications Usage Trend Survey released by the Ministry of Internal Affairs and Communications)
+(Source: 2022 Communications Usage Trend Survey 
+released by the Ministry of Internal Affairs and 
+Communications)
+Future
+of
+Work
+Smart X
+Co-Innovation
+Work
+Re:Invention
+Photo: maruco via Shutterstock
+* Zero Trust Network:
+A security framework that builds a security
+environment on the premise of not trusting any
+request
+or
+traffic,
+without
+considering
+the
+boundaries
+between
+internal
+and
+external
+networks.

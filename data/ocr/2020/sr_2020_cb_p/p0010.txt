@@ -1,0 +1,83 @@
+Compared to existing systems
+Up to 50% reduction
+Streamline administrative procedures for trade operations
+Blockchain technology helps improve 
+the efficiency of trade operations
+TradeWaltz® is a trade data sharing platform 
+that uses blockchain technology to allow trade 
+documents to be stored as reusable structured 
+data. T his ensures the authenticit y and 
+t r a n s p a r e n c y o f t r a d e d o c u m e n t s , a n d 
+dramatically improves eﬃciency by digitalizing 
+administrative procedures.
+Trading operations entail the ﬂow of all kinds of goods 
+and require many manual operations based on paper 
+documents during transactions. Such operations, 
+which includes the transcribing of documents and the 
+checking of consistency, incurs signiﬁcant costs. In 
+addition, as multiple parties are involved in 
+transactions across countries, the creation of a 
+system for the accurate and safe transfer of 
+information has been a common challenge that 
+transcends industry boundaries.
+ 
+To address these challenges, NTT DATA has led a 
+cross-industry consortium since 2017 with 18 
+trading-related companies from varying industries, 
+including trading, banking, insurance, and shipping. 
+Members have examined how to improve the 
+eﬃciency and safety of trade operations using digital 
+technology, and conducted Proofs of Concept (PoC) 
+both in Japan and ASEAN countries. 
+ 
+In 2020, NTT DATA started full-scale operation of 
+TradeWaltz®. In October 2020, seven Japanese 
+companies—NTT DATA Corporation, Mitsubishi 
+Corporation, Toyota Tsusho Corporation, Tokio Marine 
+& Nichido Fire Insurance Co., Ltd., MUFG Bank, Ltd., 
+Kanematsu Corporation and Sompo Japan Insurance 
+Inc.—agreed to jointly invest in a company managing 
+the platform.
+ 
+Customers introducing TradeWaltz® can cut their 
+workload by up to 50% compared to existing methods. 
+This includes large-scale cuts in trade-related 
+paperwork and contactless electronic data exchange, 
+all in response to COVID-19.
+ 
+In the future, we will aim for 100% digitalization of 
+trade documents while helping realize safer, more 
+secure, and more eﬃcient trade transactions.
+Freight
+Share and utilize electronic data using
+blockchain technology (Distributed Ledger) 
+®
+Importer
+(buyer)
+Export 
+(seller)
+Carrier
+Freight Forwarder
+Customs
+Customs
+Certiﬁcation
+Authority
+Certiﬁcation
+Authority
+Carrier
+Freight Forwarder
+Insurance
+company
+Issuing bank
+BANK
+Negotiation (advising)
+bank
+BANK
+Beneﬁts of using blockchain in trade operations 
+(after introducing the platform)
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

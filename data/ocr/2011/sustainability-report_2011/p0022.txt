@@ -1,0 +1,110 @@
+Platform for Medical Information Linking among 
+Multiple Medical Institutions
+In recent years, against the backdrop of a falling birthrate and 
+aging population, as well as the uneven distribution of medical 
+doctors, demand has emerged for the creation of regional 
+medical networks to provide healthcare by linking multiple 
+hospitals. NTT DATA has addressed this need by introducing 
+a platform for medical information linking. Our platform 
+connects multiple medical institutions via a network, sharing 
+medical records, test results and pharmacological information. 
+As a result, patients can receive the same high quality of care 
+regardless of what hospital conducts their consultation. 
+NTT DATA aims to contribute to the level of healthcare by 
+encouraging the proliferation of such regional medical networks 
+throughout Japan.
+Local clinics and other facilities
+Core regional hospitals and other institutions
+Platform for medical information linking
+Application service
+Platform services
+Chronic disease management program
+Single sign-on
+Access management
+ID consolidation
+Inspection
+ results
+Pharmacy 
+information
+Medical 
+checkup 
+information
+Medical 
+exam 
+information
+・
+・
+・
+In April 1992, NTT DATA established a Social Contribution 
+Promotion Office to plan and promote social contribution 
+activities. Since then, we have conducted activities targeting 
+education, welfare and contributions to regional and 
+international communities, as well as the natural environment, 
+culture and the arts. We are extending activities to cultivate 
+volunteer awareness among employees, key off our core 
+businesses and promote Group expansion. (See page 28 for 
+information on education and cultivating the next generation.)
+ Supporting the World’s Disadvantaged Children 
+through a Heartwarming Christmas
+Each December, NTT DATA holds a charity auction on its 
+intranet to sell unused school supplies and daily necessities. At 
+the same time, we collect monetary donations and give these, 
+along with funds raised in the charity auction, to volunteer 
+organizations that support disadvantaged children around the 
+world. In fiscal 2011, we raised ¥590,000.
+Moreover, since fiscal 2009 we have held ongoing internal 
+Fair Trade*1 coffee tasting and sales events. In fiscal 2011, we 
+also began selling Fair Trade chocolate. With some employees 
+already committed to making purchases each year, these 
+sessions deepen employee understanding about global issues 
+and Fair Trade products.
+*1 Fair Trade: Sustainable transactions at prices set slightly higher than standard 
+international market prices aim to promote the independence and improve the 
+economic and social positions of producers in developing countries. In addition, 
+Fair Trade demands consideration of working conditions of producers and 
+the environment.
+Our goal is to build an information 
+platform that will help people 
+remain healthy.
+In the United States and Europe, networks are in place to manage 
+citizens’ medical information in an integrated fashion. No such 
+nationwide systems are in place in Japan, where methods 
+of information exchange are inconsistent among different 
+institutions. We are working to resolve this issue by creating 
+a platform that will allow medical institutions throughout 
+the country to share information. As the Japanese welfare 
+and nursing care sectors expand, we aim to contribute to the 
+health of Japan’s people by supporting the construction of an 
+information platform.
+Kazunari Takahei 
+(left)
+Takafumi Kimura 
+(right)
+Market Development Group
+Strategic Planning Office
+Quality Life Sector
+NTT DATA CORPORATION 
+Promotion of Social Contribution Activities
+Promoting Activities that Contribute to the 
+Realization of a Healthy Society
+Developer Comment
+Overview of Platform for Medical Information Linking
+ Using Money Generated through the Sale of 
+Used Books Accumulated throughout the Group 
+to Build Libraries in Sri Lanka
+NTT DATA participated in the BOOKS TO THE PEOPLE Project 
+hosted by BOOKOFF CORPORATION LTD. in August 2010. 
+Money raised from the sale of used books was donated via 
+Room To Read, an NGO, to help build libraries in Sri Lanka. 
+By also calling Group companies into the effort of gathering 
+up used books at offices and homes, we accumulated some 
+5,000 books during the course of a month, which amounted 
+to a donation of around ¥220,000. We also gathered books 
+in January 2011, accumulating some 1,560 more books and 
+resulting in a donation of approximately ¥62,000.
+• Holding Joint Forums with Other Companies in the Industry
+• Welfare • Regional Communities • International Contribution 
+• Natural Environment • Culture and the Arts 
+• Support for Employee Volunteer Activities • Initiatives by Group Companies
+Additional Topics on Website
+22 NTT DATA CSR Report 2011

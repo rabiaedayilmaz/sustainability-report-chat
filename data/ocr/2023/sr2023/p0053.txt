@@ -1,0 +1,84 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Acquiring ISO 14001 Certification 
+As of October 31, 2022, a total of 29 companies had acquired ISO 14001 Group certification, whereas two other companies and 
+seven brands had gained independent certification. As a result, companies with ISO 14001 certification accounted for 49% of 
+Group net sales, and those with independent certification accounted for 6% of net sales, for total coverage of 55%. 
+The environmental management system of each company is audited annually by an auditing organization to maintain 
+ongoing certification. 
+ 
+ Status of ISO 14001 Certification (as of October 31, 2022) 
+ 
+NTT DATA Group Entities That Have Acquired Group Certification 
+NTT DATA Corporation 
+NTT DATA INSTITUTE OF MANAGEMENT CONSULTING, Inc. 
+NTT DATA HOKKAIDO Corporation 
+NTT DATA CCS CORPORATION (Head Office, data center) 
+NTT DATA TOHOKU Corporation 
+JSOL Corporation (Tokyo Head Office) 
+NTT DATA SHINETSU Corporation (Head Office, Niigata Branch) 
+NTT DATA SYSTEM TECHNOLOGIES INC. 
+NTT DATA TOKAI Corporation (Head Office) 
+NTT DATA SEKISUI SYSTEMS Corporation 
+ (Osaka Head Office, Tokyo Head Office) 
+NTT DATA HOKURIKU Corporation 
+NTT DATA INTELLILINK Corporation 
+NTT DATA KANSAI Corporation (Head Office) 
+NTT DATA SOFIA Corporation (Head Office) 
+NTT DATA CHUGOKU Corporation (Head Office) 
+NTT DATA DAICHI Corporation (Head Office) 
+NTT DATA SHIKOKU Corporation (Head Office, Kagawa Office) 
+DACS Co., Ltd. (Head Office, Tokyo Branch, Osaka Data Center, BPO Center) 
+NTT DATA KYUSHU Corporation 
+NTT DATA BUSINESS SYSTEMS Corporation 
+NTT DATA i Corporation 
+NTT DATA FRONTIER Corporation 
+NTT DATA WAVE Corporation 
+NTT DATA MANAGEMENT SERVICE Corporation 
+ (Head Office, Tokai Branch, Kansai Branch) 
+NTT DATA SMS Corporation 
+NTT DATA UNIVERSITY Corporation 
+NTT DATA CUSTOMER SERVICE Corporation (Head Office) 
+XNET Corporation (Head Office) 
+NTT DATA NJK Corporation (Head Office) 
+ 
+NTT DATA Group Entities That Have Acquired Certification Independently 
+Japan Information Processing Service Co., Ltd. (JIP) 
+NTT DATA SPAIN ENGINEERING AND OPERATION 
+NTT DATA MSE CORPORATION 
+NTT DATA EUROPE & LATAM GREEN ENGINEERING 
+NTT DATA Spain, S.L.U and Affiliates 
+NTT DATA ROMANIA S.A. 
+aunav 
+NTT DATA UK Limited 
+NTT DATA ITALIA S.p.A. 
+ 
+ 
+ Internal Environmental Audits 
+NTT DATA Group companies that have acquired ISO 14001 certification periodically conduct internal environmental audits to 
+verify conformance with ISO 14001 specifications and PDCA cycle functionality. 
+For internal audits of Group EMS organizations, in fiscal 2022 one actual audit was performed by external experts and 
+internal environmental auditors from Group EMS organizations, and one self-audit was performed by internal environmental 
+auditors on their own organizations. We also hold meetings before and after audits to confirm audit items and the status of 
+Group-wide environmental management systems, as well as to share examples of recommended organizational activities and 
+areas for subsequent improvement. In these ways, we work continuously to improve the Group’s environmental activities. 
+NTT DATA Group EMS organizations are required to elect at least one internal auditor. Our audit system includes 97 internal 
+environmental auditors (as of August 31, 2023). Selected internal auditors are invited to participate as members of audit teams 
+in the internal audits of other organizations so that they can learn about the successful activities of such organizations and utilize 
+them to improve their own activities. 
+To implement more appropriate and effective internal environmental audits, our internal environmental auditors share their 
+expertise with each other. We also actively foster internal environmental auditors to improve their medium- to long-term 
+capabilities by, for example, holding study sessions with outside experts. 
+ 
+ Results of Internal Environmental Audits in Fiscal 2022 
+Implementation Period 
+Actual audits: July 8–29, 2022; Self-audits: Coordinated by each organization 
+Target 
+organization/company 
+NTT DATA Group Corporation and NTT DATA Japan: 
+Actual audits: 8 organizations, 4 buildings; Self-audits: 21 organizations, 12 buildings 
+Group companies in Japan: Actual audits: 12 companies 
+Audit results 
+Actual audits: 2 cases of non-compliance, 15 cases of room for improvement, 36 recommendations 
+Self-audits: 3 cases of non-compliance, 20 cases of room for improvement, 13 recommendations

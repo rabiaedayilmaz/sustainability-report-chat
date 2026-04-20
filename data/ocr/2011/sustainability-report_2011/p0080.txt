@@ -1,0 +1,49 @@
+Paradigms for the 
+Global Environment 【Additional Topics】 
+NTT DATA CSR Report 2011 34/67 
+ 
+ 
+ 
+Green purchasing through corporate stance and products 
+We have established assessment criteria on environmental preservation and the 
+eco-friendliness of products and services as factors in procuring and selecting products and 
+services, in addition to such traditional criteria as price and quality assessment. These 
+values represent standards in selecting business partners. 
+ 
+ 
+ 
+ 
+The Greening of the NTT DATA Group 
+・Reducing Greenhouse Gas Emissions 
+In fiscal 2011, we worked toward the goal of reducing greenhouse gases in terms of basic 
+units of sales by 10% compared with fiscal 2006 levels. 
+ 
+In pursuit of visualization of energy saving effects in offices, we have developed a 
+system, called EneMotta, to display hourly and daily power consumption by floor and 
+resident organization on our intranet. This system went online for two major urban buildings 
+from fiscal 2011. 
+ 
+At data centers, we fixed the number of air conditioners in operation based on the 
+amount of heat emitted and transmitted by their machine rooms, turning off air conditioners 
+not needed for cooling to reduce the energy consumed in operating their fans. 
+ 
+However, as we were unable to reduce power consumption as planned at several 
+sites in Japan that we operate in leased buildings, in fiscal 2011 our CO2 emissions 
+amounted to 297,552 tons of CO2, slightly higher than in the preceding fiscal year. In terms 
+of basic units of sales, this amounted to a 9.9% reduction from fiscal 2006 levels, falling just 
+short of our target. 
+ 
+For fiscal 2012, we have set new reduction targets at a 15% decrease compared 
+with fiscal 2006 levels, which takes into account the effect of summer power-saving 
+measures. We aim to achieve this goal by operating data centers more efficiently, upgrading 
+air conditioning equipment, making energy savings more “visible” at offices and through the 
+thorough implementation of summer power-saving measures. 
+ 
+・Reducing Waste for Final Disposal 
+In fiscal 2011, we revised our targets for reducing waste for final disposal from being in 
+terms of basic units of sales to a total final disposal amount. We also changed the base year 
+to fiscal 2009, as this was the year before we commenced environmentally oriented 
+management. We then set our goal for fiscal 2011 as a 12% reduction in the final disposal 
+amount, compared with fiscal 2009 levels. 
+Promotion of Green Purchasing
+Fiscal 2011 Results and Medium-Term Targets

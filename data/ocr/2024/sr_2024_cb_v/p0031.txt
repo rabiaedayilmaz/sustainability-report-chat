@@ -1,0 +1,133 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Security Outsourcing Services with Global Capabilities from Rule Design, Setting 
+Security Policies and Training, to Advanced Operations in SOC/CSIRT
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Cloud & Infrastructure Technology Department
+UnifiedMDR for Cyber Resilience
+Smart X
+Co-Innovation
+Community
+Engagement
+Future of
+Work
+• Global economic losses from cyberattacks in 2020 were estimated at around USD 945 billion. In Japan, 70.9% of companies have experienced cyberattacks over the past three years.
+The average total damage from cyberattacks is approximately JPY 171 million. Organizations hit by ransomware face average losses of around JPY 220 million. (Sources: The Hidden
+Costs of Cybercrime, McAfee; Security Maturity and Incident Survey 2024, Trend Micro)
+• Cyberattacks on partners, not just a company itself, pose a significant supply chain risk that threatens business continuity.
+Business need
+Cyberattacks are becoming more sophisticated and
+complex, making it difficult to achieve complete protection.
+The emphasis is on swiftly detecting, responding to, and
+recovering from incidents to minimize damage. Faced
+with
+the
+growing
+threat
+of
+ransomware*
+attacks,
+businesses must quickly check if their critical data is
+encrypted and take necessary steps to strengthen their
+defenses.
+In addition, as business operations expand globally and
+industry
+regulations
+evolve
+worldwide,
+the
+need
+for
+advanced security measures on a global scale has
+become urgent. To address this situation, companies
+need to improve global security governance and hire
+security experts with advanced skills. However, many find
+it hard to do this solely with in-house resources.
+Solution
+Seeing cyberattacks as a key business risk, NTT DATA is
+strengthening
+its
+global
+security
+governance
+efforts,
+leveraging 15 years of experience in incident response and
+security expertise gained from building and managing a
+zero-trust environment used by 190,000 people across 59
+countries and regions.
+UnifiedMDR for Cyber Resilience is a global security
+service that leverages NTT DATA’s extensive security
+expertise.
+Highly
+skilled
+security
+specialists
+provide
+comprehensive
+support,
+from
+policy
+development
+to
+security operations and improvements.
+By using this service, companies with global operations
+can
+shift
+from
+site-specific
+security
+planning
+to
+a
+headquarters-led approach, ensuring consistent measures
+across all locations.
+In fall 2024, NTT DATA launched new services, including
+insider threat protection and ransomware protection, and
+will
+continue
+to
+enhance
+its
+services
+and
+improve
+cybersecurity to contribute to greater safety and security for
+its customers and society.
+Impact
+Around 7,500 security specialists
+offering global support through
+a single point of contact
+Large corporations/multinational corporations
+• Developing a global policy that 
+includes multiple locations
+• Internal fraud, 
+accident/whistleblower response
+• Business Continuity Plan (BCP) 
+measures
+• Compliance with various laws and 
+regulations at global locations
+Consulting
+Solution development
+SOC
+CSIRT
+Seamless services across all stages, from consulting to
+development, management, and improvement
+Cybersecurity
+NTT DATA Group
+Approx. 7,500 people
+NTT DATA security specialists
+*Ransomware
+A malicious program that infects computers or other devices, encrypts
+stored data to render the device unusable, and demands a ransom
+for data recovery.
+• Security monitoring, incident 
+response, and solution 
+implementation support, including 
+global locations
+• Post-incident response support 
+after incident response concludes

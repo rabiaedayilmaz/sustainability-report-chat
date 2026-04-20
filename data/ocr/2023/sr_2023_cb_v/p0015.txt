@@ -1,0 +1,55 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Click here for 
+reference video
+NTT Belgium (Belgium)
+Amount of CO2 emission reduction by 
+optimizing logistics
+Efficient Waste Collection and Cleaner Cities Through 
+AI-Powered Prediction of Recycling Container Fill Levels
+· In Belgian cities, citizens can dispose of waste in “recycling parks,” but it poses challenges when 
+containers reach full capacity, such as an unsightly landscape and illegal dumping.
+· There are not enough collection workers to handle the amount of waste generated, necessitating 
+improvements in convenience through digitalization.
+Circular 
+Economy
+Future
+of
+Work
+AI-based 
+Recycling Parks
+Before (left) and after (right) improvements at a recycling park
+Belgian cities have around 550 recycling parks where
+residents can dispose of their garbage in large recycling
+container bins. However, when these containers are full,
+it leads to littering in the surrounding areas and even
+illegal dumping on streets and elsewhere.
+NTT
+Belgium
+utilizes
+AI
+technology
+for
+waste
+container detection and monitoring, reading the fill level
+of containers in real-time 24 hours a day. By analyzing
+past data alongside current readings, it predicts the
+remaining time until the containers are full. This enables
+prediction of the optimal timing for waste retrieval and
+collection from the containers, thus preventing overflow
+and enhancing the convenience for city residents.
+It also allows waste collection companies to streamline
+collection operations by enhancing the precision of waste
+collection vehicle scheduling. This not only minimizes fuel
+costs and CO2 emissions from collection vehicles but also
+aids in optimizing recycling container collection.
+Going forward, we aim to apply this technology to
+other areas and industries to contribute to improving
+resource allocation, enhancing operational efficiency,
+and reducing environmental impact.
+6,132.5t/year
+In the case the logistics of one truck were optimized by 
+5% in each of the 550 recycling parks in Belgium

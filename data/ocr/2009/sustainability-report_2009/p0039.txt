@@ -1,0 +1,121 @@
+In fiscal 2009, we introduced a solar 
+power system and energy-saving airconditioning system with a built-in seismic 
+isolator “aisle-capping*6” system. As part 
+of our efforts toward data center energy 
+efficiency, we conducted testing on a highvoltage direct current power supply in 
+January 2009. We introduced this service and 
+raised awareness at the Green IT Pavilion, an 
+exhibition facility launched to coincide with 
+the July 2008 Lake Toya Summit.
+Going forward, we will cultivate technical 
+knowledge and expertise regarding energy 
+efficiency in our data centers through the 
+ongoing verification of elemental technologies. 
+As a member of the Green Grid Association*7, 
+we also will participate in data center issue 
+resolutions and the formulation of effective 
+benchmarks from a global perspective.
+Saving and Using Natural 
+Resources Efficiently
+Material flow cost accounting (MFCA*8) 
+based consulting services to assist 
+improvements in manufacturing
+Since April 2009, NTT DATA BUSINESS 
+CONSULTING CORPORATION (currently 
+QUNIE CORPORATION) and NTT DATA SEKISUI 
+SYSTEMS CORPORATION have provided an 
+MFCA consulting service that contributes to 
+environmental countermeasures and cost 
+reductions through advice and proposals 
+mainly to domestic manufacturers.
+This service focuses on the operational 
+improvements and the steady introduction 
+of IT systems. We help realize efficient 
+environmental management through 
+the deployment of the MFCA execution 
+infrastructure with specialized tools, the 
+infrastructure to conduct emission trading 
+and the PDCA cycle, resulting in the ongoing 
+visualization of loss costs and CO2 emissions 
+for manufacturing processes.
+Related website: MFCA manufacturing improvement 
+support service (Japanese only)
+ 
+http://www.nttd-bc.jp/product/mfca2.html
+Contributing to office paper usage 
+reduction with an authenticated 
+print solution
+In May 2009, NTT DATA began offering 
+the inexpensive u:ma Authenticated Print 
+solution for multiple vendors. Using the 
+u:ma-G card reader, which can be used by a 
+variety of IC cards, the user is authorized to 
+easily print only the necessary material. This 
+contributes to preventing the waste of printer 
+paper resulting from errors and reduces paper 
+use by 20% (based on test figures provided 
+by existing NTT DATA customers and other 
+publicly announced results).
+u:ma authorization box and u:ma-G IC card reader
+Our metropolitan data center
+Solar power system
+High-voltage direct
+current power supply
+Virtualization technology
+High-efficiency
+rack design
+High-efficiency air
+conditioning design
+G
+DC power
+supply
+IT equipment
+DC
+Battery
+AC DC
+CPU
+Major Initiatives and Technologies Employed in the Green Data Center
+*5 Shared IT platform service
+Rather than the conventional 
+approach of having IT 
+infrastructures for each system, 
+this low-cost, simple and stable 
+system shares an IT infrastructure 
+over multiple systems.
+*6 Aisle-capping
+A technology to control airflow 
+to realize improved cooling 
+by physically separating hot 
+exhaust air from IT equipment 
+from cold air provided to 
+IT equipment. This physical 
+separation is achieved by 
+covering the top and the 
+ends of aisles with a patented 
+invention of NTT Facilities.
+*7 Green Grid Association
+A global consortium of IT 
+companies and professionals 
+seeking to improve energy 
+efficiency in data centers 
+and business computing 
+ecosystems. In December 
+2007, NTT DATA joined this 
+association, which seeks to 
+standardize throughout the 
+industry a common set of 
+metrics, guidelines and indices.
+*8 MFCA
+Material flow cost accounting 
+is a management accounting 
+method that assists cost 
+reductions and environmental 
+countermeasures. At present, 
+the Ministry of Economy, Trade 
+and Industry recommends 
+that Japanese manufacturers 
+adopt this practice.
+NTT DATA and Its Stakeholders
+NTT DATA and the Environment
+CSR Infrastructure
+NTT DATA CSR Report 2009 39

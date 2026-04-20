@@ -1,0 +1,104 @@
+As the global population increases, demand for meat as 
+a whole is increasing. In Japan, where about half of the 
+domestic pork consumption depends on imports, the 
+importance of a stable supply is increasing. On the other 
+hand, the pig farming in Japan has become large-scale, 
+and the number of pigs per household is increasing. 
+However, the skilled and experienced pig breeders are 
+aging, and due to this, the reduction of labor load and the 
+transfer of breeding techniques are challenges. Against this 
+background, the NH Foods Group and the NTT DATA Group 
+have been jointly developing a pig farming support system 
+“PIG LABO®” since 2018 as part of the “Smart Pig Farming 
+Project” utilizing AI and IoT, with the goal of completion in 
+2029.
+In the pig farming industry, there are various processes 
+such as the breeding department, training department, and 
+further shipment and distribution. Therefore, it is important 
+to carry out optimum breeding and management.
+“PIG LABO®” uses digital equipment to collect data on 
+the piggery environment and pig behavior, and the data is 
+analyzed by AI. We aim for high-precision breeding 
+management navigation. Visualized data and 
+high-precision breeding management navigation will 
+reduce the labor load of breeding staﬀ and create 
+an environment where anyone can achieve the breeding 
+techniques close to those of skilled workers.
+It is also expected to reduce stress on pigs during the 
+growing process and improve the eﬃciency of feed and 
+energy consumption, thereby enhancing the sustainability 
+of the pig farming industry.
+“PIG LABO® Breeding Master”, which is now on trial 
+sale, is a service within “PIG LABO®” that provides 
+an “estrus detection function” for breeding of female pigs. 
+It reproduces the estrus judgment know-how of breeding 
+staﬀ with expert skill and experience using AI. Estrus can 
+be conﬁrmed through AI from a camera installed in the 
+piggeries, and breeding staﬀ can conﬁrm the daily estrus 
+probability for each sow from a PC or tablet terminal. This 
+greatly reduces the monitoring of pigs by a person, which 
+was required for a long period of time, and is expected to 
+reduce the number of operations by breeding staﬀ related 
+to reproduction. It is also possible to maintain a stable and 
+high production level that does not depend on the skill level 
+of workers.
+Through the “Smart Pig Farming Project”, we will be 
+able to change our conventional pig farming that relies on 
+Realizing sustainable pig farming through 
+“Smart pig farming” utilizing AI
+intuition and experience. Not only will we solve the 
+challenges of reducing the labor load and the breeding 
+techniques, we will also be able to raise pigs comfortably 
+and eﬃciently, and we will be able to raise pigs in a way 
+that is friendly to the global environment. 
+As the stable supply of pork in Japan is required, the aging of pig farmers, as well as the reduction of the labor load 
+and the transfer of breeding techniques have become issues. In response to these challenges, the NH Foods Group 
+and the NTT DATA Group are jointly developing PIG LABO®, a pig farming support system, as part of the “Smart Pig 
+Farming Project” utilizing AI and IoT, with the goal to complete it in 2029.
+Under the basic theme of “Joy of Eating,” our company creates a culture that marks an epoch and 
+contributes to society. Based on this corporate philosophy, we are developing various businesses, 
+including meat production and food manufacturing and sales.
+As our ideals for 2030, based on the vision “Unleash new potentials for protein,” we are working 
+to resolve important social issues such as stable procurement and supply of proteins. PIG LABO® is 
+being developed as a system to support pork production to solve these important problems. Not 
+only pig farming, but also the livestock industry, which is upstream of meat production, is often 
+dependent on the intuition and experience of employees. As the number of workers in primary 
+industries continues to decrease, securing human resources and passing on technologies that 
+require experience are major issues. We believe that this system, which supplements the 
+experience of workers and visualizes the behavior and data of pigs that humans have not been able 
+to observe until now, optimizes breeding and leads to healthier rearing. At the same time, I expect 
+that it will lead to improvements in farm production performance and proﬁts, as well as human 
+resources development and new ways of working.
+PIG LABO® aims to create a new form of pig farming that is friendly to pigs, people, and the 
+earth, based on the basic concept of “Unleash new potentials for pig farming.” We hope that PIG 
+LABO® will contribute to the livestock industry in Japan and realize sustainable livestock production.
+NH Foods Ltd.
+Research and 
+Development Center
+Promoter
+Shin Sukegawa
+VOICE
+-79%
+Number of estrus check operations
+(Results of a 6-month comparative test at a test farm of the NH Foods. As of October 2022)
+Shipment and distribution
+Stable supply of high-quality pork
+Mating and pregnancy
+Breeding at the best time
+Sow
+Pork
+Delivery and feeding
+Good delivery
+Healthy piglets
+Development
+Healthy development
+Fattening
+Shipped in the 
+best condition
+Economy | Clients’ Growth
+Future of
+Work
+Case: PIG LABO®
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

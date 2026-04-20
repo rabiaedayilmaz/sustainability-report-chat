@@ -1,0 +1,43 @@
+【Additional Topics】 
+NTT DATA CSR Report 2011 64/67 
+ 
+ 
+ 
+Adopting measures for the prevention of information leakage for all PCs 
+used by employees in their work 
+As a technological measure to ensure thorough prevention of information leakage, since 
+November 2005 NTT DATA has installed information leakage solution software, Total 
+Security Fort (TSF), on the approximately 30,000 PCs used by NTT DATA employees in 
+their work. 
+ 
+TSF can micromanage confidential data handling on an individual PC level by restricting 
+the use of external hard disks and other external memory devices and the write capability to 
+CD-ROMs, USB memories and other compact portable media, prohibiting running of Winny 
+and other P2P software and other imposing other restraints. Furthermore, TSF allows for 
+flexible operations. For example, controls can be removed, such as by allowing information 
+to be taken outside the Company as needed, subject to managerial permission. 
+ 
+As a result of these measures, NTT DATA provides benefits on two fronts: it 
+prevents loss and theft of external memory media and information spillage or loss from 
+within the Company arising from Winny and other software, while its operating flexibility 
+provides active information utility and sharing. 
+ 
+Replacing PCs with thin-client terminals for transportation outside the 
+Company 
+Since fiscal 2008, NTT DATA, in principle, has replaced PCs with thin-client terminals for 
+work that involves transportation outside the Company, such as conducting sales activities. 
+ 
+Thin-client terminals are PCs that function by connecting to in-house networks via 
+the Internet. No work-related data is saved to the terminals themselves. Data also cannot be 
+written to USB memories and other external devices. These features radically reduce the 
+risk of information leakage in the eventuality of loss or theft. We are also using telework as a 
+facet of our workstyle innovation. 
+We employ a system whereby data transferred through specialized services is not saved 
+on the terminal when accessing our in-house servers via mobile phones. A similar system 
+for not saving data when using smartphones was installed in May 2011. 
+We will investigate the introduction of technological measures for information safety 
+applications. 
+ 
+ 
+ 
+Application of Security Technologies

@@ -1,0 +1,76 @@
+T O P I C S
+NTT DATA conducts annual customer satisfaction surveys 
+because it believes that sustainable growth stems from a 
+company’s customer orientation.
+During fi scal 2010, we distributed 289 questionnaires to 
+154 customers, with a response rate of 93%, and conducted 
+interviews with 60 customers. Results revealed that overall 
+average values achieved the target score of 7.0. Questions 
+relating to changes in service levels indicated that more than 
+60% of customers noted an improvement from the previous 
+fi scal year. In addition, the interviews showed that 
+approximately 80% of customers appraised our services as 
+passable, while the remaining 20% would like to see us 
+making proactive proposals from the perspective of business 
+strategies and sharing knowledge within the Group. 
+During fi scal 2011, we will strive to further boost 
+customer satisfaction through our system of awards and 
+training to enhance action plans for improving customer 
+satisfaction.
+To incorporate universal design*1 (UD) into information 
+systems, we have adopted accessibility and usability from 
+the system planning and requirement defi nition stages, and 
+user-centered design in the system development process.
+During fi scal 2010, we confi rmed the eff ectiveness of 
+our prototyping techniques and tools for system 
+development by applying them to approximately 30 
+projects. 
+Moreover, three members of our staff gained Human 
+Centered Design Specialist*2 qualifi cations accredited by the 
+specifi ed nonprofi t Human Centered Design Organization. 
+We plan to continue to increase the number of employees 
+with universal design knowledge and skills.
+Through continued promotion of these initiatives and 
+response to the August 2010 amendments to JIS X 
+8341-3:2010, we aim to provide more convenient, easy-touse systems with screen- and user-friendly environments. 
+
+6.2
+
+6.3
+6.7
+6.8
+(Fiscal year)
+Note: Average value for each survey item (maximum of 10 points)
+7.0
+Secure OS function developed by NTT DATA incorporated into Linux as a standard feature
+In June 2009, TOMOYO Linux, a secure OS function developed by NTT DATA, was formally adopted as 
+a standard feature by Linux. 
+Linux is open-source software that is distributed free of charge. It is an operating system that 
+can be used and extended by anyone. Widely deployed worldwide, with applications including 
+mobile telephones, home electrical appliances and other digital equipment, Linux development is 
+conducted by developers in the network known as the Linux community.
+NTT DATA has submitted proposals and has continuously appealed at international conferences 
+in terms of the features and necessity of TOMOYO Linux. As a result, it became the third standard 
+Linux security function in the world to be adopted, and the fi rst in Japan. In September 2009, 
+the TOMOYO Linux development project received a certifi cate of appreciation from the head of 
+the Ministry of Economy, Trade and Industry Commerce and Information Policy Bureau for its 
+contribution to the formation of an advanced specialist community in Japan.
+NTT DATA will continue its eff orts to realize a safe and secure society that includes the fi eld of 
+open-source software. 
+Receiving a certifi cate of appreciation 
+from the head of METI’s Commerce 
+and Information Policy Bureau for the 
+achievements of TOMOYO Linux
+Improving Customer Satisfaction
+CS Survey Evaluation Results 
+(Points)
+Approaches Involving Universal Design
+*1 Universal design: Design aiming for ease of use by all people, irrespective 
+of age, gender, nationality and disability status.
+*2 Human Centered Design Specialist: A qualifi cation system introduced in 
+December 2009 to recognize specialists practiced in human centered 
+design working in product and system development and other fi elds. 
+Note: For additional information, please refer to page 45.
+Linking CS surveys to improvement activities
+Advancing universal design for information systems
+NTT DATA CSR Report 2010

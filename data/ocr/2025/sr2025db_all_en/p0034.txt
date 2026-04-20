@@ -1,0 +1,122 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Concept for Achieving Regional Decarbonization and Supply Chain Emission Reduction 
+through C-Turtle® FE (Financial Institutions)
+Strategies and costs
+ GHG emissions calculation solution for financial institutions
+We support clients across various industries in visualizing, reducing, and disclosing their 
+GHG emissions. One example of our sustainability-related offerings is C-Turtle® FE, a GHG 
+emissions calculation solution for financial institutions and their investee companies. This 
+solution complies with the PCAF Standard, the international benchmark for financial institutions, and helps investees visualize and reduce their GHG emissions. By implementing 
+C-Turtle® FE, financial institutions can leverage primary data from their investees to calculate high-quality Scope 3 emissions that reflect both the emissions associated with 
+investments and loans and the reduction efforts undertaken. The solution has already 
+been adopted by more than 20 financial institutions, including Kyoto Financial Group, 
+The 77 Bank, Ltd., and Concordia Financial Group, Ltd. Looking ahead, we will work with 
+additional regional financial institutions to support the visualization and reduction of 
+financed emissions from their investee companies through C-Turtle® FE. Through these 
+efforts, we aim to expand decarbonization initiatives among regional companies to local 
+communities, contributing to achieving carbon neutrality across entire regions.
+ 
+At the same time, we are promoting services with a view to global expansion. To grow 
+our sustainability-related offerings, we are developing various visualization platforms and 
+training engineers. We are also investing in initiatives that combine advanced technologies with social challenges to create new businesses.
+Financial institutions 
+that have implemented 
+C-Turtle® FE
+Financial 
+Institution A
+Company A
+Tier N
+Tier 2
+Tier 1
+Company B
+Local governments
+Companies that 
+have implemented 
+C-Turtle®
+Subsidies and grants
+Collaboration with financial institutions 
+(preferential interest rate support)
+Subsidies and grants
+Contributing to 
+decarbonization of 
+the entire region
+CO2
+Emission 
+Emission 
+reductions
+reductions
+CO2
+Emission 
+Emission 
+reductions
+reductions
+CO2
+Emission 
+Emission 
+reductions
+reductions
+CO2
+Emission 
+Emission 
+reductions
+reductions
+CO2
+Emission 
+Emission 
+reductions
+reductions
+Financial 
+Institution B
+Requests + Investments
+Requests
+GHG emissions calculation in accordance with the PCAF Standard 
++ Scope 1, 2 reduction through financed investments and loans
+Time horizon: Short term
+Increasing needs to create sustainability-related offerings
+Business and financial impacts
+With the increasing demand for the disclosure of sustainability information, companies are 
+required to visualize GHG emissions through their supply chains and create new business 
+opportunities and operational transformations to mitigate climate change. The investments in 
+systems and related areas that accompany these changes could lead to business opportunities for NTT DATA. We define “sustainability-related offerings” as services and systems for 
+sustainability in general, including climate-related solutions, and have identified the creation 
+of such offerings as a strategic domain in the current medium-term management plan.
+ 
+As our clients accelerate their decarbonization efforts and sustainability-related businesses expand across various industries, we expect to generate new sustainability-related 
+offerings leveraging our digital technologies, leading to increased net sales.
+Opportunities Related to Products and Services
+Opportunity 
+
+ Comprehensive decarbonization support services
+In response to the increasing demands for sustainability disclosure and for visibility of GHG 
+emissions across entire supply chains, companies are being called upon to create new 
+businesses and transform their operations. NTT DATA supports clients in meeting these 
+societal expectations and advancing their decarbonization journeys.
+ 
+As one example, NTT DATA assisted Hapimag, a sharing community for holiday apartments, in its decarbonization project. Hapimag engaged NTT DATA to better understand its 
+current carbon footprint and find ways to reduce carbon emissions, in line with standards 
+set out by the Greenhouse Gas (GHG) Protocol, the 2015 Paris Agreement, and the organization’s own sustainability strategy. In response, NTT DATA calculated its Scope 1 and 2 
+corporate carbon emissions, developed a carbon calculator tool to be integrated with 
+PowerBI for automation, conducted energy audits across Hapimag’s 54 resorts and company headquarters and recommended mitigation measures, built a tool to visualize the 
+parameters analyzed (energy savings, carbon emission savings, and financial impact), 
+and carried out a high-level Scope 3 analysis.
+ 
+These efforts resulted in the identification of 35 concrete and feasible mitigation measures and more than 400 facility-specific actions. Furthermore, using the GHG Protocol and 
+the CRREM (Carbon Risk Real Estate Monitor) framework—an international decarbonization 
+standard for the real estate sector—NTT DATA proposed a wide range of mitigation measures including equipment upgrades, electrification, renewable energy adoption, and 
+building insulation improvements.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

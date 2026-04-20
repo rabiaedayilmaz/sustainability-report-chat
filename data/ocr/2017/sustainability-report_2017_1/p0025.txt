@@ -1,0 +1,110 @@
+Business Continuity Initiatives 
+Responding Swiftly to a Road Subsidence 
+Accident in Front of Hakata Station 
+On November 8, 2016, underground construction to extend a subway line in the city of Fukuoka led to a road subsidence 
+accident that caused the local electric company to halt its provision of electricity to the NTT DATA Hakata Ekimae Building 
+(the “Hakata Ekimae Building”). This situation presented a business continuity crisis, but the building’s private power generation equipment automatically came on line when the accident occurred, restoring power to the building without incident. 
+ 
+As this accident occurred near the building and was large in scale, power to the building was unavailable for longer 
+than we had anticipated. The Hakata Ekimae Building is a focal point for the operation of core systems, centered on 
+customers in the financial and public sectors, so being without power was not an option. To respond to this longer-than- 
+expected outage, employees were dispatched from individual departments to form countermeasure teams. By working 
+together, we were able to implement a host of measures, such as sourcing alternative power sources and security fuel. 
+NTT DATA’s practice is to protect clients’ systems by employing a variety of methods. We have in place the following three 
+measures to ensure long-term power supply. 
+ 
+(1) We have in place private power generation equipment to serve as an alternate source of power during maintenance 
+and in the event of unforeseen trouble. 
+ 
+(2) We maintain fuel supplies and perform rotational refueling.
+ 
+(3) We prevent temperature rises on coolant for private power generation equipment.
+ 
+For the first measure, using private power generation equipment to provide an alternate power source, we employ mobile 
+power-supply vehicles. We have also drafted plans for accurately determining the amount of power supplied from nearby 
+electricity poles, so they can provide electricity directly to the building. Through this combination, we have a three-stage power 
+backup system in place. 
+ 
+Through these three simultaneous measures, we are able to use private power generation equipment to supply enough 
+power to ensure stable operation for 22 hours until service from the power company resumes. This arrangement contributes 
+to business continuity without having any major impact on building occupants and clients’ systems. 
+Applying Our Lessons from This Experience at Company Buildings throughout Japan
+I think our ability to respond to this incident was the result of the routine training we undergo to ensure stable 
+operation, having appropriate systems in place, and teamwork. Learning from our experience with the Great 
+East Japan Earthquake, which struck in 2011, we quickly set up a disaster countermeasures office at our head 
+office building in Toyosu and provided the necessary number of personnel and support needed for a long-term 
+power outage. As only a limited number of people were available at the site in Hakata, we responded quickly by 
+communicating with employees at our head office and in Dojima, our location in Western Japan. 
+ 
+Some occupants of the Hakata Ekimae building commented that they were not even aware that power to 
+the Hakata Ekimae building had been interrupted. Even though the incident was more severe than we had 
+anticipated, we were able to maintain normal operations to the extent that occupants did not even know a 
+power outage had occurred. This was a moment when the success of our everyday efforts became apparent. I 
+will strive to apply my experience in responding to the incident to our buildings and continue working to contribute to the business continuity of our clients. 
+Responding to the Risk of Disaster
+In recent years, numerous earthquakes, large-scale typhoons, and other natural 
+disasters have occurred. No sooner have the traces of devastation by one disaster been cleared away than the next one seems to occur. The risks of such 
+disasters affecting the ability of companies to continue operating and providing 
+services has grown commensurately. If companies are unprepared for disaster, 
+power outages can cause corporate activity to grind to a halt. The losses can be 
+particularly severe for companies whose businesses center on the use of public 
+systems, such as those involved in finance, insurance, and telecommunications. 
+Under these social circumstances, the need to formulate business continuity 
+plans (BCPs) to prepare for disaster has increased. The percentage of companies introducing such plans is growing; 60.4% of large companies had done so 
+as of 2015, while the figure for medium-sized companies was 29.9%.
+ 
+Along with formulating BCPs, companies need to establish emergency response 
+headquarters, communicate among departments, and boost internal awareness, 
+putting in place a host of measures to protect systems on an ongoing basis. 
+Masahiro Ishizuka
+Facility Management Division
+Business Solutions Sector
+NTT DATA
+Initiatives Targeting Material CSR Issues
+CSR Structure
+
+12.6
+20.8
+
+12.4
+25.3
+29.9
+27.6
+45.8
+18.9
+53.6
+60.4
+
+ Percentage of Large and Medium-Sized Companies with BCPs in Place
+ (%) 
+ Large companies 
+ Medium-sized companies
+Source: Based on a fiscal 2015 survey related to business continuity and disaster-prevention measures by the 
+Cabinet Office, Government of Japan
+http://www.bousai.go.jp/kyoiku/kigyou/topics/index.html (in Japanese only)
+CASE 6
+Contributing to Business Continuity without Having a Major Impact on Building Occupants 
+or Clients’ Systems
+COMMENT
+March 2011, at the time of 
+the Great East Japan 
+Earthquake
+All companies are being called on to 
+formulate BCPs and respond sufficiently to the risk of disaster.
+Percentage of companies 
+with BCPs in place is
+Trending upward
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+Governance
+GRI Standards
+Initiatives Targeting Material 
+CSR Issues

@@ -1,0 +1,83 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+Strategies 
+and costs 
+The Group is creating business opportunities through its cloud-related services. We offer joint-use platform services 
+tailored to client requirements, ranging from infrastructure services (data centers) to applications. Furthermore, we 
+work with existing joint-use centers to provide comprehensive construction and operation services for establishing 
+private clouds. For example, our “BIZXAAS® Office” service, which provides systems required for an office 
+environment via cloud computing, has been deployed in-house to promote telecommuting and set up satellite 
+offices as part of our BCP. Since 2017, we have accelerated efforts to consolidate the NTT DATA Groupwide 
+development environment in our Integrated Development Cloud, reducing the time required for application 
+development and infrastructure construction to one-third of previous levels. In fiscal 2020, we invested around ¥3 
+billion in R&D on cloud core technologies, including technology for consolidating platforms into our Integrated 
+Development Cloud. 
+Opportunity 4: Increase in demand for smart energy-related innovation 
+ 
+Growing concern about climate change and rising energy costs is accelerating improvements in the efficiency of social 
+infrastructure, which could provide more large-scale smart energy–related business opportunities. 
+Business 
+and 
+financial 
+impacts 
+As of 2020, the number of smart meters operated and managed by our system in TEPCO’s service area was around 
+30 million. This is equivalent to about one-third of the 107 million smart meters operating in the United States in the 
+same year. In Japan, which accounts for 60% of our net sales, a supply/demand adjustment market was launched 
+in April 2021 with the aim of securing adjustment capabilities and stabilizing the grid against the backdrop of 
+increasing renewable energy and other factors. In preparation for the entry of virtual power plant (VPP) operators 
+into the market, we are building a prototype service platform for VPP operators to participate in the supply/demand 
+adjustment market, based on our IoT platform service. Our aim is to support the resource management of VPP 
+operators and facilitate the introduction of renewable energy. 
+We have invested around ¥10 billion in the smart energy–related business and anticipate cumulative sales of 
+¥70 billion–¥100 billion over the next five years until fiscal 2025. 
+Strategies 
+and costs 
+In fiscal 2020, we invested more than ¥1 billion in smart energy–related innovation. This includes investments related 
+to wide-area/regional microgrid-type smart meters for electricity, gas and water resources, as well as large-scale 
+collaborative and data analysis platforms related to smart energy. We aim to invest ¥7 billion–¥10 billion by fiscal 2025. 
+ 
+ Opportunities Related to Resource Optimization 
+ 
+Opportunity 2: Competitive advantage of application layer (process innovation through nextgeneration production technology) 
+ 
+The establishment and expansion of global Centers of Excellence (CoEs) for digital technologies to strengthen the field of 
+advanced technology could provide opportunities to dramatically improve productivity through innovative new technologies, such 
+as system development process innovation. 
+Business 
+and 
+financial 
+impacts 
+The establishment and expansion of global Centers of Excellence (CoEs) for digital technologies to strengthen the 
+field of advanced technology will provide opportunities to dramatically improve productivity through innovative new 
+technologies, such as system development process innovation using next-generation production technologies. 
+Also, the use of more efficient production and distribution processes will contribute to our own decarbonization and 
+help our clients reduce their Scope 3 emissions. 
+In addition to intensifying competition in the information service industry, to which we belong, clients in the 
+financial sector, which account for 22% of net sales, are increasingly demanding lower costs, as represented by 
+their preference for cloud computing. 
+In Japan, which accounts for 60% of our net sales, competition is moderate. Committed to “long-term relationships” 
+as stated in our Medium-Term Management Plan 2019, we are addressing client demands in various ways. Specifically, 
+we are promoting “development process innovation through next-generation production technologies” to further 
+increase production efficiency, including by consolidating the system development environment in the cloud and 
+expanding the application scope of software development automation. These efforts give us valuable opportunities 
+related to climate change. For example, low-code platform development can enable software development with fewer 
+physical and human resources than before, which could foster innovation through digitalization. 
+Due to business attributes unique to NTT DATA, traditionally our technology bases were mainly in Japan. Now, 
+however, we have established global digital technology–intensive facilities (Centers of Excellence) for AI, 
+blockchain and other technologies in countries and regions centered on Germany, Italy, Spain, North America and 
+Japan. Our aim here is to address intensifying competition in the global market and clients’ demand for lower costs, 
+represented by their preference for cloud computing, by using globally integrated technologies, knowledge and 
+skills. In addition, we have established these facilities in countries and regions with higher needs so we can respond 
+quickly to those needs and develop know-how in the process. 
+We anticipate that creating business opportunities through the swift delivery of Green Innovation and reducing 
+costs by shortening the development period will result in a contribution to our profits of around ¥50 billion. 
+Strategies 
+and costs 
+In fiscal 2020, we invested ¥5 billion in R&D on production technology and process innovation, including through 
+AP [define?] modernization—which involves a gradual digital migration while effectively utilizing existing assets—
+as well as on next-generation production technologies related to digital service management, integrated platform 
+development and the like. 
+Time horizon: Medium term 
+Time horizon: Medium term

@@ -1,0 +1,141 @@
+FY2023 Indicators
+FY2024 Indicators
+Indicator
+Target
+Achievement
+Concrete Activity Results
+Indicator
+Target
+ Smart X Co-innovation  
+ P44
+Create new value through co-creation with various companies to achieve 
+a smart and innovative society.
+To realize the SDGs (Sustainable Development Goals), great expectations are placed 
+on connecting diverse people, corporations, companies, technologies, systems, 
+data, services, and industries; solving social issues that could not be solved before; 
+and creating new value in society. NTT DATA will promote co-creation with various 
+companies to realize a smart and innovative society while properly identifying and 
+managing the social impact and value created by digital technology.
+B2B2X revenue
+Not disclosed
+Not disclosed
+—
+Removed
+Removed from non-financial targets as the medium-term goals have been 
+achieved and the establishment phase has concluded.
+Create offerings and expand business related to materiality across various business domains to realize a smart and innovative society
+ Trusted Value Chain  
+ P48
+Uphold data privacy and security to ensure safe, secure and resilient 
+corporate activities.
+As corporate activities expand globally, it is necessary to correctly understand and 
+manage the impact of corporate activities on society and the environment throughout the entire value chain. We must also build a reliable value chain by properly 
+addressing information security and privacy protection. NTT DATA will protect 
+security and data privacy and realize safe, secure, and resilient corporate activities.
+Number of security incidents
+
+Based on the NTT DATA Group Security Policy (GSP), the Information 
+Security Committee identifies and evaluates issues and determines 
+strategies. The information security steering organizations promote 
+and implement measures across the entire Group. Daily monitoring 
+is conducted to prevent incidents from occurring. 
+ P53
+Number of security incidents*1
+
+Number of significant system 
+failures
+Not disclosed
+
+Established a company-wide system review task force to check the system 
+development and operation processes for more than 200 systems, 
+including those of Group companies. We are continuously working to 
+prevent system failures and ensure stable service delivery. 
+ P55
+Number of significant system failures
+0*2
+Compliance IBT participation rate
+100%
+100%
+Ensured the penetration of corporate ethics among all employees. 
+ P65
+Removed   Due to high-level participation
+Number of anti-competitive/ 
+bribery violations
+
+Promoted adherence to the NTT DATA Code of Conduct and compliance with various laws and regulations among all employees. 
+ P65
+Number of anti-competitive/bribery violations
+
+Rate of direct communication 
+with key suppliers
+100％
+100%
+Conducted in-person reviews with key executives from our important 
+suppliers to assess their initiatives in accordance with the NTT DATA 
+Group Supply Chain CSR Promotion Guidelines. 
+ P63
+Reviewed
+Rate of direct communication with suppliers 
+requested to make improvements
+100%
+ Future of Work  
+ P68
+New ways of working that enhance employee experience and performance. 
+Provide and promote work style reforms for society as a whole.
+Amid the global shortage of highly skilled IT personnel, it is necessary to secure and 
+maintain excellent human resources by promoting flexible working styles that meet 
+the diverse needs of employees, implementing appropriate evaluations, and fostering 
+an attractive corporate culture. To this end, it is essential to support employees’ career 
+development and flexible working styles. The Group will provide new ways of working 
+to improve performance and EX (Employee Experience), while at the same time 
+promoting work-style reform for society as a whole.
+Employee satisfaction*3
+73% or more
+71% 
+(Reference: 83% for the global 
+total excluding Group 
+companies in Japan)
+● Promoted improvement activities based on the results of the annual 
+survey for employees hired in Japan and the biennial survey, which 
+includes global employees. 
+ P80
+● Promoted initiatives that reflect dialogue with management and 
+employee voices. 
+ P80
+Employee engagement rate*4
+73%
+Remote work rate
+Monitoring indicator
+63.2%
+Ongoing monitoring 
+ P77
+Monitoring indicator
+—
+Turnover rate
+Monitoring indicator
+3.1%
+Ongoing monitoring 
+ P69
+Monitoring indicator
+—
+*1 This indicator will be redefined in FY2024, and the official indicator name will include “the number of widely recognized incidents caused by cyberattacks, internal fraud, 
+or negligence.”
+*2 The target value is set at zero, with an allowable limit based on recent performance at two incidents. 
+*3 Employee satisfaction: the percentage of employees who gave a positive evaluation to the statement “I take pride in working at this company” (NTT DATA Group Corporation, 
+NTT DATA Japan Corporation, NTT DATA, Inc. (Japan)).
+*4 Only the name has been changed; the definition of the indicator is the same as in FY2023.
+Initiatives toward Materiality and Achieving KPIs
+Aiming to grow as a company that supports a sustainable society, NTT DATA is working on three material issues: “Smart X Co-innovation,” “Trusted Value Chain,” and “Future of Work.”
+ [Reference page] Sustainability Management “Progress in Relation to Nine Material Issues and FY2024 Targets”
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

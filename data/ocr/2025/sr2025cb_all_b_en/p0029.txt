@@ -1,0 +1,121 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+DATA INSIGHT:
+Utilizing Generative AI to Automate Checking of
+Pre-development Documents
+(in Japanese
+only)
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Quality Assurance Department
+NTT DATA GROUP
+Automated Checking of Proposal-related Documents 
+with Generative AI
+Business need
+Solution
+•
+Falling populations are accelerating the decline in worker numbers. The resulting labor shortages are creating an urgent need to shorten task lead times and enhance productivity.
+•
+Diverse fields in various sectors of society are facing a need to create systems that pass on the abundant expertise of highly-experienced personnel with accuracy and efficiency.
+Customers seeking to build information systems, update
+equipment or outsource operations solicit concrete plans from
+potential suppliers through a Request for Proposal (RFP)
+stating
+the
+required
+system
+specifications
+and
+functions,
+including issues to resolve, operational methods, and system
+characteristics such as the projected number of users. However,
+unintentional omissions and ambiguous language can cause
+discrepancies and misunderstandings between stakeholders,
+which risks the original requirements not being met.
+On
+the
+supplier
+side,
+project
+management,
+system
+infrastructure and technological experts propose measures
+based on RFPs and similar documents. However, document
+reviews vary depending on each person’s knowledge and
+individual knowhow,
+meaning
+passing on knowledge and
+ensuring
+review
+efficiency
+are
+issues
+requiring
+attention.
+Against this backdrop, there is a growing need to standardize
+and streamline check methods and ensure that proposals are
+of consistent quality.
+NTT DATA aimed to enhance the quality of system development
+proposals by fully implementing generative AI in document checking
+processes. It used knowhow spanning 20 years of expert reviews to
+train generative AI to efficiently standardize check quality, removing
+dependency on individualized knowledge. Starting from October 2024,
+applying this practice in work to confirm that RFPs contain sufficient
+information reduced working times by about 60%, with full-fledged
+deployment subsequently implemented in December. Efficiency gains
+from using generative AI to perform previously manual checking tasks
+increase checking capacity to cover the approximately 1,000 projects
+that are ongoing in Japan at any given time, enabling people to focus
+on elements that require human attention.
+This
+initiative
+leverages
+generative
+AI
+specializing
+in
+quality
+assurance related to the generative AI utilization concept Smart AI
+Agent
+. Future applications being explored include expansion to
+cover materials such as project planning and design documents, as
+NTT DATA continues to constantly enhance the system services it
+delivers to customers.
+Working time reduced by
+approximately
+Leads to improved proposal content
+Speeding up understanding of customer RFPs means more time to explore action plans, create written proposals and perform reviews.
+Expert reviews performed with greater ease and greater speed
+Generative AI
+Confirming check results takes time
+Requests must be submitted to experts
+Workflow
+Before
+After
+Workflow
+5 business days
+2 business days
+Check results can be confirmed quickly
+Checks can be performed easily at any time
+Request
+Document 
+upload
+Preliminary 
+consultation
+Check
+Results
+Document 
+upload
+Results
+Conceptual diagram of generative AI utilization in proposal phases
+Leveraging generative AI powered by knowhow from experts to check system proposal 
+documents in pre-development phases
+Japan
+Impact
+Reduction in time required to examine RFPs following 
+introduction of generative AI
+60%

@@ -1,0 +1,108 @@
+Promoting Resource Saving and Recycling
+ Waste Reduction
+In fiscal 2016, we continued our efforts from the previous fiscal year to improve our recycling ratios and 
+reduce the final amount of waste disposal. As a result, we significantly exceeded our targets by achieving 
+a 79% reduction in the final amount of waste disposal compared to fiscal 2008 and a final waste disposal 
+rate of 2.2%.
+ 
+Emissions are confirmed by the Japan ISO 14001 certification body. Moreover, it is confirmed as Scope 3 
+Category 5 “Waste generated in operations” within the third-party verification of greenhouse gas emissions.
+ 
+In fiscal 2017, we will strive to improve our recycling ratios through measures such as using disposal 
+firms with high recycling ratios and changing the processing route while maintaining our efforts on the reuse 
+and recycling of office equipment.
+ Reduction of Copy Paper Purchased
+In fiscal 2016, we made a committed effort to reduce unnecessary use of copy paper through measures 
+such as controlling individual organizations’ usage and advancing paperless meetings. As a result, we 
+significantly exceeded our target for fiscal 2016 of reducing usage by 50% compared to fiscal 2008.
+ 
+In fiscal 2017, we will further reduce the use of copy paper as part of an overall revision of our operations, including improvements to our operational processes.
+ Proper Handling of Hazardous Materials
+The NTT DATA Group stores manufactured goods containing polychlorinated biphenyl (PCB). Accordingly, 
+the Group handles such items as waste PCB, which is designated as a specified toxic industrial waste 
+material. Moreover, the Group disposes of materials including waste acid from batteries and such contaminated industrial waste as used syringe needles. In the handling of industrial waste materials requiring 
+special storage and proper management, we carefully observe the Waste Management and Public Cleansing Law and all other relevant laws and regulations particularly with respect to disposal. We have promoted 
+the systemic disposal of waste PCB since fiscal 2013 in line with the Law Concerning Special Measures 
+against PCB Waste and guidance from relevant ministries and government agencies.
+The Greening of Clients and Society
+ Reducing the Environmental Impact of Society through IT
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly verified general- 
+purpose evaluation and measurement methods*1 for quantitatively evaluating the effectiveness of environmental impact reduction for all development projects. We began conducting quantitative evaluation in 2014 
+with tools based on the results of this verification.
+ 
+We recommend the Groupwide utilization of these methods, which are more suited to general-purpose 
+applications and actual business conditions than to the environmental impact assessment system*2 used 
+in the past.
+*1 The results of our joint verification have been patented (Pat. No. 5785229 (2015)).
+*2 A service for assessing the environmental impact of information systems developed by the NTT Information Network Laboratory Group. The 
+service calculates environmental impact reductions that can be achieved through reduced consumption of materials and energy, transportation volume of people and goods, etc., resulting from system introduction.
+ Proactively Participating in Environmental Projects Promoted by Administrative 
+and Industrial Organizations
+The NTT DATA Group participates in environmental projects promoted by the government and other organizations, taking advantage of technologies and expertise honed from the construction of numerous public administration systems. We also actively join environmental working and other groups of a variety of organizations.
+ 
+In recent years, we have been exchanging a wide range of opinions as a member of the Japan Smart 
+Community Alliance (JSCA)*1 and the Green IT Promotion Council*2. These discussions include the creation 
+of smart communities aimed at realizing next-generation sustainable societies, the development of methods for estimating and measuring the energy-saving of and with IT devices, and research involving the 
+introduction of energy management systems to buildings and stores. NTT DATA also works in a study 
+group under the business platform of the Life Cycle Assessment Society of Japan (JLCA)*3 on building a 
+common framework at the corporate level to reduce CO2 emissions via the use of IT and has participated 
+in formulating common guidelines for estimating reductions in CO2 emissions in ICT businesses. 
+ 
+Also, as a Ministry of the Environment project, we will continue to develop systems for demonstration 
+experiments on ESG information disclosure and dialogue platforms for the purpose of promoting ESG 
+investment ongoing since fiscal 2013 and aim for practical application in 2020. We support the promotion 
+of ESG investment through the development and provision of platforms that realize the disclosure of non-financial information according to financial information formats as well as opportunities for dialogue with 
+investment institutions and companies.
+*1 An organization comprised of members of both the public and private sectors that was established to promote the spread of smart communities within Japan as well as their global expansion
+*2 Sponsored by the Japan Electronics and Information Technology Industries Association (JEITA). The Green IT Promotion Council is responsible for promoting green IT and helping build a smart society through various activities. These include developing methods for estimating 
+and measuring the energy-saving of and with IT devices, formulating an energy-saving technology roadmap, developing public awareness 
+about green IT in Japan and overseas, and bolstering cooperation with countries in Asia and elsewhere.
+*3 Sponsored by a working group of the Life Cycle Assessment Society of Japan. The group’s objectives are to establish a shared method for 
+estimating the effect that ICT has on reducing environmental impact and devise key performance indicators (KPIs) to measure energy savings achieved via environmental management in companies that supply ICT as well as companies that adopt ICT.
+ Data for fiscal 2015 reflects the demolition of a large-scale building.
+Appropriate Use of Resources
+Reducing the Environmental Impact of the Value Chain
+10,092
+9,460
+11,754
+12,000
+
+9,000
+6,000
+3,000
+
+FY
+40,000
+
+36,512
+
+30,000
+20,000
+
+FY
+ Office Waste
+(Scope of data: All organizations of NTT DATA and 69 Group companies (Japan only))
+(t)
+ Construction Waste
+(Scope of data: All organizations of NTT DATA and 69 Group companies (Japan only))
+(t)
+ Total amount of waste 
+ Incineration / Reclamation 
+ Amount recycled 
+ Amount of final disposal
+ Amount recycled 
+ Amount of final disposal
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

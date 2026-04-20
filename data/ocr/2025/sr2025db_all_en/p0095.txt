@@ -1,0 +1,123 @@
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+People positive
+Appendix
+Fiscal 2025 Key Risks
+The NTT DATA Group has identified the following 16 risks as key risks for fiscal 2025. 
+Category
+Risk
+Material risks
+Risks that could have a 
+significant impact on 
+the achievement of the 
+Group’s business plans or 
+its foundational stability.
+1 Risks related to 
+business activities
+Primarily arise in day-to-day on-site 
+operations and are mainly managed 
+through frontline control activities.
+1 System development
+2 System/Service operation
+3 Information security
+4 Compliance
+5 Human rights
+2 Risks related to the execution 
+and promotion of 
+management strategies
+Risks for which the controls focus on 
+ensuring the effective execution and 
+promotion of strategies addressing 
+management challenges.
+6 Investment/M&A/Capital investment
+7 Adapting to changes in the market 
+and competitive environment
+8 Securing talent
+9 Use of AI/Response to advanced 
+technologies
+10 Climate change
+11 Intellectual property
+3 Risks related to 
+the external environment
+Risks that arise for reasons not attributable to the NTT DATA Group, with 
+controls focused on mitigating their 
+impact when they occur.
+12 Major natural disasters or significant 
+infectious disease outbreaks
+13 Geopolitics
+14 Foreign exchange/ 
+Interest rate fluctuations/Inflation
+15 Regulatory responses
+4 Relationship with 
+the parent company
+16 Influence of the Parent Company
+ For details on the material risks for fiscal 2025, please refer to the securities report. (Japanese only)
+Selection of Key Risks
+Material risks 
+in the previous fiscal year
+Evaluation and review
+Selection of material risks 
+in the current fiscal year
+Select material risks while taking 
+into consideration the evaluation 
+and review results and the degree 
+of relevance to the management 
+policy and management strategy
+Consider the most 
+recent information 
+on the internal and 
+external environments
+Change the 
+occurrence possibility 
+and impact of 
+ each risk
+Review of key risks 
+in the previous 
+fiscal year
+Group risk catalog
+A detailed list that identifies risks that should 
+be controlled for the NTT DATA Group
+Risk Governance
+Risk Governance
+Basic Policy and Promotion System
+The NTT DATA Group has established the Risk Management Policy, which outlines standard 
+procedures to be followed at the global level, aiming to ensure the Group’s sound overall 
+growth and to mitigate and reduce the impact of risks on management. In line with this 
+policy, an officer has been appointed to supervise and promote risk management from a 
+Group-wide perspective, and the Risk Management Division has been established. In 
+addition, key Group companies have designated officers responsible for overseeing risk 
+management, enabling a coordinated, Group-wide risk management framework.
+ 
+Within the Group’s risk management structure, we have established a system for 
+Group companies to promptly report significant matters, including crises that could 
+impact the Group’s management, ensuring swift responses to risks.
+Identification and Control of Material Risks
+The Board of Directors identifies as “material risks” those risks that could significantly 
+impact the achievement of the Group’s business plans or its foundational stability. Across 
+the Group, we promote focused control activities and, through the Internal Control Committee, regularly monitor the status of these controls, assess their effectiveness, and 
+propose improvements as necessary. Furthermore, full-time Audit and Supervisory Committee members gain an understanding of NTT DATA’s risks through their attendance at 
+the Internal Control Committee and Board of Directors meetings. They also evaluate 
+specific individual risks through engagement with various departments and discuss with 
+relevant departments the topics essential for effective business operations.
+Internal Control
+To establish an internal control system and promote risk management, the Internal Control Committee is held four times a year in principle. The Committee is chaired by the 
+Executive Officer in charge of Corporate Affairs and consists of the heads of relevant 
+corporate organizations and the executive officers in charge of risk management at 
+Group companies in and outside Japan. The Committee reports its decisions to the Board 
+of Directors.
+ 
+In addition, the NTT DATA Group has established the Internal Audit Department, 
+which conducts audits independently from business execution divisions.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Governance
+ Risk Governance

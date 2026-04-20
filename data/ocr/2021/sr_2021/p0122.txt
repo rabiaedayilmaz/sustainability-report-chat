@@ -1,0 +1,117 @@
+Comparative Table with GRI Standards 
+
+NTT DATA Sustainability Report 2021 Data Book 
+P051 
+P054-059 
+P062 
+P065-067 
+P079-081 
+P090 
+P094 
+P103-104 
+P109-110 
+P114-115 
+103-3 
+Evaluation of the management approach 
+P017 
+P031-032 
+P038-041 
+P043 
+P045-046 
+P049-051 
+P054 
+P057-061 
+P063-064 
+P078 
+P083-087 
+P090-091 
+P094-099 
+P101 
+P105-107 
+P110-111 
+P115-116 
+ 
+◆ Topic-specific Standards 
+ 
+Disclosure Indicator 
+Source of Reference 
+Data Book NTT Data Official Website 
+200: Economic 
+Economic Performance 
+201-1 
+Direct economic value generated and distributed 
+― 
+INVESTORS 
+ https://www.nttdata.com/global/en/investors 
+201-2 
+Financial implications and other risks and opportunities 
+due to climate change 
+P065-075 
+― 
+201-3 
+Defined benefit plan obligations and other retirement 
+plans 
+― 
+― 
+201-4 
+Financial assistance received from government 
+― 
+― 
+Market Presence 
+202-1 
+Infrastructure investments and services supported 
+― 
+― 
+202-2 
+Significant indirect economic impacts 
+― 
+― 
+Indirect Economic Impacts 
+203-1 
+Infrastructure investments and services supported 
+P036-043 
+P069 
+P079-080 
+P112-114 
+P117-118 
+― 
+203-2 
+Significant indirect economic impacts 
+P036-043 
+P071-072 
+P117 
+― 
+Procurement Practices 
+204-1 
+Proportion of spending on local suppliers 
+― 
+― 
+Anti-corruption 
+205-1 
+Operations assessed for risks related to corruption 
+P044-048 
+― 
+205-2 
+Communication and training about anti-corruption policies 
+and procedures 
+P044-048 
+― 
+205-3 
+Confirmed incidents of corruption and actions taken 
+P044-048 
+― 
+Anti-competitive Behavior 
+206-1 
+Legal actions for anti-competitive behavior, anti-trust, and 
+monopoly practices 
+P048 
+― 
+Tax 
+207-1 
+Approach to tax 
+P048 
+― 
+207-2 
+Tax governance, control, and risk management 
+P048 
+―

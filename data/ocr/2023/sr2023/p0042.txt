@@ -1,0 +1,33 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+SSP5-8.5 scenario analysis 
+In the SSP5-8.5 scenario, we assessed the impact on net sales at a slightly higher level due to the risk of increasing abnormal 
+weather events and the resulting social and economic damage and decline in business profit of clients. In our three focal areas 
+in Japan—Public & Social Infrastructure, Financial, and Enterprise—where precipitation is on the rise, we assessed that frequent 
+typhoons and sudden heavy rains will increase the risk of flooding at data centers and offices. 
+On the other hand, because clients need to address the same risks, we see opportunities from increased demand for our 
+cloud and shared-use services, in which we employ hazard countermeasures and data loss countermeasures with double 
+redundancy. 
+As of August 2021, we made the decision to establish data centers equipped with resilience features to reduce physical 
+risks and commenced service deployment in June 2023. 
+Based on the results of scenario analysis, we plan to increase investment in resilient cloud services from fiscal 2023 through 
+fiscal 2025. 
+ 
+ Impact of Climate Change Scenarios on the Group 
+ 
+Fiscal 2022 activities 
+In fiscal 2022, we conducted a Company-wide cross-functional scenario analysis working group over a six-month period to 
+concretize the boundary and time horizon of climate change scenario analysis and thereby enhance resilience at the Group level. 
+We selected members from various business divisions, corporate departments, and Group companies outside Japan to 
+participate. We set the focal question as follows: “What impact will climate change events have on NTT DATA’s business by 
+2050?” Specifically, we conducted external trend analysis using the STEEP model* as recommended under the TCFD and 
+created scenarios based on a four-quadrant framework, considering uncertainties and potential impact levels. As a result of our 
+deliberations, we identified several aspects. These included content that complements our current risks and opportunities over 
+a medium- to long-term horizon, short-term risks such as a decrease in labor force due to heat waves, and medium- to longterm opportunities stemming from sustainability businesses that leverage regional characteristics and the business 
+characteristics of Group companies outside Japan. Our aim is to incorporate the outcome of deliberations into our future 
+sustainability management and longer-term strategic planning beyond 2025. 
+*The “STEEP model” is a method used to identify elements within the macro-environment surrounding a company that could currently or in the future have 
+the potential to impact its business activities. It involves assessing the impact and changes associated with these elements. 
+Reference: Guidance on Scenario Analysis for Non-Financial Companies (October 2020)

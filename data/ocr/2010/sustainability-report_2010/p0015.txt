@@ -1,0 +1,78 @@
+In recent years, the concentration of IT equipment has led to 
+steady growth in electrical power consumption by data 
+centers, rendering energy reduction measures an urgent 
+issue. Accordingly, in January 2008 NTT DATA started to 
+provide Green Data Center services, which reduce energy 
+consumption by fusing IT and facilities technologies. 
+Compared with conventional data centers, the new green 
+facilities aim to cut annual power consumption by 
+approximately 30%. 
+As part of this drive, we carried out testing on a highvoltage direct current power supply system from January to 
+October 2009. This power system receives an alternating 
+current from an applied power source, which it then supplies 
+to equipment as direct current after a single AC-DC 
+conversion, a process that facilitates a reduction in AC-DC 
+conversion energy loss. 
+Testing was conducted by various companies and 
+suppliers by connecting servers, storage devices and other 
+types of DC-compatible IT equipment to a high-voltage 
+direct current power supply system. Compared with 
+conventional AC supply, the new conﬁ guration realized 
+aggregate power savings from power sources, airconditioning systems and IT equipment of approximately 
+18%. In addition, testing enabled us to verify the reliability 
+and safety of the new power supply system.
+We will promote an array of testing and development 
+initiatives in a bid to establish and standardize high-voltage 
+direct current power supply technologies, while working to 
+optimize power supplies and other components for IT 
+equipment manufacturers. We are aiming to introduce an 
+application version of the high-voltage direct current power 
+supply system throughout the NTT Group during the second 
+half of ﬁ scal 2011. 
+Through such services, we are accelerating eﬀ orts 
+toward the greening of our customers and society.
+Cutting data center power consumption by 18% through 
+testing on a high-voltage direct current power supply system
+COLUMN
+NTT DATA’s Green Data Center gains the Economy, Trade and 
+Industry Minister’s Prize in the Green IT Awards 2009
+On October 5, 2009, the NTT DATA’s Green Data Center was honored with the Economy, Trade and 
+Industry Minister’s Prize in the Green IT Awards 2009, hosted by the Green IT Promotion Council.
+This award is presented for technologies that combine the beneﬁ ts 
+of environmental protection and economic growth. In the case of our 
+Green Data Center, our high-voltage direct current power supply system, 
+which has undergone large-scale testing, was acclaimed in recognition of 
+its innovation and creativity on a global scale. 
+Green Data Center 
+Services
+Contributing to 
+CO2 emissions 
+reductions for 
+customers and 
+society
+iDC services
+Design and construction services
+Housing services
+Shared IT platform services 
+G
+DC-powered
+equipment
+IT equipment
+DC
+Batteries
+AC DC
+CPU
+Solar power 
+systems
+High-voltage direct current 
+power supply system
+High-efficiency
+rack design
+Virtualization
+technologies
+High-efficiency
+air-conditioning design
+Focus
+Through Energy Reductions at Data Centers
+
+NTT DATA CSR Report 2010 15

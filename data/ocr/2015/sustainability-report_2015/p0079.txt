@@ -1,0 +1,145 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+GENERAL STANDARD DISCLOSURES
+Economic
+G4-1
+Provide a statement from the most senior decision-maker of the organization (such as CEO, 
+chair, or equivalent senior position) about the relevance of sustainability to the organization and 
+the organization’s strategy for addressing sustainability.
+P3-4
+G4-2
+Provide a description of key impacts, risks, and opportunities.
+P66-68
+Organizational Profile
+G4-3
+Report the name of the organization.
+P5
+http://www.nttdata.com/jp/ja/
+corporate/profile/guide/index.html
+G4-4
+Report the primary brands, products, and services.
+P6
+http://www.nttdata.com/jp/ja/
+services/index.html
+G4-5
+Report the location of the organization’s headquarters.
+P5
+http://www.nttdata.com/jp/ja/
+corporate/profile/guide/index.html
+G4-6
+Report the number of countries where the organization operates, and names of countries 
+where either the organization has significant operations or that are specifically relevant to the 
+sustainability topics covered in the report.
+P7
+P4-5
+G4-7
+Report the nature of ownership and legal form.
+P5
+http://www.nttdata.com/jp/
+ja/corporate/ir/management/
+governance.html
+G4-8
+Report the markets served (including geographic breakdown, sectors served, and types of 
+customers and beneficiaries).
+P5-7
+P4-5
+http://www.nttdata.com/jp/ja/
+corporate/profile/business_field/
+index.html
+G4-9
+Report the scale of the organization (including the total number of employees, facilities,etc.)
+P5-7
+P3-7
+http://www.nttdata.com/jp/ja/
+corporate/profile/guide/outline.
+html
+G4-10
+Details of employment by type and employees by gender
+P26
+P4-5
+G4-11
+Report the percentage of total employees covered by collective bargaining agreements.
+－
+G4-12
+Describe the organization’s supply chain.
+P36-37
+G4-13
+Report any significant changes during the reporting period regarding the organization’s size, structure, 
+ownership, or its supply chain
+P9-10
+P34-35
+G4-14
+Report whether and how the precautionary approach or principle is addressed by the organization. 
+P14、18
+G4-15
+List externally developed economic, environmental and social charters, principles, or other 
+initiatives to which the organization subscribes or which it endorses.
+P18
+G4-16
+Details of any external associations including industry associations and national orinternational 
+advocacy groups in which the organization is a member
+P18
+Identified Material Aspects and Boundaries
+G4-17
+a. List all entities included in the organization’s consolidated financial statements or equivalent 
+documents.
+b. Report whether any entity included in the organization’s consolidated financial statements or 
+equivalent documents is not covered by the report.
+－
+http://www.nttdata.com/jp/ja/
+corporate/profile/group/index.html
+G4-18
+a. Explain the process for defining the report content and the Aspect Boundaries.
+b. Explain how the organization has implemented the Reporting Principles for Defining Report Content.
+－
+G4-19
+List all the material Aspects identified in the process for defining report content.
+P15-16
+G4-20
+For each material Aspect, report the Aspect Boundary within the organization.
+－
+G4-21
+For each material Aspect, report the Aspect Boundary outside the organization.
+－
+G4-22
+Report the effect of any restatements of information provided in previous reports, and the reasons 
+for such restatements.
+－
+G4-23
+Report significant changes from previous reporting periods in the Scope and Aspect Boundaries.
+－
+Stakeholder Engagement
+G4-24
+Provide a list of stakeholder groups engaged by the organization.
+P17
+G4-25
+Report the basis for identification and selection of stakeholders with whom to engage.
+P17
+G4-26
+Report the organization’s approach to stakeholder engagement, including frequency of 
+engagement by type and by stakeholder group, and an indication of whether any of the 
+engagement was undertaken specifically as part of the report preparation process.
+P17
+G4-27
+Report key topics and concerns that have been raised through stakeholder engagement, and 
+how the organization has responded to those key topics and concerns, including through its 
+reporting. Report the stakeholder groups that raised each of the key topics and concerns.
+P17
+Report Profile
+G4-28
+Reporting period (such as fiscal or calendar year) for information provided.
+P2
+G4-29
+Date of most recent previous report (if any).
+P2
+G4-30
+Reporting cycle (such as annual, biennial).
+P2
+GRI Guidelines Index
+
+Sustainability Report 2015
+NTT DATA

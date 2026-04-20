@@ -1,0 +1,118 @@
+Removal of air conditioning system units using
+specified CFCs
+Units
+
+Removal of air conditioning system units using
+specified hydrochlorofluorocarbons (HCFCs)
+Units
+
+Removal of air conditioning system units using
+specified hydrofluorocarbons (HFCs)
+Units
+
+Recovery and destruction of specified CFCs used
+for air conditioning systems
+kg
+
+Recovery and destruction of specified HCFCs
+used for air conditioning systems
+kg
+
+Recovery and destruction of specified HFCs used
+for air conditioning systems
+kg
+
+Air conditioning system units using specified CFCs
+Units
+
+Air conditioning system units using specified
+HCFC
+Units
+
+Air conditioning system units using specified HFCs
+Units
+
+Specified CFCs used for air conditioning systems
+kg
+9,722
+Specified HCFCs used for air conditioning systems
+kg
+11,458
+Specified HFCs used for air conditioning systems
+kg
+6,864
+Storage of air conditioning system units using
+specified CFCs
+Units
+
+Storage of air conditioning system units using
+specified HCFCs
+Units
+
+Storage of air conditioning system units using
+specified HFCs
+Units
+
+Stored amount of specified CFCs used for air
+conditioning systems
+kg
+
+Stored amount of specified HCFCs used for air
+conditioning systems
+kg
+
+Stored amount of specified HFCs used for air
+conditioning systems
+kg
+
+Company vehicles that employ CFCs in air
+conditioner refrigerants
+Vehicles
+
+Company vehicles that employ HCFCs in air
+conditioner refrigerants
+Vehicles
+
+Company vehicles that employ HFCs in air
+conditioner refrigerants
+Vehicles
+
+Use of CFCs in vehicle air conditioners
+kg
+
+Use of HCFCs in vehicle air conditioners
+kg
+
+Use of HFCs in vehicle air conditioners
+kg
+
+Buildings from which specified-CFC fire prevention
+equipment removed during the year
+Buildings
+
+Amount of specified CFCs removed from fire
+prevention equipment during the year
+kg
+
+Amount of specified CFC gas emitted by fire
+prevention equipment during the year
+kg
+
+Remaining number of buildings employing
+specified-CFC fire prevention equipment
+Buildings
+
+Remaining specified CFC gas emissions from fire
+prevention equipment
+kg
+28,718
+Use of air conditioning system units using specified CFCs
+Storage of air conditioning system units using specified CFCs
+Use of vehicles using specified CFCs
+Elimination of specified-CFC fire prevention equipment
+Ozone layer
+protection
+Removal during the year of air conditioning system units using specified
+chlorofluorocarbons (CFCs)
+NTT DATA CSR Report 2010                                                                                                     
+28/48

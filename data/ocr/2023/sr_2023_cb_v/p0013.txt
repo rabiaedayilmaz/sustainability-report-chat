@@ -1,0 +1,72 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Business Solutions (Germany) / NTT DATA (Japan)
+Efforts to reduce power consumption and save energy
+are under way for our data centers, which account for
+approximately 70% of NTT DATA’s power usage.
+The data center (DC2) in the heart of Berlin, Germany,
+has implemented efficient cooling technology, a power
+management system, and energy-saving measures.
+Preparations are also under way with local authorities to
+supply excess heat to neighboring areas, helping reduce
+the region’s environmental impact. Moreover, the data
+center in Bautzen (DC4) is operated using electricity
+from 100% renewable energy sources, including solar
+power. It utilizes adiabatic cooling, which relies on
+steam generated from rainwater to cool without requiring
+compressors,
+even
+when
+the
+outside
+temperature
+surpasses
+room
+temperature,
+thereby
+reducing
+greenhouse gas emissions. Also, the heat emitted by
+servers is repurposed for building heating.
+Mitaka Data Center EAST in Japan boasts state-ofthe-art environmental performance, being one of the
+largest and most advanced facilities domestically, with
+its electrical efficiency ranking among the top nationwide.
+The
+next-generation
+cooling
+system,
+known
+as
+“immersion cooling,” is employed by submerging IT
+equipment in an insulating liquid, achieving efficient
+cooling. Through operational verification, energy usage
+for data center cooling has been reduced by up to 92%
+compared to conventional data centers.
+We will continue pursuing data center sustainability,
+ensuring system safety and security while reducing
+environmental
+impact,
+including
+energy
+efficiency
+initiatives, as a leading company in the field.
+Pursuing Data Center Sustainability
+by Optimizing Energy Efficiency
+Pursuing Data Center Sustainability
+by Optimizing Energy Efficiency
+Click here for 
+reference article
+· Growing demand for cloud services is driving growth in the number of data centers worldwide. 
+· Data centers consume large amounts of electricity to keep servers running continuously, accounting for 
+1–1.5% of the world’s electricity consumption.
+100%
+Sustainability of 
+NTT DATA’s
+Data Centers
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Bautzen DC4

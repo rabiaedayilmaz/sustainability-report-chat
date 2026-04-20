@@ -1,0 +1,145 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Support platform
+Providing a Cross-industry Data Platform to Drive Decarbonization in the Aviation Sector
+• The aviation industry, a major CO2 emitter, is under pressure to achieve carbon neutrality. The International Civil Aviation Organization (ICAO) aims
+to achieve carbon neutrality by 2050. Japan's Ministry of Economy, Trade and Industry plans to replace 10% of aviation fuel with Sustainable
+Aviation Fuel (SAF)* by 2030.
+• Japan is making a national push to develop and produce internationally competitive SAF. The Agency for Natural Resources and Energy expects
+domestic SAF supply to reach nearly 1.92 million kiloliters annually by 2030, several dozen times the current level. In Europe, systems are in place
+to secure raw materials, cut production costs, and easily obtain and maintain necessary certifications. Japan needs to establish similar systems.
+SAF is a fuel that emits less CO2 than traditional jet fuel,
+and its production is rapidly advancing in Japan.
+Producing SAF requires sourcing key materials like
+used cooking oil, animal fat, municipal waste, waste gas,
+plants, agricultural residues, and microalgae in an ecofriendly manner. However, this process incurs significant
+costs, making it crucial to reduce production expenses. As
+well as strengthening supply chains to secure distribution
+channels for by-products like biodiesel and naphtha, it is
+essential to establish systems for information sharing and
+inspections. This will help streamline the certification
+process for CORSIA-compliant fuel and adherence to
+international standards such as ASTM.
+Building future supply chains will require a digital
+platform
+acting
+as
+a
+single
+foundation
+seamlessly
+connecting
+various
+stakeholders
+involved
+in
+diverse
+processes,
+such as
+suppliers,
+airlines,
+raw
+material
+producers, and collectors.
+Business need
+Solution
+NTT DATA aims to build a locally integrated supply chain
+for
+SAF,
+ensuring
+raw
+material
+quality
+through
+procurement, refining, and sales. The goal is to achieve
+both
+environmental
+conservation
+and
+economic
+sustainability. Specifically, the aim is to use local resources
+for raw materials and keep the entire process—from
+procurement to production and consumption—within the
+region.
+This
+approach
+shortens
+transport
+distances,
+stimulates the local economy, and reduces environmental
+impact.
+NTT DATA will first conduct trials using waste cooking oil
+in
+real-world
+settings,
+then
+evaluate
+and
+analyze
+challenges in launching domestic production. Effectiveness
+will be tested in the Aichi Prefecture decarbonization
+project, which was approved in January 2025, and in
+multiple pilot fields as part of work toward full-scale
+implementation. Efforts to promote local production for local
+consumption to revitalize the community will also be
+advanced.
+NTT DATA aims to support domestic SAF production and
+distribution by ensuring transparency, certification, and
+maintenance across the entire SAF supply chain. The goal
+is to provide an industry-wide data platform that balances
+cooperation and competition.
+This model will be expanded globally, focusing on Asia, to
+promote a circular economy and contribute to achieving
+carbon neutrality across society.
+Approx. 415,000 tons
+Expected CO2 reduction from building an SAF supply chain
+Impact
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Circular 
+Economy
+*Sustainable Aviation Fuel (SAF):
+Sustainable aviation fuel used by the
+airline industry to reduce environmental
+impact.
+It
+is
+primarily
+made
+from
+renewable
+resources
+and
+waste,
+significantly reducing CO2
+emissions
+compared to traditional fossil fuels.
+NTT DATA GROUP’s Local SAF Supply Chain Project 
+Selected for Aichi Prefecture’s Decarbonization Initiative
+NTT DATA GROUP (in Japanese only)
+Produce
+SAF
+Supporting sustainability
+certification (CORSIA certification)
+Supporting the collection of raw materials 
+such as used cooking oil, urban waste, 
+agricultural products, and forestry residues
+Supporting the crediting and trading of 
+environmental value (Book and Claim)
+Support Production
+Support Collection
+Support Use
+Collect
+raw materials
+Use SAF
+NTT DATA Japan Corporation
+Second Industry Business Sector
+Pharmaceutical & Chemical Division
+“Local Production, Local Consumption“ 
+SAF Supply Chain Platform

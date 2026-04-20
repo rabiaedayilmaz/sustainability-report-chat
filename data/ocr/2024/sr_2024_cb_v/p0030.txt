@@ -1,0 +1,97 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Providing a Development Environment where IT Engineers can Leverage AI Support 
+and Focus on Creative Work
+NTT DATA Group Corporation 
+Cloud & Infrastructure Group
+Cloud & Infrastructure Technology Department
+Technology and Innovation General Headquarters
+Developer Workplace
+Smart X
+Co-Innovation
+Future of
+Work
+NTT DATA has brought together assets and services
+that help enhance system development efficiency into the
+Developer Workplace package, creating an environment
+that is easy to use from an engineer's perspective. This
+service is designed for internal use but can also be actively
+applied to system development projects with external
+customers.
+NTT DATA will implement AI-driven system development
+using
+Smart
+AI
+Agent
+with
+multi-LLM,
+seamlessly
+integrating
+areas
+from
+proposal
+to
+development
+and
+operation across a wide range of projects. Before starting a
+project,
+the
+user
+enters
+the
+development
+project's
+characteristics. The AI model will then suggest suitable
+assets and services. In the design and development
+stages, the AI model leverages NTT DATA’s accumulated
+expertise to generate output, driving a major productivity
+boost while maintaining established quality levels. This
+enables customer needs to be met to an even higher level.
+IT engineers involved in development can maximize their
+performance and focus more on creative initiatives.
+• Demand for IT in various fields of society is increasing. The pace of technological advancement is remarkably fast, and the shortage of IT personnel is becoming more serious. It is 
+estimated that by 2030, there will be a shortage of up to approximately 800,000 IT personnel.
+(Source: Survey on the Latest Trends and Future Projections of Human Resources (2016), Ministry of Economy, Trade and Industry)
+• Companies today need efficient and adaptable development processes to keep up with rapidly changing markets and technological innovation.
+Business need
+System engineers are increasingly expected to choose
+and swiftly implement the best assets and services from a
+wide range of productivity-enhancing options available
+within the company.
+Inconsistencies in asset and service formats create
+challenges
+in
+user
+awareness,
+adoption,
+and
+responsiveness to user needs.
+Customers expect proposals that not only address
+visible problems and challenges but also enhance latent
+value.
+Leveraging in-house expertise, there is a need to
+establish
+an
+engineer-friendly
+environment.
+This
+will
+improve system development productivity and quality,
+boosting competitiveness.
+Solution
+Impact
+Internal adoption rate of Developer Workplace at NTT
+DATA as of fiscal 2027
+50%
+Proposal
+Design and development
+Operation
+Search engine
+Marketplace
+Asset
+Expertise
+Developer Workplace

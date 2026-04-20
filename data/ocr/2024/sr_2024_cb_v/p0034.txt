@@ -1,0 +1,126 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Creating Connections Between People and Information to Support Company Innovation 
+and Talent Development
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Planning Department
+Digital Workplace Group
+Digital Workplace
+Smart X
+Co-Innovation
+Community
+Engagement
+Future of
+Work
+• As society becomes more complex and globalized, companies must enhance teamwork and knowledge sharing among employees to ensure sustainable growth. Boosting employee
+engagement is essential.
+• In 2040, the baby boom junior generation will turn 65, leading to a significant decline in the working-age population and a severe labor shortage, commonly refereed to as the “2040
+problem.”
+Business need
+Knowledge management has long been used to enhance
+business
+efficiency and corporate
+value.
+It
+works
+by
+visualizing and sharing the knowledge, experience, and
+other intellectual assets of organizations and their employees.
+In recent years, advances in globalization have given rise to
+a need for cross-domain collaboration to drive innovation.
+Weak
+ties
+between
+different
+fields
+of
+expertise
+and
+departments are growing in importance. Given this context,
+the established approach of relying on personal connections
+for information gathering and sharing has reached its limits.
+Businesses are concerned that if they fail to recognize or
+leverage effective internal resources they may fall behind in
+responding to their clients or miss business opportunities.
+In addition, as the workforce continues to shrink due to an
+aging population and low birthrate, challenges in knowledge
+sharing have become increasingly apparent. This impacts
+the transfer of skills and expertise based on individual
+experience and intuition, as well as the development of talent.
+Solution
+Since 2021, NTT DATA has been partnering with NTT
+DATA INTELLILINK and Qunie to offer support services for
+implementing the knowledge management solution "knowler."
+This
+includes
+drawing
+from
+expertise
+accumulated
+by
+promoting knowledge management within NTT DATA since
+2018.
+Knowler enhances internal collaboration by not only sharing
+documents (Know-How) but also integrating and sharing who
+holds specific knowledge (Know-Who) and organizational or
+project information (Know-Where).
+Knowler connects with various documents stored in online
+storage and internal systems to gather information about
+people, organizations, and projects. The system uses ontology
+to automatically analyze and organically link and structure
+various data, enabling complex information searches.
+This makes it easier to visualize who holds what information,
+effectively driving strong interpersonal connections that were
+previously difficult to establish. As a result, it supports the
+creation of
+innovation and
+the development of
+human
+resources, contributing to enhanced competitiveness.
+Going forward, NTT DATA aims to expand into both
+domestic and international markets. This will allow employees
+to connect freely and organically across the globe. By linking
+their experiences, skills, and the latest technologies with
+customer ideas, NTT DATA strives to create new value for
+customers, society, and employees.
+Impact
+Impact in optimizing proposals and reducing opportunity 
+loss
+JPY 20.1 billion/year
+*Based on survey results, the number of proposals involving
+knowledge sharing and the improvements in business speed and
+efficiency were analyzed. Revenue opportunities from improved
+proposal efficiency and the resulting additional proposals were then
+estimated.
+Distribution and utilization of
+knowledge and assets
+Collaboration
+Global
+Knowledge
+Asset
+Search
+Search
+Utilize
+Connect
+Share
+Share
+Increase work efficiency 
+and productivity
+Create
+new value
+Digital Workplace
+Digital Transformation of the 
+Working Environment
+Knowledge Search
+Making Your Digital Workplace 
+Smarter.
+TIME Powered by 
+knowler
+(YouTube)
+Autonomous occurrence and promotion of 
+collaboration

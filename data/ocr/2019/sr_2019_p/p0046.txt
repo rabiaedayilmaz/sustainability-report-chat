@@ -1,0 +1,69 @@
+At NTT DATA, executives and employees promptly notify the quality assurance desk in the 
+event of any serious quality issue with a commercial system. The Quality Assurance Department 
+and external relations desk have set up an emergency contact system whereby the Corporate 
+Management Committee deliberates countermeasures to highly serious issues. Particularly 
+serious incidents are reported to senior managers. At the same time, we work to thoroughly 
+ascertain and analyze the root cause of the loss, and preventive measures are formulated to 
+prevent recurrence. We report to the competent authorities, as necessary, according to the law. 
+We also notify customers by disclosing appropriate information on our website.
+Recently, there have been multiple incidents of illegal access to information through breaches 
+(vulnerabilities) of information systems, resulting in personal and confidential information leaks, 
+business disruption, and other harmful outcomes. Because most illegal accesses make use of 
+known attacks, against which countermeasures are available, we should apply preventative 
+measures across our systems without leaving any vulnerability.
+The NTT DATA Group shares the latest trends in security technology and vulnerability 
+information within the Group in a timely manner. In having built the system that is now in 
+operation, the Group incorporated processes to maintain the necessary level of security and has 
+established mechanisms to enable the system to maintain that level of security. The system in 
+place is also subjected to regular security diagnostic testing carried out by security experts. To 
+be able to provide safe and secure systems and services on an ongoing basis, the NTT DATA 
+Group has worked on, for example, appropriate responses to newly discovered vulnerabilities.
+■ Agile Professional Center
+The Agile Professional Center was established to create new businesses in collaboration with
+clients in response to the expanding business need for generating innovation. Around the world, 
+we have established agile development locations, where we are reinforcing three functions: the
+cultivation of agile and professional human resources, advanced R&D, and an on-demand, agile 
+development structure.
+■ Project Management Solution Center
+The Project Management Solution Center was established to research and develop innovative
+project management methods, reinforce them through verifiable methods familiar to the actual 
+worksites, and provide them within the Group in an easy-to-use manner. The center also
+established the NTT DATA Global Standards, which has unified standard operating procedures
+for system development throughout the world and is taking responsibility for the development
+of next-generation management tools that will raise efficiency of aspects of management such as 
+tracking and quality assurance. The center provides complete, one-stop support for the adoption, 
+introduction, and full utilization of solutions. Through expanded utilization of research and 
+development results, the center is improving capabilities across the entire Group and is reducing 
+the number of problematic projects.
+■ Quality Management Portal Site
+Since fiscal 2010, NTT DATA has operated the Quality Management Portal Site. Our objective
+was to enable the sharing of all kinds of information related to quality among the different 
+development locations, including those of Group companies.
+This site offers responses to industry standards related to quality and consolidates internal 
+rules and expertise, and we work to make this information available for use by all employees. 
+Going forward, we will continue with our initiatives to reduce quality control operations by 
+making better use of quality assurance expertise.
+Measures to Ensure Security of Commercial Systems
+Enhancing and Standardizing Project Management
+NTT DATA is endeavoring to enhance and standardize project management in order to improve 
+the quality and efficiency of system development. We have established the Agile Professional 
+Center as an entity that applies the agile development method to collaborate with clients in 
+creating new businesses and services. We also integrated our R&D organization for production 
+technologies, which also include project management, with our project support organization to 
+establish the Project Management Solution Center.
+Response to Serious Issues
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Social
+Social
+NTT DATA Sustainability Report 2019

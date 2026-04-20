@@ -1,0 +1,84 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Singapore (Singapore)
+Amid the global priority to reduce CO2 emissions, the
+Singaporean government has set a policy to transition
+all domestically registered vehicles to environmentally
+friendly options by 2040. It also aims to promote the
+installation
+of
+60,000
+public
+electric
+vehicle
+(EV)
+charging points (EVCPs) by 2030. To promote the
+widespread deployment and usage of
+EVCPs, it is
+important
+to
+comprehend
+information
+such
+as
+the
+EVCPs’ locations, electricity demand-supply dynamics,
+and vehicle movements.
+NTT DATA Singapore has established a partnership
+agreement with EV-Electric Charging Pte Ltd (EVe),
+specializing in charging facility management. Through
+this collaboration, NTT DATA offers its cutting-edge EV
+charging data management and analysis platform, NXT
+E-Mobility Data Platform (NXT-EDP), to support EV
+charging facility promoters, commercial establishments,
+and residential development authorities. The objective is
+to enhance the operational efficiency of these facilities.
+NTT DATA will leverage this ecosystem to deepen
+customer
+relationships
+through
+interconnected
+experiences.
+Furthermore, we will prioritize the development of
+advanced data models to predict customer needs,
+behaviors, and preferences, and effectively acquire and
+utilize consumer data for this purpose. We will identify
+correlations between consumer behavior in various
+industries such as shopping malls, real estate, and
+insurance, and work to expand our services.
+Percentage of Singapore’s domestic 
+registered vehicles to be eco-friendly by 
+2040 (green policy)
+Contributing to Singapore’s EV Adoption Via Data 
+Management and Analysis of Charging Facilities
+Click here for 
+reference article
+· While transition from gasoline cars to EVs with lower CO2 emissions is progressing worldwide, challenges such as vehicle prices 
+and inadequate charging infrastructure hinder the spread of EVs in some regions.
+Environment | Regenerating Ecosystems
+100%
+E-mobility
+Data Platform
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Key Goals
+• Track
+• Monitor
+• Report
+• Forecast
+• Planning
+• User Experience
+• Loyalty Programme
+• Improve Customer Services
+NXT-EDP connects consumers with 
+businesses across industries. Behavioral 
+data collected from EV charging facility 
+usage will be used in the consumption 
+activities of other businesses such as 
+shopping malls, real estate, and 
+insurance.

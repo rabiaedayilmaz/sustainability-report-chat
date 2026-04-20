@@ -1,0 +1,113 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Environment
+Regenerating Ecosystems
+Material Issues
+SDGs
+An Information Platform that Ensures Data Sovereignty and Enables Safe, Secure Data 
+Distribution
+NTT DATA Japan Corporation
+First Public Sector Public Service Design Division
+Third Public Sector Digital Platform Division
+First Industry Business Sector Automotive Division
+Battery Traceability Platform
+• To address social issues such as labor shortages, increasingly-severe natural disasters, and the need for decarbonization, and to drive innovation and achieve economic growth, it is
+essential to establish mechanisms for cross-industry and cross-border data sharing and system integration.
+• Batteries used in electric vehicles (EVs) contain critical minerals such as lithium and nickel, and the processes of mining and refining these minerals generate CO2 emissions. To achieve
+CO2 emission reductions and ensure stable supplies, it is necessary to establish a circular economy that utilizes recycled materials.
+Following the EU Battery Regulations that came into
+effect in August 2023, companies are now required to
+disclose
+data
+on
+CO2
+emissions
+and
+raw
+material
+recycling rates throughout the lifecycle of EV batteries.
+This disclosure will become mandatory in 2025, meaning
+companies must provide this data when shipping batteries
+to the European market.
+In this context, building robust information platforms is a
+significant
+challenge.
+To
+thrive
+in
+rapidly
+changing
+external environments, businesses need an information
+platform that allows stakeholders to securely exchange
+only
+the
+necessary
+data
+without
+compromising
+the
+confidentiality of sensitive information.
+Business need
+Solution
+NTT
+DATA
+has
+developed
+a
+platform
+leveraging
+blockchain-based distributed ledger management, smart
+contracts, encryption and tampering detection technology
+to achieve both protection of confidential information and
+the free exchange of data with the aim of realizing secure
+inter-company data coordination.
+As part of this project, NTT DATA established the Battery
+Traceability Platform, which visualizes information such as
+aggregated data regarding supply chains’ carbon footprints,
+recycling and reuse with a view to responding to needs
+such as compliance with the EU Battery Regulations. In
+May 2024, NTT DATA started providing a service enabling
+inter-company aggregation and coordination of carbon
+footprint data during battery production.
+This platform facilitates data coordination across borders
+throughout battery lifecycles. Additionally, it ensures safe,
+secure
+exchanges
+of
+data,
+including
+confidential
+information,
+while
+maintaining
+each
+company‘s
+data
+sovereignty.
+Future development is expected to include support for
+circular economies through interoperability with other data
+spaces,* support for circular economies through global
+expansion, and coverage for more products and materials.
+This platform was the first use case for the Ouranos
+Ecosystem, an initiative for cross-industry data exchange
+coordination led by the Japanese Ministry of Economy,
+Trade and Industry, and will be applied to various crossindustry data exchange use cases.
+Impact
+At least 500 companies
+Number of companies expected to use battery traceability 
+platform in next five years
+*Data spaces:
+Initiatives to create spaces for new economic and social activity
+through systems enabling multiple organizations to freely exchange
+data while ensuring mutual trust.
+Collaboration Platform for Secure Exchange of 
+Industrial Data Enters Operation
+NTT DATA GROUP (in Japanese only)
+Trusted
+Value Chain
+Smart X
+Co-Innovation
+Carbon
+Neutrality
+Circular 
+Economy

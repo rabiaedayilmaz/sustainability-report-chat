@@ -1,0 +1,82 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Data transmission time
+(compared to conventional methods)
+Safe, Secure, and Rapid Data Transmission 
+with High Reliability Closed-System Service
+The
+rapid
+spread
+of
+remote
+work,
+including
+telecommuting,
+was
+propelled
+by
+the
+COVID-19
+outbreak, resulting in the widespread adoption of cloud
+services.
+These
+services
+offer
+significant
+benefits,
+enabling tasks similar to those performed in-office even
+while working remotely. However, the use of networks
+accessible from anywhere, such as the Internet, poses
+risks such as cyberattacks and information leaks from
+external sources. Consequently, many companies and
+organizations are hesitant to embrace these services.
+Offered by NTT DATA, Connecure® utilizes a closednetwork environment isolated from the Internet, ensuring
+protection against threats such as information leakage,
+virus
+infection,
+and
+eavesdropping.
+This
+approach
+guarantees a level of security comparable to dedicated
+line services. In addition, measures such as distributing
+access points to mitigate the effects of disasters and
+implementing configurations with different carrier lines
+are taken to ensure highly reliable service. As of
+February
+2024,
+the
+number
+of
+installations
+had
+exceeded 1,500. Furthermore, it is possible to reduce
+data transmission time by approximately 94% compared
+to conventional methods.
+Connecure® will continue to incorporate technologies
+such as IoT and digital twins to further enhance its
+capabilities and evolve.
+· As remote work adoption progresses, companies are increasingly vulnerable to cyberattacks, resulting in significant 
+economic losses.
+· According to a survey conducted by the Information-Technology Promotion Agency, Japan on cyberattacks targeting 
+small and medium-sized enterprises in fiscal 2022, it was found that up to 11.6% of the 43 surveyed companies 
+reported experiencing information security incidents over the past three years.
+Smart X
+Co-Innovation
+Trusted
+Value Chain
+Connecure®
+
+Incidents of damage due to
+unauthorized access at
+roughly 1,500 companies
+after introducing Connecure®
+Click here for 
+reference article
+Image of Connecure® service
+Approx. 94%
+reduction possible
+NTT DATA (Japan)

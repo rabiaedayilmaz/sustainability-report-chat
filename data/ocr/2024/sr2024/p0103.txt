@@ -1,0 +1,101 @@
+Performance Indicators for Bonuses
+Financial targets set out in the medium-term management plan are set as performance indicators and evaluated 
+based on the year-on-year improvement and the achievement level of the plan. Bonuses are calculated by converting the payment rates using the predetermined method for each performance indicator, weighting them based on 
+the evaluation weights specified in the table below, and multiplying them by the standard amount of bonuses for 
+each position.
+Category
+KPIs
+Evaluation Weight
+Evaluation Method
+Financial indicators
+EBITDA
+25%
+Year-on-year 
+improvement
+Operating income
+10% 
+Sustainability indicators
+Employee engagement rate
+3.75%
+Category
+KPIs
+Evaluation Weight
+Evaluation Method
+Financial indicators
+EBITDA
+25%
+Target achievement
+Operating income
+10%
+Overseas operating margin
+10%
+ROIC
+2.5%
+Capital investment 
+(data centers)
+2.5%
+Sustainability indicators
+Greenhouse gas emissions
+7.5%
+Appointment rate of 
+new female managers
+3.75%
+ [Reference page] Non-Financial Data “Status of the Board of Directors, Audit and Supervisory Committee, Independent Officers, 
+and Executive Compensation”
+Policy for Determining Director Remuneration
+To ensure objectivity and transparency, the remuneration policies for the directors who are not Audit and Supervisory 
+Committee Members and the composition and level of remuneration are determined by the Board of Directors, 
+comprising 13 members, including a majority of 7 independent outside directors, within the scope of the amount 
+resolved at the General Meeting of Shareholders, after explaining the policies for determining remuneration to the 
+parent company, the independent outside directors, and the directors who are Audit and Supervisory Committee 
+Members, and obtaining appropriate advice on May 11, 2023. The amount of individual compensation is determined by Yo Honma, President and Representative Director (as of the disclosed date of the report, Hiroshi Sasaki, 
+President and Representative Director), who is entrusted by the Board of Directors. NTT DATA has delegated this 
+authority to the President and Representative Director because it believes that appropriate decisions can be made 
+while giving an overview of NTT DATA’s overall business performance. In addition, to ensure the appropriate exercise of such authority, NTT DATA has taken measures to exercise such authority while respecting the opinions of 
+outside directors and the right to state opinions on the Audit and Supervisory Committee’s remuneration.
+Compensation Structure
+The compensation structure and compensation breakdown ratios for each director are as follows.
+Fixed Remuneration
+Performance-Linked Compensation
+Short Term
+Medium to Long Term
+Directors Who Are Not 
+Audit and Supervisory 
+Committee Members
+Internal
+●(50%)
+●(30%)
+●(20%)
+Outside
+●(100%)
+―
+―
+Directors Who Are Audit and 
+Supervisory Committee Members
+●(100%)
+―
+―
+Fixed Remuneration: Medium- to long-term monthly fixed compensation determined in accordance with degree of 
+responsibility and extent of role of the position of given director
+Performance-Linked Compensation (Short Term): Bonuses determined in consideration of the Company’s performance 
+during the relevant period and paid in June of each year
+Performance-Linked Compensation (Medium to Long Term): Stock compensation and stock purchased via officers’ shareholding association
+ 
+With regard to stock compensation, in the event of serious misconduct or a violation by a director, or in the 
+event of a director entering into an employment agreement or a delegation agreement with another company 
+in the same industry without the approval of NTT DATA, a clawback provision has been established that allows for 
+the forfeiture or confiscation (malus clause) of the right to receive NTT DATA’s shares and for a demand to return 
+money equivalent to the value of the shares granted.
+Director Remuneration
+Contents
+Appendix
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Corporate Governance

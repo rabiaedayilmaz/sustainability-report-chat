@@ -1,0 +1,37 @@
+NTT DATA CSR Report 2010 9/48 
+【Additional Topics】 
+ 
+ 
+ 
+Promoting electronic purchasing to encourage openness and efficiency 
+We began NTT DATA Electronic Purchasing Contracts*1 in December 2006 to convert written contracts 
+to electronic documents with electronic signatures and network-based transmission and reception. 
+NTT DATA Electronic Purchasing Contracts offer several benefits to NTT DATA and its suppliers, 
+such as higher efficiency and reduced managerial burden and environmental impact. Accordingly, we 
+hold periodic briefing sessions to promote the system. 
+As a result, the number of transactions rose from 16,720 during fiscal 2008 to 20,493 in fiscal 2009 
+and 21,635 in fiscal 2010, and this number continues to grow. 
+This system ensures high security by applying NTT DATA’s CECTRUST, Electronic Contract 
+Service*2. 
+ 
+*1 NTT DATA Electronic Purchasing Contracts: This electronic system offers an alternative to written 
+contracts. It can be introduced by all suppliers, but is restricted to documentation for which electronic 
+contracts are legally recognized. 
+Reference website: http://www.nttdata.co.jp/corporate/profile/proc/d-contract.html 
+(Japanese only) 
+ 
+*2 CECTRUST, Electronic Contract Service: This ASP service enables electronic exchange of contracts 
+between companies. It was jointly developed with Construction-ec.com Co., Ltd., based on NTT DATA’s 
+SecurePod (a Digital Document Exchange Platform), in accordance with the official recognition of electronic 
+legal documents under the April 2001 IT Comprehensive Law. 
+The service ensures safety through long-term storage and third-party verification of original documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+Business partner system to enhance supplier relations 
+To respond to the diversification and growing sophistication of information system quality requirements 
+from customers, we outsource some software development, including to subsidiaries and affiliates. 
+When doing so, we take into consideration technological capacity and business expertise, security

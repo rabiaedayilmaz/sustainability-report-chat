@@ -1,0 +1,26 @@
+NTT DATA CSR Report 2010 38/48 
+【Additional Topics】
+ 
+ 
+ 
+ 
+Contributing to office paper usage reduction with an authenticated print solution 
+In May 2009, NTT DATA began offering the inexpensive u:ma Authenticated Print solution for multiple 
+vendors. Using the u:ma-G card reader, which can be used by a variety of smart cards, the user is 
+authorized to easily print only the necessary material. 
+This helps prevent printing errors and neglecting documents of uncertain ownership, and reduces 
+the risks of print job intermixing. This helps to reduce paper use by 20% (based on test figures provided 
+by existing NTT DATA customers and other publicly announced results). 
+ 
+[PHOTO] u:ma authorization box and u:ma-G smart card reader 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Saving and Using Natural Resources Efficiently

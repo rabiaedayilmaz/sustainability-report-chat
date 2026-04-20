@@ -1,0 +1,76 @@
+■ Information Security Management System
+■ Information Security Governance
+President and Chief Executive Officer
+Chief Information Security Officer (CISO)
+Personal Information Protection Manager (Supervisor)
+Information Security 
+Committee
+Information Security Steering 
+Organization
+Personal Information Protection 
+Promotion Organization
+(Information Security Office)
+Associated Organizations
+ Management Planning and
+ Administration Office
+ Technological Innovation 
+ Headquarters
+ Information System Department
+ General Affairs, Legal, and 
+ Intellectual Property Departments
+ Training Department
+ NTTDATA-CERT
+Internal Audit 
+Department
+Heads of 
+organizations
+Reports
+Regular reports
+Audits
+Audits
+Information Security 
+Promotion Supervisor
+Departmental Manager of 
+Personal Information Protection
+ Business 
+Department, 
+Staff Department, 
+etc.
+Members
+Information Security 
+Promotion Officer
+Stakeholders
+Auditing
+Internal Audit 
+Department
+Each business division
+ (work site, project)
+Backups 
+NTTDATA-CERT
+Monitoring
+Information Security Office
+Reporting
+Management team: CISO
+Assessment
+Information Security Committee
+Steering
+Information Security Committee
+At NTT DATA Group companies, each unit that handles confidential information and personal information acquires ISO/IEC 27001 
+certification—the international standard for information security management systems (ISMS)—as an organization, as necessary.
+As of March 31, 2015, 42 Group companies, including NTT DATA, have acquired this certification in Japan. Several overseas 
+companies, for example in Europe, China and India, have also obtained ISO/IEC 27001 certification.
+In addition, 37 Group companies, including NTT DATA, have been granted the right to display the Privacy Mark of the Japan 
+Institute for Promotion of Digital Economy and Community (JIPDEC). As part of its efforts in personal information protection, NTT 
+DATA (CHINA) CO., LTD. obtained Personal Information Protection Assessment (PIPA) certification, equivalent to Japan’s Privacy 
+Mark, in January 2012.
+Consequently, the NTT DATA Group has obtained third-party certification for information security at 100% of its Group companies.
+● Acquisition of Information Security Management Certification
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

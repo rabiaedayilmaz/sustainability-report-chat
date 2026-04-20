@@ -1,0 +1,246 @@
+Maintaining and Continuously Strengthening Internal Control Systems
+Internal Control
+Implementation Status of Internal Audits
+Education and Training Related to Internal Control Systems
+The NTT DATA Group promotes the creation and maintenance of internal control systems based 
+on a basic policy of always considering risks arising from business activities and taking various 
+types of measures to realize eﬃcient implementation of equitable, transparent business activities.
+Twice a year, we convene meetings of the Internal Control Promotion Committee, which is 
+tasked with assessing the eﬀectiveness of internal control systems and managing and furthering 
+overall internal control. With its global business expanding, the Company will maintain eﬀorts to 
+strengthen the Group’s overall internal control capabilities.
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent 
+from operational divisions. In ﬁscal 2018, the department audited in-house organizations and 
+27 Group companies primarily focusing on the themes of business process compliance, working 
+hours, appropriateness of outsourcing contract, and information security. The department 
+also monitored the internal auditing activities of 27 Group companies. In addition, as part of 
+Groupwide eﬀorts to enhance internal auditing, 77 domestic and overseas Group companies 
+conducted voluntary inspections based on uniﬁed audit items.
+Furthermore, as an IT adaption, we have also introduced a monitoring indicator system to 
+detect sings of fraud, and we are expanding the functions of the system using its computerassisted audit techniques (CAAT) tools to analyze data extracted from various in-house 
+information systems. This system is already adopted into some of our internal organizations and 
+Group companies, and we are considering the possibility of expanding its implementation.
+Going forward, NTT DATA will continue to aim to realize coordination with the internal audit 
+divisions of domestic and overseas Group companies and to advance measures to establish a 
+global internal auditing system while increasing the quality and quantity of internal audits.
+NTT DATA provides an annual e-learning course on internal control to instill its policies and view 
+on internal controls in its group employees.
+Position
+Name
+Outside / 
+Independent
+Term
+Areas of Responsibility
+Concurrent Position
+Meeting 
+Attendance
+Shares 
+Owned*
+
+President and Chief 
+Executive Officer, 
+Representative Director,
+Yo Honma 
+ー
+*1
+18/18
+36,200
+Senior Executive
+Vice President and
+Representative Director
+Keiichiro 
+Yanagi 
+ー
+*1
+Head of HR Headquarters, Responsible for 
+Corporate Strategy*⁴ Human Resource, 
+Management, Finance (CFO), Investor 
+Relations, Risk Management (CRO), and 
+Public Relations
+18/18
+31,400
+Senior Executive 
+Vice President and 
+Representative Director
+Shigeki 
+Yamaguchi
+ー
+*1
+Responsible for Public & Social Infrastructure 
+Segment, Enterprise & Solutions Segment, 
+and China & APAC Segment
+18/18
+14,700
+Senior Executive 
+Vice President and 
+Representative Director
+Toshi 
+Fujiwara
+ー
+*1
+Responsible for Americas & Europe 
+Segment, and Global Marketing
+18/18
+17,100
+Executive Vice President 
+and Director
+Tsuyoshi 
+Kitani
+ー
+*1
+Head of Technology and Innovation General 
+Headquarters, Responsible for Technology 
+Strategy (CTO) and Information Security 
+(CISO)*5
+18/18
+25,700
+Executive Vice President 
+and Director
+Shunichi 
+Takeuchi
+ー
+*1
+Deputy responsible for Public & Social 
+Infrastructure Segment
+14/14
+10,200
+Executive Vice President 
+and Director
+Koji Ito
+ー
+*1
+Head of North American Sector and EMEA 
+& LATAM Sector, Deputy responsible for 
+Americas & Europe Segment
+14/14
+7,400
+Executive Vice President 
+and Director
+Hisashi 
+Matsunaga
+ー
+*1
+Head of Third Financial Sector, Responsible for 
+Financial Segment,
+　ー
+13,600
+Director
+Yukio 
+Okamoto
+Outside Director, 
+Independent 
+Director
+*1
+Representative Director of Okamoto 
+Associates, Inc. (to present)
+18/18
+7,100
+Director
+Eiji Hirano
+Outside Director, 
+Independent 
+Director
+*1
+Vice Chairman and Director of MetLife, 
+Insurance K.K. (to present), Director of 
+RIKEN CORPORATION (to present)
+18/18
+4,100
+Director
+Takashi 
+Ebihara
+*1
+18/18
+1,400
+Director
+John McCain
+*1
+10/14
+
+Director
+Mariko Fujii
+Outside Director, 
+Independent 
+Director
+*1
+　ー
+
+Standing Audit & 
+Supervisory Board 
+Member
+Tetsuro 
+Yamaguchi
+Outside Audit & 
+Supervisory Board 
+Member
+*3
+18/18
+6,200
+Standing Audit & 
+Supervisory Board 
+Member
+Tetsuya 
+Obata
+Outside Audit & 
+Supervisory Board 
+Member
+*2
+14/14
+1,500
+Standing Audit & 
+Supervisory Board 
+Member
+Katsura 
+Sakurada
+Outside Audit 
+& Supervisory 
+Board Member, 
+Independent Auditor
+*2
+14/14
+1,200
+Audit & Supervisory 
+Board Member
+Rieko Sato
+Outside Audit 
+& Supervisory 
+Board Member, 
+Independent Auditor
+*3
+Partner of Ishii Law Office (to present), Audit 
+and Supervisory Board Member of Gigno 
+System Japan, Inc. (to present), Director (Audit 
+and Supervisory Committee Member) of Daiichi Life Holdings, Inc. (to present) Director of J. 
+FRONT RETAILING, Co., Ltd. (to present)
+17/18
+8,600
+Directors and Audit & Supervisory Board Member
+As of June 20, 2019
+15 men and 2 woman (Female ratio of 11.76%)
+Board of Directors (Average attendance rate of 98.0% in fiscal 2018)
+*1: Director’s term ends with the closing of the Ordinary General Meeting of Shareholders for the last fiscal year that ends within 
+two years from appointment at the Ordinary General Meeting of Shareholders held on June 20, 2018
+*2: Director’s term ends with the closing of the Ordinary General Meeting of Shareholders for the last fiscal year that ends within 
+one year from appointment at the Ordinary General Meeting of Shareholders held on June 19, 2018
+*3: Audit & Supervisory Board Member’s term ends with the closing of the Ordinary General Meeting of Shareholders for the last 
+fiscal year that ends within four years from appointment at the Ordinary General Meeting of Shareholders held on June 22, 2016
+*4: Allocation that collectivizes the strategy formulation and implementation related to the Group’s technology development and 
+R&D, as well as the formulation and implementation of security strategies
+*5: The President and CEO, as well as all other members of the Board of Directors, must own stock in the Company equivalent in 
+value to at least 10% of his or her annual basic remuneration
+*6: Full-time directors residing in Japan are required to hold the Company’s stock equivalent in value to a certain portion of their 
+annual basic remuneration.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

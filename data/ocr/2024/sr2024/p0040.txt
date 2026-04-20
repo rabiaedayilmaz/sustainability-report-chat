@@ -1,0 +1,61 @@
+Disclosure 
+Recommendations
+Recommended Disclosure Content
+Activity Summary
+Governance
+Disclose the organisation’s governance around nature-related 
+dependencies, impacts, risks, and opportunities
+NTT DATA discusses and supervises the achievement status of its sustainability management strategy and company-wide KPIs at the 
+Board of Directors. The Representative Director and Senior Executive Vice President, who serves as the chair of the Eco Activity Promotion Committee, oversees the activities of the Sustainability Committee and the Nature Conservation Task Force, which promotes 
+the conservation of nature and biodiversity, directing cross-organizational initiatives.
+Strategy
+ Strategy and Risks/ 
+Opportunities 
+[Details]
+Describe management’s role in assessing and managing 
+nature-related dependencies, impacts, risks, and opportunities
+NTT DATA uses water for the cooling systems and sanitary services of its data centers and faces serious drought risks due to 
+increased extreme weather in areas with high water stress. One of its data center locations in Southeast Asia is situated in a region 
+assessed to have very high water stress, prompting the establishment of a Business Continuity Plan (BCP) in case of severe water 
+shortages and encouraging water-saving actions.
+ 
+In terms of environmental impact, we produce domestic wastewater, but we do not discharge industrial effluent. We do, however, 
+own fuel storage facilities for the backup generators in our data centers. In the event of a fuel spillage incident, there is a risk of water 
+and soil pollution.
+ 
+Addressing these risks effectively and engaging in conservation efforts present potential new business opportunities. In addition, 
+we expect an increase in the availability of solutions and consulting services focused on supporting nature conservation.
+Management of 
+Risks and Impacts
+ Strategy and Risks/ 
+Opportunities 
+[Details]
+Disclose how the organisation identifies, assesses, and manages nature-related dependencies, impacts, risks, and 
+opportunities
+In fiscal 2022, we began analyzing our dependencies, impacts, risks, and opportunities related to nature and are currently reviewing 
+the processes and actions for managing these aspects. In particular, our data centers in Southeast Asia operating in areas with very 
+high water stress are equipped with emergency water storage tanks. We also confirm that the water utility supplying our data centers 
+is actively purifying sewage for use as recycled water in industrial applications, ensuring stable supply. These risk responses and supplier mitigation measures have significantly maintained business continuity.
+ 
+We apply the standards of the Internal Control Committee to manage nature-related risks and opportunities, categorizing their 
+impact into four levels: “High,” “Medium-High,” “Medium,” and “Low.” In assessing the risk of water shortages at our data centers in 
+Southeast Asia, we have estimated the financial impact and categorized the risk as “Low.”
+Metrics and Targets
+Metrics and targets used to assess and manage relevant 
+nature-related dependencies, impacts, risks, and opportunities
+We confirm the presence or absence of operations in water-stressed areas and areas of significant biodiversity, monitoring water usage 
+and wastewater indicators at all sites. In addition to management focused on targets for compliance with various national regulations, 
+including the Water Pollution Prevention Act and Occupational Safety and Health Act, we are considering setting goals based on opportunity assessments, such as the need for offerings that contribute to a nature-positive society and the provision of consulting services. 
+General Discussion
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

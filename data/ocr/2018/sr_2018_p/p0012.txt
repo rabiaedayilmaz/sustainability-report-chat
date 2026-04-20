@@ -1,0 +1,130 @@
+NTT DATA Sustainability Report 2018
+Blockchain
+What Is It?
+One of the latest trends in information and communications technology (ICT) and in the financial industry, 
+FinTech innovations are set to transform the financial business. In relation to these innovations, Blockchain 
+has become a focus of interest as a promising technology that realizes open financial services. Blockchain 
+technology is the main distributed ledger technology. This type of technology enables highly reliable 
+financial transactions and exchanges of important data over open networks such as the Internet.
+The NTT DATA Group’s Blockchain Technology
+In response to the changing needs of 
+businesses as they become more global 
+and borderless, we have formed a 
+center of excellence for Blockchain 
+technology along with more than 230 
+entities in 20 countries. This center has 
+given us capabilities for catering rapidly 
+to customers who want to incorporate 
+Blockchain technology.
+ Further, to ensure that our support 
+for the introduction of Blockchain technology matches customers’ needs, we offer an education program, a blockchain workshop, a proof of 
+concept (pilot) scheme, and business partnerships. Based on expertise garnered through our blockchain 
+technology activities worldwide, we provide a one-stop service that covers strategy analysis through to 
+practical application. 
+Main Initiatives
+• International Trade Data Sharing Platform that enables safe, rapid, and efficient sharing of 
+information internationally among trading-related companies (Japan)
+• Development of an international money transfer app that expedites money transfers (United Kingdom)
+• Linkage of food traceability and supply chain-related specifications with Blockchain technology (Italy) 
+Related Website
+Blockchain Section of NTT DATA’s Website
+ http://www.nttdata.com/jp/ja/services/sp/blockchain
+(In Japanese only)
+ Organizational Structure (As of July 1, 2018)
+Organizational Structure
+Having established the Global 3rd Stage with “Trusted Global Innovator” as the new objective of 
+global management, we are expanding our local presence, deepening relationships with important 
+customers, and quickly and accurately ascertaining Groupwide business conditions with the aim 
+of promoting global business and strengthening our management structure.
+ Specifically, on July 1, 2017, we transferred global cross-functionality to the newly established 
+Global Marketing Headquarters as a Head Office organization. This transition to a Head Office 
+organization creates an entity able to provide smooth global cross-functionality in Japan and for 
+the entire NTT DATA Group, while strengthening our structure. We will further promote regional 
+alliances at the global level.
+ We also established the China & APAC Segment Division to operate an organization with four 
+domains by linking the three existing domestic domains (Public & Social Infrastructure, Financial, 
+and Enterprise & Solutions) to the newly added China & APAC region business.
+Clients
+Corporate Management 
+Committee
+President and CEO
+Board of Directors
+Intellectual Property Office
+Research and Development Headquarters
+Quality Assurance Department
+Information Technology Management Office
+Technology and Innovation General 
+Headquarters
+Purchasing Department
+Global Marketing Headquarters
+System Engineering Headquarters
+EMEA & LATAM Segment
+North America Segment
+China & APAC Segment
+Business Solutions Segment
+Manufacturing IT Innovation Segment
+IT Services & Payments Services Segment
+Environmental Management 
+Promotion Office
+Fourth Financial Segment
+Investor Relations Office
+Third Financial Segment
+Finance Department
+Second Financial Segment
+HR Headquarters
+First Financial Segment
+ESG Promotion Department
+Telecom & Utility Business Segment
+Social Infrastructure Solution Segment
+Public Relations Department
+Public Segment 2
+Strategy Office
+Public Segment 1
+Internal Audit Department
+Audit & Supervisory 
+Board Members
+Audit & Supervisory 
+Board
+Business Units and Group Companies
+Blockchain center of 
+excellence
+(230 entities in 20 countries)
+ The NTT DATA Group’s Blockchain CoE
+Business 
+division
+(Japan and 
+overseas)
+Utilization examples
+* As of September 30, 2018
+Blockchain platform 
+and Use case catalog
+Sharing of 
+knowledge
+globally
+Common platform
+Cooperation with related 
+companies and organizations
+Customer
+Office for Audit & Supervisory 
+Board Members
+
+経営者からの
+メッセージ
+CONTENTS
+Sustainability in the 
+NTT DATA Group
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Company 
+Data

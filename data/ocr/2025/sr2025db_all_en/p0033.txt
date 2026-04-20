@@ -1,0 +1,78 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+ 
+In Japan, as part of our plan to increase renewable energy use in data centers and 
+offices, we signed an offsite physical corporate PPA* in March 2024 to supply renewable 
+energy to our Mitaka Data Center EAST, and began introducing PPA-sourced renewable 
+energy in August 2024. Furthermore, during fiscal 2025, we plan to introduce green 
+power directly to this data center, effectively converting all electricity use to 100% renewable energy and accelerating efforts to achieve a Green Data Center®. We also plan to 
+transition all electricity used at our 13 data center sites in Japan to 100% renewable 
+energy by fiscal 2025. 
+ 
+In addition, we are conducting a pilot 
+test by installing film-based perovskite solar 
+panels on the building’s exterior walls to 
+verify power generation efficiency and GHG 
+reduction effects. Moving forward, we aim 
+to expand the installation of these panels 
+on the exterior walls of data centers and 
+offices to promote local production and 
+consumption of renewable energy and 
+broader adoption.
+* An offsite physical corporate Power Purchase Agreement (PPA) refers to a long-term electricity purchase agreement in which a 
+company buys renewable energy at a fixed price from a retail electricity provider. The electricity is supplied from a power generation 
+facility located away from the demand site through a general transmission and distribution network, ensuring 30-minute real-time 
+matching of supply and demand, with the provider delivering both the electricity and its environmental benefits to the client.
+Costs
+We are reducing GHG emissions by improving energy efficiency and expanding the use of 
+renewable energy in our data centers and offices. The associated costs are duly recognized 
+and sustained as part of our continuous commitment to sustainable business operations.
+Mitaka Data Center EAST
+Measures and costs
+ Energy-saving measures for data centers
+At our data centers, we are introducing AI-controlled air-conditioning systems to reduce 
+environmental impact and improve energy efficiency. Real-time monitoring of indoor 
+conditions is conducted using temperature and humidity sensors installed in server 
+rooms. High-temperature areas identified at the server level are targeted for focused 
+cooling, optimizing air-conditioning and reducing power consumption.
+ Introduction of renewable energy
+By promoting the adoption of renewable energy, we plan to achieve Net-Zero emissions 
+for our data centers by fiscal 2030 and for our offices by fiscal 2035.
+ 
+Across NTT DATA, we have sourced renewable energy for 62% of total electricity consumption, an 8% increase compared with the previous fiscal year. In addition, we are 
+actively expanding the use of offsite physical corporate Power Purchase Agreements 
+(PPAs) for renewable energy.
+Time horizon: Long term
+Increase in costs due to carbon pricing (e.g., carbon tax)
+[Transition risk: Regulations]
+Assumed business and financial impacts
+With the rapid expansion of IT use, including digital transformation and generative AI, energy 
+consumption in our data center business is rising. Should carbon pricing (carbon taxes) be 
+introduced in the countries or regions where our data centers operate, costs could increase.
+Financial impact
+It is anticipated that achieving Net-Zero by 2050 will become a societal consensus globally, 
+leading to increased regulatory and legal demands for companies to comply with carbon 
+pricing. Assuming that carbon pricing applies to all GHG emissions from our data center 
+business, there is a risk of additional costs of ¥6.0 billion based on projected GHG emissions* 
+in fiscal 2027. 
+* The projected fiscal 2027 emissions were calculated by assuming that Scope 1 and Scope 2 emissions will grow in proportion to the forecast 1.7× increase in data center EBITDA from fiscal 2023 to 2027. The difference between these projected 
+emissions and the fiscal 2027 target was multiplied by the carbon price for advanced economies in the IEA’s Net-Zero by 
+2030 scenario (USD 140/t-CO2e) to estimate the carbon pricing cost.
+ Net Zero by 2050
+ World Energy Outlook 2024
+Risk
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

@@ -1,0 +1,127 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Initiatives to Achieve Materiality and KPIs
+NTT DATA is committed to fulfilling its part in addressing global environmental challenges through its business activities for the benefit of all people and future generations. 
+To achieve this, we focus on three material issues “Climate Change,” “Circularity,” and “Water Management.”
+  [Reference page] Sustainability Management “Materiality and Non-Financial Indicators”
+  Planet positive
+Indicators for FY2025 and Beyond
+[Reference]  FY2024 Results
+Indicator
+FY2025 Target
+Medium- to 
+Long-Term Targets
+Specific Initiatives
+Indicator
+Target
+Achievement
+ 
+ Climate Change
+ P22
+As decarbonization efforts in the world progress, from a 
+mitigation perspective, we will reduce GHG emissions and 
+contribute to customer GHG emissions reduction through 
+solutions. From an adaptation perspective, we will tackle 
+natural disasters caused by climate change.
+GHG emissions
+320kt-CO2 or less
+Scope 1 & 2 
+(data centers)
+Net-Zero <FY2030>
+Scope 1 & 2 
+(offices)
+Net-Zero <FY2035>
+Scope 3
+Net-Zero <FY2040>
+We have formulated reduction 
+plans for Scope 1 and 2 and are 
+actively introducing renewable 
+energy. For Scope 3, we are 
+standardizing calculation 
+methods across overseas 
+subsidiaries and obtaining 
+integrated third-party 
+assurance.
+GHG emissions 
+(Scope 1 & 2)
+341 kt-CO2e
+327 kt-CO2e
+ 
+ Circularity
+ P37
+Toward the transition to a circular economy, which is a global 
+trend, we will work on efficient and circular use of resources. 
+We will also work on the transition to a circular economy for 
+the entire society through solutions.
+Weight of end-of-life corporate IT devices in kg that are 
+reused/recycled
+Percentage of corporate IT 
+devices repaired/refurbished 
+during life cycle
+Monitoring for 
+current status 
+assessment
+Consider setting 
+medium-to-long term 
+targets in FY2025
+We have launched the 
+“IT Equipment Reuse Scheme,” 
+which centralizes internal 
+processing of equipment sales, 
+streamlines operations, and 
+promotes reuse and recycling in 
+NTT DATA Japan Corporation.
+Waste recycling rate
+General and 
+industrial waste: 
+99% or more
+Construction waste: 
+87%
+—
+Number of regulatory 
+violations related to 
+waste treatment (PCB)
+
+—
+ 
+ Water Management
+ P40
+As the supply and demand gap for fresh water widens, we will 
+work on water management particularly in high-risk areas. We 
+will work on water risk management such as cooling and 
+humidity in data centers. We will also contribute to improving 
+water management of customers through solution.
+Water usage effectiveness 
+(water consumption per IT 
+power at data centers)
+YoY improvement
+Consider setting 
+medium-to-long term 
+targets in FY2025
+At the UK data center, water 
+usage was reduced by treating 
+circulating water in the watercooled air-conditioning system 
+using a reverse osmosis (RO) 
+membrane
+WUE (water consumption per unit of IT power 
+at data centers)
+—
+Entire DC portfolio: 
+0.72 l/kWh
+Evaporative 
+sites only: 
+1.42 l/kWh
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive

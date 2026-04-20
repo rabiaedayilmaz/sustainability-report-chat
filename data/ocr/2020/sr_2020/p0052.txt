@@ -1,0 +1,43 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Governance (Climate-Related Controls) 
+ 
+The Representative Director and Senior Executive Vice President, who serves as the Eco Activity Promotion Committee 
+Chairperson and manager of core corporate activities—including business strategy, risk management and IR—has the highest 
+executive responsibility for climate change matters. The Chairperson (concurrently holding the post of Chief Risk Officer) 
+semiannually checks risk management related to climate change as part of Companywide risk management. The Sustainability 
+Group is responsible for the specific assessment of climate change risks and opportunities and strategic planning. 
+The Sustainability Group evaluates the business and financial impact of regulatory trends (including carbon taxes, purchase 
+schemes for renewable energy and cap-and-trade systems) and physical effects (including abnormal weather and average 
+temperature increases). It also monitors the progress of measures to address risks and opportunities deemed by the team as 
+material as a result of evaluations and analyzes the targets and results of environmental load measurements (energy 
+consumption/greenhouse gas emissions, paper resource usage, waste material volumes and water usage). The results of these 
+evaluations and analyses are reported to the Chairperson of the Eco Activity Promotion Committee. The Chairperson then 
+proposes critical matters for consideration to the Board of Directors, where discussions are held regarding possible response 
+measures. In fiscal 2019–2020, we set our 1.5°C SBT target. Also, climate-related physical risks are listed in Companywide risk 
+management as “particularly material risks” and transitional risks as “material risks” in our annual securities report. 
+ 
+ Activities of Each Facility 
+The Facility Management Division, an organization specializing in architectural design, compiles information on environmental 
+impact indicators for each data center and office (energy consumption/greenhouse gas emissions, paper resource usage, waste 
+material volumes and water usage), the status of energy conservation measures and regulatory trends at the local government 
+level, and reports its findings to the Sustainability Group. If the team deems that any reported matter would likely significantly 
+impact the Company’s business, it reports this matter to the Chairperson of the Eco Activity Promotion Committee. The 
+Chairperson then proposes critical matters for consideration to the Board of Directors, where discussions are held regarding 
+possible response measures. 
+ 
+ 
+Climate Change Strategy 
+ 
+ Prioritization of Risks 
+The Internal Control Promotion Committee, which is responsible for Companywide risk management, identifies about 40 
+business-related risks at the Head Office, regional head offices and individual Group companies. The committee then evaluates 
+each risk identified using a matrix with one axis being the magnitude of impact (very large, large, medium, small) and the other 
+axis being the probability of occurrence (very high, high, medium, low). Risks with very large/large impact and very 
+high/high/medium probability, or risks with very large/large/medium impact and very high/high probability are defined as “material 
+risks” and prioritized by each company around the globe. In addition, risks determined to potentially impact the entire Group are 
+defined as global-control risks and are managed thoroughly on a Groupwide basis. Risks determined by each regional head 
+office as material risks are defined as “region-control risks” and undergo an evaluation and improvement cycle based on the 
+progress of measures, risk occurrence status and other conditions. Under this Groupwide risk management system, climate 
+change risks are categorized as “region-control risks” faced by multiple companies.

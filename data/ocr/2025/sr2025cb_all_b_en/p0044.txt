@@ -1,0 +1,115 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+An integrated, end-to-end solution supporting employees balancing work and caregiving,
+by combining “Corporate services” and “Personal services”
+CARE la CARE
+(Corporate) Following the April 2025 revisions to the Childcare and
+Caregiver Leave Act, companies have been taking initiatives to
+support employees balancing work and caregiving. However, these
+programs are recognized and used by only few caregivers. Reasons
+include the fact that over 50% of companies lack clear understanding
+of employees’ needs, resulting in a mismatch between the support
+provided and the support truly needed. In addition, caregiving stages
+and
+challenges
+vary
+by
+individuals,
+making
+standardized
+communication ineffective.
+(Employee) Employees who are facing caregiving responsibilities
+often experience significant anxiety and stress in balancing work and
+caregiving. Many find existing consultation services insufficient, as
+they primarily offer information rather than personalized guidance. As
+a result, there is a growing demand for a trusted advisor.
+(Non-Insurance
+Service
+Providers’)
+For
+care
+recipients,
+government-insured care services are available with only a 10–20%
+copayment, making 100% non-insurance services relatively costly.
+However, for working caregivers, these non-insurance services can be
+positioned as “private services that can substitute for part of their
+parent’s caregiving.
+Business need
+Solution
+Impact
+Overview of Services
+Japan
+•
+With the rapid progression of a super-aging society, the number of “working caregivers” who must balance full-time employment with caring for aging parents is rising sharply.
+•
+As labor shortages become an increasingly critical issue for companies, caregiving has emerged as a challenge faced by many core employees aged 40 and above. When these key personnel experience productivity
+decline or leave the organization due to caregiving responsibilities, it directly translates into a business-continuity risk.
+•
+Estimates by the Ministry of Economy, Trade and Industry (METI), show the number of working caregivers will be 3.18 million by 2030, and the economic loss caused by productivity decline and turnover related to
+caregiving will exceed 9.2 trillion yen.
+NTT DATA offers “Care la Care”, an integrated solution that
+combines
+“Corporate
+services”—which
+support
+companies
+in
+strengthening their programs for employees balancing work and
+caregiving—with ”Personal services” —which help reduce the anxiety
+and
+burden
+experienced
+by
+employees
+facing
+caregiving
+responsibilities. By supporting both employers and employees, we
+help create an environment where employees can continue working
+with confidence while caring for their loved ones.
+Corporate Services: 1.Identifing overall trends and patterns of
+employees’ caregiving needs, based on employee survey and using
+generative AI. This provides evidence-based insights to companies in
+designing effective programs and policies. 2.Using generative AI, we
+deliver personalized reports for employees derived from survey
+results, supporting each individual to understand their caregiving
+situation and the company support available for them. 3.Through
+personal counseling by Care Life Designers (caregiving specialists),
+we assess the level and type of support required for caregiving
+challenges employees face and, when necessary, introduce relevant
+individual services.
+Individual Services: Care Life Designers act as trusted advisors for
+employees, offering timely, personalized support. In collaboration
+with various partner organizations—including non-insurance service
+providers—we combine AI, IoT, and human expertise to deliver
+individualized
+support
+services
+.
+These
+services
+help
+ease
+employees’ caregiving-related anxiety, burden, and stress. 
+By leveraging data generated through “Carela Care” and NTT
+DATA’s technologies, we will continue working with clients to create
+new business opportunities in caregiving-related domains.
+Our impact goal for 2030
+15%
+• Share of large Japanese companies utilizing 
+caregiving support programs
+• Share of working caregivers enabled to balance 
+work and caregiving through this service
+• Wage increases for care workers
+10%
+150% increase
+NTT DATA Life Design Corporation
+NTT DATA Life Design Corporation
+(in Japanese only)
+Press Release:
+Launch of Working Carer Support Project 
+"CARE la CARE“ NTT DATA Life Design 
+Corporation (in Japanese only)

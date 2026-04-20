@@ -1,0 +1,91 @@
+Organizations responsible for implementation
+To continue fulfilling our responsibilities to clients and society, we identify and rigorously manage risks.
+Policy and Structure
+The NTT DATA Group seeks to ascertain all risks associated with its business activities to minimize 
+the frequency of occurrence of these risks and limit their impact on operations should they materialize. 
+To facilitate this effort, in 2002 we appointed an officer in charge of supervising and promoting risk 
+management from a Companywide perspective.
+ In addition, risk management promotion officers were appointed to the Risk Management Division 
+as well as other divisions and Group companies to enable them to respond proactively and independently to various risks.
+ NTT DATA defines material risks and reviews progress toward addressing these and achieving 
+related targets with the results of such reviews being reflected in various measures. The Internal 
+Control Committee convenes twice every year to discuss measures pertaining to the reduction of 
+risks and evaluate their effectiveness. The results of these evaluations are reported to the Corporate 
+Management Committee as well as the Board of Directors.
+ Furthermore, since the NTT DATA Group provides various services worldwide to a wide range of 
+clients and industries, each business unit has its own unique business environment. Therefore, the Board 
+of Directors has delegated considerable power to segment heads. This measure enables proper understanding of and prompt responses to risks relating to client relationships and market environments.
+ Risk Management Structure
+Risk Management
+President and CEO (Corporate Management Committee)
+Internal Committees
+Internal Audit Department
+Promotion officers in each division
+Group companies, Risk management 
+promotion officers
+Board of Directors
+Risk Management Division
+Audit & Supervisory Board
+Special Response 
+Team
+Formed if material risks arise
+Monitoring
+Risk Management Supervising Officer
+Internal Control Committee
+NTT DATA Sustainability Report 2018
+ Construction of Due Diligence for Human Rights and Related Initiatives
+As an NTT Group company, we are incrementally implementing our human rights due diligence 
+process in accordance with the policies set forth in the NTT Group’s Human Rights Charter established 
+in fiscal 2014.
+Construction of a Human Rights Management System
+From fiscal 2014 to fiscal 2016, we conducted risk assessments regarding actual and potential 
+human rights issues in countries where we are expanding our operations. These assessments 
+focused on specific businesses (BPO, data centers) and regions (China, India). Based on the results 
+of these assessments, we created a human rights management questionnaire as part of our efforts 
+to create mechanisms for preventing human rights violations.
+ In fiscal 2017, we enlisted the assistance of outside specialist agencies in implementing 
+management of potential human rights risks upon verifying information we gained through in-house 
+questionnaires. As a member company of the NTT Group, we specified human rights issues that 
+we should address while considering the degree of negative impact the Group’s business could 
+potentially have on the human rights of its shareholders. When determining these specific issues, 
+we examined the likelihood in which future human rights risks could occur in certain countries and 
+the seriousness of human rights risks facing different businesses.
+ Moving forward, we will conduct interviews to determine if our operations are having negative 
+human rights impacts on local areas, and, in the event that they are, we will investigate the degrees 
+of these impacts, determine priority issues, and discuss possible remedies.
+ Measures in Response to the UK Modern Slavery Act
+NTT DATA UK established compliance policies based on the United Kingdom’s Modern Slavery Act 
+(MSA), which was passed in March 2015. Listed below are ways in which we have implemented 
+these policies:
+• Recruitment and checks against the MSA for all activity.
+• Our terms and conditions of purchase require all suppliers to comply with the MSA.
+• Procurement checks of our top suppliers on a regular basis for compliance to a number of business 
+and regulatory requirements including the MSA.
+• Checks performed since 2015 confirmed compliance with the MSA. Other suppliers are checked 
+dependent on due diligence and risk assessments undertaken. Swift action is taken for noncompliance which could include immediate order termination. 
+• We have an external whistleblowing service which can be used to register non-compliance. 
+• Training is performed on an as required basis.
+• NTT DATA UK’s obligation to comply with government regulations is communicated to staff on a 
+regular basis and compliance is reviewed by the directors on an annual basis.
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

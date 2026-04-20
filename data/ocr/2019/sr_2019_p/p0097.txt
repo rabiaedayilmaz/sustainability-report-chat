@@ -1,0 +1,177 @@
+Risk Management Method
+▶Risk Management Categories
+Head
+Ofﬁce
+Analyze Groupwide risks and 
+establish countermeasures
+Analyze risks and establish 
+countermeasures for other 
+companies
+NTT DATA
+Global-Control Risks
+　
+Risks that signiﬁcantly impact the Group’s overall brand
+Evaluate and analyze risk
+management status at
+regional head ofﬁces
+Individual
+companies
+NTT
+DATA
+Risks faced by other companies on an individual basis
+Analyze risks and establish 
+countermeasures 
+for regional head ofﬁces
+Evaluate and analyze risk management 
+status at othser companies
+Regional 
+Head 
+Ofﬁces, 
+etc.
+Japan
+(NTTDATA)
+North
+America
+(NDS)
+EMEA
+(EMEA)
+APAC
+(NDAP)
+China
+(NDCI)
+Business
+Solutions
+(itelligence)
+everis
+(everis)
+Region-Control Risks 　Select and evaluate material risks and establish 
+PDCA cycles at individual bases
+Global-Control Risks
+▶NTT DATA’s Global-Control Risks
+Material Risks
+Major Improvements, 
+etc.
+Initiatives
+Information leakage, 
+personal / confidential 
+information, 
+cyberattacks
+● Strengthen response 
+to the increasing 
+number of advanced 
+cyberattacks
+● Stimulate awareness through training
+● Revise security rules at the global level
+● Strengthen the support organization to minimize damage in the event of an incident
+● Ensure thorough compliance with the EU’s General Data Protection Regulation (GDPR)
+Accounting fraud, 
+including window 
+dressing
+● Ensure thorough 
+operation of IFRSbased unified rules
+● Expand the scope of 
+risk indication auditing
+● Promote introduction of unified accounting rules and check financial process (control 
+activities) structure and operation
+● Stimulate awareness through training
+● Expand the types of fraud subject to risk indication auditing and promote risk 
+indication auditing at Group companies
+Bribery
+● Continue 
+strengthening 
+compliance education
+● Stimulate awareness through training (Japan: Implement Internet-based testing 
+(IBT) for compliance and position-based training, Overseas: Conduct training at 
+individual locations)
+Region-Control Risks
+Risk Management Training
+▶Process for Selecting Region-Control Risk
+Leakage of customer / 
+employee information
+● Leakage of customer / 
+ employee information
+● Cyberattacks
+● Problem projects
+● System malfunctions
+● Natural disasters 
+(including the impact 
+of climate change)
+● Inappropriate 
+outsourcing
+ 
+Example: 
+●
+Leakage of customer / employee information
+Logical measures: Improved security education
+Technical measures: More stringent security quality standards
+Likelihood of occurrence
+Low
+Medium
+High
+Very high
+Degree of impact
+Very
+Large
+Medium
+Small
+Each 
+region 
+selects up 
+to 5 
+material 
+risks
+Revision of
+risk candidates
+Monitoring of countermeasure 
+implementation status and risk
+ occurrence incidents
+Formulation of material 
+risk countermeasures
+Approx. 40
+ Risk Candidates
+Material Risks
+Material Risk Countermeasure
+Risk Evaluation Results
+Leakage of customer / 
+employee information
+Evaluation / 
+Improvement
+NTT DATA identifies risks that may impact its Head Office, regional head office, and individual 
+Group companies and strategize measures accordingly. The Risk Management Division 
+analyzes, evaluates, and monitors the risk management of the entire Group. Risks determined 
+to have the potential to impact the entire Group are defined as global-control risks and are 
+managed stringently and thoroughly on a Groupwide basis. Additionally, the Group considers 
+material risks set by regional head office and other entities to be “region-control risks” and 
+maintains an evaluation and improvement cycle based on the implementation statuses of 
+countermeasures and on risk occurrence incidents.
+Global-control risks with the potential to impact the entire Group are identified by the Internal 
+Control Promotion Committee in consideration of changes in social trends and input from outside 
+specialists. In fiscal 2018, we continued addressing the same risks as those in the previous fiscal 
+year as a medium- to long-term effort under the initiative of NTT DATA’s Head Office.
+Region-control risks managed independently by regional head offices define material risks based 
+on approximately 40 risk candidate items in each region that are evaluated and improved in 
+light of material risk countermeasure implementation and risk occurrence status.
+The NTT DATA Group conducts ongoing training regarding the legal and other roles of 
+newly appointed directors and Audit & Supervisory Board members at NTT DATA and Group 
+companies to ensure thorough risk management throughout the Group. During fiscal 2018, we 
+provided training to newly appointed directors at the time of their appointment concerning 
+their duties and responsibilities with regard to corporate governance and under the Companies 
+Act. In August of the same year, we also conducted training for executives of Group companies 
+in Japan. Later, in August of the same year, we also provided training for Company executives 
+at domestic Group companies. Going forward, we will promote increased risk management 
+awareness and enhanced response capabilities by implementing various types of training on an 
+ongoing basis.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

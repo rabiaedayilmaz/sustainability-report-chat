@@ -1,0 +1,91 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Going from labor intensive 
+work to knowledge intensive, 
+AI-driven work
+Specialized accounting agent
+Personal agent
+User
+Specialized personnel agent
+Specialized legal agent
+Specialized sales agent
+Real world
+Digital
+workers
+Smart AI AgentTM
+Leveraging generative AI to dramatically enhance productivity and shift focus to high valueadded tasks
+Productivity improvement with adoption of Smart AI Agent
+AI Agent (in Japanese only)
+NTT DATA Group Corporation 
+Technology and Innovation General Headquarters
+AI Technology Department
+Impact
+31% →78%
+• Percentage of work time after Smart AI Agent
+adoption calculated by NTT DATA Group
+based on Exhibits 10 and 11 in The Economic Potential of Generative AI by McKinsey ＆ 
+Company (McKinsey Global Institute analysis)
+• Based on one month of work (160 hours) for one member of sales staff
+Business need
+Solution
+•
+Japan’s labor productivity equaled JPY 5,543 of value added per hour in fiscal 2024, the highest level since fiscal 1994 when adjusted for inflation. However, this leaves Japan below the OECD average, ranking 29th
+out of 38 countries (result in 2023).
+•
+Japan’s population decline is accelerating due to falling birthrates and aging populations, meaning the country needs to significantly improve efficiency and productivity.
+Japan’s declining working population means there is an
+urgent need to reform workstyles and improve productivity.
+Generative AI can handle tasks outside the capabilities of
+conventional AI and can be expected to transform work in fields
+from content creation to customer support and construction.
+The 2024 White Paper on Information and Communications in
+Japan published by Japan’s Ministry of Internal Affairs and
+Communications states that “the emergence of generative AI is
+arguably one of the most significant revolutions in human
+history. The greatest risk for companies is not utilizing it due to
+security
+concerns;
+rather,
+they
+should
+aim
+to
+become
+generative AI-first companies in the next era.”
+However, the same report states that only approximately
+46.8％ of Japanese companies are using generative AI—about
+half the rate in the US and Germany. In terms of use cases,
+while firms in other countries leverage generative AI in wideranging fields, including customer service, adoption in Japan
+has been cautious and focused on internal use.
+NTT DATA sees generative AI as a technology that can go beyond
+single tasks to be leveraged across entire operating processes and is
+working to advance Smart AI Agent
+, a solution to dramatically
+enhance productivity for office workers. A personal agent, an AI agent
+optimized for office work, coordinates with multiple specialized AI
+agents possessing expertise in their respective fields to identify,
+organize and execute required tasks. Through AI agents optimized for
+users’ work, this system provides a new source of labor through
+automation and other functions, which can transform workstyles by
+reducing repetitive and non-value added tasks for users.
+NTT DATA is also developing other technologies based on the
+Smart AI Agent
+concept. In the sales field, it has started operating
+LITRON® Sales, a service that provides autonomous support covering
+various functions and carries out tasks instead of humans. It has also
+launched LITRON® Marketing as a new AI agent service to enhance
+productivity in marketing. Outside Japan, such systems have already
+been introduced to improve processes in the manufacturing industry.
+NTT DATA will continue to expand its lineup of services, and
+provide comprehensive support, from consulting to adoption and
+ongoing operation, as it strives to enhance productivity and address
+labor shortages and other social issues.
+Work time spent on 
+sales activities
+Overview of Smart AI AgentTM
+Smart AI Agent
+Japan

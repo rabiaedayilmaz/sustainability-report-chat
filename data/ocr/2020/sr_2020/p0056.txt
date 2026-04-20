@@ -1,0 +1,94 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Transitional Risks (Other) 
+Other climate change–related risks include increased investor requests for corporate information disclosure related to climate 
+change, declines in our share price associated with lower evaluation by investors and deterioration in market-imposed financing 
+conditions. 
+ Risk 5: Outflow of talented human resources 
+ 
+ 
+Any decline in social evaluation of our ESG activities and/or employee satisfaction levels could cause a decrease in 
+employee retention rates. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+The NTT DATA Group is working to address climate change and other societal issues through its 
+business operations and is implementing progressive and environmentally superior workstyles. These 
+efforts have led to high third-party praise for our ESG (we have been selected for inclusion in the DJSI 
+World Index), as well as high employee satisfaction and retention rates (turnover rate of 3.9%, lower 
+than the telecommunications industry average of 11.8%). We estimate that we would suffer a decrease 
+in annual revenue of around ¥38.9 billion if third-party evaluation of our ESG and employee satisfaction 
+rates were to fall to industry-standard levels (calculated by multiplying the increase of turnover by net 
+sales per employee, assuming that the current industry-standard turnover rate remains unchanged 
+and the Company’s advantage dissipates and the turnover rate increases to the industry average). 
+ 
+Measures 
+and costs 
+To address these risks, we strive to enhance the expertise of employees by providing them with various 
+training programs, including annual ESG training, on global trends in climate change and the NTT 
+DATA Group’s response to them. In a new fiscal 2019 initiative, we launched “Self-Innovation Time,” in 
+which employees are allocated a portion of their work time to innovation-related areas. These include 
+enhancing digital and global skills, transforming workstyles through digital use, and sharing knowledge 
+with the entire company and other organizations. In fiscal 2019, we set 40 hours of self-innovation time 
+per person as a common KPI for all Group organizations. 
+To provide more flexible workstyles, we have distributed information access devices for 
+teleworking to employees, enabling them to work from their homes or satellite offices, and we are 
+building 
+various 
+infrastructure, 
+such 
+as 
+cloud-based 
+development 
+environments 
+and 
+videoconferencing. In fiscal 2019, we allocated around ¥8.1 billion for training and development 
+programs aimed at raising employees’ expertise in their core business, including self-innovation and 
+learning and reaffirming important information about ESG-related trends in the world and the 
+Company’s ESG management. Also, the annual running cost of distributing information access devices 
+for teleworking was around ¥1.1 billion, bringing the total to around ¥9.2 billion. 
+ 
+ Risk 6: Loss of reputation due to delayed responses 
+ 
+ 
+Delays in responding to increasing requests for ESG information disclosure from investors might result in loss of 
+reputation and a consequent decline in our share price, as well as deterioration in fund-raising conditions. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+Lower evaluation by overseas investors actively engaged in ESG investment carries the risk of a 
+decline in share price that would decrease corporate value. As of March 31, 2020, 16.82% of NTT 
+DATA Group stock was held by overseas corporations. Also, financial institutions in Japan own 20.83% 
+of our stock, and some of them have begun engaging in ESG investments. For this reason, according 
+to speculation, if financial institutions in Japan were to lower their evaluations of our ESG moving 
+forward, the resulting impact would lead to a fall in our stock price and ultimately affect our corporate 
+value negatively. 
+If the price of our shares held by overseas investors were to fall by 0.1%, the impact on the 
+Company’s market capitalization would amount to around ¥250 million1. 
+ 
+Measures 
+and costs 
+Since 2009, we have been actively disclosing information to investors, particularly concerning CDP2, 
+on which investors who request Company information regarding climate change place particular 
+importance. At our fiscal 2019 financial results briefing, we announced our 1.5°C SBT3, which is 
+emphasized in the CDP, and received approval for that target from the SBT Office. We also announced 
+our intention to embrace TCFD challenges going forward. Since fiscal 2013, moreover, we have 
+actively disclosed information on climate change and other matters by participating in a Ministry of the 
+Environment project to develop infrastructure for environmental information disclosure systems, which 
+is intended to construct an information platform enabling Japanese institutional investors to utilize ESG 
+data. 
+Expenses related to investor requests for corporate information regarding climate change are 
+about ¥20 million. 
+ 
+1. Calculated on the basis of 1,402,500,000 outstanding shares as of March 31, 2020. 
+2. The CDP (formerly the Carbon Disclosure Project) was launched in 2003 by a U.K.-based NGO to evaluate the climate change policies of businesses 
+and enterprises. 
+3. Science-based targets (SBT): Greenhouse gas reduction targets for companies based on scientific evidence under the Paris Agreement. 
+Note: Time horizons: Short term: Less than 1 year; Medium term: 1–3 years; Long term: 3–13 years 
+Time horizon: Long term 
+Time horizon: Short term

@@ -1,0 +1,49 @@
+NTT DATA CSR Report 2010 48/48 
+【Additional Topics】 
+ 
+other imposing other restraints. Furthermore, TSF allows for flexible operations. For example, controls 
+can be removed, such as by allowing information to be taken outside the Company as needed, subject 
+to managerial permission. 
+As a result of these measures, NTT DATA provides benefits on two fronts: it prevents loss and theft 
+of external memory media and information spillage or loss from within the Company arising from Winny 
+and other software, while its operating flexibility provides active information utility and sharing. 
+ 
+Replacing PCs with thin-client terminals for transportation outside the Company 
+Since fiscal 2008, NTT DATA, in principle, has replaced PCs with thin-client terminals for work that 
+involves transportation outside the Company, such as conducting sales activities. 
+Thin-client terminals are PCs that function by connecting to in-house networks via the Internet. No 
+work-related data is saved to the terminals themselves. Data also cannot be written to USB memories 
+and other external devices. These features radically reduce the risk of information leakage in the 
+eventuality of loss or theft. 
+The thin-client terminal can be applied to teleworking, which is integral to work-style innovation. 
+We will investigate the introduction of technological measures for information safety applications. 
+ 
+ 
+ 
+ 
+Publication of Information Security Report 2010 
+NTT DATA, as a company of professionals that provide value to customers through information 
+systems and services, treats the customer data it handles with care and confidentiality. Moreover, we 
+consider the disclosure of information about our information security initiatives also to be our 
+responsibility. Accordingly, in March 2008 we became the first systems integrator to issue an 
+information security report. 
+The Information Security Report 2010, issued in March 2010, was the second such publication. It 
+outlines objectives, strategies and performance relating information security, as well as providing 
+coverage from the standpoint of information security governance. 
+We plan to issue information security reports on a biannual basis, with the next due for publication 
+at the end fiscal 2012. 
+ 
+[PHOTO] Information Security Report 2010 (Japanese only) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Related website: Information Security Reports 
+http://www.nttdata.co.jp/corporate/csr/security/index.html 
+Issuing Information Security Reports

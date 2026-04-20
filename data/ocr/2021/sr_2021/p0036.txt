@@ -1,0 +1,42 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Material ESG Issues 
+Ensure Information Security and Protect Data Privacy 
+ 
+Basic Policy and Promotion System 
+ 
+The NTT DATA Group recognizes the importance of achieving an appropriate balance between ensuring the safety of information 
+and the active utilization and sharing of information. We implement a wide range of measures that cover both the human and 
+technological aspects of information security. Human measures include formulating rules and providing education and training 
+in information security, while technological measures involve solutions that prevent information leaks and the adoption of thinclient computing. 
+To share knowledge and expertise across the entire Group, we work with domestic Group companies to host information 
+security forums, and with overseas regional head offices to host the Global CISO Conference and other events. Through this 
+distribution of knowledge within the Group, we are working to establish unified information security governance. 
+ 
+ 
+The NTT DATA Group has established the NTT DATA Group Security Policy (GSP). The GSP includes a code of conduct to 
+protect information assets from serious security breaches, such as information leakage and unauthorized access, and a code of 
+conduct for the active utilization and sharing of information. To protect personal information, the GSP includes policies and 
+guidelines for each Group company and requires personal information to be handled appropriately according to such policies 
+and guidelines, so that personal information is protected effectively throughout the Group. These codes of conduct, which also 
+apply to business partners to whom we outsource operations, help us ensure that our information assets are handled 
+appropriately. 
+ For domestic Group companies, we established the NTT DATA Group Japan Regional Personal Information Protection 
+Regulations (JPP) and the NTT DATA Group Japan Regional Personal Information Management Guidelines (JPG) to comply 
+with the revised Act on the Protection of Personal Information. In these ways, we have established items to be observed and the 
+procedures to be implemented to handle personal information appropriately. 
+ 
+ 
+ 
+Since fiscal 2006, the NTT DATA Group has been working diligently to secure information security based on the NTT DATA 
+Group Security Policy (GSP), which also applies to the Group’s overseas operations. Since fiscal 2012, we have been building 
+a global framework for promoting information security, centered on the five regional head offices in North America, EMEAL, 
+APAC, China, Business Solutions. We manage information security according to unified baselines, as well as in a flexible manner 
+that meets the specific needs of each region. 
+ 
+To ensure meticulous information security governance on a global scale, we manage information security through information 
+security steering organizations at three levels: Head Office, regional head offices and individual Group companies. 
+The information security steering organizations at each level cooperate closely to maintain and develop information security 
+policies, monitor the progress of measures under way and take preventive measures against incidents. They also serve as task 
+forces in times of emergency.

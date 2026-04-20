@@ -1,0 +1,44 @@
+NTT DATA CSR Report 2010 31/48 
+【Additional Topics】 
+ 
+Managing target achievement by establishing three-year medium-term targets 
+The Greening of the NTT DATA Group 
+Reducing Greenhouse Gas Emissions 
+Although the NTT DATA Group was unable to achieve its target reduction rate for greenhouse gas 
+emissions during fiscal 2009, the Group reset the target during fiscal 2010 to 9.5% of the fiscal 2006 
+value, based on environmentally oriented management. 
+We strive to conserve energy through activities that include promoting upgrades to the facilities 
+(such as air conditioning and lighting) of data centers and other Company buildings to attain higher 
+efficiency, freeing staff from the constraints of conventional fixed-desk assignments, and a thorough 
+dissemination of policies on switching off unnecessary lighting and following other such basic 
+behaviors. In February 2010, as part of the Green NTT*1 initiative we installed a solar power system 
+with a capacity of 104 kW on the rooftop of the Komaba Training Center and conducted experimental 
+trials for waste heat utilization and enhanced operating efficiency. 
+In pursuit of visualization of energy saving effects in offices, we have developed a system to 
+display hourly and daily power consumption by floor and resident organization on our intranet. This 
+system went online for two major urban buildings from fiscal 2011. 
+As a result of these endeavors, greenhouse gas emissions for fiscal 2010 amounted 296,890 tons 
+of CO2 *2, a falloff of 2% from the previous fiscal year. Nevertheless, this only represented a decrease 
+of 8.2% compared to fiscal 2006 in terms of basic units of sales, against a target of 9.5%. 
+The target for fiscal 2011 is a 10% reduction compared to fiscal 2006 levels. We aim for lower 
+electricity usage through more efficient data center operation, new upgrades to air-conditioning 
+facilities, and further promotion of the visualization of energy savings at offices. 
+ 
+*1 Green NTT: An initiative promoted by the NTT Group to further renewable energy sources focusing on 
+solar power systems. To this end, NTT Green LLP was established to install solar power systems. By 2012, 
+the NTT Group plans to have an installed base totaling 5 megawatts. 
+ 
+*2 Converted value expressing the volume of electricity used. Conversion factor based on fiscal 2006 
+emissions factor (0.555 kg CO2/kWh). 
+ 
+Reducing Waste for Final Disposal 
+During fiscal 2010, we continued to increase the amount of waste consigned to industrial waste 
+disposal companies that have high recycling ratios, made efforts at each organizational unit toward 
+thorough garbage separation, promoted recycling of wastepaper and carried out various other 
+initiatives. 
+We refined the method of summation for general waste volumes at the Company’s buildings and 
+expanded the scope of facilities covered in aggregate calculations, leading to a net increase in waste 
+generation. Accordingly, volumes for final disposal rose 3.7% during the year, to 417 tons. In terms of 
+basic units of sales, this represents a reduction from fiscal 2006 of 39%, falling short of our target. 
+For fiscal 2011 and beyond, we are changing the definition of our targets from basic units of sales 
+to total final disposal volumes, aiming for zero emissions in the medium to long term. In addition, we

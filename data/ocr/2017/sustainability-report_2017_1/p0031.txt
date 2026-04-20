@@ -1,0 +1,77 @@
+[ Enhancing and Standardizing Project Management ]
+NTT DATA is endeavoring to enhance and standardize project management in order to improve the 
+quality and efficiency of system development. In April 2016, we integrated our R&D organization for 
+production technologies, which includes project management, with our project support organization 
+to establish the Project Management Solution Center within the Technology and Innovation General 
+Headquarters. We also opened the Agile Professional Center as an entity that applies the agile development method to collaborate with clients in creating new businesses and services.
+ Project Management Solution Center
+The Project Management Solution Center was established to research and develop innovative project management methods, reinforce them through verifiable methods familiar to the actual worksites, 
+and provide them within the Group in an easy-to-use manner. The center is also responsible for 
+establishing the NTT DATA Global Standards, which integrate standard procedures for system development around the world, and for developing next-generation management tools that raise the execution rate of progress management and quality management, thereby enhancing the competitiveness 
+of the NTT DATA Group and limiting problematic projects.
+ Agile Professional Center
+The Agile Professional Center was established to create new businesses in collaboration with clients 
+in response to the expanding business need for generating innovation. We are actively developing 
+human resources in the area of agile development and building an on-demand development structure by setting up agile development locations around the world.
+ Quality Management Portal Site
+Since fiscal 2010, NTT DATA launched and operates the Quality Management Portal Site. Our objective was to enable the sharing of all kinds of information related to quality among the different development locations, including those of Group companies.
+ 
+This site provides all employees with information that is easy to use, offering responses to industry 
+standards related to quality and consolidating internal rules and expertise. We will continue with our 
+initiatives to reduce quality control operations by making better use of quality assurance expertise.
+[ Response to Serious Issues ]
+At NTT DATA, executives and employees promptly notify the quality assurance desk in the event of any 
+serious quality issue with a commercial system. The Quality Assurance Department and external relations desk have set up an emergency contact system whereby the Corporate Management Committee 
+deliberates countermeasures to highly serious issues. Particularly serious incidents are reported to 
+senior managers. At the same time, we work to ascertain the cause of the incident and consider measures for preventing reoccurrance. We report to the competent authorities, as necessary, according to 
+the law. We also notify customers by disclosing appropriate information on our website.
+Initiatives for Improving Client Satisfaction
+Initiatives that involve listening to what clients have to say and targeting improvements in their levels 
+of satisfaction are an important issue when considering contributions that can be made to society 
+through business operations. In line with its client-first approach, the NTT DATA Group strives to 
+improve client satisfaction as a means of contributing to their success.
+ Promoting Improvement through Interviews and Questionnaires
+In accordance with its belief that a client-oriented approach lies at the root of sustainable corporate 
+growth, NTT DATA conducts oral and written surveys of its regular clients every year. The aim of this 
+self-monitoring exercise is to enable us to deliver improved services from a client standpoint.
+ 
+In fiscal 2016, we listened to the opinions and requests of 55 organizations in interviews and 
+obtained feedback in questionnaires received from 396 people in 175 client companies and organizations. In this questionnaire survey, the result of responses to two questions were organized and 
+classified into three categories: “I would like to continue the relationship going forward and be the first 
+choice for consultation,” “I would like to continue the relationship going forward or be the first choice 
+for consultation,” and “I do not intend to continue the relationship going forward or be the first choice 
+for consultation.” As a result, 74% of responded that “I would like to continue the relationship going 
+forward” and “be the first choice for consultation.” 
+ 
+In the years to come, we will continue to systematically engage in these efforts with the intention 
+of further improving the level of customer satisfaction.
+21%
+5%
+74%
+No intention of maintaining current relationship and selecting as primary candidate
+Intention of maintaining current 
+relationship or selecting as 
+primary candidate
+Intention of maintaining
+ current relationship and
+ selecting as primary candidate
+Customer 
+responses
+ 175 companies 
+and organizations 
+(396 people)
+ NTT DATA’s Actual Position for Customers
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Environment
+Governance
+GRI Standards
+Social

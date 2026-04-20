@@ -1,0 +1,89 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+Denmark
+Humanizing healthcare technology to enhance the patient experience
+Impact
+Business need
+Solution
+•
+Chronic obstructive pulmonary disease (COPD) is a lung condition causing restricted airflow and breathing problems and is the eight leading cause of poor health worldwide, according to the WHO. This uncurable
+condition requires constant monitoring and management and has a significant impact on patients’ quality of life.
+•
+Living with COPD also takes a significant psychological toll on many patients, with over one in three experiencing severe depression. Anxiety and reluctance to leave home are also common among patients, potentially
+leading to social isolation.
+Effective monitoring of COPD can help to manage patients’
+condition, minimize unnecessary hospital visits, and enable
+precautionary
+steps
+to
+prevent
+severe
+flare-ups
+requiring
+hospitalization. With healthcare systems are under extreme
+pressure, there is also urgent need for innovations that enable
+this monitoring without increasing the burden on medical
+professionals.
+Apps offer a potential solution, with patients able to use
+Bluetooth-connected peripherals to perform measurements at
+home and share results with staff. However, patients can have
+difficulty operating these devices, particularly older people, who
+account for a significant proportion of COPD patients.
+A new approach is needed to expand access to at-home
+monitoring
+solutions
+while
+also
+delivering
+humanized
+assistance to ensure patients feel supported.
+NTT DATA leveraged its digital human platform PARSONII in a
+collaboration
+with
+Region
+Zealand
+in
+Denmark
+to
+develop
+a
+prototype digital avatar to assist patients with self-measurement of
+oxygen levels, temperature and respiratory capacity. Working closely
+with doctors, nurses and patients, the avatar was customized to
+provide a reassuring presence while serving functions such as
+measuring patient’s condition through dialogue and data, engaging
+patients with open-ended questions based on LLM models, and
+providing guidance on equipment use and breathing exercises.
+Designed for a patient group including many older people, the
+solution also takes poor hearing into account and can support
+patients with limited IT experience in using Bluetooth and Wi-Fi, or
+handling technical issues.
+In the trial with COPD patients aged 65-72, participants were able
+to comfortably engage with the digital human, including about topics
+not directly related to measurements, demonstrating significant
+potential for humanizing digital healthcare that supports patients in
+their homes.
+Patients felt comfortable interacting with the digital human
+and
+expressed
+interest
+in
+discussing
+topics
+beyond
+measurement, demonstrating potential applications in areas
+such as assistance with rehabilitation and providing information
+about procedures,
+Image of digital human
+NTT DATA Business Solutions Denmark
+NTT DATA Group
+AI Hospital Assistance
+including
+for
+patients
+with
+conditions other than COPD.

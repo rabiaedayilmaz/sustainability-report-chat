@@ -1,0 +1,99 @@
+Reducing the Environmental Impact of the Value Chain
+The Greening of Clients and Society
+Reducing the Environmental Impact of Society through IT
+*1: The results of our joint verification have been patented (Pat. No. 5785229 (2015)).
+*2: A service for assessing the environmental impact of information systems developed by the NTT Information Network 
+Laboratory Group. The service calculates environmental impact reductions that can be achieved through reduced 
+consumption of materials and energy, transportation volume of people and goods, etc., resulting from system 
+introduction.
+Proactively Participating in Environmental Projects Promoted by 
+Administrative and Industrial Organizations
+*3: An organization comprised of members of both the public and private segments that was established to promote 
+the spread of smart communities within Japan as well as their global expansion.
+*4: Sponsored by the Japan Electronics and Information Technology Industries Association (JEITA), the Green IT
+Promotion Council is responsible for promoting Green IT and helping build a smart society through various
+activities. These include developing methods for estimating and measuring the energy-saving of and with IT devices, 
+formulating an energy-saving technology roadmap, developing public awareness about Green IT in Japan and 
+overseas, and bolstering cooperation with countries in Asia and elsewhere.
+Promoting Green Purchasing
+Promoting Green Purchasing through an Assessment of a Company’s 
+Corporate Stance and Products
+Emphasized Assessment Items
+▶Mechanism of Green Purchasing
+Partner
+company
+ 
+6. Notiﬁcation of comprehensive rating results
+1. Submission of 
+Green Rating 
+sheet
+3. Green Rating
+Green Rating
+Previous rating
+4. Comprehensive rating 
+(not disclosed)
+5. Purchase
+Terms of business
+2. Submission of 
+Green Rating 
+sheet
+Rating of corporate
+attitude
+Corporate rating
+Service
+rating
+Performance
+rating
+Price
+Quality rating
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly 
+verified general-purpose evaluation and measurement methods*¹ for quantitatively evaluating 
+the effectiveness of environmental impact reduction for all development projects. We began 
+conducting quantitative evaluation in 2014 with tools based on the results of this verification.
+We recommend the Groupwide utilization of these methods, which are more suited to 
+general-purpose applications and actual business conditions than to the environmental impact 
+assessment system*² used in the past.
+The NTT DATA Group participates in environmental projects promoted by the government and 
+other organizations, taking advantage of technologies and expertise honed from the construction 
+of numerous public administration systems. We also actively join environmental working and other 
+groups of a variety of organizations.
+In recent years, we have been exchanging a wide range of opinions as a member of the Japan 
+Smart Community Alliance (JSCA)*³ and the Green IT Promotion Council*⁴. These discussions 
+include the creation of smart communities aimed at realizing next-generation sustainable societies, 
+the development of methods for estimating and measuring the energy-saving of and with IT, and 
+research involving the introduction of energy management systems to buildings and stores.
+Also, as a Ministry of the Environment project, we will continue to develop systems for 
+demonstration experiments on ESG information disclosure and dialogue platforms for the purpose 
+of promoting ESG investment ongoing since fiscal 2013 and aim for practical application in 2020. 
+We support the promotion of ESG investment through the development and provision of platforms 
+that realize the disclosure of non-financial information according to financial information formats 
+as well as opportunities for dialogue with investment institutions and companies.
+The NTT DATA Group has established an assessment criterion with respect to environmental 
+preservation and protection of products and services as factors in procuring items and selecting 
+business partners. This criterion complements such traditional criteria as price and quality 
+assessment. Collectively, this evaluation criteria sets out specific standards for selecting suppliers. 
+In fiscal 2018, 36 new suppliers were selected based on the environmental standards, accounting 
+for 17% of important suppliers.
+At present, assessments conducted with the aim of promoting green purchasing centered 
+on evaluating the approach a company takes with regard to environmental issues. While this 
+naturally includes compliance with environmental laws and regulations, considerable weight is 
+also attached to whether or not ISO 14001 certification and other environmental management 
+standards have been acquired. Furthermore, we assess the operating effectiveness of 
+environmentally oriented management in place at suppliers that have not attained environmental 
+certification. We do this by asking specific questions based on a checklist, such as whether or 
+not they have environmental guidelines, targets for reducing the environmental impact of their 
+activities, or an environmental management structure.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

@@ -1,0 +1,64 @@
+Climate Change Risks and Response
+Risk
+
+  Loss of reputation due to delayed responses  [Transitional risk: Reputational] 
+Assumed business and financial impacts
+In recent years, various regulations are anticipated globally due to the growing trend toward environmental 
+consideration, and companies’ attitudes toward sustainability have increasingly influenced the decision-making 
+of stakeholders, including shareholders and consumers. If companies delay in responding to investor demands 
+for climate change–related information disclosure or fail to adequately implement GHG emission-reduction 
+initiatives, they face risks such as declining stock prices from negative investor evaluations and deteriorating 
+funding conditions in the market.
+Financial impact
+If our stock price were to decline 1% due to a diminished reputation among ESG investors and financial institutions, we estimate that our market capitalization would decrease by ¥34 billion* (based on the assumption 
+that this event occurs once between fiscal 2022 and fiscal 2025).
+* Estimated based on the stock price and the number of issued shares as of the end of fiscal 2023
+Measures and costs
+Establishment of the Sustainability Committee and advancement of in-house initiatives
+To promote the Group’s initiatives regarding climate change, we established the Green Innovation Office as a dedicated organization in October 2021 and launched the Green Action Committee. In April 2024, we evolved this into 
+the Sustainability Committee (
+ [Reference page] Sustainability Management “Promotion System”) to advance sustainability 
+management from a broader perspective.
+Costs
+The Green Innovation Office is engaged in various initiatives that include developing and providing services aimed 
+at accelerating the transition to greener solutions for our clients and society, as well as promoting innovation for 
+GHG emission visualization and reduction actions aimed at achieving our own net-zero goal. We have allocated 
+¥6 billion for the activities and innovation-based investments of the Green Innovation Office for the cumulative
+period from fiscal 2022 to fiscal 2025.
+Risk
+
+  Data center shutdown due to abnormal weather  [Physical risk: Acute]
+Assumed business and financial impacts
+The physical risks associated with extreme weather events, such as severe typhoons and sudden heavy rainfall, can be significant, leading to disasters such as flooding. As a globally prominent data center operator, we 
+regard our data center business as a key area for medium- to long-term business foundation, with continuous growth expected in the future. We also own data centers located in high-risk areas to meet client 
+demands, which pose physical risks of operational shutdown in the event of extreme weather occurrences.
+Financial impact
+Some of our data centers are located in high-risk areas identified in the International Panel on Climate 
+Change (IPCC)’s Sixth Assessment Report, but we ensure business continuity by implementing various measures based on hazard maps and other tools. If a typhoon were to cause a five-day shutdown of our major 
+data centers around the world, we estimate that the negative impact on net sales would be ¥24 billion* 
+(based on the assumption that this event occurs once between fiscal 2022 and fiscal 2025).
+* Estimated based on the revenue from integrated IT solutions and maintenance support in fiscal 2023
+Measures and costs
+Strengthen data center resilience
+Since the 2020 COVID-19 pandemic, we have increased internal network bandwidth with the aim of establishing 
+and improving teleworking environments for employees. Indirectly, this has also helped increase the resilience of 
+our data centers to climate change. In addition, we conducted disaster response drills, including for data center 
+clients, to ensure a swift initial response during emergencies. Looking ahead, we plan to invest in upgrading our 
+disaster response systems and will work with our clients to develop the necessary system requirements.
+Costs
+NTT DATA has been continually enhancing its Business Continuity Plan (BCP) for data centers, offices, and communication facilities. For enhancing and upgrading our data centers, remote access, and maintenance environments to ensure 
+business continuity, we have budgeted a total of ¥19 billion for the cumulative period from fiscal 2022 to fiscal 2025.
+Time horizon: Short term
+Time horizon: Short term
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

@@ -1,0 +1,31 @@
+power plant with a data center using high voltage superconducting power cables, carried out as part of a METI research project to 
+test high-temperature superconducting direct current power supply systems. Between fiscal 2010 and fiscal 2016, we have invested 
+over ¥10 billion in capital expenditure on Green Data Center technologies including high voltage direct current power supply systems, 
+progressively shifting from trials to commercialization.
+There is an opportunity to accelerate business utilizing cloud-based data centers, which will enable high levels of safety in corporate 
+data storage by avoiding the risk of data loss due to abnormal weather phenomena such as typhoons and localized torrential 
+rain. In its dual roles of supporting the construction of corporate systems and providing joint-use system services, NTT Data has 
+accumulated expertise in system platform technologies related to cloud computing and provided safe and highly reliable system 
+platforms. For example, our joint-use enterprise systems, such as the “Chigin Kyodo Center” for regional banks, have gained the 
+top market share of around 30%, and more than 90% of credit associations in Japan use our comprehensive online “Shinkin Kyodo 
+System.” We believe that accelerating demand for cloud computing services will enable us to further expand our business.
+In 2014, sales of the NTT DATA Group’s cloud computing services amounted to approximately ¥125 billion (an increase of 4% 
+from the previous year) and accounted for over 8% of total sales of ¥1,511.8 billion. Our cloud computing services create business 
+opportunities by providing two comprehensive solutions for platform services, one that offers everything from infrastructure to 
+applications, and another that offers construction and operation services that build data center environments combining commonuse system components, such as those offered in joint-use data centers for financial institutions. For example, since 2011 our 
+BizXaas Office service, which provides systems required for an office environment via cloud computing, has been deployed in-house 
+to promote telecommuting and set up satellite offices as part of business continuity plans.
+In 2012 we also enhanced our service line-up by adding low-cost, fast-response “quick services” to our existing menu of data 
+analysis and information services, taking advantage of the use of big data, a peripheral service that is highly compatible with 
+cloud computing.
+Between fiscal 2010 and fiscal 2016, we have invested over ¥10 billion in capital expenditure on cloud computing in data centers.
+● Opportunities Driven by Physical Impact
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

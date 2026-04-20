@@ -1,0 +1,47 @@
+Employees participating in Global Volunteering Week
+Production
+1st Data : Open & Spot
+3rd Data : Business 
+ assessment
+4th Data : Supply adjustment
+2nd Data : Crop estimates
+♦ Production 
+adjustment
+♦ Sales 
+adjustment
+♦ Resource 
+adjustment
+(Manufacturing, processing, 
+distribution, retail)
+Sales
+♦ Demand 
+estimate
+♦ Contract 
+management
+♦ Cash flow 
+estimate
+■ Crop Estimate Model for Farmers
+JSOL conducts R&D on agricultural business management while using data science, such as crop estimates and market 
+forecasts. In Japanese agriculture, particularly the primary industries, supply does not function as well as production, which 
+adversely affects the entire economy. We have been utilizing the results of our research in the construction of an IT platform for 
+research in order to turn agriculture into a growth industry. Moreover, we intend to continue applying ICT to support creative 
+food production that can be handed down to the next generation by strengthening collaboration with the NTT Group and 
+working on joint projects with external research institutions.
+NTT DATA Global Delivery Services believes that supporting local communities, the environment and disaster relief will have 
+a positive impact on local communities. We therefore support the daily lives of children, women and the elderly by providing 
+medical services, education and food, and we extend aid in the event of a natural disaster. During our Global Volunteering 
+Week in December of each year, more than 2,000 employees participate in over 50 social contribution programs organized by 
+various NGOs. Our Companywide efforts in these and other activities have been regarded highly by society and acknowledged 
+with external awards.
+〈 Initiatives in Japan: Introducing Data Science to Agriculture 〉
+〈 Overseas Initiatives: Social Contribution Activities by NTT DATA Global Delivery Services 〉
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

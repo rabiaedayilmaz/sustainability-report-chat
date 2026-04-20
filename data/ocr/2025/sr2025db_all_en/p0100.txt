@@ -1,0 +1,141 @@
+Planet positive
+Sustainability Management
+Introduction
+Prosperity positive
+Planet positive
+People positive
+Governance
+Waste and Water
+Item
+Scope
+Unit
+FY2020
+FY2021
+FY2022
+FY2023*1
+FY2024
+Waste*2
+Total amount of 
+waste 
+generated
+③
+t
+4,260
+5,189
+4,756
+7,380
+8,679
+Total amount reused/recycled
+③
+t
+2,656
+4,220
+3,166
+3,495
+5,192
+Total waste treatment volume
+③
+t
+1,604
+
+1,590
+3,885
+3,487
+Amount sent to landfill
+③
+t
+
+Amount incinerated with energy recovery
+③
+t
+
+1,181
+
+2,176
+Amount incinerated without energy recovery
+③
+t
+
+Amount disposed of using other methods
+③
+t
+—
+—
+
+Amount disposed of using unknown methods
+③
+t
+—
+—
+—
+1,937
+
+Water*3, 4, 5, 6
+Water intake
+③
+million m3
+0.86
+0.93
+0.48
+2.10
+3.84
+Water consumption
+③
+million m3
+—
+—
+0.16
+1.37
+1.12
+Wastewater
+③
+million m3
+—
+—
+0.32
+0.73
+2.72
+Water recycling volume
+③
+million m3
+—
+—
+—
+—
+0.02
+WUE*7
+All DC
+③
+l/kWh
+—
+—
+1.01
+0.65
+0.72
+DC utilizing water-cooling systems that 
+involve water evaporation
+③
+l/kWh
+—
+—
+2.93
+2.77
+1.42
+*1 NTT Limited, which was integrated into the NTT DATA Group in FY2022, is included from the FY2023 results.
+*2 Third-party assurance for waste is obtained for domestic (Japan) figures only. Waste volumes with third-party assurance: Total waste generation 2,396 t, total waste reused/recycled 1,716 t, total waste treated 681 t.
+*3 Aggregated for data centers only. Offices are excluded as water usage is solely for hygiene purposes and the consumption volume is minimal.
+*4 Water consumption is the volume of water withdrawn that was not discharged back to the water environment or to a third party (e.g., due to evaporation). Water recycling volume is the amount of water treated and reused after initial use.
+*5 Monitoring of wastewater volume and water consumption began in FY2022, and monitoring of water recycling volume began in FY2024.
+*6 Third-party assurance for water is obtained for domestic (Japan) figures only. Water volumes with third-party assurance: water withdrawal 417,940 m3, water consumption 205,460 m3, water discharge 212,480 m3, recycled water 2,145 m3.
+*7 WUE is calculated for data centers within the Global Technology Services Unit’s data center business that have continuous electricity consumption for 24 consecutive months and an IT utilization rate of 20% or more.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Appendix
+ Planet positive

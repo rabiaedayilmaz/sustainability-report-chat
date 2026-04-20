@@ -1,0 +1,63 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+ Activities based on the NTT Group’s R&D 
+～Data Collaboration Infrastructure Architecture Concept～ 
+NTT and NTT Communications are jointly developing technologies for a data collaboration platform that uses technologies 
+provided by NTT. NTT is working to realize a data distribution platform that can protect data sovereignty and to develop a global 
+data collaboration platform architecture. 
+ 
+Joint Development to Realize a Data Distribution Platform That Can Protect Data Sovereignty 
+NTT DATA and NTT Communications Corporation will work to develop a new data distribution platform that can be interconnected 
+with data distribution platforms operated by German automakers and other companies, based on the technologies provided by 
+NTT and the knowledge acquired through past initiatives. A system for the safe distribution of data between companies and 
+organizations is necessary to solve problems such as achieving carbon neutrality and realizing a resource-recycling society. For 
+example, to achieve carbon neutrality, it is necessary to guarantee the reliability of data without falsification, such as the 
+calculation of the CO2 emissions of the global value chain, and to establish a system that can distribute emission data between 
+organizations. However, if a data distribution platform is built that reflects the policies of a specific country or region, it will be 
+limited to use in some countries or regions due to differences in business practices and laws and regulations in each country or 
+region, and it will be difficult to distribute data between organizations. As a solution to this problem, we are working with a variety 
+of companies and organizations to study ways to distribute data among them. 
+ 
+ 
+https://www.nttdata.com/jp/ja/news/release/2022/042701/ (Japanese version only) 
+ 
+White Paper on Global Data Collaboration Platform Architecture Concept Released 
+We prepared and published a white paper on the aforementioned “Joint Development to Realize a Data Distribution Platform 
+That Protects Data Sovereignty.” From the perspective of ESG and SDGs, companies are being asked by investors, customers, 
+citizens, and governments to take measures to solve environmental and human rights issues. To solve these problems, it is 
+necessary to establish a system for the safe distribution of data across companies and organizations on a global scale. This 
+white paper introduces issues and initiatives to date for realizing a global data collaboration platform, as well as plans for future 
+demonstration experiments and technology development. 
+ 
+ 
+https://www.nttdata.com/jp/ja/news/information/2022/053100/ (Japanese version only) 
+ 
+ NTT DATA Technology Foresight 
+Every year, the Company publishes NTT DATA Technology Foresight, which forecasts future changes driven by information 
+technology. During the formulation process, we analyze political, economic, social, and technological trends. We also gather and 
+discuss a wide range of information through interviews with the NTT DATA Group, NTT Holding Research Laboratories, and 
+experts in various fields in Japan and overseas. 
+Based on these efforts, the “Introduction” section, which provides an overview of the future while reviewing the changes that 
+IT brings to the world, and the “Latest Trends” section, which summarizes the latest information technology and foresees the 
+future, describe trends and clarify the ways that companies should move forward in the future. 
+In the 2022 edition, we published three “Introduction” sections and six “Latest Trends” sections. We reviewed the changes 
+that information technology brings to the world and gave an overview of the future. We then delved into these changes for each 
+technological element and presented them together with future forecasts. The report is used on various occasions as a source 
+of information for formulating corporate strategies and as a starting point for discussions. 
+Through this initiative, we aim to gain and improve the trust of our company toward the co-creation of innovation by broadly 
+demonstrating our foresight and technological capabilities to our customers and establishing a compass that shows trends where 
+information technology is leading. 
+ 
+ 
+https://www.nttdata.com/global/en/foresight/trend-listing/ 
+ 
+ Operation of “INFORIUM Toyosu Innovation Center” 
+We established the “INFORIUM Toyosu Innovation Center” within our Toyosu Center building Head Office as a place where 
+visitors can experience the cutting-edge technologies that the NTT DATA Group is developing. As a place for creating new 
+businesses with clients, the center offers space for holding workshops on co-creation activities. This space is available to both 
+domestic and international customers. 
+ 
+ 
+https://www.nttdata.com/jp/ja/foresight/inforium/ (Japanese version only)

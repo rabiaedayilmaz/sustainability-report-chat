@@ -1,0 +1,54 @@
+Establishment of Project Management for Agile Development
+Project management for agile development was established to create new businesses in collaboration with clients 
+in response to the growing business need for innovation. Around the world, we have established agile development bases through which we are reinforcing three functions: the cultivation of agile and professional human 
+resources, advanced R&D, and an on-demand, agile development system.
+Establishment of Innovative Project Management Techniques
+A system was established to conduct R&D on innovative project management methods, reinforce them through 
+verifiable methods familiar to actual worksites, and provide them within the Group in a user-friendly manner. We 
+also established the NTT DATA Global Standards, which have unified our standard operating procedures for system 
+development throughout the world, and are taking responsibility for developing next-generation management 
+tools that will raise the efficiency of tracking, quality assurance, and other aspects of management. The system 
+provides complete, one-stop support for the adoption, introduction, and full utilization of solutions. Through 
+expanded utilization of R&D outcomes, the system is improving our Group-wide capabilities and reducing the 
+number of problematic projects.
+Quality Management Portal Site
+NTT DATA operates its Quality Management Portal Site to enable the sharing of all kinds of quality-related information among our different development locations, including those of Group companies in Japan. This site offers 
+responses to quality-related industry standards and consolidates internal rules and expertise, making this information accessible to all employees. We will continue deploying our quality assurance expertise to achieve more effective quality control operations.
+Human Resource Development Emphasizing System Management Stability
+Seeking to stabilize system operations, NTT DATA’s Quality Assurance Department promotes IT-SM community 
+activities to develop human resources who will engage in system operation and maintenance.
+ 
+Our IT-SM community activities include IT service management improvement training, which involves learning 
+through examples of system failure response and prevention, and IT-SM community seminars to serve as forums 
+for presenting and sharing those examples. In addition, we provide support through our IT-SM training (mentoring) school for IT service managers. At this school, an executive IT service manager serves as a mentor to pass on 
+skills and expertise, provide psychological support (discussion of concerns), and facilitate personal network building (vertical relationships between IT service managers).
+ 
+Furthermore, we support and develop personnel involved in system operation and maintenance by offering 
+various tools. These include a standardized on-site inspection checklist for stable system operations, a portal site 
+to provide expertise on stable system operations and IT service management, a collection of example failure cases 
+for recovery training, a system development guide aimed at improving operational quality during the development 
+phase, and a guide for reducing human errors that contains well-explained strategies and case studies.
+Addressing Serious Issues
+At Group companies in Japan, executives and employees are required to promptly notify the quality assurance 
+desk in the event of any serious quality issue with a commercial system. The Quality Assurance Department and 
+external relations desk have an emergency contact system in place, whereby the Corporate Management Committee deliberates countermeasures to highly serious issues. Particularly serious incidents are reported swiftly to 
+senior managers. We also investigate the cause of each incident, consider measures to prevent recurrence, report 
+to the competent authorities as necessary according to laws and regulations, and disclose appropriate information to customers through our website.
+ 
+In October 2023, when a disruption occurred in the nationwide banking data communication system and 
+caused a significant social impact, the necessary procedures were promptly followed according to the steps outlined above. Subsequently, in November, a Company-wide system inspection task force was established. The task 
+force conducted a comprehensive review of the system development and operation processes for more than 200 
+systems, including those of Group companies, from a preventive and quick recovery perspective, based on the 
+results of the root cause analysis of the disruption. Efforts to prevent a recurrence will continue moving forward.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

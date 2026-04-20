@@ -1,0 +1,76 @@
+NTT DATA CSR Report 2010 47/48 
+【Additional Topics】 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acquiring ISMS, Privacy Mark and other third-party accreditations 
+Within the NTT DATA Group, necessary units that handle confidential and personal information hold 
+ISO 27001 information security management system certification. As of February 28, 2010, the 
+relevant departments of 36 NTT DATA Group companies, including NTT DATA, had acquired this 
+certification. 
+In addition, NTT DATA and 24 other Group companies were authorized to use the Japan 
+Information Processing Development Corporation’s Privacy Mark. 
+ 
+ 
+ 
+Adopting measures for the prevention of information leakage for all PCs used by 
+employees in their work 
+As a technological measure to ensure thorough prevention of information leakage, since November 
+2005 NTT DATA has installed information leakage solution software, Total Security Fort (TSF), on the 
+approximately 30,000 PCs used by NTT DATA employees in their work. 
+TSF can micromanage confidential data handling on an individual PC level by restricting the use of 
+external hard disks and other external memory devices and the write capability to CD-ROMs, USB 
+memories and other compact portable media, prohibiting running of Winny and other P2P software and 
+Major Information Security Education during Fiscal 2010 
+Target 
+Contents and Format 
+All employees 
+Personal Information protection education (e-learning) 
+Information security policy assessments (e-learning) 
+By position 
+Information security lectures 
+By work group 
+Information security case studies 
+Business partners, 
+temporary workers 
+Personal Information protection education, information security 
+education (provision of course materials, e-learning) 
+Principal Educational Activities Support for Group Companies during Fiscal 2010 
+Target 
+Contents and Format 
+No. of Participants 
+All employees 
+Provision of a GSP Assessment 
+System, Introduction to GSP 
+In-house training incorporating 
+this system implemented by 
+approximately 30 Group 
+companies 
+Personnel in charge 
+of information 
+security promotion 
+GSP Internal Auditor Training 
+(classwork) 
+108 employees from 44 Group 
+companies 
+Encouraging ISMS and Privacy Mark Certification 
+Practical Use of Technological Measures

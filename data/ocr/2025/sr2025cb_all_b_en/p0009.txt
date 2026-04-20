@@ -1,0 +1,104 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Portugal
+Using AI to enhance biodiversity while driving renewable energy
+•
+Dams play an important role in the shift toward renewable energy, with hydropower accounting for about 14% of global electricity production in 2024 according to the International Energy Agency. However, their impact
+on ecosystems can be significant. Rivers sustain countless species, including fish that depend on them for survival, making monitoring biodiversity around dams essential to aligning energy production with
+environmental conservation.
+•
+Fishways are crucial for supporting ecosystems around dams—connecting fish populations and allowing them to reach their natural spawning grounds. Accurate counting of fish in fishways is key to operating them
+effectively and to ensuring regulatory compliance.
+When
+monitoring
+biodiversity
+around
+dams,
+biologists
+frequently have to painstakingly analyze hundreds of hours of
+video to identify fish species, determine whether they are
+traveling
+upstream
+or
+downstream
+through
+fishways,
+and
+quantify the number of individuals per species. These counts
+are reported to a government agency for regulatory compliance
+and
+management
+of
+the
+dam
+ecosystem.
+While
+such
+monitoring can lead to important ecological insights, the vast
+amount of video produced makes this work repetitive, timeconsuming, and susceptible to human error. Technological
+solutions have the potential to enhance the efficiency and
+accuracy of fish counting and species identification, but factors
+such
+as murky
+water,
+inconsistent
+lighting,
+and
+difficulty
+distinguishing fish from other debris complicate the effective
+implementation of AI-supported systems.
+Business need
+Solution
+Video analysis with Fishnet Vision
+NTT DATA EUROPE LATAM GREEN ENGINEERING SLU
+Fishnet Vision
+NTT DATA developed Fishnet Vision as an AI-driven
+computer vision model to support a major Portuguese
+energy company's biodiversity stewardship efforts by
+automatically identifying and classifying fish species and
+detritus in video footage from fish migration systems
+integrated into its largest dams. Handling about 1.2
+million frames of footage when training the system, the
+team engineered a cost-efficient analytics pipeline to
+convert video into actionable data and pre-label relevant
+objects with a custom tool. NTT DATA’s expertise in
+computer vision was also key to developing advanced
+tracking algorithms that improved accuracy and reduced
+misidentifications. When a video contains fish, the new
+automated solution detects their presence 100% of the
+time, enabling the company to automatically filter out the
+40% of videos that do not contain fish and focus human
+analysis only on relevant footage. Insights gained from
+the
+project
+can
+enable
+NTT
+DATA
+to
+help
+other
+organizations
+align their operations
+with biodiversity
+preservation
+commitments,
+ensuring
+effective,
+environmentally-responsible practices.
+Impact
+Percentage
+of
+workload
+reduction
+in
+image
+analysis
+through AI utilization
+reduced by over 40%
+Source: NTT DATA calculation of effect of using AI to narrow down sets
+of images requiring analyzation by humans

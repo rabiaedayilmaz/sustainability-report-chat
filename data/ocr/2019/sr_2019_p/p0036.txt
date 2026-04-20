@@ -1,0 +1,87 @@
+Aiming to Foster Culture of Innovation and 
+Resolve Societal Issues through “Global Hackathon”
+Focusing on the themes of AI and SDGs in the second 
+session
+In the first Global Hackathon held in 2017, 270 teams from across 
+the world participated in the qualifying rounds. Eventually, 14 teams 
+won the qualifying competitions and made it to the final round in 
+Barcelona, Spain. For the second event held in 2018 under the 
+themes of artificial intelligence and the Sustainable Development 
+Goals (SDGs), 330 teams from around the world joined the qualifying 
+competitions, from which nine teams advanced to the final round in 
+Munich, Germany.
+Participants in the final round of the second Global Hackathon
+Teams discussing the assigned issues 
+in the second Global Hackathon
+BOT: Culture Box by Farmbot
+CASE
+Global hunger predicted for the year 2050
+The world’s population is expected to grow to 10 billion by 2050, 
+bringing about an increase in the global demand for food of up to 
+70%. “Farmbot” is a solution envisaged to address this dramatic 
+increase in food demand by enhancing the cultivation of vegetables 
+in urban areas and coming up with optimal ways of distributing crops.
+The NTT DATA Group has some 123,900 employees all over 
+the world. To provide our employees with a chance to collaborate, we hold a group-wide annual event called the “Global 
+Hackathon” in which employees across the world share global 
+societal issues and work together to devise solutions for them. 
+Since its inauguration in 2017, the event has provided opportunities for our Group employees to actively learn about advanced 
+technologies and nurtured a spirit of innovation among them 
+through promoting exchange between technical specialists and 
+the sharing of ideas. The specialists who become winners in the 
+qualifying rounds held in different locations around the world 
+get together for the final round of this technical competition, 
+in which they are presented with some real global issues and 
+collaborate to devise software-based solutions for the issues 
+within the assigned time of 27 hours.
+At the first meeting of the Global Hackathon, itelligence 
+Contributions 
+to SDGs
+● Promoting sustainable agriculture
+● Helping build sustainable cities and communities
+● Developing social infrastructure that is convenient, safe and secure
+● Helping to address labor shortages
+AG from Germany won the first prize for the “Farmbot” that 
+they proposed as a solution for addressing the issue of global 
+hunger for 2050 expected to be brought about by the projected population growth. Then, in 2018, in what became the 
+second session of the event, NTT DATA Deutschland GmbH 
+became the champion for its idea of “Disaster Relief Support 
+using Geographic Information including Satellite Imagery.” 
+Winners of the events were given rewards including investment 
+opportunities in research and development projects and 
+support for promoting cooperation with relevant organizations 
+in an effort to help commercialize their proposed solutions and 
+spread them across the world.
+“Farmbot,” the proposal that won the first prize at the first 
+event, is a solution combining a variety of plant cultivation 
+management and fertilization control systems that supports the 
+realization of smart agriculture with the use of the “Bot,” a cultivation box developed by FarmBot in Germany. By connecting 
+the data about vegetables being cultivated in Bots all over the 
+world through the Farmbot network, the solution offers advice 
+on various issues including the optimal places to distribute 
+the harvested produce and ways of developing distribution 
+networks for that purpose.
+For “Disaster Relief Support using Geographic Information 
+including Satellite Imagery,” the winner of the second Global 
+Hackathon, the team developed software to enable artificial 
+intelligence to develop rescue measures and formulate the 
+optimal operation strategies of relief teams based on satellite 
+imagery of the affected areas and images taken by cameras 
+installed in the areas while supporting the prompt payment of 
+insurance premiums.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

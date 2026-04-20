@@ -1,0 +1,128 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+SPECIFIC STANDARD DISCLOSURES
+G4-LA12
+Composition of governance bodies and breakdown of employees per employee category according to
+gender, age group, minority group membership, and other indicators of diversity
+P26
+Equal Remuneration for Women and Men
+G4-LA13
+Ratio of basic salary and remuneration of women to men by employee category, by significant 
+locations of operation
+－
+P40
+Supplier Assessment for Labor Practices
+G4-LA14
+Percentage of new suppliers that were screened using labor practices criteria
+－
+G4-LA15
+Significant actual and potential negative impacts for labor practices in the supply chain and 
+actions taken
+－
+Labor Practices Grievance Mechanisms
+G4-LA16
+Number of grievances about labor practices filed, addressed, and resolved through formal 
+grievance mechanisms
+P62
+Human Rights
+Investment
+G4-HR1
+Total number and percentage of significant investment agreements and contracts that include 
+human rights clauses or that underwent human rights screening
+－
+G4-HR2
+Total hours of employee training on human rights policies or procedures concerning aspects of human
+rights that are relevant to operations, including the percentage of employees trained
+P65
+Non-discrimination
+G4-HR3
+Total number of incidents of discrimination and corrective actions taken
+－
+Freedom of Association and Collective Bargaining
+G4-HR4
+Operations and suppliers identifi ed in which the right to exercise freedom of association and collective 
+bargaining may be violated or at signifi cant risk, and measures taken to support these rights
+－
+Child Labor
+G4-HR5
+Operations and suppliers identified as having significant risk for incidents of child labor, and 
+measures taken to contribute to the effective abolition of child labor
+－
+G4-HR6
+Operations and suppliers identified as having significant risk for incidents of forced or compulsory 
+labor, and measures to contribute to the elimination of all forms of forced or compulsory labor
+－
+Security Practices
+G4-HR7
+Percentage of security personnel trained in the organization’s human rights policies or 
+procedures that are relevant to operations
+－
+Indigenous Rights
+G4-HR8
+Total number of incidents of violations involving rights of indigenous peoples and actions taken
+－
+Assessment
+G4-HR9
+Total number and percentage of operations that have been subject to human rights reviews or 
+impact assessments
+－
+Supplier Human Rights Assessment
+G4-HR10
+Percentage of new suppliers that were screened using human rights criteria
+－
+G4-HR11
+Significant actual and potential negative human rights impacts in the supply chain and actions 
+taken
+－
+Human Rights Grievance Mechanisms
+G4-HR12
+Number of grievances about human rights impacts filed, addressed, and resolved through 
+formal grievance mechanisms
+P62
+Society
+Local Communities
+G4-SO1
+Percentage of operations with implemented local community engagement, impact 
+assessments, and development programs
+P23-24
+G4-SO2
+Operations with significant actual and potential negative impacts on local communities
+－
+Anti-corruption
+G4-SO3
+Total number and percentage of operations assessed for risks related to corruption and the 
+significant risks identified
+－
+G4-SO4
+Communication and training on anti-corruption policies and procedures
+－
+G4-SO5
+Confirmed incidents of corruption and actions taken
+－
+Public Policy
+G4-SO6
+Total value of political contributions by country and recipient/beneficiary
+－
+Anti-competitive Behavior
+G4-SO7
+Total number of legal actions for anti-competitive behavior, anti-trust, and monopoly practices and 
+their outcomes
+－
+Compliance
+G4-SO8
+Monetary value of significant fines and total number of non-monetary sanctions for noncompliance with laws and regulations
+－
+Supplier Assessment for Impacts on Society
+G4-SO9
+Percentage of new suppliers that were screened using criteria for impacts on society
+－
+G4-SO10
+Significant actual and potential negative impacts on society in the supply chain and actions taken
+－
+
+Sustainability Report 2015
+NTT DATA

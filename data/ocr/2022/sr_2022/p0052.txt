@@ -1,0 +1,140 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book 
+Environmental Data 
+ 
+ Fiscal 2021 Environmental Impact Data (Global, Consolidated) 
+ 
+Unit 
+FY2018 
+FY2019 
+FY2020 
+FY2021 
+Scope 1 
+Emissions 
+t-CO₂e
+8,851
+9,057
+7,241 
+9,613
+Coverage rate of data (sales) 
+% 
+
+Scope 2 
+Location basis 
+t-CO₂e
+183,842
+171,173
+170,807 
+165,748
+Coverage rate of data (sales) 
+% 
+
+Market basis 
+t-CO₂e
+185,278
+159,672
+155,165 
+130,066
+Coverage rate of data (sales) 
+% 
+
+Scope 3 
+Emissions 
+t-CO₂e
+1,062,116
+1,862,634
+1,547,027 
+1,639,180
+Coverage rate of data (sales) 
+% 
+
+Energy1 
+Total usage of nonrenewable energy 
+MWh 
+588,179
+589,694
+581,545 
+(607,547) 1
+ 
+314,039 1
+Total usage of renewable energy 
+MWh 
+102,651
+100,931
+59,938 
+92,077
+Coverage rate of data (sales) 
+% 
+
+Water 
+Total water usage 
+million m3 
+0.8
+0.74
+0.86 
+0.93
+Coverage rate of data (sales) 
+% 
+
+Waste 
+Total amount reused/recycled 
+t 
+5,262 2
+4,862
+3,395 
+5,131
+Total final disposal of waste 
+t 
+
+Amount sent to landfill 
+t 
+70 2
+
+Amount incinerated with energy recovery 
+t 
+39 2
+
+Amount incinerated without energy recovery 
+t 
+
+Amount disposed of using other methods 
+t 
+
+Amount disposed of using unknown 
+methods 
+t 
+
+Coverage rate of data (sales) 
+% 
+
+Data center 
+efficiency 
+Power usage efficiency*3 
+ 
+1.7
+1.6
+1.6 
+1.7
+Coverage rate of data (no. of data centers) 
+% 
+
+Percentage 
+of renewable 
+energy in 
+data centers 
+Total energy usage in data centers 
+MWh 
+501,904
+458,634
+449,135 
+347,399
+Percentage of renewable energy 
+of total energy consumption in data centers 
+% 
+
+(Scope of data collection: NTT DATA Group consolidated companies) 
+1. The energy scope was revised in line with the NTT Group’s scope definitions from its FY2021 results, but the previous scope definition is used in this table. Two 
+figures are shown for FY2021 (figure in the upper row based on the previous scope; figure in the lower row based on the revised scope 2). 
+2. Scope of data collection is limited to Japan. 
+3. This figure refers to partial Power Usage Effectiveness (pPUE).

@@ -1,0 +1,70 @@
+changes for each technological element and presented them together with future forecasts. The report is used on 
+various occasions as a source of information for formulating client strategies and as a starting point for discussions.
+ NTT DATA Technology Foresight 2024 
+https://www.nttdata.com/jp/ja/foresight/trend-listing/ (Japanese only)
+Operation of “INFORIUM Toyosu Innovation Center”
+We established the “INFORIUM Toyosu Innovation Center” within our Toyosu Center building Head Office. As a 
+place for creating new businesses with clients, the Center offers space for workshops on co-creation activities, as 
+well as other collaborative initiatives. This space is available to both domestic and international customers.
+ INFORIUM Toyosu Innovation Center 
+https://www.nttdata.com/global/en/about-us/profile/inforium/
+DATA INSIGHT
+NTT DATA Group’s blog media, “DATA INSIGHT,” is a platform that delivers knowledge and foresight to society. It 
+shares insights on future societal trends and the latest technological advancements.
+ DATA INSIGHT 
+https://www.nttdata.com/jp/ja/data-insight/ (Japanese only)
+Global Open Innovation “From the port of Toyosu®”
+NTT DATA promotes open innovation by collaborating with global venture companies that have advanced business 
+models and technologies, as well as large client companies, to accelerate the creation of innovative businesses 
+and build mutually beneficial relationships. Since the inception of this initiative in 2013, we have formed a community of more than 4,000 individuals both inside and outside NTT DATA and have successfully realized multiple business ventures in various fields, including FinTech, energy, digital marketing, and healthcare.
+ 
+Since fiscal 2016, we have held a global open innovation contest, and in 2018, we launched the SDGs Startup 
+Program. As a result, we now continuously explore innovative venture companies throughout the year through 
+the network we have built up over the years. In addition, in Europe and South America, we conduct contests led by 
+local offices tailored to regional characteristics. As an example of our achievements through open innovation activities, in September 2021 we opened a walk-through store in Toyosu that enables cashless payments without the 
+need for a cash register.
+ NTT DATA OPEN INNOVATION 
+https://oi.nttdata.com/ (Japanese only)
+ Opening of a Walk-Through Store 
+https://www.nttdata.com/global/ja/news/release/2021/083001/ (Japanese only)
+support their development. Each initiative might require different technological and institutional designs to facilitate data exchange between organizations, depending on legal frameworks, industry regulations, and the characteristics of specific use cases. By participating in discussions within domestic and international organizations 
+responsible for setting the technical standards necessary for inter-organizational data exchange, NTT DATA contributes to building a society where multiple data ecosystems are interconnected, enabling safe data exchange 
+between organizations across different countries and industries.
+Activities Based on the NTT Group’s R&D 
+— Toward Global Expansion of Advanced Communication through IOWN APN
+Successful Demonstration of Long-Distance Data Center Connections via IOWN APN
+NTT DATA Group Corporation, in collaboration with NTT, successfully conducted a demonstration connecting NTT 
+Group–owned data centers located approximately 100 kilometers apart in the United Kingdom and the United 
+States using the Innovative Optical and Wireless Network (IOWN) APN*. This connection achieved ultra-low latency 
+of less than one millisecond, allowing the two data centers to function as an integrated IT infrastructure comparable to being housed in the same facility. The demonstration showcased the potential applications of this technology in distributed real-time AI analysis and the financial sector. Moving forward, we plan to conduct business 
+demonstrations with clients to implement data center business leveraging IOWN APN on a global scale. 
+* APN stands for All Photonics Network. By introducing new optical technologies from networks to terminals and chips, APN achieves ultra-low power consumption and 
+ultra-high-speed processing, which has been difficult to achieve until now.
+ Successful Demonstration of Connecting Long-Distance Data Centers in the U.K. and the U.S.A. 
+https://group.ntt/jp/newsrelease/2024/04/12/240412a.html (Japanese only) 
+https://www.nttdata.com/global/ja/news/topics/2024/041200 (Japanese only)
+NTT DATA Technology Foresight
+Every year, NTT DATA Group Corporation publishes NTT DATA Technology Foresight, which forecasts future 
+changes driven by information technology. During the formulation process, we analyze political, economic, social, 
+and technological trends. We also gather and discuss a wide range of information through interviews with NTT 
+DATA and experts in various fields in Japan and overseas. 
+ 
+Based on these efforts, the “Introduction” section, which provides an overview of the future while reviewing 
+the changes that IT brings to the world, and the “Latest Trends” section, which summarizes the latest information 
+technology and foresees the future, describe trends and clarify the ways that companies should move forward in 
+the future.
+ 
+In the 2023 edition, we published three “Introduction” sections and 10 “Latest Trends” sections. We reviewed the 
+changes that information technology brings to the world and gave an overview of the future. We then delved into these 
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

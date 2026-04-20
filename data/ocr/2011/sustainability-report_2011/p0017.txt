@@ -1,0 +1,128 @@
+Future Plans
+Create standard procedures for CMMI Level 3, quantitative analysis procedures for Level 4 and promote companywide.
+• 
+In response to Group companies’ requests for improvement, revise TERASOLUNA and enhance its use.
+• 
+Continue to develop and implement technologies for responding to new threats and methods of attack.
+• 
+Roll out the BizSMA security service and promote its customer service application. 
+• 
+Strengthen response to tsunamis, planned outages/overall power usage restrictions and other risks.
+• 
+Reflect in the business continuity plans (manuals and disaster training) issues and response measures clarified during the recent 
+• 
+earthquake.
+Achieve further reduction in system failures by creating checklists on various current initiatives and continuing to implement 
+them.
+Promote initiatives using smartphone-based information systems, and improve their ease of use.
+• 
+Increase internal seminars and training targeting young employees.
+• 
+Expand use of web accessibility validation service and promote JIS X8341-3:2010 compatibility. 
+• 
+Promote improvement actions to further increase satisfaction levels: offer awards for notable successes, share expertise and hold 
+training sessions on planning customer satisfaction improvements.
+Step up development of systems that will use IT to resolve social issues, including health and welfare, disaster, 
+crisis management, regional vitalization and recovery support.
+Promote employee participation by adjusting existing activity programs and better disseminating information. 
+• 
+Promote groupwide activities and encourage the sharing of information about individual companies’ activities.
+• 
+Expand the scope of work for people with disabilities, and continue working to provide a comfortable working environment. 
+Continue to conduct human rights training and encourage awareness among employees.
+• 
+Train people in charge of promoting human rights awareness activities, and enhance training for people prior to being 
+• 
+dispatched overseas.
+Instill a “spirit of contribution” into the corporate culture and incorporate it into employee actions.
+Strengthen initiatives to instill awareness at workplaces and Group companies
+• 
+Establish in-house daycare center.
+• 
+Promote ongoing measures and make an overall push toward work-style innovation from a perspective that includes work-life 
+• 
+balance and health promotion.
+Strengthen communication between workplaces and expand mental healthcare prevention activities.
+• 
+Based on fiscal 2011 results, promote work-style innovation centering on discretionary work and teleworking, and continue in 
+efforts to improve in-house administrative procedures and make them more efficient.
+Expand introduction of Professional CDP at Group companies.
+• 
+Promote global training and personnel exchanges.
+• 
+Promote measures designed for each age group and further cultivate the next generation (through IT education, etc.).
+Further instill compliance awareness and recognition and continue to conduct training on the topic.
+Conduct ongoing dialogs through BP Presidents’ Meetings and other activities.
+• 
+By offering training materials in multiple languages (Japanese, English and Chinese), expand and enhance training for SEs at 
+• 
+subcontracted companies overseas.
+Reinforce groupwide environmental management and promote further inter-departmental collaboration.
+• 
+Appoint Environmental Managers at overseas Group companies and promote collection of data on environmental impact.
+• 
+By improving ease of use and promoting the measurement of environmental impact, aim to increase number of quantitative 
+assessments in fiscal 2012 (30 assessments). 
+Employ M2M and other new communication technologies to bolster solution business related to smart grids and smart 
+communities.
+Increase number of buildings employing EneMotta and upgrade air conditioning equipment at data centers. As a result, in fiscal 
+2012 reduce CO2 emissions in terms of basic units of sales by 15% compared with fiscal 2006 levels.
+By promoting the reuse and recycling of OA equipment, thoroughly separate general waste, and as a result, in fiscal 2012 reduce 
+final disposal amount by 16% compared with fiscal 2009 levels.
+Through planned promotion of next-generation offices, encourage shift to hot-desking and paperless offices. As a result, reduce 
+quantity of paper purchased in fiscal 2012 by 25% compared with fiscal 2009 levels.
+Expand opportunities for employees and their families to participate in environmental contribution activities, aiming for 1,500 
+participants groupwide during fiscal 2012.
+Continue to enhance groupwide internal control. 
+Create and reinforce governance system for overseas Group companies, centered on the newly formed Global Business Sector.
+Continue recurrence prevention initiative and monitor adherence.
+• 
+Conduct training for all managers and extend compliance assessments to Group companies.
+• 
+Promote risk management to meet demands of globalization.
+• 
+Roll out business continuity plans to Group companies, including those overseas.
+• 
+Reinforce information security incident response measures.
+• 
+Enhance training and operational support to raise the level of information security at Group companies (employee education, 
+• 
+internal auditor training and information sharing in three languages: Japanese, English and Chinese). 
+Continue to expand interactive IR activities by enhancing website and other IR tools. 
+Major Successes and Third-Party 
+Evaluations of Company Initiatives 
+See page 21
+BizPICO identify verification service wins 
+ASP SaaS Cloud Award 2011 
+Wins grand prize in application sector 
+business support 
+Award ceremony for ASP SaaS Cloud Award 2011 
+NTT DATA achieved Level 5 on its second organization 
+• 
+(Protection Department 1, Social Protection 
+Department, Quality Life Sector) 
+Group companies achieved level 5 on three organizations
+• 
+Related website News release on achieving CMMI 
+Level 5 (Japanese only)
+http://www.nttdata.co.jp/
+release/2011/070400.html
+Increased achievement of 
+CMMI Level 3 and Level 5 
+See page 19
+Promoting work-style innovation at 
+workplaces and reducing annual 
+working time 
+Intranet page showing positive case studies 
+of workplace innovation
+See page 27
+Receiving grand prize at ITpro EXPO AWARD 2010
+Grand prize won for Lindacloud at 
+ITpro EXPO AWARD 2010
+See page 37
+Selected for Best Company Award in the 
+2010 Internet IR Best Company Awards
+Investor relations website 
+See page 44, web
+
+NTT DATA CSR Report 2011

@@ -1,0 +1,85 @@
+URL
+http://www.nttdata.com/global/en/csr/security/
+NTT DATA Information Security Report 2016
+Region-Control Risks
+Basic Policy
+■ Process of Selecting Region-Control Risk
+Region-control risks managed independently by regional integrated companies define material risks based on approximately 
+40 risk candidate items in each region that are evaluated and improved in light of material risk countermeasure implementation 
+and risk occurrence status.
+The more pervasive IT becomes in our lives, the more risks we face with regard to the safety of information and the greater the 
+necessity for appropriate measures to safeguard that information. In the business world, however, focusing solely on ensuring 
+information security hinders the active utilization and sharing of information and stymies the use of beneficial information and 
+know-how.
+The NTT DATA Group recognizes the importance of achieving an appropriate balance between ensuring the safety of 
+information and the active utilization and sharing of information. We implement a wide range of measures that cover both the 
+logical and technological aspects of information security. Logical measures include formulating rules and providing education 
+and training in information security, while technological measures involve solutions that prevent information leaks and the 
+adoption of thin-client computing.
+Our information security personnel come together in forums to facilitate Groupwide sharing of knowledge and know-how. 
+Through this distribution of knowledge within the Group, we are working to establish unified information security governance.
+Risk Evaluation Results
+Large
+Low
+Medium
+High
+Very high
+Very Large
+Medium
+Small
+Degree 
+impact
+Likelihood of 
+occurrence
+Material Risks
+ ‌
+ Removal of confidential 
+information from 
+premises
+ Cyber-attacks
+ ‌Problem projects
+ ‌System malfunctions
+ Natural disasters
+ ‌‌Inappropriate 
+outsourcing
+Approx. 40 Risk 
+Candidates
+Material Risk Countermeasures
+Example: 
+ 
+Logical measures: Improved security education
+Technical measures: More stringent security quality standards
+Formulation of material risk 
+countermeasures
+Evaluation / 
+Improvement
+Each region selects 
+up to 5 material 
+risks
+Monitoring of 
+countermeasure 
+implementation status 
+and risk occurrence 
+incidents
+Revision of risk 
+candidates
+Leakage of customer / 
+employee information
+Leakage of customer / 
+employee information
+Leakage of customer / employee information
+Leakage of customer / employee information
+Information Security
+The NTT DATA Group is constantly engaged in technical development by keeping abreast of social, technological and business 
+trends as well as the latest trends in security, and the results are reflected in the systems we develop for the Group and 
+our clients.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

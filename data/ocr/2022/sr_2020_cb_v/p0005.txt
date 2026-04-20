@@ -1,0 +1,104 @@
+Amid mounting social issues surrounding agriculture, we will contribute to the revitalization of local economies by 
+providing services that contribute to the resolution of business issues and issues surrounding farmers, in line with 
+local realities, in cooperation with Japan Agricultural Cooperatives (JA), centered on credit and food and agriculture.
+Improving productivity and 
+sustainability by introducing 
+new technologies in agriculture
+Number of Japanese farmers in 2020 compared with 2015
+Source: “Agriculture and Forestry Census” (Ministry of Agriculture, Forestry and Fisheries, 2020)
+Japan’s agriculture faces a variety of challenges, including 
+the aging of farmers and an increase in abandoned farmland. 
+On the other hand, the stable supply of food is threatened by 
+various factors such as increased demand for food due to 
+global population growth and decreased production due to 
+climate change, conﬂict, and other factors.
+ NTT DATA uses technologies such as agricultural 
+management support platforms, AI and image analysis, 
+and drones to connect everyone involved in the production, 
+distribution, sales, and consumption of agricultural products; 
+to increase productivity and sustainability; and to support 
+Japanese agriculture.
+“Aisaku”
+“Aisaku” is a DX platform that supports business reform 
+of producers and production areas as a whole. Advanced 
+farming activities are possible by freely combining cloud 
+services for the agriculture and food distribution industries, 
+data analysis, automation, and digital technologies such as 
+IoT. For example, by managing soil properties and data on 
+agricultural chemicals and fertilizers for each farm, and by 
+visualizing the risk of disease occurrence, it is possible to 
+reduce the risk of crop loss while optimizing the amount 
+of agricultural chemicals sprayed. In addition, based on 
+environment-friendly cultivation guidelines that reduce the 
+use of agricultural chemicals and chemical fertilizers, we are 
+able to reduce wasteful purchases of agricultural chemicals 
+and fertilizers, thereby stabilizing sales prices.
+“inagri™”
+“inagri™” supports all inheritance procedures, including 
+credit, mutual aid, and farming. It is equipped with an 
+oﬃce navigation function that shows the procedures and 
+documents to be prepared for the JA contact person. By 
+following the instructions on the screen, complicated 
+inheritance procedures can be carried out accurately. An heir 
+can go through inheritance procedures for all businesses 
+with minimum documents at one window.
+-26%
+The smart meter penetration rate in Italy is close to 100%, 
+and it is now time to upgrade from the ﬁrst generation to 
+the next generation. 
+　　Italy is greatly dependent on energy imports, and 
+energy prices remain high compared to the EU average. In 
+addition to correcting price discrepancies, the government 
+has announced Strategia Energetica Nazionale (SEN 2017), 
+including conversion to renewable energy, to build a 
+low-carbon society. Under these circumstances, the next 
+generation of smart meters will be required to not only 
+improve the quality of service but also provide new and 
+innovative services to solve these energy issues.
+　　In response, we have adopted a service design 
+approach that takes the needs of users as a starting point 
+for planning, demonstration testing, and developing 
+services using all NTT DATA technologies. Under this 
+approach, we are designing smart meter devices, 
+developing ﬁrmware, and promoting data-driven digital 
+businesses.
+　　Once the system is operational, consumers will be 
+able to check their daily power consumption by time zone 
+on a display or smartphone, which we expect to improve 
+their awareness of energy consumption. The Distribution 
+System Operators (DSO) will reduce power loads by 
+remotely managing and analyzing data on consumer 
+energy demand and consumption behavior. The system 
+will also enable swift power outage countermeasures and 
+gauge the environmental impact of the electricity used in 
+each residence. Furthermore, the collected data will be 
+used to set ﬂexible pricing for power generators and 
+electricity retailers according to the amount of electricity 
+consumed at diﬀerent times of the day, which is expected 
+to alleviate the price equality issue.
+　　The next-generation system is expected to help 
+resolve issues surrounding energy in Italy, such as the 
+ratio of renewable energy and the need to raise that 
+nation’s energy self-suﬃciency level.
+Visualizing energy consumption to help 
+improve energy efficiency in Italy
+By developing various services using next-generation smart meters, we will improve the energy consumption 
+awareness of consumers and businesses in Italy and help solve energy issues facing that nation.
+-10 Mtoe
+1 by 2030
+
+Final energy consumption in Italy: 
+1 toe: Tonne(s) of oil equivalent (amount of energy released by burning one tonne of crude oil) 2 Source: Strategia Energetica Nazionale (SEN 2017)
+Environment | Regenerating Ecosystems
+Environment | Regenerating Ecosystems
+Carbon
+Neutrality
+Smart X
+Co-innovation
+Nature
+Conservation
+Case: Aisaku and inagri™
+Case: Utilizing next-generation smart meters
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

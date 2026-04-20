@@ -1,0 +1,79 @@
+Specific Initiatives
+Establishment of the Global AI Risk Management Policy
+To ensure that global businesses leveraging AI technology operate in a sound and risk-managed manner, we 
+have established the AI Risk Management Policy. This policy defines the AI risks to be managed at both global and 
+Group-wide levels and outlines the management framework for effectively addressing these risks.
+Establishment and Implementation of Rules and Guidelines for AI Risk Management
+To achieve policy-based risk management, we have established concrete and practical management rules for AI 
+in general. In addition, we have developed internal guidelines tailored to generative AI that summarize considerations and approaches from the perspectives of development, deployment, and use. In this process, we are collaborating with NTT DATA Japan and NTT DATA, Inc., to advance our initiatives globally. Furthermore, we have defined 
+AI risks to be addressed based on the European Union’s AI Act and various domestic and international guidelines, 
+standardizing the detection process for these risks. Starting in fiscal 2023, we are implementing risk checks for AI 
+projects at NTT DATA Group Corporation and NTT DATA Japan.
+Support Activities for Establishing AI Governance
+We create and provide educational content to enhance employees’ awareness of AI ethics and conduct risk assessments for individual projects and develop strategies for risk avoidance and mitigation. Furthermore, we support 
+the establishment of AI governance within our Group companies.
+AI Advisory Board
+With the aim of strengthening AI-related governance, we established the AI Advisory Board in April 2021, composed of external experts. In this Board, outside experts and members of NTT DATA’s AI projects discuss technology trends, laws, regulations, and civil society’s awareness of AI utilization, incorporating the findings into concrete 
+measures for AI governance.
+Promotion System
+To manage the risks arising from the inappropriate use of AI and promote the proper utilization of AI, we established the AI Governance Office on April 1, 2023, as a specialized organization. In advancing AI governance globally, the AI Governance Office plays a central role, forming the Global AI Governance CoE, which is composed of 
+experts from various fields, including legal, intellectual property, risk management, information security, and AI 
+technology, from Group companies.
+ Establishment of a New AI Governance Office Aimed at Strengthening AI Risk Management 
+https://www.nttdata.com/global/ja/news/release/2023/032301 (Japanese only)
+Guidelines
+● Realizing Well-being and Sustainability 
+of Society
+● Co-Creating New Values by AI
+● Data Protection
+● Fair, Reliable, and Explainable AI
+● Contribution to Dissemination of Sound AI
+AI
+AI
+AI Governance Office
+● A dedicated organization responsible for AI 
+risk management
+● Collaborates with AI 
+risk-related departments across Group 
+companies to build a 
+global AI governance 
+system 
+AI
+AI
+AI Advisory Board
+● Participation of external 
+experts from various 
+fields such as technology, law, and consumer 
+perspectives
+● Discusses the state of 
+our AI governance and 
+individual projects
+Policies
+● Risks to be managed
+● Risk management framework
+Rules and 
+Guidelines
+● Internal management rules
+● Generative AI usage guidelines
+Support 
+Activities
+● Employee training
+● Risk assessment and mitigation planning
+● Governance construction support for 
+Group companies
+ 
+NTT DATA will reduce the occurrence of problems in AI projects from various perspectives and improve the 
+reliability of the AI solutions that we provide. This will enable society and customers to maximize the benefits of AI 
+utilization and create an environment that will enable them to realize a sustainable society.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

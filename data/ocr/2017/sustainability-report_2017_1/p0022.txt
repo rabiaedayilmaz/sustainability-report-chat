@@ -1,0 +1,145 @@
+Tweets containing images
+Cross-Border EC Local Payment in Taiwan
+Digital Archive Service for Duty-Free 
+Use of Social Networks to Anticipate Social 
+Buzz Services Targeting Domestic and 
+Inbound Tourism
+More than 4 million people from Taiwan visit Japan each year, and that 
+number is expected to increase. Taiwan’s EC market is also expanding 
+at around 10% each year. Of this figure, more than 50% of shoppers 
+who utilize EC for overseas purchases have experience using Japanese EC sites. Many of these shoppers wish to pay with bank-issued 
+cash cards that utilize Taiwan’s local settlement service*. However, 
+most Japanese EC sites only accept payment from overseas via internationally branded credit cards, which limits the ability of Taiwanese 
+people to utilize Japanese EC sites. 
+ 
+NTT DATA and Taiwan’s E.SUN Commercial Bank signed an alliance agreement in February 2017. Under this agreement, we will begin 
+providing the “Cross-Border EC Local Payment in Taiwan” facilitating 
+the use of Taiwan’s local settlement service by companies and stores 
+that operate EC sites in Japan.
+ 
+With this service, shoppers on Japanese EC sites can use the cash 
+cards issued by their usual banks to make purchases in Taiwan’s currency. Alternatively, they can elect to settle purchases at convenience 
+stores in Taiwan. The service takes advantage of NTT DATA’s ability to 
+provide a safe and secure system.
+* In addition to settlement methods for cash cards issued by banks in Taiwan, this service 
+allows cash payments at specified convenience stores. 
+ Service Concept
+ Service Concept
+ Service Concept
+Settlement network 
+Payment
+Taiwan
+Cash cards issued by 
+banks in Taiwan
+Taiwan’s local 
+settlement network
+Fund settlement
+Hub bank
+Selection of 
+payment method
+Japan
+EC sites 
+E.SUN 
+Commercial 
+Bank 
+Other bank 
+remittance
+NW
+Internet
+Duty-free 
+electronic management center
+Note: Patent pending (Patent application 
+No. 2016-006359)
+Credit slip management center
+Payment at 
+convenience store
+Taiwan
+Foreign visitors 
+to Japan
+Foreign visitors 
+to Japan
+Foreign visitors to Japan
+By embedding 
+modules in the 
+business terminals 
+of member stores, 
+enable use with only 
+LCD signature tablets
+Electronically managed purchaser agreements 
+and signed slips (copies to be stored by member stores) are stored safely in a highly secure 
+environment.
+Analyze tourism settings 
+through image analysis and 
+classification, in ways not 
+possible by reading text 
+＃浅草
+#Asakusa
+Asakusa ATM
+Asakusa—
+Image data 
+×
+Image analysis
+×
+Deep learning
+Stored slips are 
+searchable online, 
+allowing images of 
+these slips to be 
+checked.
+Revisions to Japan’s tax exemption system in May 2016 are expected 
+to bolster consumption by foreign visitors to Japan and further boost 
+the number of duty-free transactions. New tax exemption procedures 
+require foreign visitors to Japan to sign a purchaser’s pledge. Signing 
+paper documents can lead to problems, such as forgetting to have 
+purchasers sign the document, the mishandling of forms, or not having 
+the appropriate forms available. Hence, the demand for storing data 
+electronically is growing as a way to prevent such problems. 
+ 
+To resolve this issue, NTT DATA provides the Digital Archive Services 
+for Duty-Free. This service provides pledge content in 16 languages, 
+covering those spoken by more than 96% of foreign visitors to Japan. 
+Signature information is obtained and stored electronically, using liquid 
+crystal display (LCD) signature tablets. With this service, foreign visitors 
+to Japan only need to sign once in order to complete the taxexemption 
+process. In this way, the service shortens the amount of time needed to 
+purchase duty-free items, greatly reduces the workload at duty-free 
+shops, and eliminates the need for tax processing when forms are not 
+available, minimizing economic loss. Electronically stored purchaser’s 
+pledges can be browsed on a specialized website, which allows historical forms to be checked and referenced by the tax authorities. 
+ 
+By providing this high-value-added service that alleviates issues for 
+duty-free shops, NTT DATA is helping to raise the level of satisfaction and 
+boost consumption by the increasing number of foreign visitors to Japan.
+Stores
+Headquarters
+With much of the general populace now connected via social media, 
+more people are finding their way to formerly “hidden” tourism spots. 
+Within the tourism industry, demand is growing for ways to consistently benchmark and measure the appeal of tourism spots in countries all over the world. 
+ 
+As an official partner of Twitter, NTT DATA is combining all Twitter 
+data with deep learning technology* and providing a service that measures the social buzz surrounding more than 300,000 tourism spots 
+across Japan. Comprehensively measuring the social buzz surrounding individual spots should enable us to obtain more detailed information about the user attributes (country, age, gender, preferences) 
+associated with these spots, making it possible to offer more extensive 
+tourism plans. By analyzing information on a broad range of users in 78 
+countries and regions, we aim to analyze in further detail data on the 
+increasing number of foreign tourists to Japan. We expect these efforts 
+to also lead to the discovery of “hidden” tourism resources around the 
+country and foster regional revitalization and invigoration.
+* A machine learning algorithm constructed of multilayered neural networks, which mimic the 
+neural circuitry in human brains
+Multilingual 
+display
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+Governance
+GRI Standards
+Initiatives Targeting Material 
+CSR Issues

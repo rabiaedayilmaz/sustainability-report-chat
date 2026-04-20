@@ -1,0 +1,81 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+SSP5-8.5 scenario analysis
+In the SSP5-8.5 scenario, we assessed the impact on net 
+sales at a slightly higher level due to the risk of increasing 
+abnormal weather events and the resulting social and 
+economic damage and a decline in business profit of clients. In our three focal areas in Japan—Public & Social 
+Infrastructure, Financial, and Enterprise—where precipitation is on the rise, we assessed that frequent typhoons 
+and sudden heavy rains will increase the risk of flooding at 
+data centers and offices.
+ 
+On the other hand, because clients need to address 
+the same risks, we see opportunities from increased 
+demand for our cloud and shared-use services, in which 
+we employ hazard countermeasures and data loss 
+countermeasures with double redundancy.
+ 
+As of August 2021, we made the decision to establish 
+data centers equipped with resilience features to reduce 
+physical risks and commenced service deployment in 
+June 2023.
+ 
+Based on the results of scenario analysis, we have 
+been actively investing in resilient data center services 
+since fiscal 2023.
+References: IPCC, 2021 Summary for Policymakers. In: Climate Change 2021: The Physical Science Basis. 
+Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change 
+SSP (Shared Socioeconomic Pathways): Five scenarios showing future social and economic changes along two axes (climate change mitigation measures and 
+adaptation difficulties)
+SSP1-1.9 Worldview
+● Global average temperature increase of 1.2–2.0˚C 
+in 2041–2060 (1˚C increase at present) 
+● Extreme temperature event that occurred once in 
+10 years occurs 2.8 times more: 
+ 
+ Once in 5 years or more 
+● Extreme temperature event that occurred once in 
+50 years occurs 4.8 times more: 
+ 
+ Once in 10 years 
+● Exceeds 1.5˚C around 2030 but declines to below 
+1.5˚C
+SSP5-8.5 Worldview 
+● Global average temperature increase of 1.9–3.0˚C 
+(2041–2060) 
+● Extreme temperature event that occurred once in 
+10 years occurs 5.6 times more: 
+ 
+ Once in two years or more 
+● Extreme temperature event that occurred once in 
+50 years occurs 13.9 times or more: 
+ 
+ Once in 5 years or more 
+● Extreme weather events become more extreme 
+(e.g., fewer but more intense typhoons)
+
+SSP5-8.5
+SSP3-7.0
+SSP2-4.5
+SSP1-2.6
+SSP1-1.9
+
+Carbon dioxide (GtCO2/yr)
+–20
+Climate Change Scenario Analyses
+Impact of Climate Change Scenarios on the Group
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

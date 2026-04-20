@@ -1,0 +1,62 @@
+Clean water consumption
+m3
+626,963
+Sewerage water consumption
+m3
+499,086
+Gray water consumption
+m3
+41,230
+Rainwater consumption
+m3
+
+Consumption of clean, sewerage and other water
+(uncategorized)
+m3
+9,118
+Utility power
+kWh
+597,166,994
+Kerosene
+Liters
+13,400
+Light gas oil (excluding company vehicles)
+Liters
+97,745
+A–C heavy oil
+Liters
+18,476
+City gas
+m3
+1,667,793
+Gasoline (company vehicles)
+Liters
+727,039
+Light gas oil (company vehicles)
+Liters
+15,677
+Number of environmental clean-up initiatives
+undertaken
+Initiatives
+
+Participants in environmental clean-up initiatives
+People
+
+Other environmental activities
+Activities
+
+Participants in other environmental activities
+People
+
+Scope of Environmental Impact Measurement
+　・Measurement period: From April 1 to March 31 of the following year
+　・Measurement organization: Fiscal 2010 NTT DATA (all organizations), 65 Group companies (domestic only)
+Consumption of water resources
+Energy consumption
+Environmental contribution
+Resource use
+Regional
+environmental
+contribution
+NTT DATA CSR Report 2010                                                                                                     
+29/48

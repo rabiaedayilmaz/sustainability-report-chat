@@ -1,0 +1,51 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+Promotion through Co-Creation with Clients 
+ 
+We are using NTT DATA’s digital technologies to help create a circular economy for clients and society. To this end, we deploy 
+blockchain technology to build various mechanisms and AI and IoT technologies to achieve advances in industrial waste 
+treatment. We are also building a platform to manage the cycle, from collection to disposal of waste, in compliance with laws 
+and regulations while developing a prototype platform that can be interconnected with “Gaia-X*,” an international data distribution 
+platform used mainly in Europe. 
+*“Gaia-X” is a data sharing initiative announced by the German and French governments in October 2019. It aims to support data exchange while 
+safeguarding security and data sovereignty. 
+ 
+ Building a Battery Traceability Platform to Achieve a Circular Economy 
+In addressing critical societal challenges such as achieving carbon neutrality, fostering a resource-circulating society, and 
+upholding human rights and environmental diligence, the importance of establishing robust mechanisms for precise data flow 
+across the entire organizational supply and value chain cannot be overstated. Notably, the European New Batteries Regulation*1, 
+which took effect in August 2023 in Europe, mandates comprehensive disclosure of CO2 emissions and resource recycling rates 
+throughout the battery life cycle to the European Commission. Several of these regulations are set to become mandatory from 
+2025 onward. 
+In August 2023, NTT DATA marked a significant milestone by being chosen as the system developer by the Ministry of 
+Economy, Trade and Industry (METI) for a project aimed at demonstrating and supporting CASE-ready unmanned automatic 
+driving and other applications*2. This project, designed to promote the construction of a robust product ecosystem and shape 
+future rules, is slated to begin in fiscal 2023. 
+Leveraging the outcomes achieved in the system requirements definition under a subsidy program facilitated by the Ministry 
+of Economy, Trade and Industry in fiscal 2022, NTT DATA is embarking on the development of a transformative “Battery 
+Traceability Platform.” This platform is envisioned as an industry-wide ecosystem for electric vehicle batteries, offering a range 
+of functionalities. It will streamline the aggregation of carbon footprint (CFP) information across the supply chain; assess the 
+consideration of environmental and human rights aspects, particularly concerning rare resources (human rights and 
+environmental due diligence); and provide visualization of recycling and reuse information within the value chain. With an eye 
+on compliance with the European New Batteries Regulation’s partial obligations commencing in 2025, NTT DATA plans to roll 
+out services that promote collaboration among companies for sharing CFP information and information concerning human rights 
+and environmental due diligence related to battery manufacturing by the end of fiscal 2024. 
+April 2023 witnessed the establishment of the “Ouranos Ecosystem,” an initiative led by METI. Its primary objective is to 
+facilitate cross-border and cross-industry data exchange and system integration. NTT DATA has been actively engaged in 
+activities associated with the Ouranos Ecosystem and has been selected for various public projects, advancing the cause of 
+secure data collaboration among companies. Our collaboration extends within the Group, capitalizing on our collective expertise. 
+Notably, NTT DATA plays a pivotal role in providing data exchange capabilities within the cross-industry ecosystem for electric 
+vehicle batteries, ensuring data sovereignty and secure data circulation using connector technology. This ensures seamless 
+data flow between user company systems, applications, and the ecosystem. The Battery Traceability Platform developed in this 
+initiative will serve as a compelling use case within the Ouranos Ecosystem. 
+In this ambitious undertaking, we cooperate with Denso Corporation (“Denso”), known for its in-house developed QR code 
+technology*3 and expertise in blockchain technology applied in food distribution and logistics industries. Denso is tasked with 
+clarifying industry challenges, considering business requirements, and exploring the future potential of traceability technology 
+across a wide spectrum of industries. 
+We plan to enable battery-level information management on the platform well before the onset of regulations aimed at 
+promoting recycling in 2027. These regulations, including the Battery Passport and mandatory use of recycled materials under 
+the European New Batteries Regulation (effective in August 2023), will require collaborative data exchange among stakeholders 
+across the value chain. These stakeholders include purchasers, dismantlers, reuse companies, recyclers, and more. Our 
+ultimate objective is to catalyze a circular economy for electric vehicle batteries through cross-industry data collaboration.

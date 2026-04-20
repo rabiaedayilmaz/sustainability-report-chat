@@ -1,0 +1,156 @@
+NTT DATA Sustainability Report 2018
+Society and regional communities
+Innovate advanced IT technologies
+ 
+The Advance of AI-Enabled Innovation
+AI is attracting attention as a technology with the potential to create new value and drive innovation in business. We can discover new rules and knowledge by focusing AI learning on data 
+volumes of an order of magnitude that would be impossible for humans to handle. This capability promises to benefit a wide range of areas. For example, those engaged in sales or product 
+design can deepen their understanding of customers’ latent needs. As for the manufacturing field, the use of AI learning can improve yields. Further, having AI learn from past data can increase 
+prediction accuracy. As a result, companies will be able to anticipate minute changes in customer demand and behavior or detect equipment failure precursors. Other growing applications for 
+AI are automation and the establishment of autonomous capabilities.
+CASE 4
+ The Evolution of AI Technology
+ The Types of AI
+ The Advance of AI-Enabled Innovation
+AI has evolved through three generations. The first generation 
+supports intellectual tasks through operations in accordance 
+with empirical rules set by experts, while the second generation uses statistical and search models to discover optimal 
+solutions. Today, the third generation is making increased 
+use of neural network models that dramatically improve 
+recognition performance.
+Going forward, engagement with and the utilization of AI in 
+businesses will focus on designing solutions to various work 
+tasks by combining first, second, and third generation AI methods as appropriate while seamlessly merging them with mobile 
+and wearable systems, IoT systems, and analytics systems.
+As well as AI for businesses, NTT DATA aims to provide AI 
+that helps address societal issues. We have a strong track 
+record in the field of optimally combining first-generation 
+rule-based AI, second-generation statistical and search 
+models, and third-generation neural network models to realize 
+AI-enabled systems and solutions that cover knowledge 
+discovery and prediction through to the automation of intelligent processing (implementation) and the establishment of 
+autonomous intelligent processing.
+Expert system
+Voice assistant
+Statistical machine translation
+Statistical / search 
+models
+Neural network 
+models
+Rule based
+1st generation
+2nd generation
+3rd generation
+AI Japanese chess
+Self-driving
+End
+If
+If
+Then
+Else
+Then
+Else
+End
+End
+Sophistication
+
+Age
+Types of Technology
+Capabilities
+1st generation
+Rule 
+based
+AI that can use 
+knowledge for 
+deduction and 
+searching
+Output based on rules input 
+as knowledge 
+(humans set rules)
+2nd generation
+Statistical / 
+search 
+models
+AI that 
+incorporates 
+machine learning
+Provision of sample data or feature 
+quantity by humans, learning of 
+rules or knowledge, and automated decisions on newly input 
+data and automated output
+3rd generation
+Neural 
+network 
+models
+AI that 
+incorporates 
+deep learning
+Without human intervention in rule 
+setting, autonomous learning of 
+features and rules as well as 
+automated decisions and output
+AI in a broad sense
+Rule based
+Automation of 
+intelligent 
+processing
+• Helping watch over the elderly through robots 
+and sensors
+• Robotic Context Processor
+• Code Finder
+Statistical /
+search models 
+(machine 
+learning)
+Knowledge 
+discovery and 
+prediction
+• Use of simulations to forecast and help 
+alleviate traffic congestion
+• Smart ICU
+• Lean Bot, Security Bot
+Automation of 
+intelligent 
+processing
+• Helping watch over the elderly through robots 
+and sensors
+• Robotic Context Processor
+• Code Finder
+• Knowledge discovery and prediction
+Neural network models 
+(deep learning)
+Automation of 
+intelligent 
+processing
+• Lean Bot, Security Bot
+Control
+• Helping watch over the elderly through robots 
+and sensors
+Automation of 
+intelligent 
+processing
+• AI-enabled vibration control technology
+• Robotic Context Processor
+• Automated news article drafting
+The current high-paced evolution of AI technology poses the question of how best to use AI in tackling the issues of businesses and society.
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group

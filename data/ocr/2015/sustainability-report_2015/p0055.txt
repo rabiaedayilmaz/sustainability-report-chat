@@ -1,0 +1,50 @@
+*1 Calculated on the basis of 280,500,000 outstanding shares as of March 2015.
+*2 CDP (formerly the Carbon Disclosure Project) was launched in 2003 by a U.K.-based NGO to evaluate the climate change policies of businesses and enterprises.
+Risks driven by changes in other climate-related developments include increased investor requests for corporate information 
+disclosure related to climate change, declines in share price associated with lower evaluation by investors, and deterioration in 
+market-imposed financing conditions.
+As of March 31, 2015, at least 18.75% of NTT Data stock was held by overseas corporations, and this figure is likely to rise in the 
+future. Lower evaluation by overseas investors actively engaged in ESG investment carries the risk of a decline in share price that 
+would decrease corporate value. If the price of shares held by overseas investors were to fall by 0.1%, the impact on the Company’s 
+market capitalization would amount to approximately ¥290 million*1.
+NTT Data recognizes the importance of information that investors focus on in their requests for information disclosure related 
+to climate change, especially from CDP*2, and proactively discloses information to investors. In fiscal 2015 we also disclosed 
+information on matters including climate change as part of a Ministry of Environment project to develop infrastructure for 
+environmental information disclosure systems, and we are actively participating in a project to construct information platforms 
+enabling institutional investors in Japan to utilize ESG data.
+● Other Risks
+The introduction of CO2 emission caps will prompt an increase in demand for more efficient IT systems, which account for a certain 
+proportion of corporate energy consumption. Examples include demand for virtualization, consolidation into joint data centers, and 
+outsourcing to data centers with high energy efficiency.
+The NTT DATA Group offers a Green Data Center service that reduces environmental load by integrating IT and facilities 
+technologies, and is a leader in introducing green data center technologies that can achieve large-scale reductions in energy 
+consumption. Starting with the introduction of green data center technologies at the NTT DATA Mitaka Building in 2009, we are 
+steadily introducing these practices into our own data centers.
+NTT Data’s sales of data center and related services amounted to ¥29.6 billion in the fiscal year ending March 31, 2015, and we 
+believe we can further expand sales to ¥33.0 billion in 2016, buoyed by demand for outsourcing to energy-efficient data centers.
+Through comprehensive installation of green data center technologies, including HVDC (high voltage direct current) power supply 
+systems, virtualization technologies, and air current control systems for cooling, we succeeded in reducing energy consumption at 
+the NTT DATA Mitaka Building by approximately 30% compared to our conventional data centers. As part of our efforts to create 
+new HVDC power supply technologies, we collaborated with our subsidiary NTT Data Intellilink Corporation and Japan Radio Co., 
+Ltd. to develop a system that unifies data center electrical equipment with power supply units for individual IT devices and introduced 
+it into the data centers of other companies.
+The commercialization of this unified HVDC power supply system was recognized with a Minister of Economy, Trade and Industry 
+Award in the Green IT Awards 2012 (please see “Products and Service” under “Implementation of Climate Change Strategy”).
+To further expand the opportunities available to us, we are serving as an industry leader in large-scale trials and commercialization 
+of technologies that form key elements of Green Data Center Services, including HVDC power supply systems, virtualization 
+technologies, and air current control systems for cooling.
+We have been recognized by the Green IT Promotion Council for the energy-saving performance of our systems and plan to set 
+industry standards by gaining recognition from these industry organizations. In fiscal 2015, we participated in trials to link a solar 
+● Opportunities Driven by Regulatory Changes
+Climate Change Opportunities
+Climate change is not only associated with risks. It can generate business opportunities as well. We seek to contribute to further 
+ameliorating its impact and creating a society that can flexibly respond to climate change by seizing these business opportunities.
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

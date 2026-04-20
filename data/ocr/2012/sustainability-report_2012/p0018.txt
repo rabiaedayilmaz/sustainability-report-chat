@@ -1,0 +1,132 @@
+Initiatives
+Planned Initiatives
+Initiatives Undertaken during Fiscal 2012
+Future Plans
+Posted on
+Major Initiatives Undertaken during Fiscal 2012 and Future Plans
+Quality Improvements
+Promote process improvements 
+incorporating CMMI
+Promote system development 
+and management methods 
+within Group companies
+Quality of Security
+Disaster 
+Countermeasures
+System Failure 
+Countermeasures
+Universal Design 
+(UD) Promotion
+Initiatives for 
+Improving CS
+Promote the development of 
+technologies to raise the 
+quality of security
+Investigate and improve 
+disaster business continuity 
+plans (BCP) taking into 
+account the risks that came 
+to light in the Great East 
+Japan Earthquake
+Continue initiatives for 
+“prevention” and “response”
+●Revised the “TERASOLUNA” development procedures and held 
+briefings and on-site training sessions at Group companies
+●Achieved CMMI Level 5 by two organizations and one overseas Group 
+company and CMMI Level 3 by one organization
+●Incorporate CMMI in Group companies in the 
+Asia-Pacific region
+●Establish region-based and solution-based 
+standardized processes with the aim of promoting 
+collaboration between overseas Group companies
+●Launched services for strengthening resilience against targeted attacks 
+and enhance businesses’ resilience against cyber attacks
+●Re-examined contingency plans for social infrastructure-related 
+systems, and strengthened disaster preparedness of the Company’s 
+data center buildings
+●Ensured thorough project management, conducted cause analysis 
+and shared results in the event of system failures, and also 
+undertook regular internal audits (major system failures continue to 
+be extremely rare)
+●Reviewed content of disaster BCP and emergency response drills, 
+and ensured employees were familiar with plans and drills
+●Continue developing technology capable of 
+withstanding new cyber attack methods and 
+enhance services
+●Upgrade contingency plans for the systems and 
+services we provide customers
+●Hold practice drills based on BCP and continuously 
+upgrade plans
+●Further reduce system failures through careful and 
+continuous advancement of existing initiatives
+●Focused on software usability evaluation and incorporated color 
+universal design 
+●Upgraded the web accessibility check site to meet the latest 
+JIS standards
+●Three more employees became certified as Certified Human 
+Centered Design Professional, held in-house seminars on UD 
+●Continued carrying out CS survey based on questionnaires and 
+interviews, earned overall average evaluation of 7.3 points (same 
+as previous fiscal year)
+●Supplied the bridge monitoring system “BRIMOS”
+●Supported disaster recovery through the provision of IT
+●Undertook activities supporting the recovery of affected areas 
+(made donations, encouraged employees’ volunteer efforts, etc.)
+●Increase promotion of UD compliance in 
+information systems and services
+●Increase promotion of web accessibility validation 
+check services
+●Continue to cultivate skilled UD personnel, 
+promote the groupwide sharing of expertise and 
+raising of awareness
+●Implement improvement actions, such as sharing 
+know-how of excellent examples, incorporating 
+customer feedback
+●Make further efforts to step up development of systems 
+that will use IT to resolve social issues, including health 
+and welfare, disaster and crisis management
+●Promote groupwide activities
+●Promote employee volunteer participation
+Utilize IT to Resolve 
+Social Issues
+Promoting Social 
+Contribution Activities
+Implement improvement 
+actions aimed 
+at enhancing CS
+Developing Systems that are Safe and Secure 
+Improving Customer Satisfaction (CS)
+Contributing to Regional Communities and Society as a Whole
+P３９・Web
+Web
+P19
+P19
+P21・P22
+Web
+Web
+Web
+P20
+P20
+P３９・Web
+Web
+Developing People-Friendly Systems
+Improve ease of use of 
+information systems 
+Enhance employee 
+education and cultivate 
+skilled personnel
+Develop systems that resolve 
+social issues
+Promote employee 
+volunteer participation
+The NTT DATA Group contributes to the advancement of society as a whole 
+through the development and provision of highly reliable, easy-to-use systems. 
+At the same time, we contribute to the resolution of issues in regions and countries 
+where we have a presence.
+Paradigms for Society and 
+Regional Communities
+Material CSR 
+Challenge
+
+CSR Activities Report 2012
+18 NTT DATA CSR Report 2012

@@ -1,0 +1,99 @@
+Conventional
+system
+Corporations and 
+private businesses
+Request to tax accountant (two-way)
+Movement of people
+Mailing of documents 
+Held by tax accountant (two-way)
+Return of duplicate (two-way)
+Mailing of documents (at time of request)
+Mailing of documents
+Ordering of necessary documents by post
+Mailing of documents
+ (at time of duplicate return)
+Certified tax accountants
+Preparation, filing
+After the 
+introduction
+of e-Tax
+Corporations and private businesses, 
+certified tax accountants, etc.
+Electronic data
+Electronic data
+Receiving center
+Review of data format
+Review of data basic content
+Tax office 
+Review, referral
+Tax office 
+Review, referral
+Preparation, filing
+It is important to ascertain the eff ect of environmental impact 
+reduction in order to promote cuts through the spread of IT. 
+The NTT DATA Group is promoting the visualization of 
+environmental impact assessments of systems and solutions 
+to bolster and expand environmental eff ects.
+For example, NTT DATA has been contracted by the 
+National Tax Agency to develop and run the Online National 
+Tax Return Filing and Tax Payment System (e-Tax) that also 
+incorporates an environmental impact assessment. The e-Tax 
+system, which went online in 2004, enables declaration and 
+payment of taxes from the home, offi ce or any other location 
+with Internet access. During fi scal 2010, 7.84 million personal 
+income tax returns and 1.27 million corporate tax returns 
+were fi led via e-Tax. Compared with conventional methods, 
+e-Tax makes a substantial contribution to lowering the 
+environmental impact by reducing energy from the 
+movement of people, paper usage and postal volumes, in 
+addition to off ering the obvious benefi ts in terms of 
+convenience of use.
+During fi scal 2009, CO2 emissions arising from e-Tax 
+Cutting 29,000 tons of CO2 in emissions using e-Tax
+COLUMN
+NTT DATA Acquires Four NTT Group Solution Environmental Labels
+Since October 2009, the NTT Group has certifi ed environmentally friendly solutions and assigned Solution Environmental Labels to 
+ICT solutions with an environmental impact reduction eff ect above a specifi ed level. This certifi cation system accredits solutions in 
+accordance with ICT Environmental Eff ect Assessment Guidelines (the Japan Forum on Eco-Effi ciency). Solutions must have a CO2 
+reduction rate of more than 15%, which has been calculated and compared over the entire lifecycle. During fi scal 2010, NTT DATA 
+acquired four Solution Environmental Labels. We plan to increase our number of environmental labels. 
+The Solution Environmental 
+Label certifi cation mark
+4.0
+2.0
+
+Former methods of filing
+Movement of 
+people, etc.
+Paper usage
+ICT systems
+Postal services
+e-Tax
+Movement of people, etc.
+CO2 reduction:53.8%
+Flow of Tax Assessment and Filing
+*1 Independent NTT DATA calculation based on publicly announced values
+*2 From materials issued by the Global Warming Impact Principal Research 
+Coordinator of the Forestry and Forest Products Research Institute’s Bureau 
+of Climate Change 
+utilization amounted to 24,900 tons of CO2. This represents 
+an annual reduction eff ect*1 of approximately 29,000 tons of 
+CO2 compared to the previous 53,900 tons of CO2 per year. In 
+terms of the amount of CO2 absorbed by trees*2, this saving 
+is equivalent to approximately 8,500 ha of natural broadleaf 
+forest over one year.
+In light of the environmental impact reduction achieved 
+through e-Tax, we will work together with the National Tax 
+Agency to boost usage and to improve the system. 
+Environmental impact reduction eff ect due to the 
+introduction of e-Tax 
+(10,000 tons of CO2/year)
+Related website
+Solution Environmental Labels http://www.ntt.co.jp/kankyo/label/index.html (Japanese only)
+Focus
+Through the Provision of IT Systems
+
+Special Feature
+Employing Environmentally Oriented Management
+
+NTT DATA CSR Report 2010

@@ -1,0 +1,100 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Sustainable, Traceable Crop Protection
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+SISTEMA INTEGRA
+Circular 
+Economy
+• While crop protection is key for large-scale agriculture that provides stable food supplies, conventional packaging generates large quantities of plastic waste. With potential health and
+environmental risks if handled inappropriately, ensuring secure, responsible use of these substances is another central issue.
+The crop protection market in Argentina handles over
+360,000 L of products annually. These substances are
+commonly
+marketed
+in 20-liter drums
+and
+generate
+15,000 tons of plastic waste per year in the country.
+Conventional distribution systems also contain inherent
+inefficiencies that risk further waste when products reach
+their expiration date. In the implementation of a new
+system to address these issues, another key challenge
+was posed by the requirement for secure traceability
+certified by government agencies responsible for health
+and food quality.
+Business need
+Solution
+NTT DATA built on its Zoomlo Tracker platform to
+develop SISTEMA INTEGRA as a solution that enables
+real-time registration and tracking of shipments, supporting
+deliveries in bulk tanker trucks that do not require plastic
+packaging.
+This
+eliminates
+plastic
+waste
+from
+used
+containers and enhances worker safety by removing direct
+contact with products.
+The system is linked to BFA, a nationwide blockchain
+platform
+in
+Argentina,
+to
+ensure
+compliance
+with
+information security and inviolability requirements. Secure
+end-to-end
+traceability
+improves
+efficiency,
+limits
+adulteration,
+supports
+expiration
+management
+and
+contributes
+to
+the
+responsible
+use
+of
+chemicals
+by
+monitoring
+each
+stage
+of
+the
+custody
+chain.
+With
+architecture
+based
+on
+Microsoft
+Azure
+technologies,
+SISTEMA INTEGRA also has the potential to be easily
+scaled
+to
+different
+product
+categories
+and
+clients
+worldwide.
+Impact
+Plastic use reduction per tanker truck delivered
+In addition to reducing use of plastic by enabling a bulk sales model, the system has enabled efficiencies that lower logistics and
+operating costs and also reduce the carbon footprint around the distribution and use of crop protection products.
+660 kg

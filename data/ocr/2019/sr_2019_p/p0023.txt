@@ -1,0 +1,94 @@
+Contributions 
+to SDGs
+improved scalable computation capability, its multi-view image 
+processing technology capable of simultaneously processing 
+over 100 images of an area for improved accuracy, with AI-based 
+image analysis. This technology has enabled us to provide our 
+customers with high-resolution 3D maps in a speedy manner.
+If we were to express the concept of NTT DATA’s AW3D 
+Global High-Resolution 3D Map in one sentence, it would have to 
+be this: Digitizing the whole earth for use in various simulations. 
+AW3D is a 3D map service provided jointly by the Remote 
+Sensing Technology Center of Japan and NTT DATA by 
+harnessing satellite imagery processing capabilities accumulated 
+over many years. It uses satellite images from the Advanced 
+Land Observing Satellite “DAICHI” (ALOS) belonging to the 
+Japan Aerospace Exploration Agency (JAXA) as well as from the 
+world’s most advanced satellite, operated by American space 
+technology company Maxar Technologies. Using the data sent 
+from ALOS, which has an original image resolution of 2.5 meters, 
+and that sent from Maxar’s satellite, which has a resolution of 
+AW3D is based on satellites capable of taking images with wide 
+area coverage, which allows its users to enjoy greater efficiency 
+and reduce the cost and lead time to about a quarter of that of 
+a conventional method that uses aerial photographs. This feature 
+makes it possible to create 3D maps that are highly practical and 
+easy to use for people all over the world.
+When extracting data of certain objects such as buildings from 
+satellite imagery, using artificial intelligence can speed up the 
+process for a much wider area. For autonomous driving, NTT 
+DATA has focused on developing ways to automatically extract 
+road markings in order to use the data to generate road network 
+information.
+Used for 3D maps in 120 countries across 
+the world
+Multi-view Stereo Processing technology, developed by NTT DATA, is 
+capable of minimizing errors by using an enormous number of images 
+for each single area taken from various angles by several satellites. 
+This feature enables the creation of 3D maps with errors as small 
+as 0.3 meters at most.
+Multi-view image processing
+AI-based image analysis
+
+Helping Address Issues Facing the Global Environment and
+Humanity by Utilizing Our “AW3D” Global High-Resolution 3D Map 
+with the World’s Highest Accuracy
+0.3 meters, NTT DATA processes the data to create 3D maps 
+with a resolution of 5 meters and 0.5 meters, respectively. 
+By combining a series of images sent from the world’s most 
+advanced earth observation satellites and the world’s leading 
+imagery processing technology, NTT DATA provides 3D data 
+with accuracy equivalent to 1:2500 scale maps as well as image 
+and extracted data. In July 2019, we started offering 2.5-meter 
+mesh data sets of elevation data of global land areas and 
+have completed the whole globe processing in October 2019. 
+Moreover, we have already produced up to 0.5-meter mesh 
+high-resolution data covering Japan and are providing it for any 
+requested area. So far, AW3D has been used to create maps in 
+120 countries across the world for some 1,000 projects in the 
+five short years since inauguration in 2014 inauguration, a fact 
+that testifies to the effectiveness and reliability of AW3D.
+It all started with the staggering amount of digital images
+—3 million in all—taken by ALOS during its operation in the 
+five years after it was launched in 2006. Because turning such 
+an enormous amount of images into data would take a long 
+time, ways to accelerate and automate the process had to 
+be developed. NTT DATA embarked on this challenge and 
+successfully developed innovative technology by combining 
+3D map and orthorectified image of the Yoyogi area
+© NTT DATA, Included ©Maxar Technologies,Inc.
+3D map of high-rise buildings in Tokyo’s Minato Ward
+●Developing social infrastructure that is convenient, safe and secure
+● Helping build sustainable cities and communities
+●Developing infrastructure conducive to disaster management and 
+natural disaster response
+●Enabling stable energy procurement and promoting more efficient 
+use of energy
+●Realizing a society of health and longevity
+CASE
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+Efforts to Make Social 
+Contributions through 
+Businesses
+NTT DATA Sustainability Report 2019

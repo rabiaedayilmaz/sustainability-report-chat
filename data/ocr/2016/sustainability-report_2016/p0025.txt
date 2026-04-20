@@ -1,0 +1,73 @@
+■ NTT DATA’s Actual Position for Customers
+56%
+Expected
+Position
+49%
+51%
+Business Partner
+22%
+Systems Integrator
+26%
+IT Partner
+34%
+ Expectations for taking a higher position
+ Expectations for maintaining current position
+* Figures are based on a compilation of responses for “Actual” and 
+“Expectations.”
+(Valid responses: 296*)
+
+(%)
+IT Partner 
+An IT partner that brings new issues to the attention of 
+customers, working in unison to put forward systems 
+solutions
+Business Partner 
+A business partner that works hand in hand with customers 
+to help customers develop new businesses and services 
+from their conception to market release
+Systems Integrator 
+A partner that is capable of providing timely advice regarding the 
+necessary systems and services based on solutions that are required 
+to address new issues that come to the attention of customers
+Systems Vendor
+A partner that takes steps to approach customers in 
+conjunction with other vendors when the necessary 
+systems and services have been clarified
+Systems Vendor　17%
+▶ Agile Professional Center
+▶ Quality Management Portal Site
+The Agile Professional Center was established to create new businesses in collaboration with clients in response to the 
+expanding business need for generating innovation. We are actively developing human resources in the area of agile 
+development and building an on-demand development structure by setting up agile development locations around the world.
+In fiscal 2011, NTT DATA launched the Quality Management Portal Site. Our objective was to enable the sharing of all kinds of 
+information related to quality among the different development locations, including those of Group companies.
+In fiscal 2016, in addition to enhancing content, we sought to increase the usefulness of the information portal by 
+restructuring the site to comply with the Software Quality Body of Knowledge Guide, which focuses on quality management, 
+and by adding items to the menu so that content could be viewed by stage of application, such as when a project is 
+launched or in progress. We will continue our efforts for making better use of quality assurance expertise to achieve further 
+improvements and reduce the environmental impact of rework.
+Initiatives for Improving Client Satisfaction
+Initiatives that involve listening to what clients have to say and targeting improvements in their levels of satisfaction are an 
+important issue when considering contributions that can be made to society through business operations.
+In line with its client-first approach, the NTT DATA Group strives to improve client satisfaction as a means of contributing to 
+their success.
+〈 Promoting Improvement through Interviews and Questionnaires 〉
+ Improving Client Satisfaction
+In accordance with its belief that a client-oriented approach lies at the root of sustainable corporate growth, NTT DATA 
+conducts oral and written surveys of its regular clients every year. The aim of this self-monitoring exercise is to enable us to 
+deliver improved services from a client standpoint.
+In fiscal 2016, we listened to the opinions and requests of 52 organizations in interviews and obtained feedback in 
+questionnaires received from 301 people in 155 client organizations. These client satisfaction (CS) surveys revealed that 56% 
+of clients viewed “NTT DATA as a partner that puts thought into both their business and into IT.” Meanwhile, 51%, or roughly 
+half of the clients, indicated that they expected NTT DATA to take a “higher position” in their business.
+In the years to come, we plan to continue CS activities across the Group as a basic practice.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

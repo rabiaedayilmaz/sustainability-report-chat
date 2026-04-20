@@ -1,0 +1,69 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+Italy
+Energy optimization powered by AI and digital twin technology
+•
+Oil and gas operations comprise about 15% of global energy-related emissions, equivalent to 5.1 billion tons of greenhouse gas emissions, according to the International Energy Agency. Within this sector, refineries
+account for a significant proportion of emissions, meaning environmental improvement to refinery processes can have a major impact on the industry’s carbon footprint.
+•
+While carbon capture, utilization and storage (CCUS) technologies are one means to reduce net carbon emissions at refineries, reducing energy use during operations is another key factor that can limit environmental
+impact.
+Refineries’ low-pressure thermal systems integrate vacuum,
+visbreaker, and thermal cracking units to convert heavy crude
+fractions into lighter hydrocarbons and produce bitumen and
+heavy fuel oil. To operate efficiently, these systems rely the
+recirculation of heavy visbreaking gas oil and thermal TAR.
+However, unnecessary recirculation increases energy use and
+equipment fouling.
+In addition, because the crude oil composition significantly
+impacts processing complexity, adaptive control is required to
+optimize operation to balance energy efficiency with product
+quality. Technological solutions to enhance such optimization
+can prevent unnecessary heating of previously cooled materials,
+improving
+energy
+efficiency
+and
+ultimately
+cutting
+CO₂
+emissions.
+NTT DATA carried out a proof of concept (PoC) demonstrating
+Digital Twin and Analytics for Refinery Technology (DART), a modular
+digital twin solution integrating advanced AI-driven analytics for
+refinery optimization. DART leverages real-time operational data to
+perform predictive and prescriptive analytics. Key components include
+a data acquisition module, a data elaboration module, a backend
+orchestrator, and an interactive dashboard that visualizes real-time
+data, predictions, KPIs, and actionable recommendations.
+The project originated through a collaboration facilitated by NTT
+Innovation Laboratory Israel (NTT IL), which identified and introduced
+Qsee and its technology to NTT Data as part of an open innovation
+challenge.
+Through this PoC, NTT DATA aimed to demonstrate AI models'
+ability to accurately model refinery process KPIs to optimize bitumen
+production processes, with significant potential to reduce emissions
+and optimize end product quality. The implementation of this type of
+technology, which combines ML/AI mathematical models with digital
+twins, and its extension to other refinery processes could lead to
+notable
+improvements
+in
+production
+efficiency
+and
+meaningful
+environmental benefits.
+Business need
+Solution
+Conceptual image showing DART analysis
+NTT DATA ITALIA 
+Sector E&U
+Use of Digital Twins to Enhance Oil Refinery Efficiency
+Impact
+Reduction in oil refinery operating costs through these activities:
+Approx. EUR 2.5 million / year

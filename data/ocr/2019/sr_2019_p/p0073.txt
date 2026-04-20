@@ -1,0 +1,215 @@
+INPUT
+OUTPUT
+Service operation 
+at client sites
+Installation at
+client sites
+Sales
+Manufacturing /
+Testing
+Planning / Design
+Data center
+Energy
+Greenhouse gases (CO2)
+Outside the NTT DATA Group
+Inside the NTT DATA Group
+Scope of Environmental Impact Measurement
+Acquired third-party certification
+▶Material Flow Diagram
+Fiscal 2015: NTT DATA (all organizations), 75 Group companies (Japan only)
+Fiscal 2016: NTT DATA (all organizations), 69 Group companies (Japan only)
+Fiscal 2017: NTT DATA (all organizations), 68 Group companies (Japan only)
+Fiscal 2018: NTT DATA (all organizations), 68 Group companies (Japan only)
+*1: “Clean water consumption” until fiscal 2017
+*2: Indicates CO₂ equivalent
+*3: Thermal recycling has been taken into consideration for the calculation of data since fiscal 2015.
+*4: Figures for fiscal 2015 increased due to the demolition of a large-scale building.
+*5: Figures for fiscal 2017,2018 increased due to construction of new buildings, etc.
+Energy
+Water resources
+Paper resource
+Specified 
+chlorofluorocarbons 
+(CFCs) used for airconditioning systems
+Construction 
+materials
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Utility power 
+10,000 
+kWh
+47,661
+49,437
+48,063
+47,678
+Kerosene 
+kl
+
+Light gas oil 
+(excluding 
+Company vehicles)
+kl
+
+A–C heavy oil
+kl
+
+City gas
+10,000
+㎥
+
+Gasoline 
+(Company vehicles) 
+kl
+
+Light gas oil 
+(Company vehicles) 
+kl
+
+Steam, cold energy
+GJ
+41,372
+43,388
+48,223
+48,811
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Clean water 
+consumption*¹
+10,000
+㎥
+
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Copy paper
+t
+
+Fliers distributed to 
+clients, and other 
+materials
+t
+
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Number of airconditioning 
+system units using 
+specified CFCs
+Units
+
+Construction materials, cables, etc.
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Electricity use
+10,000 
+t-CO₂e*²
+23.4
+
+22.7
+22.4 
+Gas / Fuel use
+10,000 
+t-CO₂e
+0.3
+0.4
+0.5
+0.4 
+Heat use
+10,000 
+t-CO₂e
+0.2
+0.2
+0.3
+0.3 
+Company 
+vehicle use
+10,000 
+t-CO₂e
+0.1
+0.2
+0.2
+0.2 
+Alternative 
+CFCs 
+10,000 
+t-CO₂e
+ー
+0.3
+0.0 
+0.1 
+Total
+10,000 
+t-CO₂e
+24.1
+25.1
+23.6
+23.2
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Drainage 
+amount
+10,000 ㎥
+
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Amount 
+generated 
+t
+4,763
+5,865
+4,573
+5,305 
+Incineration / 
+Landfill 
+t
+
+Amount 
+recycled
+t
+4,685
+5,800
+4,505
+5,262 
+Amount of final 
+disposal*³
+t
+
+Greenhouse
+gases
+Water resources
+Office waste
+Unit
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Amount 
+generated 
+t
+36,512
+
+1,118
+1,795 
+Amount recycled 
+t
+36,473
+
+1,083
+1,788 
+Amount of final 
+disposal
+t
+
+Construction 
+waste*⁴,*⁵
+* Fiscal 2016 figure for copy paper was corrected by making up data deficiencies.
+Acquired third-party certification
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

@@ -1,0 +1,114 @@
+In recent years, systems development has increased in scale 
+and become more complex, while faced with demands for 
+shorter lead times. Against this background, the NTT DATA 
+Group has worked toward the partial consignment of 
+systems development oﬀ shore to such locations as China, 
+India and Vietnam. At the end of ﬁ scal 2010, we had 
+approximately 2,000 system engineers deployed at Group 
+companies and business partners overseas, led by China—a 
+number we plan to push to 5,000 by ﬁ scal 2013. 
+As oﬀ shore development expands, it is vital to focus on 
+the systematic training of engineers in order to continue to 
+maintain and improve system quality. NTT DATA has formed 
+a human resources development program that facilitates the 
+systematic study of software development and management 
+technologies for engineers. In the creation of this program, 
+we inaugurated working groups to supplement experts at 
+oﬀ shore development sites and ensure that grass-roots 
+opinions at development sites are taken on board. 
+Based on this human resources development program, 
+we have carried out training for liaison systems development 
+engineers (liaison SEs) since ﬁ scal 2010. Liaison SEs bridge 
+the gap between NTT DATA and oﬀ shore development sites 
+that arises from diﬀ erences in language, culture and 
+customs, thus facilitating smooth systems development. 
+During ﬁ scal 2010, we conducted such training at three 
+locations, Tokyo, Beijing and Shanghai, for a total of 83 
+liaison SEs; we shall continue to host such events in ﬁ scal 
+2011, boosting participation to an estimated 180. 
+We aim to develop our SE training program at oﬀ shore 
+development sites, making the program multilingual, and 
+plan to extend our training of outsourcing sites beyond 
+China to encompass India and other regions in Asia and 
+Europe from December 2010. The NTT DATA Group is also 
+developing a training program for its project managers, with 
+a view to enhancing mutual development with oﬀ shore 
+development sites. 
+Bolstering human resources cultivation at oﬀ shore 
+development sites for the construction of a high-quality 
+systems development framework 
+Liaison SE training at a development company in China
+Japan
+Offshore
+Clarification of
+personnel
+Planned implementation
+of training
+Project managers/ 
+project leaders
+with offshore 
+experience
+Feedback
+Staff with 
+experience in NTT 
+DATA projects
+NTT DATA, Offshore
+Development Promotion Group
+Education
+specialists
+Clarification of 
+offshore
+development
+personnel after 
+discussions and 
+agreement
+Formulation of
+training plans
+Development of
+educational courses
+Human Resources Cultivation Program for Off shore 
+Development Engineers
+Messages from Program Participants
+Ensuring smooth projects with consideration to 
+the diﬀ erences in thinking between Japan and 
+China 
+Through our training, I learned that there are 
+considerations to be made in meetings arising 
+from the fact that there are diﬀ erences in the 
+ways of thinking between Japan and China. 
+Furthermore, it was helpful to have various things 
+pointed out to me in group discussions that I did 
+not notice myself.
+The issues and discoveries that cropped up 
+in the simulations occur on a daily basis at the site 
+of actual systems development. In the future, I 
+would like to use the knowledge I gained in 
+training to facilitate smooth project progression 
+by bridging the gap between Japan and China.
+Understanding the importance of liaison SEs in 
+high-quality systems development
+Through this training, I gained understanding 
+of the role and required abilities of liaison SEs 
+and learned to appreciate their importance in 
+building high-quality systems. 
+The training utilized actual examples for 
+us to simulate identifying problems and 
+coming up with solutions, allowing practical, 
+not just theoretical, study. 
+In the future, I intend to apply what I 
+have learned through training directly to 
+work. 
+Hu Huamei
+System Development Sector
+1st Development 
+Department
+Beijing NTT DATA Systems 
+Integration Co., Ltd.
+Cong Linlin
+1st Development 
+Department
+Tianjin NTT DATA Co., Ltd.
+Focus
+Through Off shore Development
+
+NTT DATA CSR Report 2010 11

@@ -1,0 +1,115 @@
+Projects to Verify the Feasibility of Predicting the Onset of 
+Lifestyle-related Diseasesby Using AI-related Technologies
+“corevo
+®” is the name given to the portfolio of efforts by NTT that utilize 
+AI developed through a series of its R&D initiatives. The name “corevo” is 
+coined from the term “co-revolution.” The corevo
+® portfolio is comprised 
+of four kinds of AIs: (1) Agent-AI that uses cues in information contained 
+in human outputs to grasp people’s intentions and emotions; (2) HeartTouching-AI that deciphers the mental and bodily responses of humans to 
+understand their unconscious mind, cognition and instincts; (3) Ambient-AI 
+that deciphers humans, objects and environments and instantly predicts and 
+controls them; and (4) Network-AI that optimizes the entire social system 
+by connecting several AIs. By promoting the cross-sectional use of this 
+portfolio, we can help create new social services, businesses and values.
+Generic information
+Lifelog
+Past medical history
+Medical checkup data
+Medical questionnaire
+Health insurance claims data
+Epidemic 
+outbreak risk
+Hospitalization/
+operation
+Disease recurrence/
+concurrence
+Risk of sick leave
+Revise underwriting 
+scopes
+Develop health condition
+-related insurance products
+Health promotion 
+assistance
+Prediction model
+Analysis results
+Purposes of use
+NTT’s AI-related technology portfolio, “corevo Ⓡ”
+What makes the highly accurate prediction possible is a technique 
+called “Learning to Rank.” Instead of the traditional learning method 
+based on the classifications of “pre-onset” and “post-onset,” the 
+project has adopted the Learning to Rank technique to compare 
+disease onset probabilities and made it possible to use the data of 
+pre-onset persons whose available data cover only short time frames.
+A method enabling highly accurate analysis
+CASE
+Many initiatives have been implemented in Japan for disease 
+prevention and health promotion as part of efforts to extend the years 
+of healthy life of its citizens. Lifestyle-related diseases in particular have 
+become a major social issue that brings with it an increase in national 
+health spending and a decline in employee productivity for business 
+organizations. This situation makes it necessary for the country to 
+improve the lifestyle habits of its citizens and grasp their health 
+risks in order to prevent the onset of lifestyle-related diseases.
+As part of such efforts, NTT DATA and NTT are conducting 
+an assessment project that uses AI to predict the onset risk 
+of lifestyle-related diseases (i.e., diabetes, hypertension and 
+dyslipidemia) in order to allow insurance companies to utilize 
+the resultant data. This project aims to verify the effectiveness of 
+prediction technologies so that insurance companies can develop 
+new plans and products, assess insurance applicants and help 
+improve the health of their policy holders.
+Since its inauguration in 2018, this project has been evaluating 
+the feasibility of applying prediction technologies to the stages 
+Contributions 
+to SDGs
+● Realizing a society of health and longevity
+● Developing social infrastructure that is convenient, safe and secure
+of product development, underwriting assessment and policy 
+holders’ health promotion among many insurance companies. 
+Specifically, the project has focused on identifying issues for 
+purposes such as “finding items and standards that are necessary 
+to understand health risks” and “promoting policy holders’ health.”
+For instance, in analyzing medical checkup data, it used to be difficult 
+to conduct highly accurate data analysis when using data with 
+blanks and omissions taken from patients who only receive medical 
+checkups irregularly, data on a limited period of time from patients 
+who only have medical checkup data for that period, or the small 
+amounts of sample data available on the onset of rare diseases. To 
+address this situation, we developed as a part of corevo®, NTT’s AIrelated technology portfolio, a method for conducting highly accurate 
+analysis even with uneven and scant data, making it possible to 
+predict the future onset probability of lifestyle-related diseases based 
+on the data from medical checkups. This prediction technology has 
+been adopted for the medical checkup data analysis service offered 
+to selected customers using Health Data Bank, NTT DATA’s cloudbased health management solution, and has been achieving high 
+prediction accuracy. Especially for diabetes, one of the lifestyle-related 
+diseases, we have achieved the high prediction accuracy of 90%.
+The projects will also benefit insurance companies. It has been 
+the usual practice for insurers to develop products and assess 
+insurance applicants based on the calculation results of future 
+onset risk of diseases, but the adoption of NTT’s disease onset risk 
+prediction technology will change this practice altogether. Insurers 
+will no longer need to collect and analyze a vast amount of data 
+from medical checkups and health insurance claims or to take 
+measures to deal with sensitive personal information as stipulated 
+in the amended Act on the Protection of Personal Information.
+NTT DATA is planning to start providing its prediction technologies 
+as commercial services in 2020, with a view to continuing its efforts 
+including the development of a disease onset prediction model for 
+senior citizens and an individual contract-based data analysis service.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

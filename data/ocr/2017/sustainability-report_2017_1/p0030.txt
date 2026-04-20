@@ -1,0 +1,111 @@
+NTT DATA Quality Management System
+ Capability Maturity Model Integration
+Developing Safe and Secure Systems
+The bringing to fruition of systems and services that offer round-the-clock, year-round stability is a 
+key responsibility and forms the basis for providing services to clients. 
+ 
+In realizing a social infrastructure that people feel safe and secure to use, the entire NTT DATA 
+Group is engaged in, for example, the gaining of certification under quality management standards 
+and the standardization of development and management methods. The Group is working to provide 
+services that are geared to raising system reliability.
+ Initiatives to Improve Quality
+[ Building a Management System Based on ISO 9001 and Continuously Promoting Improvement Activities ]
+NTT DATA obtained ISO 9001 certification – the international standard for quality management – on 
+a Groupwide basis in 1998 and subsequently adopted a systematic approach for quality management system across the entire organization. Since fiscal 2007, NTT DATA has created unified Companywide rules governing system development and management methods and has clarified 
+procedures for applying the rules to bolster the system on a Groupwide basis. In March 2010, we 
+formulated an implementation method to boost quality and productivity, which we have also deployed 
+Companywide, under our unified rules. In addition, we quickly focused on making process improvements and enhancing the transparency of system development, and we incorporated Capability 
+Management Approach
+The NTT DATA Group recognizes the critical importance of providing its clients with safe and 
+secure services and provides highly reliable systems by constructing a systematic quality management system and establishing advanced methods for system development. To meet the 
+diverse needs of our clients, we conduct client satisfaction surveys and carry out activities 
+intended to reflect the opinions and requests we receive in improving our services so that they are 
+even better from the client standpoint.
+Maturity Model Integration (CMMI)* to formulate development and operational standards. In recent 
+years, we have particularly recognized the importance of raising the standard of quality control at 
+development sites, including those of Group companies. We are therefore taking steps to roll out 
+CMMI throughout the Group and to share quality–related information.
+ 
+As part of our global effort to enhance quality, including at Group Companies overseas, we have 
+deployed a quality assurance system in the Asia-Pacific region and have obtained ISO 9001 certification in Vietnam and Australia while providing support and information for process improvement 
+utilizing CMMI to offshore locations in China.
+* CMMI is an approach managed by the CMMI Institute that expresses the level of maturity of the organization undertaking system development on a five-point scale.
+Requirements
+Clients
+Client Satisfaction
+Clients
+Rules, Detailed Rules, and 
+Corporate Prescripts
+Sector Prescripts
+Project Prescripts
+Projects
+Improvements
+Improvements
+Improvements
+Level 1 : Initial 
+Level 2 : Managed 
+Level 3 : Defined 
+Level 4 : Quantitatively managed
+Level 5 : Optimizing
+NTT DATA
+Top Management
+Corporate Quality 
+Management 
+Representative
+Sector Quality 
+Management
+Project 
+Planning
+Ad hoc, chaotic 
+Success of a project depends overly on a highly 
+skilled specialist
+Project requirements are defined, and process 
+planning, performance, measurement, and 
+control are carried out
+Establishment and improvement as 
+an organized standard process
+The scope is extended to the development 
+process (requirement definitions, design, 
+testing, etc.)
+Statistical monitoring of performance 
+of the process that contributes to 
+achieving business objectives, 
+rendering results predictable
+Continuous improvements to 
+process based on quantitative 
+understanding
+Instruction
+Development
+Development
+Performance 
+Monitoring
+Report,
+Analysis, 
+and 
+Evaluation
+Development
+Products 
+(Systems, 
+Services)
+Review
+Sector 
+Prescripts
+Improvements 
+Instructions
+The NTT DATA Group provides safe and secure services to clients and strives to 
+enhance these services by continuously keeping pace with client needs.
+With Clients
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Environment
+Governance
+GRI Standards
+Social

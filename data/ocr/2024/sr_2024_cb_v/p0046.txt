@@ -1,0 +1,87 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+A Total QR Code Payment Solution Connecting People from Diverse Countries 
+with Local Communities
+Code Payment Gateway Service
+Businesses are seeking to capitalize on demand from
+the rising number of tourists travelling to Japan from
+overseas, particularly in the tourism, hotel and retail
+industries. Enabling international tourists to use the same
+payment methods that they regularly use in their own
+countries is one way to deliver stress-free consumer
+experiences.
+However,
+many
+merchants
+still
+have
+concerns about processing international payments and
+the risk of unauthorized use.
+Services that make cashless payment convenient and
+secure
+for
+international
+tourists
+and
+merchants
+can
+address these needs.
+Business need
+Solution
+• The number of inbound tourists visiting Japan from overseas is increasing year after year, accounting for total consumption of JPY 8.1 trillion in 2024. Creating environments that reduce
+friction to spending for these international tourists can contribute to the revitalization of local communities.
+• The rise in tourist numbers is also leading to overtourism, and creating solutions to ensure benefits for both tourists and residents remains a challenge to overcome.
+NTT DATA provides a Code Payment Gateway Service
+that supports 50 types of QR codes from 11 countries,
+particularly in the APAC region. Bringing together multiple
+QR code payment types, it is a one-stop solution covering
+processes from initial application to payment settlement.
+Merchants can start supporting QR code types that meet
+their
+needs
+through
+one
+process,
+without
+separate
+contracts and settlement mechanisms for dealing with
+individual companies.
+The system automatically identifies payment services
+using the QR code scanned during payment, providing a
+simple experience for users or staff that remains consistent
+regardless of the QR code payment type.
+NTT DATA continues to expand its connections with QR
+code payment providers in various countries and make
+improvements to its services with the aim of enhancing
+convenience and satisfaction for both international tourists
+and merchants while also contributing to the revitalization
+of Japan’s economy.
+Impact
+Contributed to an increase in 
+consumption of approx.
+Effect on increasing inbound consumption (compared to
+fiscal 2019)
+2.5 times
+*Based on extent of contribution to increase in consumption, with
+the increase estimated based on the value of NTT DATA’s overseas
+QR code payment transactions between fiscal 2019 and fiscal 2024
+*Overall consumption by visitors to Japan from overseas increased
+1.7 times from fiscal 2019 to fiscal 2023
+Code Payment Gateway
+NTT DATA (in Japanese only)
+Digital
+Accessibility
+Community
+Engagement
+※Support planned in future
+Support for 50 types of QR 
+codes from 11 countries
+※
+NTT DATA Japan Corporation
+Payments Services Sector
+Payment Integration Division
+PSP ＆Service Integration Section

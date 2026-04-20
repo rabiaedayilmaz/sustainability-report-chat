@@ -1,0 +1,91 @@
+Reasons for Conducting Scenario Analyses and Setting 
+Boundaries and Time Horizons
+Scenario identification
+We conduct scenario analyses with the aim of understanding the 
+impacts of climate change on our business and evaluating the resilience 
+of our strategies to climate-related risks and opportunities.
+ 
+We started scenario analyses in fiscal 2018 and have since expanded 
+the boundaries and time horizons in a step-wise manner. In fiscal 2022, 
+our analyses focused on the 1.5˚C scenario, in which a transition to a 
+low-carbon economy is made based on the Paris Agreement, and the 
+4˚C scenario, in which climate change measures are not implemented 
+beyond what is currently planned.
+ 
+We used IPCC reports and the IEAʼs World Energy Outlook (WEO) as 
+the main inputs for examining the scope of the projected future world 
+and analysis documents issued by the USEPA, EEA, and MOE* as reference. For scenarios, we adopted the SSP5-8.5 scenario (no climate 
+change action) cited in the IPCC’s Sixth Assessment Report, the SSP1-1.9 
+scenario (1.5˚C), the IEAʼs Sustainable Development Scenario, and the 
+IEAʼs Net-Zero Emissions by 2050 Scenario, then assessed the potential 
+impact on our business and value chain.
+* USEPA (United States Environmental Protection Agency) is a federal government administrative agency in 
+the United States with the mission to protect human health and the environment.
+EEA (European Environment Agency) is an agency of the European Union that delivers knowledge and data 
+to support Europe’s environment and climate goals.
+MOE (Ministry of the Environment of Japan)
+Boundary (target range)
+NTT DATA operates in Japan across three sectors: Public & Social Infrastructure, Financial, and Enterprise. Globally, we have established operations in numerous countries, and it is anticipated that all our clients and 
+suppliers in each sector will be affected by climate-related factors. For 
+this reason, we have defined a boundary of “all businesses and their 
+associated value chains” to identify risks and opportunities and assess 
+their financial impacts.
+Time horizon
+For time horizon, we selected the long-term period up to fiscal 2050 to 
+meet the expectations of clients, shareholders, society, and other stakeholders who demand a long-term vision for climate change in line with 
+the Paris Agreement, given the nature of NTT DATA as a provider of systems that supports the foundations of society. As an intermediate point, 
+we have set a medium-term horizon up to fiscal 2030, which coincides 
+with the SBT target setting.
+ Results of Scenario Analysis
+We used two main scenarios to provide a detailed assessment of climate- 
+related risks and opportunities. The first is the SSP1-1.9 scenario, which 
+keeps the temperature rise below 1.5˚C under sustainable development, 
+and the other is the SSP5-8.5 (maximum emissions) scenario that 
+assumes continued dependence on fossil fuels and no climate policy. 
+While setting targets based on the SSP1-1.9 scenario, we also identified 
+climate-related risks under the SSP5-8.5 scenario and are planning and 
+implementing countermeasures. We are including the IEA STEPS scenario 
+within SSP2-4.5 in our analysis, but we prioritize analyzing the SSP1-1.9 
+and SSP5-8.5 scenarios. This is because the latter scenarios are expected 
+to have a greater impact on our risks and opportunities, as they involve 
+implementing climate change policies under assumptions of temperature 
+rise at intermediate levels.
+SSP1-1.9 scenario analysis
+In the SSP1-1.9 scenario, we assessed that promoting renewable energy 
+deployment in our data centers and offices globally would reduce both 
+the financial risk of current and long-term carbon pricing and the risk 
+of reputational damage due to insufficient response to climate-related 
+investor requests in all segments of NTT DATA. The results of this assessment will be reflected in our overall climate strategy. Through energy 
+conservation and the realization of net zero through the introduction of 
+renewable energy, we plan to achieve net zero in service use at our data 
+centers by fiscal 2030 and at our offices and other facilities by fiscal 2035.
+ 
+Furthermore, based on the results of scenario analysis, in May 2023, 
+we accelerated NTT DATA’s long-term goal of achieving net-zero emissions, moving the target year from 2050 to 2040, a decade ahead. We 
+also deemed the creation of sustainability-related offerings (such as IT 
+services and systems) linked to social systems and regulations in the 
+SSP1-1.9 scenario to be important. To ensure access to advanced technologies, we will invest in joint R&D with external innovators, as well as 
+technical support, pre-sales activities, and training of engineers. In addition, we will invest in sustainability-related market research, new business model studies, and the development of IT technology–based 
+infrastructure so that we can create new businesses that apply advanced 
+technologies to social issues.
+ 
+We expect demand from clients for climate-related consulting services to increase alongside the growing need to develop climate 
+change strategies and reduce emissions in corporate management 
+and business. With this in mind, we are working to provide consulting 
+services by creating templates of our data collection process, calculation methodologies, and data utilization methods. We are also strengthening the development and acquisition of talent to support our climate 
+change–related consulting business.
+ 
+Based on the results of scenario analysis, we plan to increase investments in sustainability-related offerings from fiscal 2023 to fiscal 2025.
+Climate Change Scenario Analyses
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

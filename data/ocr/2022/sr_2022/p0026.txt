@@ -1,0 +1,67 @@
+Environment | Regenerating Ecosystems 
+ 
+ 
+Information Disclosure Based on the TCFD 
+ 
+ Information Disclosure Section According to the TCFD Recommendations 
+Disclosed information based on the TCFD recommendations is as follows: 
+Recommendations 
+Disclosure Section (Page) 
+[Governance] Disclose the organization’s governance around climate-related risks and opportunities. 
+a) Describe the board’s oversight of climate-related risks and opportunities. 
+Management System (p. 22) 
+b) Describe management’s role in assessing and managing climate-related risks and 
+opportunities. 
+Management System (p. 22) 
+[Strategy] Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and 
+financial planning where such information is material. 
+a) Describe the climate-related risks and opportunities the organization has identified over 
+the short, medium, and long term. 
+Risks and Opportunities (p. 28–34) 
+b) Describe the impact of climate-related risks and opportunities on the organization’s 
+businesses, strategy, and financial planning. 
+Impact on Business Strategy (p. 27) 
+c) Describe the resilience of the organization’s strategy, taking into consideration different 
+climate-related scenarios, including a 2˚C or lower scenario. 
+Climate Change Scenario Analysis 
+(p. 35–37) 
+[Risk Management] Disclose how the organization identifies, assesses, and manages climate-related risks. 
+a) Describe the organization’s processes for identifying and assessing 
+climate-related risks. 
+Risks and Opportunities (p. 28–34) 
+b) Describe the organization’s processes for managing climate-related risks. 
+Risks and Opportunities (p. 28–34) 
+c) Describe how processes for identifying, assessing, and managing climate-related risks are 
+integrated into the organization’s overall risk management. 
+Prioritization of Risks (p. 26–27) 
+[Metrics and Targets] Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where 
+such information is material. 
+a) Disclose the metrics used by the organization to assess climate-related risks and 
+opportunities in line with its strategy and risk management process. 
+Prioritization of Risks (p. 26–27) 
+b) Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas (GHG) emissions 
+and the related risks. 
+GHG Emissions in the Value Chain (p. 56) 
+c) Describe the targets used by the organization to manage climate-related risks and 
+opportunities and performance against targets. 
+Metrics and Targets (Management 
+Metrics and Targets for Climate-Related 
+Risks and Opportunities) (p. 38) 
+ 
+ Prioritization of Risks 
+The Internal Control Promotion Committee, chaired by the Representative Director and Senior Executive Vice President, who 
+also serves as CRO, meets twice a year to define key financial or strategic risks to the Group’s business operations. 
+In selecting material risks, we classified more than 50 nominated risks using a matrix consisting of two axes: magnitude of 
+impact (high, medium, low) and likelihood of occurrence (high, medium, low). Material risks are defined as those with a 
+magnitude of impact that is “high” and a likelihood of occurrence that is “medium” and above, and those with a magnitude of 
+impact that is “medium” and above and a likelihood of occurrence that is “high.” In fiscal 2021, we submitted this matrix to 
+the Board of Directors, which subsequently defined climate change as a material risk. 
+Using scenario analysis, we also make climate-related assessments of opportunities, as well as risks. Climate-related 
+risks and opportunities must be assessed from a longer-term perspective than other material risks. 
+In 
+addition 
+to 
+assessments by the Internal Control Promotion Committee, therefore, our Climate Action Committee and Eco Activity 
+Promotion Committee conduct assessments from medium- to long-term perspectives. 
+
+NTT DATA Sustainability Report 2022 Data Book

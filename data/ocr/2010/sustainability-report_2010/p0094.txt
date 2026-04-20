@@ -1,0 +1,54 @@
+NTT DATA CSR Report 2010 46/48 
+【Additional Topics】 
+ 
+ 
+Preventing information leakage and divulgence when outsourcing 
+NTT DATA subcontracts software development to partner companies. When outsourcing involves 
+confidential or personal information, we utilize a proprietary Security Check Sheet to confirm 
+subcontractor security structures and security levels. In addition, we indicate required information 
+security management levels and enter into contracts only after obtaining agreement with the terms of 
+our Special Agreement on Confidential Information and Personal Information. Also, we periodically 
+check the implementation status of security measures after contracts have been signed. If necessary, 
+we conduct on-site investigations to prevent information leakage and divulgence. 
+ 
+[CHART] Flow of Management Process from Partner Company Selection to Contract Conclusion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Extending educational and promotional activities to employees and partner 
+companies 
+NTT DATA pursues information security education through e-learning, classroom lectures and other 
+forms of training for employees, temporary workers and business partners to ensure safe ongoing 
+information security practices. 
+ 
+In fiscal 2010, to spread the NTT DATA Group Security Policy (GSP) among Group companies GSP 
+Assessments* were conducted as a type of internal training. These assessments, deployed in 
+Japanese, English and Chinese, were employed at approximately 30 Group companies. 
+ 
+In addition, GSP Internal Audit Training classes were held for Group information security audits. 
+These classes were attended by 108 people from 44 Group companies. 
+ 
+In addition, we created an information security training handbook for employees of partner 
+companies conducting NTT DATA Group business for the first time. 
+ 
+We will continue working to enhance information security throughout the Group through measures 
+targeting individual employees’ basic behaviors, ensuring that such measures are firmly in place. 
+ 
+*GSP Assessments: These assessments utilize e-learning to 
+deepen understanding of NTT DATA’s GSP. Each Group company 
+deploys the system as needed to promote information security 
+education among its employees. 
+ 
+Information Security Education and Awareness 
+[PHOTO] Group Security 
+Policy promotional poster

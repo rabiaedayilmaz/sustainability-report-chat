@@ -1,0 +1,33 @@
+Social 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+ NTT DATA’s Quality Management System (QMS) 
+ 
+ Enhancing and Standardizing Project Management 
+NTT DATA endeavors to enhance and standardize project management to improve the quality and efficiency of system 
+development. For example, we established the Agile Professional Center, which applies the agile development methodology to 
+collaborate with clients in creating new businesses and services. We also integrated our R&D organization for production 
+technologies, which includes project management, with our project support organization to establish the Project Management 
+Solution Center. 
+ 
+Agile Professional Center 
+The Agile Professional Center was established to create new businesses in collaboration with clients in response to the growing 
+business need for innovation. Around the world, we have established agile development bases through which we are reinforcing 
+three functions: the cultivation of agile and professional human resources, advanced R&D and an on-demand, agile development 
+system. 
+ 
+Project Management Solution Center 
+The Project Management Solution Center was established to conduct R&D on innovative project management methods, 
+reinforce them through verifiable methods familiar to actual worksites and provide them within the Group in a user-friendly 
+manner. The center also established the NTT DATA Global Standards, which has unified our standard operating procedures for 
+system development throughout the world, and is taking responsibility for developing next-generation management tools that 
+will raise the efficiency of tracking, quality assurance and other aspects of management. The center provides complete, onestop support for the adoption, introduction and full utilization of solutions. Through expanded utilization of R&D outcomes, the 
+center is improving our Groupwide capabilities and reducing the number of problematic projects. 
+ 
+Quality Management Portal Site 
+NTT DATA has operated its Quality Management Portal Site since fiscal 2010. Our objective is to enable the sharing of all kinds 
+of quality-related information among our different development locations, including those of Group companies. 
+This site offers responses to quality-related industry standards, consolidates internal rules and expertise, and makes this 
+information accessible to all employees. We will continue deploying our quality assurance expertise to achieve more effective 
+quality control operations.

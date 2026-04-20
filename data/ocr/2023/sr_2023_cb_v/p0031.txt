@@ -1,0 +1,78 @@
+Society | Inclusive Society
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Percentage of individuals who 
+strengthened mental and physical 
+aspects by using VR
+VR-Driven Training System Supporting 
+High School Baseball Practice on Remote Islands
+Click here for 
+reference article
+NTT DATA (Japan)
+· Disparities in access to and quality of education are arising due to differences in residential areas and environments.
+· Opportunities for sports activities are decreasing due to the declining birth rates.
+Disparities in education opportunities and quality based
+on residential areas and environments of high school
+baseball players pose various challenges.
+NTT DATA has developed a training system called VBALLER, utilizing virtual reality (VR) to achieve 3D
+sensory training. It provides new insights by visualizing
+the performance skills of hitters. Players can practice
+tough tasks such as hitting 150 km/h fastballs, which are
+difficult to replicate in real life. They can also improve
+their ability to distinguish strikes from balls, adapt to
+both right-handed and left-handed pitchers, and handle
+various types of breaking balls.
+A survey conducted during remote coaching sessions
+using V-BALLER at Shimane Prefectural Oki High
+School revealed that not only technical and physical
+aspects but also mental preparation and confidence
+could be improved. The system received high praise
+from
+players,
+managers,
+coaches,
+and
+other
+stakeholders.
+We received feedback from island residents who
+desire enriching experiences for their children where
+they were born and raised, without the need to leave for
+baseball, and to be able to pursue their dreams while
+remaining on the island. Inspired by these narratives, we
+believe that V-BALLER can play a meaningful role in
+supporting children from remote islands, such as those
+in Oki High School.
+Moving forward, we plan to expand our services both
+domestically
+and
+internationally,
+catering
+to
+professionals and amateurs alike. Our initial objective is
+to set a new benchmark in the sports industry, beginning
+with
+baseball,
+by
+harnessing
+the
+power
+of
+digital
+technology.
+60%
+Based on a controlled experiment comparing the VR 
+user group to the non-user group.
+Mental
+Physical 60%
+Non-user 
+group
+50%
+Non-user 
+group
+31%
+Community
+Engagement
+Ｖ-BALLER
+Remote instruction using V-BALLER

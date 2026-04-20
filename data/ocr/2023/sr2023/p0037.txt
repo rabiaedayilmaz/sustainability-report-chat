@@ -1,0 +1,62 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Initiatives toward supporting CO2 emission reduction through digital services 
+In fiscal 2023, we commenced with digital services that support the reduction of GHG emissions, composed of services from 
+multiple business divisions within the Company. We will continue to support our clients’ adoption of renewable energy and 
+energy-saving initiatives through GHG reduction services. Specifically, we offer a range of digital technology–driven services to 
+enhance energy efficiency as part of our menu. These services are designed to support the adoption of renewable energy 
+sources such as solar power generation and other forms of renewable energy and are applicable to various aspects of our 
+operations, including buildings with large-scale energy facilities, transportation, sales, supply chain management, and intercorporate collaborations. 
+Furthermore, we are actively pursuing the transformation of our business model to cloud computing for IT services and from 
+equipment sales to service provision. This transformation enables our clients to migrate their operations and systems to NTT 
+DATA’s BPO centers and data centers, thereby driving 100% adoption of renewable energy and implementing state-of-the-art 
+energy-efficient solutions. We also have plans to strengthen our investments toward achieving Japan’s government target for 
+CO2 capture and storage cost (below ¥2,000 per ton of CO2) by 2030. In addition, as we move toward a carbon-neutral society 
+by 2050, we will enhance our investments in the development of CO2 absorption technologies and the creation of innovative 
+businesses, which can serve as new means of emission reduction. 
+ 
+Emission visualization dashboard for IT systems 
+In fiscal 2022, we continued to advance our global business expansion efforts. Within our European Group companies, we have 
+developed an emission visualization dashboard for IT systems and are offering it to our clients. The emission visualization 
+dashboard utilizes a methodology developed by the Green Software Foundation, in which our company is an active participant, 
+to assess carbon emissions associated with software usage. We are expanding the application of this approach while continuing 
+to secure new projects. 
+ 
+●Costs 
+In the current medium-term management plan, we have allocated ¥51 billion for technology development and the creation of 
+sustainability-related offerings that contribute to climate change adaptation and mitigation efforts in corporations and society at 
+large. This includes investments in pre-sales activities and actual business expansion. 
+ 
+ 
+ 
+企業におけるサステナビリティ関連ビジネス拡大により、気候変動・サステナビリティコンサルティング 
+ 
+Expansion of corporate sustainability-related business increases opportunities in climate change 
+and sustainability consulting. 
+ 
+Business and financial impacts 
+Addressing climate change can be challenging due to the rapidly changing external environmental demands and levels, as well 
+as the specialized expertise required for tasks such as GHG emission calculations. Consequently, it is often difficult for 
+companies to formulate comprehensive strategies and respond comprehensively solely within their organization. Therefore, we 
+anticipate that these needs will continue to expand over the four-year period of the current medium-term management plan, 
+leading to an increase in business opportunities related to climate change and sustainability consulting. 
+We are therefore leveraging our extensive development experience and a track record spanning more than 30 years, 
+particularly in information technology and the public and financial sectors. In addition, we have received recognition as a Gold 
+Accredited Solutions Provider by an international NGO, CDP, for our expertise in climate change consulting and software. As a 
+result, we initiated consulting services related to climate change action in fiscal 2021. These new consulting services cover a 
+range of areas related to climate change adaptation, including strategy development for climate change response, visualization 
+of GHG emissions, data center energy efficiency, utilization of renewable energy, and energy efficiency optimization. 
+These consulting services, categorized as introductory services that serve as an entry point for the growing demand in 
+Opportunity 1 “Sustainability-related offerings (IT systems and services),” are defined as a separate strategy within the current 
+medium-term management plan. In the future, we anticipate that these climate change consulting services will also increase in 
+demand, leading to a corresponding increase in opportunities within our offerings. 
+ 
+●Financial impact 
+We anticipate an increase in consulting service opportunities as sustainability-related businesses continue to expand across 
+various industries. We have estimated that the revenue from sustainability-related consulting businesses in fiscal 2025 will be 
+approximately ¥40 billion. 
+ 
+ 
+Opportunity 2: Increasing demand for sustainability-related consulting services 
+Time horizon: Short term

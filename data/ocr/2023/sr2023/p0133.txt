@@ -1,0 +1,209 @@
+GRI Standard Contents Index
+Disclosure
+References
+Reason for Omission/Supplemental Explanation
+GRI 306: Waste 2020
+306-1
+Waste generation and significant wasterelated impacts
+pp.044-046
+Circular Economy 
+306-2
+Management of significant waste-related 
+impacts
+p.044
+Circular Economy 
+p.052
+Environmental Management System 
+pp.080-081
+Promoting a Responsible Supply Chain 　
+ NTT DATA Group Guidelines for Sustainability in Supply Chain
+306-3
+Waste generated
+p.044
+Circular Economy Recycling Related to Our Business 
+pp.055-059
+Environmental Data 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+306-4
+Waste diverted from disposal
+p.044
+Recycling Related to Our Business 
+pp.055-059
+Environmental Data 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+306-5
+Waste directed to disposal
+p.044
+Circular Economy Recycling Related to Our Business 
+pp.055-059
+Environmental Data 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+3. Nature Conservation Generate a sound global environment and contribute to people’s well-being by conserving and recovering nature capital 
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+pp.040-043
+Climate-Related Risks 
+pp.021-024
+Management System 
+pp.052-053
+Environmental Management System 
+ Materiality of Sustainability Management
+GRI 303: Water and Effluents 2018
+303-1
+Interactions with water as a shared resource
+p.057
+Consumption of water resources 
+pp.048-050
+Information Disclosure Based on the TNFD 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+303-3
+Water withdrawal
+p.049
+Information Disclosure Based on the TNFD 
+p.057
+Consumption of water resources 
+303-4
+Water discharge
+p.024
+Summary of Third-Party Certified Data in Fiscal 2022 
+pp.048-050
+Information Disclosure Based on the TNFD 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+303-5
+Water consumption
+pp.056-057
+Fiscal 2022 Environmental Impact Data (Group 
+companies in Japan) 
+p.024
+Summary of Third-Party Certified Data in Fiscal 2022 
+p.054
+Overview of Our Environmental Impact (Material Flows) 
+GRI 304: Biodiversity 2016
+304-1
+Operational sites owned, leased, managed in, or 
+adjacent to, protected areas and areas of high 
+biodiversity value outside protected areas
+p.049
+Information Disclosure Based on the TNFD 
+304-2
+Significant impacts of activities, products and 
+services on biodiversity
+p.048
+Information Disclosure Based on the TNFD 
+304-3
+Habitats protected or restored
+pp.047-050
+Information Disclosure Based on the TNFD 
+Not applicable to our operational areas
+304-4
+IUCN Red List species and national 
+conservation list species with habitats in areas 
+affected by operations
+pp.047-050
+Information Disclosure Based on the TNFD 
+Not applicable to our operational areas
+Economy: Clients' Growth　Corporate Growth to Support a Sustainable Society
+１. Smart X Co-innovation Create new value through co-creation with various companies to achieve a smart and innovative society
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+p.061
+Initiatives Related to Materiality and KPIs 
+p.062
+“Innovation Center” Activities at Six Sites Around the World 
+pp.070-071
+Promotion of Robust Risk Governance 
+pp.070-071
+Dealing with Material Risks 
+ Materiality of Sustainability Management
+GRI 417: Marketing and Labeling 2016
+417-1
+Requirements for product and service 
+information and labeling
+p.067
+Quality Management 
+No instances of non-compliance
+417-2
+Incidents of non-compliance concerning 
+product and service information and labeling
+p.086
+Appropriate Corporate Branding 
+No instances of non-compliance
+417-3
+Incidents of non-compliance concerning 
+marketing communications
+p.086
+Measures to Prevent Unfair Competition 
+No instances of non-compliance
+p.086
+Appropriate Corporate Branding 
+2. Trsuted Value Chain Uphold data privacy and security to ensure safe, secure, and resilient corporate activities
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+p.061
+Initiatives Related to Materiality and KPIs 
+pp.070-071
+Dealing with Material Risks 
+pp.072-075
+Ensure Information Security and Protect Data Privacy 
+p.079
+Response to Disaster Risks 
+ Materiality of Sustainability Management
+GRI 205: Anti-corruption 2016
+205-1
+Operations assessed for risks related to 
+corruption
+pp.082-084
+Ensuring Compliance 
+205-2
+Communication and training about anticorruption policies and procedures
+pp.082-084
+Ensuring Compliance 
+205-3
+Confirmed incidents of corruption and actions 
+taken
+pp.082-084
+Ensuring Compliance 
+GRI 206: Anti-competitive Behavior 2016
+206-1
+Legal actions for anti-competitive behavior, 
+anti-trust, and monopoly practices
+p.086
+Measures to Prevent Unfair Competition 
+GRI 207: Tax 2019
+207-1
+Approach to tax
+pp.085-086
+Tax Transparency 
+207-2
+Tax governance, control, and risk 
+management
+pp.085-086
+Tax Transparency 
+207-3
+Stakeholder engagement and management of 
+concerns related to tax
+pp.085-086
+Tax Transparency 
+207-4
+Country-by-country reporting
+p.086
+Taxes Incurred (FY2021) 
+
+NTT DATA Sustainability Report 2023　Data Book

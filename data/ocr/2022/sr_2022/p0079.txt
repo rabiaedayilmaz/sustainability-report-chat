@@ -1,0 +1,53 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+Respond to Disaster Risks 
+ 
+ Basic Policy and Promotion System 
+The NTT DATA Group provides numerous information systems and services that support social infrastructure. If any of these 
+systems or services go down or are interrupted in the event of a disaster, there would be serious impacts on society and people’s 
+lives. For this reason, we are developing and continuously improving business continuity plans (BCPs) to prepare for disasters, 
+as well as contingency plans for systems and services related to social infrastructure. Most recently, we have been taking 
+measures to prevent the spread of COVID-19 and prepare for large-scale earthquakes and other emergencies as telecommuting 
+becomes the main way of working. 
+ 
+ Structure for Responding to Earthquakes and Other Large-Scale Natural Disasters 
+ 
+ 
+ Specific Initiatives 
+The NTT DATA Group is advancing extensive system failure response measures based on the dual perspectives of prevention 
+and response. These measures include inspections based on a comprehensive perspective in line with the Information 
+Technology Infrastructure Library (ITIL), ISO 20000, and other standards, as well as deployment of response know-how at the 
+time of a failure and development of IT service managers. To ensure NTT DATA and NTT DATA Group business continuity when 
+a disaster occurs, we have formulated BCPs and regularly review education, training, and business continuity planning. This is 
+because each organization must be able to recover operations as quickly as possible and restore business to standard levels in 
+short periods. 
+Management promotion 
+officers 
+President 
+Management system 
+• The President (who is the executive responsible for disaster responses) determines the 
+disaster countermeasure policies and actions. 
+• The operations manager, the general affairs manager assisting the operations manager, and 
+the head of the Disaster Response Office establish the necessary processes for disaster 
+management and ensure the implementation and maintenance of those processes. They 
+also spearhead planning, implementation, evaluation, and continuous improvement of 
+disaster response processes at the Head Office Disaster Response Headquarters. 
+• At each business division, the head of the organization is responsible for planning, 
+implementation, evaluation, and continuous improvement of disaster response processes at 
+the disaster response headquarters of the division’s head office within the scope of his/her 
+authority and duties. 
+Plans and frameworks 
+• NTT DATA has developed disaster BCPs and contingency plans. 
+• Implementation of various types of training to minimize disaster risk: In addition to Companywide training, such as safety confirmation training for all employees and the establishment of 
+a Head Office Disaster Response Headquarters, each organization conducts individual 
+training according to its own requirements. 
+Certifications 
+(as of March 31, 2021) 
+• BCMS certification according to the ISO 22301:2019 international standard. 
+• Proper facility maintenance such as data center buildings, electric power, air-conditioning 
+systems, and security systems are important foundations for information system operations. 
+Therefore, all the Company’s buildings have been certified for business continuity 
+management. We also have systems in place to respond to incidents such as large-scale 
+earthquakes and wide-area power outages.

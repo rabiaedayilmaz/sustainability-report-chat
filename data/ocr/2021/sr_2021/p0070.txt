@@ -1,0 +1,61 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Measures 
+and costs 
+To address these types of risk, we are switching to high-efficiency electrical and air-conditioning systems while 
+improving the operation of air-conditioning, lighting and other shared systems. At the NTT DATA Mitaka Building, 
+for example, in addition to the above measures, we reduced electricity consumption by around 30% compared to 
+existing data centers by installing a photovoltaic power generation system and a high-voltage direct current (HVDC) 
+power supply system. In 2018, moreover, we completed construction of Mitaka Data Center EAST, which 
+incorporates an outside air-cooling system that utilizes photovoltaic power generation and natural energy (outdoor 
+air during the spring, fall and winter). 
+In fiscal 2019, we teamed up with several equipment manufacturers to jointly conduct a demonstration 
+experiment aimed at reducing data center power consumption by optimizing server room temperature settings using 
+server equipment that can operate in high-temperature environments. According to multiple media reports, using 
+outdoor air-cooling systems in urban data centers is considered good practice. 
+The average annual cost of upgrading facilities and enhancing operations at all NTT DATA Group data centers 
+in Japan was around ¥700 million in fiscal 2019 and fiscal 2020. 
+ 
+ Transitional Risks (Reputation) 
+Other climate-related risks include increased investor requests for corporate information disclosure related to climate change, 
+declines in our share price associated with lower evaluation by investors and deterioration in market-imposed financing 
+conditions. 
+ 
+Risk 5: Loss of reputation due to delayed responses 
+ 
+Delays in responding to increasing requests for ESG information disclosure from investors might result in loss of reputation and 
+a consequent decline in our share price, as well as deterioration in fundraising conditions. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+Lower evaluation by overseas investors actively engaged in ESG investment carries the risk of a decline in share 
+price that would decrease corporate value. As of March 31, 2021, 15.91% of NTT DATA Group stock was held by 
+overseas corporations. Also, financial institutions in Japan own 21.18% of our stock, and some of them have begun 
+engaging in ESG investments. For this reason, according to speculation, if financial institutions in Japan were to 
+lower their evaluations of our ESG moving forward, the resulting impact would lead to a fall in our stock price and 
+ultimately affect our corporate value negatively. 
+If the price of our shares held by overseas investors were to fall by 1%, the impact on the Company’s market 
+capitalization would amount to around ¥3,822 million1. 
+Measures 
+and costs 
+Since 2009, we have been actively disclosing information to investors, particularly concerning CDP2, on which 
+investors who request Company information regarding climate change place particular importance. At our fiscal 
+2019 financial results briefing, we announced our 1.5°C SBT3, which is emphasized in the CDP, and received 
+approval for that target from the SBT Office in June 2020. In March 2021, moreover, we announced our support 
+of the TCFD4 recommendations. We also announced the NTT DATA Carbon-neutral Vision 2050, which outlines 
+our policies and initiatives for achieving carbon neutrality and is posted on our corporate website. 
+Expenses related to investor requests for corporate information regarding climate change are about ¥55 
+million. 
+1. Calculated on the basis of 1,402,500,000 outstanding shares as of March 31, 2021. 
+2. The CDP (formerly the Carbon Disclosure Project) was launched in 2003 by a U.K.-based NGO to evaluate the climate change policies of businesses 
+and enterprises. 
+3. Science-based targets (SBT): Greenhouse gas reduction targets for companies based on scientific evidence under the Paris Agreement. 
+4. Task Force on Climate-related Financial Disclosures (TCFD): This privately led task force focuses on securing the disclosure of climate-related financial 
+information and was established under the Financial Stability Board at the request of the G20’s ministers of finance and central bank governors. 
+Note: Time horizons: Short term: Less than 1 year; Medium term: 1–3 years; Long term: 3–13 years 
+ 
+ 
+Time horizon: Short term

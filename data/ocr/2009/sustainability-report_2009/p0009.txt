@@ -1,0 +1,91 @@
+Environmental preservation initiatives are important for all of 
+society. We help to reduce the environmental impact of our 
+customers, and society as a whole, by developing technology 
+and services that support customers’ environmental 
+management and preservation activities. We also assist 
+information transmission and propose other ways to reduce 
+environmental impact through the eff ective use of IT.
+Amid ongoing environment-related activities and new legal 
+frameworks worldwide, companies face a growing need to 
+collect both domestic and overseas environmental information 
+in real time and refl ect these developments in their activities.
+Since 2000, NTT DATA has provided a membership-based 
+environmental information website, called Ecology Express. 
+The website contains information featuring the environment, 
+energy and environmental regulations from various sources 
+around the globe, and provides this information to members 
+in a timely fashion. The service helps users discover 
+environmental business opportunities, promote 
+environmental management and reduce environmental risk. 
+As of March 31, 2009, membership comprised 420 companies 
+and 1,293 individuals worldwide, making it the largest 
+environmental information site in Japan.
+The site was renewed in September 2008, integrating even 
+more global sources and improving user convenience with the 
+addition of search and individual email distribution functions.
+We provide a diverse range of support—from consulting to 
+systems development and the provision of IT services—to help 
+our customers develop their businesses. In these ways, we 
+address customers’ needs to rationalize and streamline their 
+production, sales, logistics and other business processes, as well 
+provide end-user needs analysis and settlement system 
+optimization.
+In September 2007, the Uniqlo Online Store, one of Japan’s 
+highest-grossing retail e-commerce sites, renewed its 
+content in a virtual grand re-opening. NTT DATA was in 
+charge of developing the core system for this website. We 
+focused on response to heavy site traffi c during sales 
+promotional campaigns, usability that would allow online 
+shoppers to quickly fi nd desired items from the abundant 
+selection and online campaigns that would be at least as 
+varied as those conducted at physical stores. The result was 
+greater online store convenience and better system 
+dependability. The online store infrastructure included 
+support for global expansion through the ability to link to 
+external logistics systems.
+The Uniqlo Online Store is constantly evolving to provide 
+customers with products when and where they want them, 
+to make the shopping experience enjoyable and to realize a 
+new retail style. In this way, NTT DATA helps its customers 
+create new businesses by making extensive use of IT.
+Uniqlo
+core
+system
+Customer
+Email
+magazine
+Warehouse
+Product
+delivery
+Uniqlo
+Online Store
+Call
+center
+Order
+Order
+Mobile phone
+PC
+Mobile phone
+Land-line
+phone
+Environmental Sector
+Major Systems and Services
+ Green Data Center Service
+ Greenhouse gases emissions trading support system
+ Environmental management consulting
+ Environmental impact reduction solutions
+ Environmental monitoring systems
+Ecology Express Helps Companies Collect 
+Comprehensive Environmental Information
+Manufacturing, Distribution
+and Service Sectors
+Major Systems and Services
+ Global SCM systems e-Commerce site solutions CVS franchise systems
+ Smart card/wireless settlement solutions (e-money and point service functions)
+ Pharmaceutical industry data exchange system JD-NET
+ EDI for the consumer-electronics industry
+Building One of Japan’s Largest Online Stores in 
+Pursuit of a New Retail Style
+Ecology Express (Japanese only)
+https://www.ecologyexpress.jp/
+NTT DATA CSR Report 2009

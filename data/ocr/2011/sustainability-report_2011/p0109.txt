@@ -1,0 +1,76 @@
+【Additional Topics】 
+NTT DATA CSR Report 2011 63/67 
+ 
+ 
+ 
+ 
+ 
+ 
+Acquiring ISMS, Privacy Mark and other third-party accreditations 
+Within the NTT DATA Group, necessary units that handle confidential and personal 
+information hold ISO 27001 information security management system certification. As of 
+March 31, 2011, the relevant departments of 38 NTT DATA Group companies, including NTT 
+DATA, had acquired this certification. 
+In addition, NTT DATA and 29 other Group companies were authorized by the Japan 
+Institute for Promotion of Digital Economy and Community to use the Privacy Mark. 
+ 
+Eight individual services have acquired ITSMS* certification. 
+ 
+*ITSMS (IT Service Management System): An efficient, effective management system for IT service 
+providers. ITSMS certification means third-party certification of a service management system. 
+Major Information Security Education during Fiscal 2011
+ 
+Target 
+Contents and Format
+No. of Participants 
+All employees 
+Personal data protection IBT 
+(e-learning) 
+All employees 
+Information security policy 
+assessments (e-learning) 
+All officers and employees 
+By position 
+Information security lectures 
+(classroom instruction) 
+Incorporated in the training 
+according to rank conducted 
+by the Personnel Dept. 
+Specific 
+projects, etc. 
+Personal Data Rights Protection 
+Training (classroom instruction) 
+140 employees, 5 sessions 
+By work group 
+Information security case studies 
+Freely implemented by each 
+coordinator 
+Business 
+partners, 
+temporary 
+Information security education 
+(e-learning) 
+All parties registered on our 
+company system 
+18,783 persons 
+Principal Educational Activities Support for Group Companies during 
+Fiscal 2011 
+ 
+Target 
+Contents and Format 
+No. of Participants 
+Group companies 
+desiring course 
+participation (for 
+employees) 
+GSP Security Training (Web)
+14,197 employees from 60 
+companies 
+Personnel in charge 
+of information 
+security promotion 
+GSP Internal Auditor 
+Training (classwork) 
+58 employees from 23 
+companies 
+Promoting Information Security Management Certification

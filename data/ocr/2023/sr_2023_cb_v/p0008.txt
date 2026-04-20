@@ -1,0 +1,66 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Efficiency in both performance and energy usage is
+crucial in the coding of software. Securing data, in
+particular, involves extensive processing tasks, making
+it essential to design systems that reduce CPU load and
+minimize energy consumption.
+In
+Germany,
+the
+Federal
+Office
+for
+Information
+Security (BSI) promotes domestic information security
+and introduces security requirements. Compliance with
+new BSI requirements involved the replacement of
+digital
+certificates
+with
+longer
+bit
+key
+lengths,
+approximately twice the original size, resulting in a
+twofold increase in CPU load and a significant rise in
+power consumption.
+To address this, BSI collaborated with the Network
+Operations Center and Security Center of NTT DATA
+Business
+Solutions
+to
+efficiently
+modify the
+digital
+signature algorithm. This served to greatly reduce CPU
+load while still meeting BSI requirements, leading to
+energy reduction equivalent to more than 1,400 kWh
+annually—approximately half the annual consumption of
+a German household—across two servers.
+This approach can be extended to various software
+solutions, fostering efficiency not only in performance
+but also in energy usage, and contributing to a reduction
+in power consumption.
+NTT DATA Business Solutions (Germany)
+CPU utilization
+after optimizing the digital algorithm
+Advancing Eco-Friendly Software Ensuring 
+Security with Minimal Energy Consumption
+Click here for 
+reference article
+· As software becomes more advanced and complex, power consumption is increasing proportionally, and there is growing 
+demand for energy-efficient development practices.
+Cut by 33
+Reduced from 47% utilization
+pre-optimization to 14% post
+Where There’s a 
+Willforce,
+There’s a watt !
+Carbon
+Neutrality
+percentage points
+CPU load of two monitoring servers

@@ -1,0 +1,229 @@
+Primary Category
+Subcategory
+Emissions
+ (kg)
+Recycled 
+Amount (kg)
+Waste Disposal Amount (kg)
+Final Disposal 
+(kg)
+Recycling Rate 
+(%)
+Final Disposal 
+Rate (%)
+Disposal Method
+Incineration
+Landfill Amount
+Unknown
+Recyclable waste, etc.*
+* “Recyclable waste” represents 
+waste material that can be 
+completely recycled.
+Plain copying paper (photocopying and OA paper, etc.) 
+1,201,837
+1,201,837
+
+Newspaper, magazines, cardboard, miscellaneous recyclable paper 
+48,536
+48,536
+
+Glass (bottles, etc.) 
+1,612
+1,612
+
+Scrap metal (cans, etc.)
+8,584
+8,584
+
+Plastic (PET) bottles, etc. 
+7,318
+7,318
+
+Subtotal 1
+1,267,888
+1,267,888
+
+Non-industrial waste
+Plastics
+6,445
+6,282
+
+Combustible waste
+636,794
+620,333
+16,461
+
+1,646
+
+Incombustible waste
+31,584
+28,966
+
+2,618
+
+2,618
+
+Unsorted waste
+8,323
+
+8,323
+
+Subtotal 2
+683,146
+655,582
+24,784
+2,781
+
+5,259
+
+Industrial waste
+From offices
+Waste plastics 
+337,000
+335,312
+1,440
+
+Scrap metal
+582,878
+581,971
+
+Refuse glass, waste ceramics
+
+Discarded electric machinery and appliances 
+586,670
+586,612
+
+Waste batteries
+
+Product waste containing mercury
+
+Stable mixed waste
+256,878
+256,678
+
+Other
+38,220
+36,890
+1,330
+
+Subtotal 3
+1,803,495
+1,799,312
+3,046
+1,137
+
+1,442
+
+Produced 
+through 
+operations
+Waste plastic
+410,148
+405,267
+1,089
+3,792
+
+3,901
+
+Scrap metal 
+362,668
+362,305
+
+Refuse glass, ceramic waste
+83,871
+83,771
+
+Wastepaper (only includes paper from the printing business) 
+1,549
+1,549
+
+Waste wood (only includes wood from the warehouse and distribution businesses)
+152,440
+152,420
+
+Discarded electric machinery and appliances
+254,841
+249,313
+
+5,528
+
+5,528
+
+Medical measuring equipment 
+
+Waste batteries 
+
+Product waste containing mercury 
+3,588
+3,588
+
+Stable mixed waste 
+99,312
+99,312
+
+Controlled mixed waste
+179,153
+179,153
+
+Waste oil 
+
+Waste acid 
+
+Waste alkali 
+1,060
+1,060
+
+Sludge 
+
+Waste containing asbestos 
+
+Other 
+
+Subtotal 4
+1,550,001
+1,538,720
+1,499
+9,782
+
+9,932
+
+Industrial waste requiring 
+special treatment
+Flammable waste oil 
+
+Waste acid with a Ph of 2.0 or less 
+
+Waste alkali with a Ph of 12.5 or higher
+
+Infectious waste 
+
+Specified hazardous industrial waste (Discarded mercury) 
+
+Specified hazardous industrial waste (Other)
+
+Subtotal 5
+
+Grand total (Subtotals 1–5 combined)
+5,304,610
+5,261,570
+29,339
+13,701
+
+16,635
+
+(Scope of Aggregate Data: All NTT DATA organizations, 68 Group companies in Japan)
+▶Office Waste in Fiscal 2018
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

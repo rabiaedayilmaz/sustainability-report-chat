@@ -1,0 +1,128 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+SPECIFIC STANDARD DISCLOSURES
+Occupational Health and Safety
+G4-LA5
+Percentage of total workforce represented in formal joint management–worker health and safety 
+committees that help monitor and advise on occupational health and safety programs
+–
+G4-LA6
+Type of injury and rates of injury, occupational diseases, lost days, and absenteeism, and total number of 
+work-related fatalities, by region and by gender
+–
+G4-LA7
+Workers with high incidence or high risk of diseases related to their occupation
+–
+G4-LA8
+Health and safety topics covered in formal agreements with trade unions
+P38
+Training and Education
+G4-LA9
+Average hours of training per year per employee by gender, and by employee category
+P32
+G4-LA10
+Programs for skills management and lifelong learning that support the continued employability of 
+employees and assist them in managing career endings
+P31,33-34
+G4-LA11
+Percentage of employees receiving regular performance and career development reviews, by gender and 
+by employee category
+P30-32
+Diversity and Equal Opportunity
+G4-LA12
+Composition of governance bodies and breakdown of employees per employee category according to
+gender, age group, minority group membership, and other indicators of diversity
+P30
+Equal Remuneration for Women and Men
+G4-LA13
+Ratio of basic salary and remuneration of women to men by employee category, by significant 
+locations of operation
+–
+Supplier Assessment for Labor Practices
+G4-LA14
+Percentage of new suppliers that were screened using labor practices criteria
+–
+G4-LA15
+Significant actual and potential negative impacts for labor practices in the supply chain and actions taken
+–
+Labor Practices Grievance Mechanisms
+G4-LA16
+Number of grievances about labor practices filed, addressed, and resolved through formal grievance 
+mechanisms
+P71-72
+Human Rights
+Investment
+G4-HR1
+Total number and percentage of significant investment agreements and contracts that include human 
+rights clauses or that underwent human rights screening
+–
+G4-HR2
+Total hours of employee training on human rights policies or procedures concerning aspects of human
+rights that are relevant to operations, including the percentage of employees trained
+P74
+Non-discrimination
+G4-HR3
+Total number of incidents of discrimination and corrective actions taken
+–
+Freedom of Association and Collective Bargaining
+G4-HR4
+Operations and suppliers identified in which the right to exercise freedom of association and collective 
+bargaining may be violated or at significant risk, and measures taken to support these rights
+–
+Child Labor
+G4-HR5
+Operations and suppliers identified as having significant risk for incidents of child labor, and measures 
+taken to contribute to the effective abolition of child labor
+–
+Forced or Compulsory Labor
+G4-HR6
+Operations and suppliers identified as having significant risk for incidents of forced or compulsory 
+labor, and measures to contribute to the elimination of all forms of forced or compulsory labor
+–
+Security Practices
+G4-HR7
+Percentage of security personnel trained in the organization’s human rights policies or procedures that 
+are relevant to operations
+–
+Indigenous Rights
+G4-HR8
+Total number of incidents of violations involving rights of indigenous peoples and actions taken
+–
+Assessment
+G4-HR9
+Total number and percentage of operations that have been subject to human rights reviews or impact 
+assessments
+–
+Supplier Human Rights Assessment
+G4-HR10
+Percentage of new suppliers that were screened using human rights criteria
+–
+G4-HR11
+Significant actual and potential negative human rights impacts in the supply chain and actions taken
+–
+Human Rights Grievance Mechanisms
+G4- HR12
+Number of grievances about human rights impacts filed, addressed, and resolved through formal 
+grievance mechanisms
+P71-72
+Society
+Local Communities
+G4-SO1
+Percentage of operations with implemented local community engagement, impact assessments, and 
+development programs
+P42-46
+G4-SO2
+Operations with significant actual and potential negative impacts on local communities
+–
+Anti-corruption
+G4-SO3 
+Total number and percentage of operations assessed for risks related to corruption and the significant 
+risks identified
+–
+
+Sustainability Report 2016
+NTT DATA

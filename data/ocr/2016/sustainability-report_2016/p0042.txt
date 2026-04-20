@@ -1,0 +1,69 @@
+■ Expected Results of Installing airpalette ATFM
+■ Comparison with an existing map of the entire world (Uluru/Ayers Rock)
+Left: New 5 m resolution DEM* map
+Right: 90 m resolution DEM map
+Focus 〉〉〉
+Contributing to Global Infrastructure Development 
+by Providing Digital 3D Maps of the Entire World
+* Digital Elevation Model: a digital expression of the terrain of the ground surface 
+that has digitized height values in intervals of certain lattice points. The resolution 
+is a measure of the level of detail of the data. Five-meter resolution means that the 
+height values have been recorded in lattice point intervals of five meters.
+Aircraft takes off 
+before scheduled 
+time of departure
+Runway and airspace 
+capacity underutilized
+Area 
+centered on 
+the airport
+Area 
+centered on 
+the airport
+Aircraft takes off 
+after scheduled 
+time of departure
+In holding pattern to 
+adjust time of arrival
+Congestion at 
+the intersection
+Detour to extend 
+flight path
+On-time departures 
+after applying controls
+Maximum use of 
+runway and airspace 
+processing capacity
+Smooth operation with 
+no need for air traffic 
+holding or detours
+On-time arrivals after 
+applying controls
+Prior to installing airpalette ATFM
+After installing airpalette ATFM
+〈 Developing a Digital Archive to Conserve Spain’s National Heritage 〉
+Since January 2016, NTT DATA and the everis Group have been participating in a project to digitize rare collections of over 
+five million items owned by the Spanish Crown and centrally managing assets hosted in several repositories. The project 
+will leverage NTT DATA’s AMLAD™ digital archive solution to support the long-term storage and integrated management of 
+relics of historical value in the form of high-definition digital data. NTT DATA has been involved in creating a digital archive 
+of handwritten manuscripts for the Vatican Apostolic Library, making this the second project for handing down a historically 
+valuable cultural heritage, in which we contribute to advancing the areas of culture, science and education.
+NTT DATA is contributing to bringing greater sophistication and efficiency to industry, daily life and public 
+administration in Japan and abroad through the use of the Digital 3D Map of the Entire World, which it distributes 
+jointly with the Remote Sensing Technology Center of Japan. The service is based on images captured by the earth 
+observation satellite operated by the Japan Aerospace Exploration Agency (JAXA) and achieves even higher definition 
+for the world’s most precise 3D map of the entire world, thus realizing highly accurate absolute positioning without 
+on-ground corrections. This high level of accuracy makes solving a wide range of issues possible, including the 
+development of maps for emerging countries, countermeasures for natural disasters, planning for electric power 
+generation, surveys of resource areas and countermeasures for epidemics. The system received the Prime Minister’s 
+Award from the Cabinet Office in March 2016 for significantly contributing to the promotion of space development.
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

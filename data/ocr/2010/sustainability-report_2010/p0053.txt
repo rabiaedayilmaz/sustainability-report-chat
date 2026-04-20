@@ -1,0 +1,35 @@
+NTT DATA CSR Report 2010 5/48 
+【Additional Topics】 
+ 
+various people, including those who have difficulty viewing certain colors, and allows text-size 
+adjustments. In addition, we respond to advanced accessibility requirements through such functions as 
+verification through two or more types of screen reader. 
+We plan to direct our efforts toward response to new JIS stipulations, RIA* accessibility, universal 
+design for multimedia contents and other evolving challenges. 
+ 
+* Rich Internet Applications (RIA): A web application that features operability and representational capacity superior to 
+web pages in simple HTML. 
+ 
+Raising universal design awareness through in-house seminars 
+NTT DATA hosts a UD working group that has conducted in-house seminars since fiscal 2006. 
+We are also promoting activities to raise in-house awareness of accessibility and related issues in 
+conformance with JIS X8341-3, which was scheduled to be instituted by the end of fiscal 2010. 
+Approximately 130 Group employees participated in a UD Research Seminar that we hosted in 
+November 2009. We also invited two guests to the seminar to speak on the necessity of and means to 
+realize accessibility: Chieko Asakawa, IBM Fellow and Chief Technology Officer of IBM’s accessibility 
+research at the IBM Tokyo Research Laboratory; and Masahiro Watanabe of NTT Universal Design 
+Research Laboratory and member of the New JIS Review Committee. In addition, we have conducted 
+four employee training events, reaching approximately 50 Group employees. 
+We plan to disseminate information on the August 2010 amendments to JIS X 8341-3:2010 and to 
+carry out accessibility training centered on younger employees. 
+ 
+Participating in projects with the International Association for Universal Design 
+The International Association for Universal Design (IAUD) was established in 2003 to promote the 
+widespread adoption of universal design. It is the largest UD-related body in Japan. NTT DATA has 
+participated as a full member of IAUD since its inception. 
+During fiscal 2010, we participated as an IAUD member in the Bonds of Shizuoka Universal 
+Design in Hamamatsu, a preliminary event to the International Conference for Universal Design 2010. 
+Further, we continued our participation from the previous fiscal year in the Leisure Time Project, Media 
+Project and Mobile Space Project, which are organized by IAUD’s Research & Development Planning 
+Division. Through these activities, we engage in discussions and deliberations in collaboration with 
+other member enterprises with a view to promoting the realization of universal design.

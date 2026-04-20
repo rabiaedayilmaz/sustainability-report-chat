@@ -1,0 +1,122 @@
+CASE12
+“COTO LABO Consortium”
+An Association of Companies for Promoting the Digitization 
+of Experiments Related to iPS Cells, etc.
+Conducting a culture process
+Description of service
+Envisioned applications in life science fields
+1 Consultation on information use
+・Upstream consulting on the uses of information
+・Assistance via consultation for data development/management
+・Chemical compound prediction assistance toward
+the promotion of efficiency of research for new 
+drug development/medicine
+・Support for research data analysis toward the 
+realization of more advanced research for new 
+drug development/medicine
+2 AI / Analytics
+・Data analytics
+・Development of analytics design and analytical models, utilization and 
+implementation of AI technology
+・General contract for all analytical processes
+3 Data management
+・Preparation of data (e.g., data survey/preparation, data cleansing, annotation and 
+other preprocessing)
+・Construction of platforms for processing massive 
+amounts of data including vital and research data
+・Development of research collaboration platform 
+linking several research institutions
+4 Platform for Utilization of Information ・Construction of analytical platforms (e.g., DWH, data lakes, data linkages)
+5 IoT- embedded development
+・Construction and provision of IoT platforms (e.g., Designing architecture for mass 
+data processing platforms, platforms for edge-side data processing)
+・Development of embedded software (e.g., automotive software, mobile software)
+Services provided by NTT DATA
+Platform
+Feedback information
+Collect, 
+integrate and 
+utilize data
+Design and conduct 
+experiments
+Environmental 
+data
+Procedural 
+data
+Design and conduct 
+experiments
+Automatically 
+acquire data
+Generate 
+automatically
+Automatically 
+generate reports
+Provide reliable data 
+whose integrity has 
+been assured
+Roles played by NTT DATA
+Conceptual diagram of the utilization of services offered by NTT DATA for life science fields
+COTO LABO Consortium
+Participants in the COTO LABO Consortium include NTT DATA and 
+seven other companies: iPS Portal, Inc; Earth Environmental Service, 
+Co., Ltd.; Olympus Corporation; Kataoka Corporation; Shimadzu 
+Corporation; TASEI Corporation; and Hitachi Industrial Equipment 
+Systems Co., Ltd. The Consortium focuses on launching nextgeneration laboratories to facilitate smooth technological transfer 
+by developing a system for securing the repeatability of experiments 
+and enhancing the reliability of data by the end of 2019.
+NTT DATA has been stepping up its efforts toward the 
+enhanced utilization of IoT and AI in the field of life sciences.
+As a part of these efforts, in November 2018, we concluded 
+a capital and business tie-up agreement with iPS PORTAL, Inc. 
+in Kyoto, which allowed us to acquire the company’s shares 
+through third party allotment. iPS PORTAL is the only company in 
+Japan able to generate iPS cells from blood for commercial use 
+and promotes iPS cells-related businesses in collaboration with 
+partners that include universities, pharmaceutical companies and 
+equipment manufacturers.
+NTT DATA boasts a proven track record of utilizing data for 
+projects in the fields of new drug development and healthcare 
+and has technologies that utilize IoT and AI analytics. Going 
+forward, we will strive to add new value to iPS cells by utilizing 
+our IoT and AI technologies in research undertaken in life science 
+fields such as new drug development and regenerative medicine.
+Contributions 
+to SDGs
+● Realizing a society of health and longevity
+● Developing social infrastructure that is convenient, safe and secure
+In May 2019, NTT DATA and seven other companies 
+inaugurated the COTO LABO Consortium to provide 
+laboratories for projects that use iPS cells (COTO LABO is an 
+abbreviation for “Communication Tool Oriented/Originated 
+LABOratory Consortium”). The Consortium aims to develop 
+next-generation laboratories that are capable of improving the 
+repeatability of experiments and efficiency of cell culture and 
+other processes by promoting the centralized management 
+and utilization of digitized scientific data including actions in 
+research activities and analysis results in life science fields such 
+as new drug development and regenerative medicine.
+By integrating advanced technologies and techniques 
+developed and held by leading companies in their respective 
+fields into one laboratory system, the Consortium strives 
+to offer new value that will help enhance the transparency, 
+repeatability and efficiency of experiments. For this Consortium, 
+NTT DATA offers all tools and services required for its IT 
+infrastructure including platforms for gathering information 
+from devices and building equipment provided by experiment 
+equipment manufacturers as well as application platforms.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

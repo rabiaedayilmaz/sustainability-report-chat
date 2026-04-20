@@ -1,0 +1,153 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Disclosure 
+Recommendations 
+ 
+Strategy 
+(continued from the 
+previous page) 
+B. Describe the effect nature-related 
+risks and opportunities have had 
+and might have on the organisation’s 
+businesses, strategy, and financial 
+planning. 
+As potential impacts, if offices located in water-stressed 
+regions experience severe droughts, there is a possibility 
+that they might not be able to provide adequate hygiene 
+services, which could affect employee performance. In the 
+event of an oil spillage incident, there would be associated 
+cleanup costs, and there is concern about potential 
+reputational damage in both scenarios. 
+C. Describe the resilience of the 
+organisation’s strategy to nature-related 
+risks and opportunities, taking into 
+consideration different scenarios. 
+The Bangalore office, located in a water-stressed region 
+currently lacking water supply services, is undergoing 
+water infrastructure development by the water utility using 
+surface water as a source. While awaiting the provision of 
+water supply services, we have established a BCP 
+considering the potential severe water scarcity based on 
+climate change scenarios. In addition, we encourage 
+water conservation measures. Regarding the oil storage 
+facilities, we manage them appropriately in compliance 
+with relevant regulations. 
+D. Disclose the locations where there 
+are assets and/or activities in the 
+organisation’s direct operations, and 
+upstream and/or downstream and/or 
+financed where relevant, that are in 
+priority areas. 
+The office in Bangalore, India, is situated in a waterstressed region. 
+Risk & Impact Management 
+Disclose how the 
+organisation identifies, 
+assesses, and manages 
+nature-related dependencies, 
+impacts, risks, and 
+opportunities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. (i) Describe the organisation’s 
+processes for identifying and assessing 
+nature-related dependencies, impacts, 
+risks, and opportunities in its direct 
+operations. 
+We analyze whether our locations are in proximity to 
+regions with water stress and significant biodiversity. We 
+also collect water usage and wastewater data for each site 
+through surveys (see the table below). 
+In cases where our sites are in proximity to significant 
+regions,we gather secondary data to confirm the local 
+context and conduct individual site-specific verifications. 
+Subsequently, we identify and assess risks and 
+opportunities. 
+We also regularly monitor the management status of our 
+fuel storage facilities. 
+ NTT DATA water withdrawal and discharge data in direct operations*1 
+Unit: 1,000 m3 
+Water withdrawal 
+(total volume) 
+
+－ 
+Water discharge 
+(total volume) 
+
+＝ 
+Water 
+consumption 
+(total volume) 
+
+Surface water 
+and rainwater 
+
+Discharge 
+into surface 
+water 
+
+Groundwater 
+and spring 
+water 
+
+Discharge to 
+third parties 
+
+Third-party 
+water sources 
+446＊2 
+*1 Due to rounding, the total volume and the total of breakdown might not match. 
+*2 Of the water withdrawal from third parties, the withdrawal for the Bangalore office in a water-stressed area is 
+35,000 m3. 
+ 
+ Distance from significant biodiversity areas to operational sites 
+Distance 
+from site 
+Within 
+5 km 
+Within 
+10 km 
+Within 
+25 km 
+Within 
+50 km 
+Within 
+70–100 km 
+Total 
+Number of 
+sites 
+
+We conducted an investigation using IBAT to examine the connection with Key Biodiversity Areas 
+(KBAs), World Heritage Sites, and Natura 2000 sites. The results of the survey covering 45 sites in 12 
+countries indicated that none of our sites are operating within protected areas of KBA/World 
+Heritage/Natura 2000. In addition, for sites located within 70 km of important areas, it was found that 
+these are urban areas, leading to a low level of impact.

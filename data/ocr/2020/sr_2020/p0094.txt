@@ -1,0 +1,46 @@
+Social 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Sharing the Fruits of Innovation 
+The NTT DATA Group shares its cutting-edge initiatives and contributes to the realization of a sustainable society in various 
+ways. 
+ 
+INFORIUM Toyosu Innovation Center 
+In 2015, we established the INFORIUM Toyosu Innovation Center within our Head Office building as a place where visitors can 
+experience the cutting-edge technologies that the NTT DATA Group is developing. 
+As a place for creating new businesses with clients, the center offers space for holding workshops on co-creation activities. 
+This space is available to both domestic and international customers. 
+ 
+https://www.nttdata.com/jp/ja/inforium/(Japanese version only) 
+ 
+DATA INSIGHT 
+Through DATA INSIGHT, we provide information on people on the front lines and the latest technology trends. 
+ 
+https://www.nttdata.com/jp/ja/data-insight/(Japanese version only) 
+ 
+AQUAIR® Digital Business Design Studio 
+AQUAIR® is a co-creation space for clients to work with UX-UI1 designers and other specialists to seamlessly consider and bring 
+ideas to life, from planning new services to prototyping and testing. For example, the UX-UI designer identifies users’ needs and 
+issues, the consultant assesses market trends and feasibility and the engineer casts the ideas into shape. In these ways, multiple 
+specialists form a team and offer consistent support to clients’ activities. 
+ 
+https://nddn.design/aquair# 
+1. UX (user experience) refers to users’ experience and emotions obtained by using a particular product or service. UI (user interface) is the point of contact 
+for users of a product or service. 
+ 
+Human-Centered Design Initiatives 
+ 
+ Human-Friendly Systems 
+We pay close attention to each individual IT user, whom we view as a potential innovator. With this in mind, we promote the 
+creation of human-friendly information systems based on the human-centered design (HCD)1 approach. HCD is a step forward 
+from the universal design (UD)2 concept for systems and services and places greater emphasis on user-friendliness. With HCD, 
+we engage in wide-ranging activities from the user’s perspective. These include adopting a “UX design” approach aimed at 
+providing deeper satisfaction, as well as internal training and education. 
+UX design is a methodology for designing products and services that improve the experience of users, including delivering 
+what users want in a fun and comfortable way. To achieve good UX, it is important to adopt a user-focused approach to design 
+in addition to traditional approaches rooted in technology or markets. Since 2002, NTT DATA has been developing humanfriendly systems by applying user-oriented design to the system development process in the ICT and IoT fields. 
+ 
+ 
+HCD Perspective 
+1. The concept of designing services and systems according to the needs of users. 
+2. Design that emphasizes ease of use for all people, irrespective of age, gender, nationality, disability or individual experience and abilities.

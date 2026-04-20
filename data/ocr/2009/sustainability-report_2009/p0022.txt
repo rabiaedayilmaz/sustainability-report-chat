@@ -1,0 +1,77 @@
+TOPICS
+To incorporate universal design* (UD) into 
+information systems, we have adopted 
+accessibility and usability from the system 
+planning and requirement definition stages, 
+and user-centered design (UCD) in system 
+development process. In fiscal 2009, we 
+improved prototyping techniques and 
+tools for system development. Through trial 
+projects, we plan to extend the use of these 
+tools throughout the Company.
+We also conduct accessibility validations 
+of web pages for our projects and make 
+proposals to resolve accessibility issues. Since 
+April 2009, we have transferred accessibility 
+validation skills at NTT DATA DAICHI 
+CORPORATION, a subsidiary that promotes 
+employment of people with disabilities. We 
+plan to manifest these efforts to create home 
+working opportunities with the company.
+Approaches Involving 
+Universal Design
+Advancing universal design for 
+information systems
+Supporting website construction 
+for providers and surfers
+NTT DATA supports website construction 
+that offers ease of use for website providers 
+and users.
+For example, we provide a website 
+content management system that helps 
+novice operators update contents. We also 
+propose websites with such features as a 
+design that takes into consideration people 
+who have difficulty viewing certain colors and 
+allows text size adjustments.
+Raising universal design awareness 
+through in-house seminars
+NTT DATA hosts a UD working group that 
+has conducted in-house seminars since 
+fiscal 2006.
+We invited designer and UD researcher 
+Ayumu Isomura to address seminars in fiscal 
+2009, under such themes as “Presentation 
+skills to communicate with more people” and 
+“Creating value with people with disabilities 
+as a starting point.”
+E-mail
+Phone
+Fax
+* Universal design
+Design aiming for ease of use 
+by all people, irrespective of 
+age, gender, nationality and 
+disability status.
+Related website: FairCast Child Safety Communication 
+Network (Japanese only)
+ 
+http://www.faircast.jp/
+FairCast Child Safety Communication Network
+More than ever before, child safety has become a significant issue in local 
+communities. We have focused on a school communications network, and 
+provide the FairCast Child Safety Communication Network to address such 
+concerns. The network fosters contact with parents, teachers, local government 
+officials and others, emphasizing accurate, swift and fair communications. 
+To address concerns that people with hearing difficulties can only receive 
+information by fax or that some families are limited to fixed-line telephone 
+communications, FairCast offers various communication media such as email 
+and voice and fax messaging.
+In October 2008, FairCast won the Good Design Award 2008 in recognition 
+of its independence of user access methods, effectiveness of information 
+provision and ease of operation.
+Furthermore, FairCast was praised for its effectiveness in communicating 
+about temporary class closings due to the outbreak of swine flu last spring.
+With Our Customers
+NTT DATA and Its Stakeholders
+NTT DATA CSR Report 2009

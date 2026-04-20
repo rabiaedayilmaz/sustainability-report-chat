@@ -1,0 +1,314 @@
+Initiatives
+Planned Initiatives
+Major Initiatives Undertaken during Fiscal 2011
+Paradigms for Society and Regional Communities
+Developing Systems that Are 
+Safe and Secure 
+See page 19
+Quality Improvements
+Improve processes to which CMMI has 
+• 
+been incorporated.
+Develop and promote adherence to unified 
+• 
+rules for development and management 
+methods and development procedures.
+Achieved CMMI Level 3 and Level 5 at several organizations, including NTT DATA and Group 
+• 
+companies.
+Created development and management methods reflecting unified rules, and deployed 
+• 
+companywide. 
+Held briefing and training sessions at Group companies on TERASOLUNA development procedures.
+• 
+Quality of Security
+Continue to develop technologies to raise 
+the quality of security.
+Liaised with CSIRT in Japan and overseas, created system to allow the early receipt of information. 
+• 
+Began offering a security service for IT services employing smart devices.
+• 
+Disaster 
+Countermeasures
+Investigate and improve business continuity 
+plans (manuals and disaster training).
+Conducted drills on responding to earthquakes and new strains of flu, and upgraded action manuals. 
+• 
+Responded to the Great East Japan Earthquake. (Established Disaster Countermeasures Headquarters, 
+• 
+maintained operation of customers’ systems.)
+System Failure 
+Countermeasures
+Continue to concentrate on initiatives 
+focused on prevention and response.
+Ensured thorough project management, in the event of failure conducted cause analysis and shared 
+results and conducted thorough internal audits. (In the past three years, major system failures have 
+remained extremely rare.)
+Developing People-Friendly 
+Systems
+See page 20
+Universal Design 
+Promotion
+Improve ease of use, including system use 
+• 
+environments.
+Cultivate skilled universal design personnel.
+• 
+Created a checklist for creating web screens designed for smartphone access.
+• 
+Five employees gained Human Centered Design Specialist system recognition. (Accredited personnel: eight)
+• 
+Made training in universal design an element of young employee training program.
+• 
+Improving Customer 
+Satisfaction
+See page 20
+Initiatives for 
+Improving Customer 
+Satisfaction
+Aim for an average overall evaluation of 7.1 
+in a customer satisfaction survey through 
+questionnaires.
+Carried out a customer satisfaction survey through 265 questionnaires spanning 146 customers and 
+held interviews with 45 customers, with the overall average evaluation attaining 7.3 points.
+Contributing to Regional 
+Communities and Society as 
+a Whole
+See page 21
+Using IT to Resolve 
+Social Issues
+Develop and provide IT systems that resolve 
+social issues.
+Began providing the BizPICO identification service using IC-equipped drivers licenses.
+• 
+Offered platform for medical information linking, thereby supporting the sharing of information 
+• 
+among multiple medical institutions.
+Promotion of Social 
+Contribution Activities
+Promote employee volunteer participation. 
+Promote groupwide activities.
+Conducted groupwide activities (participated in the BOOKS TO THE PEOPLE Project, collected 
+• 
+donations for victims of the Great East Japan Earthquake).
+Promoted employee volunteer activities and cultivated atmosphere of volunteerism through the 
+• 
+Social Contribution Award and other systems.
+Paradigms for People at Work
+Hiring and Promoting 
+Diverse Human Resources 
+See page 25
+Personnel Recruitment 
+and Deployment
+Expand work opportunities for people with 
+disabilities.
+Expanded areas of employment and number of people employed at special subsidiary 
+(Ratio of recruitment of people with disabilities: 1.95%).
+Respect for Human 
+Rights
+Promote educational and awareness 
+activities.
+Placed people in charge of promoting human rights awareness activities at NTT DATA organizations 
+• 
+and Group companies.
+Held workplace seminars for all Group employees (in Japan).
+• 
+Fair Assessments and 
+Treatment
+Reflect “spirit of contribution” in employee 
+evaluations.
+In addition to successes and performance, introduced system to evaluate employees based on their 
+contribution to other people and departments.
+Employee Work-Style 
+Innovation 
+See page 26
+Creating a 
+Comfortable Working 
+Environment
+Promote diversity management.
+Promoted awareness through forums, seminars and portal site.
+• 
+Began formal operation of discretionary labor system and revised childcare and nursing care 
+• 
+systems in accordance with legal amendments.
+Health Promotion and 
+Enhancement
+Promote workplace reforms to reduce 
+• 
+annual number of working hours.
+Support healthcare at workplaces.
+• 
+By encouraging employees to take two continuous weeks’ holiday and posting positive examples 
+• 
+of workplace reforms at individual workplaces on our intranet, reduced average annual working 
+hours by 12 hours (0.6%), and the number of employees working more than 2,300 hours fell 1.1% 
+compared with the previous fiscal year.
+Reinforced support systems at Group companies (integrating medical checkups, etc.). 
+• 
+Employee Satisfaction Promote work-style innovation and make 
+career paths “visible.”
+Promoted awareness of work-style innovation throughout the Group by holding a seminar on the 
+topic at Group companies. Encouraged Group companies to introduce the Professional CDP system.
+Human Resource Cultivation
+See pages 14,28
+Employee Skills 
+Development
+Cultivate human resources who are highly 
+specialized and flexible.
+Promoted the introduction of the Professional CDP system at Group companies, including overseas companies.
+• 
+Set up a system to cultivate global human resources.
+• 
+Cultivation of 
+Next-Generation IT 
+Personnel
+Expand next-generation educational 
+activities.
+Expanded work experience programs targeting elementary and junior high school students, 
+sponsored the International Olympiad in Informatics and continued to support the education of IT 
+professionals. 
+Building Strong Supplier 
+Relationships
+See page 29
+Fair Transactions
+Promote ongoing employee training.
+Conducted training on the appropriateness of consignment contracts and conformance with the 
+Act Against Delay in Payment of Subcontract Proceeds, Etc. to Subcontractors.
+Enhancement of 
+Communications
+Create development environments and 
+cultivate personnel through ongoing 
+dialogs.
+Held ongoing BP Presidents’ Meetings (36 participated).
+• 
+Held Liaison SE training (nine times at seven cities in three countries, attended by 294 people). 
+• 
+Began training targeting SEs at offshore development sites (200 people attended).
+Paradigms for the Global Environment
+Environmental Management
+See page 33
+Environmental 
+Management Promotion
+Introduce groupwide collaboration 
+promotion system.
+Expanded scope of ISO 14001 Group certification (two new companies).
+The Greening of Customers 
+and Society
+See page 36
+Reduction of the 
+Environmental Impact 
+of Society through IT
+Promote the measurement of CO2 reduction 
+by implementing systems (20 Environmental 
+Label certifications).
+Held internal training sessions on the measurement of environmental impact (two times).
+• 
+Conducted system measurement (17) and received three Solution Environmental Labels.
+• 
+Expansion of 
+Environmental 
+Solutions Provision
+Expand sales in the environmental solution 
+business (¥5.0 billion per year).
+Launched the Smart Business Promotion Office as the organization to promote the smart 
+• 
+community business.
+Began creating electric vehicle charging infrastructure and providing cloud services.
+• 
+The Greening of Our Group
+See page 38
+Greenhouse Gas 
+Emission Reduction
+Reduce emissions by 10% of fiscal 2006 
+figures in terms of basic units of sales.
+Introduced EneMotta to make office power consumption “visible” and adjusted air conditioner 
+settings at data centers, reducing emissions 9.9% compared with fiscal 2006 figures.
+Waste Reduction
+Reduce final disposal amount by 12% 
+compared with fiscal 2009 levels.
+By introducing system for the reuse of OA equipment, reduced final disposal amount by 14%, 
+compared with fiscal 2009 levels.
+Reduction of Copy 
+Paper Purchased
+Reduce purchased quantity by 15% of fiscal 
+2009 figures.
+Reduced quantity by 19.5% compared with fiscal 2009 levels by holding paperless meetings and 
+optimizing printer layouts. 
+Environmental Contributions 
+and Communications
+See page 38
+Environmental 
+Contribution Activities
+Increase participation in environmental 
+contribution activities (target: 800 people).
+Held events (at 10 locations throughout Japan) for conducting surveys of exotic waterside species. 
+Also continued community clean-up activities and Tokyo Greenship Action. Participating Group 
+employees and family members totaled 1,244.
+CSR Infrastructure
+Corporate Governance
+See page 40
+Construction of an 
+Internal Control 
+System
+Reinforce systems and cooperation, aiming 
+for promotion of a groupwide internal 
+control system.
+Conducted audits (21 organizations in Japan; 32 Group companies, including those overseas), 
+enhanced internal audits for case that occurred (see page 41) and conducted e-learning related to 
+internal control.
+Reinforcement of 
+Group Governance
+Create and reinforce global Group 
+governance system.
+Applied and entrenched Group Management Policy and Group Management Rules.
+• 
+Created unified and efficient operational structure for overseas business.
+• 
+Compliance
+See page 41
+Code of Ethics and 
+Thorough Compliance
+Thoroughly prevent recurrence of legal 
+• 
+violations.
+Carry out thorough compliance education.
+• 
+Responded decisively and promptly to prevent recurrence of case that occurred (see page 41).
+• 
+Conducted group training (managers) and compliance assessments (all employees).
+• 
+Risk Management
+See page 42
+Groupwide Risk 
+Management
+Continue creating risk management 
+structure to meet demands of globalization.
+Promoted risk management through communication among individual departments and Group 
+companies in Japan and overseas. (Performed risk management with regard to major risks and 
+monitored and supervised implementation status.)
+Information Security
+See page 43
+Reinforcement of 
+Information Security 
+Management
+Create information security management 
+system that meets demands of 
+globalization.
+Created system to provide unified response on information security incident.
+• 
+Established groupwide monitoring system, training system and internal audit system.
+• 
+Conducted web security training (in Japanese and English, attended by 14,197 people at 60 companies).
+• 
+Dialog with Shareholders and 
+Investors
+See page 44
+Improved 
+Communication
+Further develop interactive IR activities.
+Conducted survey of all shareholders (approximately 5,000 respondents).
+• 
+Responded to queries from investors and analysts (approximately 300 queries).
+• 
+Major Initiatives during Fiscal 2011 and Future Plans
+16 NTT DATA CSR Report 2011

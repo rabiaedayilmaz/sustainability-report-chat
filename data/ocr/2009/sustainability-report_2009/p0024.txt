@@ -1,0 +1,159 @@
+NTT DATA formulated Fair Transaction Rules 
+in May 1997, compiling laws, rules, action 
+guidelines and other compliance directives 
+for transactions and contracts with 
+customers and suppliers, making revisions 
+as appropriate.
+We have posted our Procurement 
+Policy on our website. We also formulated 
+rules outlining the responsibilities 
+of purchasing officers, selection and 
+certification methods for new suppliers, 
+international procurement procedures 
+and other items. We plan to discuss and 
+publicize purchasing measures and policies 
+and to share information at meetings with 
+Group companies.
+Thoroughgoing
+Fair Transactions
+Compliance rules for transactions 
+and contracts
+Promoting electronic purchasing to 
+encourage openness and efficiency
+We began NTT DATA Electronic Purchasing 
+Contracts*1 in December 2006 to convert 
+written contracts to electronic documents 
+with electronic signatures and network-based 
+transmission and reception.
+NTT DATA Electronic Purchasing 
+Contracts offer several benefits to NTT 
+DATA and its suppliers, such as higher 
+efficiency and reduced managerial burden 
+and environmental impact. Accordingly, we 
+hold periodic briefing sessions to promote 
+the system. As a result, the number of 
+Striving to eliminate retroactive 
+contracts to ensure fair transactions
+On April 1, 2004, the Act against Delay in 
+Payment of Subcontract Proceeds, Etc. to 
+Subcontractors was amended to include 
+the information service sector. To ensure 
+compliance, NTT DATA has begun regularly 
+reporting at in-house meetings the status 
+of retroactive contracts and promoting 
+reduction measures.
+In addition, we conduct ongoing 
+training for all Group corporate officers and 
+employees to ensure that they understand 
+the Act’s intents and purposes, as well as 
+the obligations and prohibitions placed on 
+primary contractors.
+Educating employees about 
+appropriate transactions with 
+overseas subcontractors
+NTT DATA promotes offshore development by 
+outsourcing system development and other 
+activities to Chinese, Indian, Vietnamese and 
+other firms, with outsourcing volume growing 
+each year.
+The Company hosts Overseas 
+Order Seminars to highlight appropriate 
+transactions and to share development case 
+studies and meetings to facilitate information 
+liaison and sharing between departments. 
+In fiscal 2009, we held four Overseas Order 
+Seminars and 12 Overseas Order Promotion 
+Liaison and Coordination Meetings.
+Moreover, we organize a liaison meeting 
+with overseas contractors once each quarter 
+to reinforce collaboration and receive 
+employees to support their technical training.
+transactions rose from 16,720 during fiscal 
+2008 to 20,493 in fiscal 2009 and continues 
+to grow.
+This system ensures high security by 
+applying NTT DATA’s CECTRUST, Electronic 
+Contract Service*2.
+NTT DATA
+Electronic Purchasing Contracts
+NTT DATA
+Suppliers
+(1)
+Contract
+documentation
+and order
+processing
+(3)
+Contract
+(electronic
+signature)
+Contract
+(2)
+Receipt of
+contract
+(4)
+Conﬁrmation
+of contract
+content and
+ﬁnal processing
+Contract
+Electronic
+contract database
+Operational Procedure Following the Introduction of
+NTT DATA Electronic Purchasing Contracts
+*1 NTT DATA Electronic 
+Purchasing Contracts
+This electronic system 
+offers an alternative to 
+written contracts. It can 
+be introduced by all 
+suppliers, but is restricted 
+to documentation for which 
+electronic contracts are 
+legally recognized.
+*2 CECTRUST, Electronic 
+Contract Service
+This ASP service enables 
+electronic exchange 
+of contracts between 
+companies. It was 
+jointly developed with 
+Construction-ec.com Co., 
+Ltd., based on NTT DATA’s 
+SecurePod (a Digital 
+Document Exchange 
+Platform), in accordance with 
+the official recognition of 
+electronic legal documents 
+under the April 2001 IT 
+Comprehensive Law.
+The service ensures safety 
+through long-term storage 
+and third-party verification 
+of original documents.
+We promote open and fair transactions with suppliers and communicate to maintain quality and support 
+technological advancement, aiming for mutual development.
+Procurement Policy
+Our purchasing transactions 
+are based on three policies.
+1. The Company shall carry 
+out open and transparent 
+purchasing with due 
+consideration to business 
+needs.
+2. We shall provide 
+opportunities for 
+competition to suppliers, 
+regardless of whether 
+they are from Japan or 
+overseas.
+3. The Company shall 
+procure competitive, 
+appealing products that 
+are attuned to business 
+needs on a global basis 
+and in accordance with 
+market principles.
+NTT DATA and Its Stakeholders
+With Our Suppliers
+NTT DATA CSR Report 2009

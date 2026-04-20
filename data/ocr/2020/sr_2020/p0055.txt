@@ -1,0 +1,83 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Physical Risks 
+With regard to the physical impact caused by climate change, there is a risk that abnormal weather events, such as large 
+typhoons, flooding, heat waves and torrential rains, could shut down the power supply to data centers, while flooding and 
+lightning could halt operations at data centers. 
+ 
+ Risk 3: Data center shutdown due to abnormal weather 
+ 
+ 
+Large typhoons, floods, heat waves, torrential rains and other abnormal weather events increase the risk of data center 
+operational shutdown due to power outages, flooding and lightning strikes. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+Some 50% or more of the NTT DATA Group’s sales are connected to its data centers, and its main data 
+centers are located on middle latitudes in the northern hemisphere, which are frequently experiencing 
+heavy rainfall due to climate change. Due to these unique characteristics, the suspension of operations 
+at our data centers could have severe impacts on our business and could negatively impact large-scale 
+systems that support social infrastructure, such as financial and medical services. Accordingly, operational 
+suspensions at our data centers carry the risk of causing enormous damage to society at large. 
+With these factors in mind, the NTT DATA Group has equipped its data centers with in-house 
+emergency generators in readiness for power outages. However, if these generators, which are located 
+underground, stop operating due to flooding, there is a risk that our data center business continuity could 
+be jeopardized. Operation of our data centers could also be interrupted by equipment malfunctions caused 
+by lightning strikes. One day of operational suspension would result in approximately ¥3.2 billion in lost 
+sales (calculated based on the daily sales rates of services provided through our data centers). In reality, 
+we would suffer further damage, such as a decline in trust, so this figure is actually the minimum estimated 
+value. 
+ 
+Measures 
+and costs 
+We have been taking various measures to avoid these risks, such as 1) identifying and implementing 
+flood prevention works at data centers where basements present high flood risk based on municipal 
+hazard maps, 2) establishing backup data centers in multiple locations and 3) replacing lightning rods at 
+15 NTT DATA buildings nationwide. In fiscal 2017, we conducted BCP drills in preparation for disasters, 
+including natural disasters caused by climate change and other factors. We also reconsidered our fuel 
+and water requirements and strengthened our procurement methods. In fiscal 2018, we conducted BCP 
+drills with a scenario where a disaster occurs outside weekday daytime hours. We also introduced a webbased system for building-specific disaster management. The system collects, manages and shares 
+information on disaster countermeasures that can be accessed from home or mobile phones and shared 
+by all concerned parties. In fiscal 2019, we conducted BCP training during the winter months with the 
+scenario of a late-night disaster. 
+The annual cost of renewing our air-conditioning systems to reduce power consumption and prevent 
+the shutdown of in-house power generation at data centers in the event of a disaster is around ¥1.2 billion 
+(minimum assumed cost). 
+ 
+ Risk 4: Increase in operating costs due to rising average temperatures 
+ 
+ 
+Operating costs will increase in line with rising average temperatures. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+The NTT DATA Group has 17 data centers in Japan and others around the world, mainly in mid-latitude 
+regions of the northern hemisphere, such as Europe and the United States, where average temperatures 
+are rising significantly due to climate change. These rising average global temperatures carry the risk of 
+increasing our operational costs. 
+We estimate that a 1.0°C rise in temperature would increase electricity consumption at our data 
+centers in Japan by around 4.5 million kWh, resulting in an annual increase in energy costs of around ¥70 
+million. 
+ 
+Measures 
+and costs 
+To address these types of risk, we are switching to high-efficiency electrical and air-conditioning systems 
+while improving the operation of air-conditioning, lighting and other shared systems. At the NTT DATA 
+Mitaka Building, for example, in addition to the above measures, we reduced electricity consumption by 
+around 30% compared to existing data centers by installing a photovoltaic power generation system and 
+a high-voltage direct current (HVDC) power supply system. In 2018, moreover, we completed construction 
+of Mitaka Data Center EAST, which incorporates an outside air-cooling system that utilizes photovoltaic 
+power generation and natural energy (outdoor air during the spring, fall and winter). The cost of upgrading 
+facilities and enhancing operations at all NTT DATA Group data centers in Japan totaled around ¥600 
+million from fiscal 2017 to fiscal 2019. 
+ 
+ 
+ 
+ 
+Time horizon: Short term 
+Time horizon: Long term

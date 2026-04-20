@@ -1,0 +1,79 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Promoting a Circular Economy through 
+Co-Creation with Clients
+We leverage our digital technologies to advance the circular economy for clients and 
+society as a whole, including initiatives such as building supply chain systems using 
+blockchain and enhancing industrial waste management through AI and IoT.
+ 
+In addition, drawing on our expertise in data utilization and experience in building 
+and operating cross-industry data-sharing platforms, we are working to implement 
+data-sharing infrastructures across various countries and industries. In Japan, we have 
+launched a traceability platform for storage batteries and are developing a chemical 
+substance traceability management system. By securely and seamlessly connecting 
+upstream and downstream supply chains, these platforms enable companies to share 
+material information and promote the use of recycled materials, contributing to the circular use of resources. These platforms conform to the Ouranos Ecosystem led by the 
+Ministry of Economy, Trade and Industry and are being promoted as initiatives that span 
+companies and industries. 
+SAF* Supply Chain Platform to Enable a Circular Economy
+The aviation industry is a significant emitter of GHGs and is under strong pressure to 
+achieve carbon neutrality. One key solution is sustainable aviation fuel (SAF), which can 
+substantially reduce GHG emissions compared to conventional jet fuel. Although the 
+development and production of domestically produced SAF are being promoted at the 
+national level in Japan, challenges remain in lowering production costs and securing 
+stable feedstock supply. Moreover, it is necessary to build a supply chain that considers 
+the marketing of co-products such as biodiesel and naphtha, and to establish information- 
+sharing and inspection systems that make it easier to obtain relevant certifications.
+ 
+To tackle these challenges, we are developing an integrated system that manages 
+everything from raw material procurement to refining and sales, ensuring consistent 
+quality throughout. In particular, by utilizing locally generated waste cooking oil and 
+establishing a “locally sourced, locally consumed” supply chain that completes procurement, production, and consumption within the region, we aim to reduce environmental 
+impact through shorter transportation distances while also stimulating the local economy.
+Moreover, we are creating a digital platform that connects all stakeholders—including 
+upstream suppliers, airlines, feedstock producers, and collectors—on a single system, 
+enabling seamless cross-process integration. This platform is designed to increase transparency across the entire supply chain and support the acquisition and maintenance of 
+necessary certifications.
+ 
+To achieve this, we are conducting evaluations, analyses, and effectiveness assessments 
+of early-stage domestic* production at multiple demonstration sites, including the Aichi 
+Prefecture Decarbonization Project launched in January 2025. Through these efforts, we 
+aim to accelerate real-world implementation and, over time, expand similar models globally—particularly across Asia—contributing to both a circular economy and carbon neutrality.
+* SAF (Sustainable Aviation Fuel): A sustainable aviation fuel used by the aviation industry to reduce environmental impact. It is primarily 
+produced from renewable resources or waste, and significantly lowers CO₂ emissions compared to conventional fossil fuels.
+ Selected as part of the Aichi Prefecture decarbonization project for the development of a locally sourced, 
+locally consumed SAF supply chain | NTT DATA GROUP (NTT DATA Sustainability Report Case Book)
+Support “Collection”
+Support “Production”
+Support “Use”
+Supporting the collection of raw 
+materials such as used cooking 
+oil, urban waste, agricultural 
+products, and forestry residues
+Supporting the crediting and 
+trading of environmental value 
+(Book and Claim)
+Support Platform
+Supporting sustainability 
+certification 
+(CORSIA certification)
+Produce SAF
+Use SAF
+Collect raw 
+materials
+OIL OIL
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Circularity

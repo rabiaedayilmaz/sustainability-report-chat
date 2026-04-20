@@ -1,0 +1,108 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Enabling Streamlined Payment Operations and Secure, Reliable Payment Services Through 
+ServiceNow
+SOPaymentSpoke
+Smart X
+Co-Innovation
+Community
+Engagement
+Future of
+Work
+• The global e-commerce market is on an upward trend in terms of net sales. Growth in Japan is expected to be around 6-8% annually. There is a demand for services that offer high
+convenience and security for consumers. (Source: 2024 White Paper on Information and Communications in Japan)
+• Cashless payments, such as credit cards and QR codes, enhance convenience for users. However, they also present challenges, including rising fraud, data breaches, and the need for
+regulatory compliance in global transactions.
+Business need
+The rise of remote work and work style reforms has
+accelerated the digital transformation of workflow tasks, such as
+electronic approvals and stamping processes. SaaS* has
+become essential for implementing this digital shift and reducing
+associated costs. ServiceNow®, provided by ServiceNow, Inc.,
+is a service that standardizes and automates tasks through
+digitalworkflows. It is widely used acrossmany industries.
+As the e-commerce market grows, there is increasing demand
+in operational areas that interact with end users to use
+ServiceNow
+for
+processes
+including
+payment
+handling.
+However, integration with existing external payment solutions is
+essential. This brings a range of challenges, including increased
+costs associated with contract procedures and the development
+of integration modules, as well as ensuring user-friendliness.
+Solution
+NTT DATA pioneered the internal use of ServiceNow in
+Japan in fiscal 2016 and has have partnered with many
+Japanese firms to help them implement ServiceNow since
+fiscal 2020. To address challenges in payment operations,
+NTT
+DATA
+Financial
+Technology
+spearheaded
+the
+development of SOPaymentSpoke. Launched in August 2024,
+this extension facilitates seamless payments on ServiceNow.
+NTT DATA’s payment service Omni Payment Gateway® has
+been integrated with ServiceNow. This integration embeds
+credit card payment features into portals and catalogs built on
+the ServiceNow platform. This enables a seamless purchase
+experience for products and services, covering processes
+from searching, application submission and contract signing
+through to payment, greatly enhancing user convenience.
+This feature can be widely used for any payment-related
+operations on ServiceNow, regardless of industry or sector.
+Examples include retailers planning to build e-commerce sites,
+businesses or public entities operating websites that accept
+online applications for paid services, and service providers
+engaged in crowdfunding.
+When implementing the feature, NTT DATA, which has
+extensive experience in optimizing UI/UX from the user's
+perspective on ServiceNow, serves as the sole point of
+contact to facilitate the integration of payment functions and
+the establishment of contracts with various payment providers,
+such as credit card companies.
+In addition, NTT DATA’s payment information processing
+ensures high reliability and security.
+Going forward, NTT DATA will gradually support payment
+services beyond credit card transactions, offering higher value
+services to businesses involved in payment operations in
+order to enhance convenience for companies in the growing ecommerce market.
+*SaaS (Software as a Service):
+Software that can be used online without installation, or the service
+model
+for
+such
+software.
+This
+includes
+web-based
+email,
+conferencing tools, and business chat tools accessed through a web
+browser.
+Impact
+Number
+of
+non-ServiceNow
+screen operations visible to users
+
+(Excluding screen operations when additional authentication from 
+the credit card company occurs)
+NTT DATA ×
+ServiceNow
+(in Japanese only) 
+ServiceNow Store 
+SOPaymentSpoke 
+(in Japanese only) 
+NTT DATA FINANCIAL 
+TECHNOLOGY CORPORATION
+NTT DATA Japan Corporation
+Digital Success Solutions Division Solutions Sector
+Card＆Payments Services Division Payment Services Sector

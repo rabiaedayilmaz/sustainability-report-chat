@@ -1,0 +1,120 @@
+Establishment of the Forensic Laboratory 
+to Scientifically Analyze Evidence of 
+Unauthorized System Entry
+Various Activities Centered on the 
+Consortium for Applied Neuroscience (CAN)
+Key Achievement
+Using state-of-the-art scientific study to identify 
+cybercrimes and preserve evidence
+Provide comprehensive security, 
+from the minimizing of damage to 
+after-the-fact legal compliance
+Key Achievement
+Understanding the human mind and subconscious 
+decision making through state-of-the-art 
+neuroscience
+Confronting the challenges of 
+creating a spiritually rich and 
+interactive future society
+ Changes in the Security Environment Surrounding Companies
+ Forensic Laboratory Activities
+ What We Mean by Applied Brain Science
+１．Evidence Preservation/Collection/Analysis Methods, 
+Development of Techniques and Tools 
+Collection of electronic trails left by cyber-attacks, development of scientific 
+research methods and techniques to treat such trails as evidence, for example 
+in a court of law
+2. Securing of Legal Proof, Investigative Research for Proof 
+Disclosure Requests 
+Based on precedents in Japan and other countries, study mechanisms to 
+secure proof that make legal sense
+In recent years, cyber-attack methods have become 
+increasingly sophisticated. Frequently the result of 
+internal crime that utilizes legitimate access rights, these 
+attacks are causing widespread damage to society. 
+Furthermore, against the backdrop of attacks that are 
+becoming ever larger in scale, cases that serve as a 
+stepping stone to insidiously attack others are becoming 
+a frequent occurrence.
+Centered on its Computer Security Incident Response 
+Team (CSIRT), the NTT DATA Group has taken steps to 
+provide its clients with IT system operations and monitoring 
+as well as rapid countermeasures to help provide an 
+appropriate response should such an incident occur. In 
+2013, the newly established Forensic* Laboratory took these 
+efforts one step further. In addition to analyzing the modus 
+operandi of any attack, preserving any evidence, preventing 
+a recurrence, and helping in recovery efforts following 
+damage, the Group has started to accumulate analysis 
+techniques that will assist in promoting accountability to 
+society as well as legal compliance.
+* Forensics (digital forensics): When a security incident, legal dispute, or litigation occurs, 
+forensics refers to the gathering of electronic evidence relating to any wrongdoing. It also 
+encompasses the scientific investigation methods and techniques required to handle 
+such evidence, for example in a court of law.
+Recognized as the primary organ that governs human 
+emotion and thought, the brain has been a focus of study 
+since time immemorial. Particularly in recent years, the 
+evolution of information processing, measuring and other 
+technologies has enabled the visualization of the brain while 
+also leading to dramatic progress in research into the mind.
+In response to these developments, NTT Data 
+Institute of Management Consulting, Inc. presides over 
+the Consortium for Applied Neuroscience (CAN), creates 
+industry-academia forums through which neuroscience 
+and psychology research scholars, active at the forefront 
+of their respective fields, jointly conduct R&D with 
+companies, and facilitates the industrial applications of 
+neuroscience. For example, taking such human traits as 
+preference and memory, and their relationship with 
+marketing, CAN is continuing to confront wide-ranging 
+challenges while achieving results. By having CAN’s 
+Neuro Preference Research Group clarify systems through 
+physiological experiments and brain measurements, and 
+monitoring human stress and emotions by studying the 
+relationship between brain activity and hormones, CAN 
+sponsored the “Comfortable Brain Research Group” with 
+the aim of revolutionizing product evaluation and 
+development methods.
+Centered on 
+prevention/defense
+Rapid detection/
+recovery
+Presentation of 
+evidence as victim
+Response under 
+normal circumstances
+Proof that one is 
+not the perpetrator
+Legal compliance, 
+such as civil litigation, 
+e-Discovery
+Response when 
+incident arises
+Existing
+In the future
+Inward response
+Increased 
+necessity
+ for forensics
+Develop research related to mental activity, including cognitive, 
+behavioral, memory, thought, and volition activity
+Combine with a variety of fields of research, including economics, 
+sociology, physiology, and cognitive psychology
+Graphics are images
+In addition to medical and welfare fields, expand applied
+ neuroscience research into economic and industrial fields
+Brain analysis image by NIRS 
+(Photo courtesy of Shimadzu 
+Corporation)
+Brain analysis image by fMRI 
+(Photo courtesy of ATRPromotions, Inc.)
+Brain analysis image by EEG
+ (Photo courtesy of Brain 
+Functions Laboratory, Inc.)
+Advances in brain visualization techniques, a fundamental technology
+NTT DATA CSR Report 2014 18
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

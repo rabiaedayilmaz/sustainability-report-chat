@@ -1,0 +1,107 @@
+The Greening of Our Group
+We are promoting efficient use of energy and 
+resources and an array of other measures to 
+reduce the environmental impact posed by 
+our offices and data centers.
+Delivering Environmental Solutions
+RemoteOne playing a central role in BEMS
+Initiatives for Global Warming Prevention
+Constructing Next-generation Offices 
+to Bolster Business Efficiency and Environmental Performance
+As an element of work-style innovation, from fiscal 
+2010 we have been moving forward with hot-desking 
+and using video-conferencing to enhance the office environment and boost work efficiency as part of our Nextgeneration Pilot Office Construction Project.
+ 
+In fiscal 2012, we constructed next-generation offices 
+covering approximately 3,000 m2 in the Toyosu Center 
+Building (NTT DATA’s head office building) and the 
+Toyosu Center Building Annex (one of NTT DATA’s main 
+office buildings). Verifications of the aforementioned 
+concepts at these offices are ongoing. 
+ 
+In these next-generation offices, we optimized 
+working spaces to make them more efficient. To achieve 
+this, we implemented a variety of initiatives. These 
+include expanding the floor space per room compared 
+with our conventional offices, which have been demarcated according to organizational unit, consolidating 
+servers at data centers, introducing hot-desking, and 
+promoting paperless operations. This made space for 
+additional staff members, who moved in from a leased 
+building. This allowed us, as a matter of course, to not 
+only cut administrative costs but also CO2 emissions.
+ 
+We plan to convert 60% of all existing office space 
+(equivalent to around 65,000 m2) in these two buildings 
+to next-generation offices by fiscal 2014. This measure 
+is expected to effectively cut power consumption by 782 
+MWh/year (in the case of a space reduction of approximately 20,000 m2).
+Main measures for CO2 reductions
+Electricity usage
+Paper usage
+• Installing LED fluorescent tubes and illumination controllers
+• Limiting work areas during overtime and break time
+• Improving efficiency of work areas
+• Introducing laptop computers and thin client terminals
+• Promoting paperless operations by using mobile work and LCD monitors
+• Reducing the number of multifunction printers
+IEEE1888
+Data Storage
+Solar 
+battery
+Air-conditioning 
+system
+Block x
+Block y
+Fuel battery
+Rechargeable 
+battery
+(plan to address 
+in the future)
+GW
+GW
+GW
+GW
+GW
+GW
+IEEE1888 App
+Visualizing
+IEEE1888 App
+Message Generation
+IEEE1888 
+Communication 
+Management and analysis of data via the M2M Cloud
+IEEE1888 
+Communication 
+IEEE1888 App
+HVAC Control
+Airconditionings
+Lightning
+Power 
+Cloud-based Building Energy Management System: Helps Lower Environmental Impact
+In April 2012, the Tokyo Institute of Technology finished 
+construction of its Environmental Energy Innovation 
+(EEI) Building to house research into cutting-edge environmental energy technologies. NTT DATA Group technology is utilized in the building, which was designed to 
+reduce carbon dioxide emissions by 60% or more and 
+supply its own electricity needs. 
+ 
+Specifically, the energy-saving solution RemoteOne, 
+supplied by NTT DATA CUSTOMER SERVICE 
+Corporation, is built into the building’s concept. A key 
+technology in the Tokyo Institute of Technology Campus 
+Smart Grid, the service is a cloud-based solution that 
+integrates and optimizes control of operating environments where different telecommunications protocols 
+are in use, including power generating conditions of the 
+solar power system, existing facility energy data, and the 
+air-conditioning system’s electricity usage and monitoring information.
+ 
+The solution is recognized as a “Building Energy 
+Management System (BEMS) aggregator” by Japan’s 
+Ministry of Economy, Trade and Industry. Going forward, 
+NTT DATA will continue helping clients save energy by 
+utilizing this type of machine-to-machine (M2M) cloud 
+computing technology.
+NTT DATA CSR Report 2013 32
+Highlight 2013
+Third-party Opinion
+Who We Are
+Our Mission and Solutions

@@ -1,0 +1,138 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+IC North America
+IC Peru
+IC Germany
+IC Spain
+IC Italy
+IC Denmark
+IC Romania
+IC China
+IC Japan
+IC India
+IC Brazil
+Identifying advanced technologies that 
+will become mainstream in the future 
+at various locations and conducting 
+collaborative R&D with clients to create 
+new business opportunities
+Expansion since the establishment 
+in August 2022
+Number of locations: 6 
+
+Number of staff: 100 
+
+Agentic AI
+Agentic AI
+Generative AI
+Generative AI
+Clean Tech
+Clean Tech
+Blockchain
+Blockchain
+Digital Twin
+Digital Twin
+Brain Machine 
+Brain Machine 
+Interface 
+Interface 
+(BMI)
+(BMI)
+Technology 
+Technology 
+Verification 
+Verification 
+Themes
+Themes
+Materials 
+Materials 
+Informatics
+Informatics
+All Photonics 
+All Photonics 
+Network 
+Network 
+(APN)
+(APN)
+Utilization of 
+Utilization of 
+Satellite & Data
+Satellite & Data
+Smart 
+Smart 
+Robotics
+Robotics
+Digital 
+Digital 
+Human
+Human
+Quantum 
+Quantum 
+Computing
+Computing
+Global Activities of the Innovation Centers
+The Innovation Centers in 11 countries work collaboratively across global sites as hubs 
+for advanced technology development, focusing on technologies in growth and emerging domains. They identify technologies that are expected to become mainstream in 
+three to 10 years and create new business through co-creation R&D with clients. 
+ 
+In addition to a strategy group that formulates technology strategies, as of April 
+2025, approximately 260 experts—mainly researchers, consultants, and engineers—are 
+positioned across the 11 global sites to verify and apply technology themes selected 
+based on these strategies. Beyond promoting co-creation R&D with advanced clients, 
+they also collaborate with universities and start-ups to quickly gather leading local technology information and incorporate it into future technology strategies. By accelerating 
+the delivery of offerings based on advanced technologies, the Innovation Centers aim to 
+drive innovation in clients’ businesses.
+Transforming In-Store Shelf Insights through AI (MARS)
+MARS, Incorporated, a leading U.S. food manufacturer, needed to track and compare 
+sales, client satisfaction, store- and region-level market share, pricing, and product variations against competitors. In the EMEA region, they applied computer vision and AI to 
+in-store product recognition using Syntphony Perfect Store. Leveraging edge AI, approximately 400 products on shelves were analyzed instantly offline. This enabled tracking 
+MARS products’ movements relative to competitors and provided insights into price and 
+market share changes. Specifically, key performance indicators were calculated by store 
+and region to optimize product placement, assortment, and quantities. This approach 
+reduced the time required for in-store data collection and allowed maintenance at lower 
+operational costs. Integration with the sales force automation (SFA) solution enabled 
+detailed analysis, allowing the company to make decisions based on product placement 
+and pricing information and optimize shelf space.
+New Traffic Management Using Digital Technologies Aimed at 
+Optimizing Urban Road Traffic
+In recent years, advances in information processing technologies such as IoT and AI 
+have been remarkable. At the same time, leveraging these technologies allows existing 
+measures and services to evolve significantly. In road traffic services as well, technological progress is driving demand for services that enhance the user experience and 
+respond to social and diversity considerations. 
+ 
+As the first phase of this initiative, a demonstration experiment was conducted in the 
+Hanshin urban area during Expo 2025 Osaka, Kansai, Japan, providing experimental 
+services. This demonstration aimed to verify the usefulness of the experimental services 
+and examine the effects of behavioral changes resulting from their use. 
+Notes: 1. IOWN: The Innovative Optical and Wireless Network (IOWN) is a vision that surpasses the limits of existing infrastructure 
+through innovative technologies, optimizing both individual and collective outcomes based on all information, and aiming to 
+create a rich society that accommodates diversity. It provides high-speed, large-capacity communications and massive 
+computing resources through innovative optical-centered technologies, including a network and information processing 
+infrastructure capable of delivering these.
+ IOWN
+2. 4D digital platform™: A platform that collects various sensing data on people, goods, and events in real time, accurately 
+aligning and integrating four-dimensional information—latitude, longitude, altitude, and time—to enable data fusion with 
+diverse industrial infrastructures and future predictions. 
+ 4D digital platform
+3. Well-Moving Society: Refers to the envisioned society beyond this demonstration, where diverse mobility needs are met 
+individually while overall transportation flows smoothly.
+ NTT Group and Hanshin Expressway launch a demonstration experiment aimed at realizing a “well-moving” 
+mobility society (June 2025) (Japanese only)
+Innovation Center
+These centers in each region serve as hubs for advanced technology development, 
+bringing together innovation-focused talent.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Innovation through Technology

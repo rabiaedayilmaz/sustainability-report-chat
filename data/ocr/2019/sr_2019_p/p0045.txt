@@ -1,0 +1,87 @@
+NTT DATA
+Instruction
+Performance
+monitoring
+Report,
+analysis,
+and
+evaluation
+Development
+Improvements
+Instructions
+Clients
+Requirements
+Client Satisfaction
+Clients
+Rules, detailed rules, and corporate prescripts
+Segment prescripts
+Project prescripts
+Projects
+Improvements
+Improvements
+Improvements
+Companywide Quality
+Management
+Executive
+Corporate Quality
+Management
+Representative
+Segment, etc.
+Segment Quality
+Management
+Development
+Development
+Quality 
+Management
+Policy
+Review
+Products
+(Systems, Services)
+Project Planning
+▶︎ NTT DATA Quality Management System
+*3: CMMI is an approach managed by the CMMI Institute that expresses the level of maturity of the organization 
+undertaking system development on a five-point scale.
+Developing Safe and Secure Systems
+The bringing to fruition of systems and services that offer round-the-clock, year-round stability is a 
+key responsibility and forms the basis for providing services to clients.
+In realizing a social infrastructure that people feel safe and secure to use, the entire NTT 
+DATA Group is engaged in, for example, the gaining of certification under quality management 
+standards and the standardization of development and management methods. The Group is 
+working to provide services that are geared to raising system reliability.
+Initiatives to Improve Quality
+Building a Management System Based on ISO 9001 and Continuously Promoting 
+Improvement Activities
+NTT DATA obtained ISO 9001 certification—the international standard for quality management
+—on a Groupwide basis in 1998 and subsequently adopted a systematic approach for a quality 
+management system that is operational across the entire organization.
+Since fiscal 2007, to bolster the system on a Groupwide basis, NTT DATA has created 
+unified Companywide rules governing system development and management methods and 
+has clarified procedures for applying the rules. Further, in March 2010 we formulated an 
+implementation method to boost quality and productivity, which we have also deployed 
+Companywide, under our unified rules.
+NTT DATA quickly focused on making process improvements and enhancing the 
+transparency of system development, and incorporated Capability Maturity Model Integration 
+(CMMI)*³ into the formulation of development and operational standards. We have recognized 
+the importance of raising the standard of quality control at development sites, including those 
+of Group companies. We are therefore taking steps to roll out CMMI throughout the Group and 
+to share quality management-related information.
+As part of our global effort to enhance quality, we have deployed a quality assurance system 
+at Group companies overseas. With support from Japan, we have achieved CMMI maturity 
+level 2 in Romania. We continue to support process improvement utilizing CMMI to offshore 
+locations in China. Through regular opinion exchanges within Asia, we are working to raise 
+quality at overseas Group companies.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Social
+Social
+NTT DATA Sustainability Report 2019

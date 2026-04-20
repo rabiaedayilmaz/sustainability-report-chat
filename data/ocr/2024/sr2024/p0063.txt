@@ -1,0 +1,60 @@
+Specific Initiatives
+NTT DATA Group Corporation, NTT DATA Japan, NTT DATA, Inc. (Japan), and Group companies in Japan are advancing extensive system failure response measures based on the dual perspectives of prevention and response. 
+These measures include inspections based on a comprehensive perspective in line with the Information Technology Infrastructure Library (ITIL®), ISO 20000, and other standards, as well as deployment of response know-how at 
+the time of a failure and development of IT service managers. To ensure NTT DATA and Group companies’ business 
+continuity when a disaster occurs, we have formulated BCPs and regularly review education, training, and business 
+continuity planning. This is because each organization must be able to recover operations as quickly as possible 
+and restore business to standard levels in short periods.
+Response to Disaster Risks
+Basic Policy
+NTT DATA prioritizes the protection of human life during disasters. We aim to support the recovery of our clients, 
+households, and businesses while also contributing to the restoration and reconstruction of society through our 
+disaster response activities.
+Promotion System
+NTT DATA Group Corporation, NTT DATA Japan, NTT DATA, Inc. (Japan), and Group companies in Japan provide 
+numerous information systems and services that support social infrastructure. If any of these systems or services 
+go down or are interrupted in the event of a disaster, there would be serious impacts on society and people’s lives. 
+For this reason, we are developing and continuously improving business continuity plans (BCPs) to prepare for 
+disasters, as well as contingency plans for systems and services related to social infrastructure.
+ 
+Recently, as telecommuting has become one of the primary modes of work, we are advancing our response 
+measures for large-scale earthquakes and similar disasters.
+Management 
+promotion officer
+Representative Director, President and CEO of NTT DATA Group Corporation 
+Management 
+system
+● The Representative Director, President and CEO (who is the executive responsible for disaster responses) 
+determines the disaster countermeasure policies and actions.
+● The operations manager, the head of the Global Governance Division assisting the operations manager, and 
+the head of the Disaster Response Office establish the necessary processes for disaster management and 
+ensure the implementation and maintenance of those processes. They also spearhead planning, implementation, evaluation, and continuous improvement of disaster response processes at the Head Office Disaster 
+Response Headquarters.
+● At each business division, the head of the organization is responsible for planning, implementation, evaluation, 
+and continuous improvement of disaster response processes at the disaster response headquarters of the 
+division’s head office within the scope of his/her authority and duties.
+Plans and 
+frameworks
+● NTT DATA has developed disaster BCPs and contingency plans.
+● Implementation of various types of training to minimize disaster risk: In addition to Company-wide training, 
+such as safety confirmation training for all employees and the establishment of the Head Office Disaster 
+Response Headquarters, each organization conducts individual training according to its own requirements.
+Certifications
+(as of March 31, 2021)
+● BCMS certification according to the ISO 22301:2019 international standard
+● Proper facility maintenance such as that for data center buildings, electric power, air-conditioning systems, and 
+security systems is an important foundation for information system operations. Therefore, all NTT DATA’s 
+buildings have been certified for business continuity management. We also have systems in place to respond 
+to incidents such as large-scale earthquakes and wide-area power outages.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

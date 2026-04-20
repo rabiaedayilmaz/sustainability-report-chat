@@ -1,0 +1,73 @@
+Prioritization of Risks
+The Internal Control Committee, chaired by the Representative Director and Senior Executive Vice President, who 
+also serves as the NTT DATA Group’s CRO, defines key financial or strategic risks to our business operations.
+ 
+In selecting material risks, we classified around 100 nominated risks using a matrix consisting of two axes― 
+degree of impact (high, medium, low) and likelihood of occurrence (high, medium, low)―and defined material risks 
+(see figure at right). In fiscal 2022, we discussed this matrix at the Board of Directors, which subsequently defined 
+climate change as a material risk.
+ 
+In addition, the evaluation of climate change risks and opportunities is based on scenario analysis. Given 
+that climate-related risks and opportunities have a longer time horizon than other significant risks, they are 
+assessed not only by the Internal Control Committee but also by the Sustainability Committee from medium- to 
+long-term perspectives.
+Time Horizon
+Financial Impact
+Likelihood of 
+Occurrence
+Short 
+term
+FY2022–2025
+High
+Impact on net sales of ¥100 billion or more, 
+operating income of ¥10 billion or more, 
+or market capitalization of ¥10 billion or more
+Virtually 
+certain
+Medium 
+term
+FY2025–2030
+Medium 
+high
+Impact on net sales of ¥10 billion–¥100 billion, 
+operating income of ¥1 billion–¥10 billion, 
+or market capitalization of ¥1 billion–¥10 billion
+Very likely
+Long 
+term
+FY2030–2040
+Medium
+Impact on net sales of ¥1 billion–¥10 billion, 
+operating income of ¥100 million–¥1 billion, 
+or market capitalization of ¥100 million–¥1 billion
+Likely
+Low
+Impact on net sales of less than ¥1 billion, 
+operating income of less than ¥100 million, 
+or market capitalization of less than ¥100 million
+Unlikely
+Likelihood of Occurrence
+● is mainly defined as a material risk
+Matrix of Material Risk Selection
+High
+●
+●
+Medium
+●
+Low
+Low
+Medium
+High
+Financial Impact
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

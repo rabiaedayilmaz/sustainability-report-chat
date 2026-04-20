@@ -1,0 +1,163 @@
+Calculation Scope and Method
+Boundary
+Unit
+FY2020
+FY2021
+FY2022
+FY2023＊1
+➂
+t-CO2e
+1,833,665
+2,172,672
+1,935,854
+5,358,310
+➂
+t-CO2e
+7,241
+9,613
+14,018
+39,507
+t-CO2e (Location)
+170,807
+165,748
+165,792
+665,870
+    (Market)
+155,165
+130,066
+83,912
+307,009
+➂
+t-CO2e
+1,671,259
+2,032,993
+1,837,925
+5,011,794
+Category 1 Purchased Products and Services
+Calculated based on the number of units and monetary value of purchases of devices and
+services sold to customers
+➂
+t-CO2e
+782,868
+746,721
+717,508
+2,185,193
+Category 2 Capital Goods
+Calculation based on capital investment costs on telecommunications and other
+equipment
+➂
+t-CO2e
+211,494
+208,849
+182,471
+665,310
+Category 3 Fuel- and Energy-Related Activities
+Not Included in Scope 1 or 2
+Calculation based on annual consumption by energy type
+➂
+t-CO2e
+31,945
+27,124
+18,944
+445,271
+Category 4 Upstream Transportation and Distribution
+Calculation based on weight and distance, or number of devices with regard to the
+transport of devices sold to customers
+➂
+t-CO2e
+56,532
+52,966
+49,269
+52,411
+Category 5 Waste Generated in Operations
+Calculation based on volume of waste by type
+➂
+t-CO2e
+3,417
+3,944
+4,129
+2,709
+Category 6 Business Travel
+Calculation based on paid expenses for business travel
+➂
+t-CO2e
+20,292
+22,018
+45,063
+120,118
+Category 7 Employee Commuting
+Calculation based on paid expenses for employee commuting
+➂
+t-CO2e
+13,189
+30,912
+32,874
+62,206
+Category 8 Upstream Leased Assets
+Excluded from calculation
+➂
+t-CO2e
+
+Category 9 Downstream Transportation and Distribution
+Excluded from calculation
+➂
+t-CO2e
+
+Category 10 Processing of Sold Products
+Excluded from calculation
+➂
+t-CO2e
+
+Category 11 Use of Sold Products
+Calculation based on number of service subscriptions, number of devices, and monetary
+value of telecommunications services and devices used by customer
+➂
+t-CO2e
+455,556
+842,495
+709,613
+343,012
+Category 12 End-of-Life Treatment of Sold Products
+Calculation based on number of service subscriptions, number of devices and monetary
+value of communications devices used by customer
+➂
+t-CO2e
+2,170
+1,983
+1,925
+41,332
+Category 13 Downstream Leased Assets
+Calculation based on amount of electricity consumption such as equipment by other
+businesses
+Calculation based on average use of leased assets
+➂
+t-CO2e
+93,797
+95,981
+76,128
+1,091,178
+Category 14 Franchises
+Calculation based on total floor area of sales franchises
+➂
+t-CO2e
+
+Category 15 Investments
+Calculation based on Scope 1 and 2 emissions from data centers partially owned and
+operated by NTT Ltd. (with less than 50% ownership)＊2
+➂
+t-CO2e
+
+3,052
+*1 Before FY2022, all Group companies excluding NTT Ltd.
+*2 NTT Ltd., which was integrated into the NTT DATA Group in FY2023, previously adopted a management control–based approach for GHG calculations. 
+  However, with the integration, the approach has been changed to a ﬁnancial 
+Scope and Category
+➂
+Scope 3 (Indirect emissions from the value chain)
+Scope 2 (Indirect emissions from energy use)
+Scope 1 (Direct emissions)
+GHG emissions（Scope 1＋2＋3）
+Greenhouse Gas Emissions
+Environment
+
+NTT DATA Sustainability Report 2024  Data Book

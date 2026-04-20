@@ -1,0 +1,73 @@
+Since the COVID-19 pandemic in fiscal 2020, the average total working hours per employee have increased 
+compared with fiscal 2019, reaching 1,988 hours in fiscal 2023. The average total working hours over the four 
+years from fiscal 2020 to fiscal 2023 have remained stable. This situation is influenced by various factors, including 
+changes in work styles following the pandemic, an increase in business volume due to expansion, and the challenges in securing resources caused by greater employee mobility.
+ 
+Because constant long working hours have a significant impact on employee health, we are working to prevent 
+excessive working hours by using our BI platform (Tableau) to visualize the results of analysis of data related to working hours in a secure and timely manner and distribute them throughout the Company. Through position-based 
+training and our internal website, we motivate employees to reduce working hours by raising awareness about 
+the need for rationalizing working hours and embracing a shift in work styles. Since fiscal 2023, we have set 
+organization-specific targets for average total working hours and monitored performance quarterly in an effort 
+to reduce these hours. As a result of these efforts, we achieved an improvement of eight hours per person per year 
+compared with the previous fiscal year. We will continue these initiatives in fiscal 2024. 
+Enhancing Paid Leave Systems and Encouraging Their Use
+NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan), promote a work-life balance for employees by encouraging them to be proactive in taking paid leave, such as refreshment leave, anniversary leave, and 
+life planning leave. As a result, employees took an average of 16.2 days of paid leave per person, with an uptake 
+rate of 83.2% in fiscal 2023. We will continue to promote a balanced work style among our employees through 
+training and other initiatives.
+ [Reference page] Non-Financial Data “Internal System Users and Working Hours”
+Realizing a Highly Flexible Work Environment
+NTT DATA Group Corporation, NTT DATA Japan, and NTT DATA, Inc. (Japan), have established an environment that 
+allows for flexible work locations based on business processes and objectives. Since November 2022, we have 
+implemented a new system to support diverse work styles, embracing a hybrid work approach that combines both 
+in-person and remote work for the optimal mix. Under this hybrid work system, each organization discusses their 
+work-style reform policies based on the situation of their teams and projects, enabling them to choose service 
+systems and work styles that align with their business goals, incorporating both in-person and remote options. 
+The remote work rate for fiscal 2023 was 63.2%.
+ [Reference page] Non-Financial Data “Internal System Users and Working Hours”
+Future Workplace
+By creating an environment where employees can flexibly select a workplace and working hours based on business processes and objectives, we are transforming into a company where each individual can thrive more easily.
+Promoting Work-Style Innovation
+Our business is expanding, and securing a workforce has become a critical issue due to the increase in workload 
+and intensified competition for talent acquisition. On the other hand, we believe it is also essential to enhance 
+our workforce by creating an attractive company that fosters a comfortable work environment, allowing each 
+employee to feel fulfilled while working healthily and safely.
+ 
+In innovating work styles, our goal is for each employee to improve the quality of his or her work in the limited 
+time available, while also making effective use of the time created through reduced working hours for self-fulfillment 
+pursuits. We want every employee to continue growing and playing an active role in the Company, which will help 
+us create our strong competitive edge.
+ 
+We also aim to become “the company of choice in the labor market” by promoting diverse work styles that 
+allow employees to flexibly choose their work locations and hours according to their lifestyles, the establishment 
+of various leave systems, improvement of the working environment, and the implementation of welfare programs 
+that enable employees to maintain their health and continue to work with high motivation.
+Main Systems Supporting Flexible Work Styles
+Optimization of 
+Working Hours
+● Management and monitoring of total working hours targets
+● Enhancement and encouragement of paid leave systems
+Transformation of 
+Work Environment
+● Creation of a highly flexible work environment
+● Development of an internal portal site with advanced information accessibility
+Enhancement of 
+Human Resource Systems
+● Improvement of systems related to work styles
+● Enhancement of welfare programs
+Management and Monitoring of Total Working Hours
+Long working hours has been an ongoing problem in the IT industry, and NTT DATA Group Corporation, NTT DATA 
+Japan, and NTT DATA, Inc. (Japan), are working Company-wide to reduce total working hours based on proper 
+working hour management.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

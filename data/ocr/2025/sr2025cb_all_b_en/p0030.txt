@@ -1,0 +1,110 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+DATA INSIGHT:
+NTT
+DATA’s
+Future
+Vision
+–
+Taking
+on
+Challenges Through Engineering Capabilities
+and Competitiveness To Create New Value
+(in Japanese only)
+NTT DATA Group Corporation
+Technology and Innovation General Headquarters
+Global Architect Headquarters
+NTT DATA GROUP
+Elevating system implementation capabilities in terms of quality and scale to strengthen 
+DX and support social infrastructure
+Impact
+NTT DATA's "Proposal, Outcome, Implementation" model
+Business need
+Solution
+•
+Demand for IT is growing in numerous sectors of society. However, the breakneck speed of technological development is exacerbating the lack of IT talent, with the shortfall of IT professionals expected to be as high as
+790,000 by 2030.
+•
+Efficient, flexible system development is needed to enable businesses and wider society to respond to rapidly-changing environments and innovations in IT technology.
+•
+In the IMD World Digital Competitiveness Ranking, Japan ranks 31st overall and fell to its lowest-ever position of 67th for agility of companies, making this an area requiring improvement on the world stage.
+Numerous companies are attempting to move forward with
+digital transformation (DX). To implement DX, a management
+strategy that sets out how the business will transform itself
+through new IT technology is essential. Furthermore, this
+technology must be used to enhance profitability in addition to
+promoting labor saving and efficiency. Business leaders must
+also go beyond strategy and vision to set out concrete DX
+policies. However, IT systems are aging, growing larger and
+more complex, and becoming more like black boxes, and these
+so-called “legacy systems” are leading to high-cost structures. It
+has been noted that funds and human resources are not
+always being allocated to strategic IT investment. Companies
+looking to break away from legacy systems need to radically
+reform
+their
+IT systems
+in
+line
+with
+their
+business
+and
+management strategies.
+Supporting stable IT infrastructure and advancing DX at companies
+requires
+talent
+that
+can
+bridge
+the
+gap
+between
+business
+and
+management strategies, among which IT architects are key. NTT DATA
+trains IT architects possessing three core capabilities, “Architecturebuilding capabilities”, “Quality assurance process-building capabilities” and
+“Resilience”. These professionals work to understand customers’ business
+needs as a basis for designing the optimal system architecture aligned
+with functional and non-functional system requirements, then implement
+reliable operation and take the lead on site to resolve any system issues.
+Specifically, NTT DATA offers a training program for prospective IT
+architects. This program utilizes the knowledge of NTT DATA’s top
+engineers and their experience from designing real systems and tackling
+real-world issues. The practical content gets participants to think about
+what they would do in the same situations as a means of passing on
+technical skills and knowhow built up over many years and ensuring stable
+operation of IT systems as social infrastructure.
+In addition, so that participants can gain a wide range of experience in
+system development fields, an individual development and placement plan
+is formulated for each prospective IT architect and a system of individual
+feedback and follow-up is in place. NTT DATA will continue these efforts to
+train architects who can play an active role on the global stage.
+Also, NTT DATA holds a Tech Contest as an opportunity for employees,
+including those at group companies, to improve their technical skills. It also
+hosts communities promoting information sharing between engineers as
+part of its efforts to be a company where engineers enjoy working.
+All employees also possess the basic knowledge required for system
+development, and NTT DATA is working to continue raising the baseline
+for technical skills among everyone involved in IT development.
+Human Resource Development Goal for IT Architects
+(approximately 350 as of October 2025)
+700 IT architects
+Engineering Capability Enhancement
+to Support Social Infrastructure
+Japan
+Consulting Enhancement
+Delivering value-based proposals that drive positive business outcomes.
+Engineering Enhancement
+Continuing to evolve the world’s highest level of system integration and operation capabilities. 
+Outcome
+Asset Investment
+WHAT
+HOW
+Proposals
+Implementation
+Asset

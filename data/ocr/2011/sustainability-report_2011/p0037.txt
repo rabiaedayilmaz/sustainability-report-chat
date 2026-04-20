@@ -1,0 +1,86 @@
+Providing Green Data Center Services
+In line with the growing use of IT in recent years, the energy 
+consumed by server operation and the cooling of high-volume 
+heat-generating equipment at data centers has risen sharply. As 
+one of the largest data center operators by floor space in Japan, 
+NTT DATA is promoting energy conservation at data centers by 
+combining its IT and facility-related technologies. In January 
+2008, we began providing Green Data Center services to reduce 
+customers’ environmental impact and improve IT efficacy. 
+In a further aim to conserve energy at data centers, we 
+conducted testing on a high-voltage direct current power 
+supply system from January 29 through October 30, 2009. 
+Compared with conventional AC systems, the new configuration 
+realized aggregate power savings from power sources, airconditioning systems and IT equipment of approximately 18%. 
+We have also deployed throughout the NTT Group a highvoltage direct current power supply system, which we aim 
+to commercialize. 
+New metrics for data center efficiency as an alternative 
+to PUE*2 also are currently under discussion. The Green IT 
+Promotion Council, in which NTT DATA is participating as 
+head of the Data Center Survey 
+& Evaluation Committee Sub 
+Working Group, involves 
+meetings with members from 
+Japan, Europe and the United 
+States. The council has proposed 
+Datacenter Performance Per 
+Energy (DPPE) as a new metric, 
+and is promoting its adoption as 
+a global standard.
+ Providing the BizXaaS Cloud Service
+Demand has risen in recent years for cloud computing services, 
+which employ data centers and are provided to customers 
+on an as-needed basis. Cloud computing has the advantage 
+of being available when needed, using only the amount of 
+resources necessary to perform the task at hand. As such, it 
+optimizes the use of server equipment and facilities, thereby 
+conserving energy.
+NTT DATA began providing the cloud service BizXaaS 
+in April 2010 to help reduce the environmental impact of 
+customers’ systems. CO2 emissions of systems using BizXaaS are 
+expected to be substantially lower than previous systems, which 
+operated without modification. By also ensuring that servers 
+and other equipment are earthquake-resistant, seismically 
+isolated and installed in disaster-proof data centers, this service 
+can be provided to conserve energy in a safe and 
+secure environment. 
+NTT DATA will continue working to reduce society’s 
+environmental impact through cloud-based solutions.
+Green IT Promotion Council 
+meetings for members from Japan, 
+Europe and the United States
+*2 Power Usage Effectiveness: A figure obtained by dividing the total amount 
+of power consumed at data centers by the amount of power consumed by 
+servers and other IT equipment at data centers.
+Hardware/Software Integration Server Lindacloud Wins Grand Prize at 
+ITpro EXPO AWARD 2010 for Low Power Consumption and Heat Emission
+NTT DATA has developed Lindacloud in response to customer requests for a way of reducing 
+escalating costs while boosting deployment speeds. The system includes NTT DATA’s proprietarily 
+developed environmentally friendly hardware that conserves power and reduces heat emissions, 
+as well as preinstalled software. To meet demand engendered by cloud computing, we 
+commenced sales of four products that employ Hadoop*3, which excels at processing large 
+volumes of data. One of these is Lindacloud for Hadoop, which reduces construction lead times 
+and is ready to use upon installation. As the system is efficient in its energy use and generation 
+of waste heat, cooling costs are reduced, greatly lowering electrical power costs. The system’s 
+environmentally friendly design suits it for use in offices without specialized power supplies or air 
+conditioning equipment. This helps lower location-related expenses. 
+Evincing the superiority of these offerings, in October 2010 the system won a grand prize in 
+the ITpro EXPO AWARD 2010, sponsored by Nikkei BP.
+Grand prize won for Lindacloud 
+at ITpro EXPO AWARD 2010
+TOPICS
+• Working to Acquire Solution Environmental Labels 
+• Making PC Power Consumption “Visible”
+• Systems that Support Emissions Trading
+• Development of a System to Confirm the Achievement of Targets
+• Developing the Offsetting Credit Scheme
+• Carbon Offset Products Project
+• Swiftly Turning Environmental Generation Technologies into Reality
+Additional Topics on Website
+*3 Hadoop: Open-source platform configuration software to allow distributed processing of large data volumes on 
+multiple computers.
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2011

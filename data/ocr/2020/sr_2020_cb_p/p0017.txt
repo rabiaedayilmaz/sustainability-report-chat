@@ -1,0 +1,73 @@
+Up to 40%
+Percentage of water for which charges cannot be collected due to 
+water leakage or theft (non-revenue water rate)
+Citizen
+origAMI: 
+Realizing sustainable procurement 
+and the supply of safe water in Italy
+NTT DATA has developed origAMI, a smart water 
+management system that handles the modeling, monitoring 
+and control of water distribution systems. By integrating 
+this with our own IoT technology, we can appropriately 
+manage limited water resources and continuously procure 
+and deliver supplies of safe water.
+In Italy, pipes and other water facilities have 
+deteriorated to such an extent that the ratio of water 
+for which fees cannot be collected due to water 
+leakage or theft (non-revenue water rate) has reached 
+as high as 40%. Accordingly, appropriate management 
+of limited water resources has become an urgent 
+social issue in that nation.
+ 
+In response, NTT DATA Italia, a subsidiary of NTT 
+DATA, started research into IoT-based smart water 
+management systems in 2016. Following a series of 
+hackathons, where multiple in-house engineers 
+gathered to exchange opinions and ideas, it developed 
+origAMI, a unique smart water management system 
+that handles the modeling, monitoring and control of 
+water distribution systems. The origAMI system 
+enables centr alized management of water 
+distribution–related operations, including water 
+consumption measurement and billing automation, as 
+well as detection and monitoring of chlorine and 
+contaminants and water pipe facility maintenance 
+support. It is a comprehensive management tool for 
+water distribution system designers, operational 
+managers and end users.
+ 
+Securing and supplying safe water is an 
+environmental issue that needs to be addressed 
+globally. For this reason, we expect demand for 
+systems like origAMI to continue to grow. NTT DATA 
+will seek to expand origAMI globally through 
+collaboration with local and global partners with the 
+aim of contributing to the procurement and supply of 
+safe water.
+*DMA (District Metered Area) is a discrete area of a water distribution network. DMAs, also called 
+sectorization, is one of the most promising methods of improving the water supply qualitatively and 
+quantitatively.
+Operator
+Designer
+Smooth and fair 
+billing service, etc.
+Water Supply Network 
+Monitoring and 
+Management
+Decision Support 
+System
+Metering, 
+Optimization of Personnel 
+Allocation, Billing
+Water Balance
+and DMA 
+(District Metered Area)* Handling
+Problem detection, predictive maintenance, 
+demand prediction
+and security issues prevention
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

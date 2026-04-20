@@ -1,0 +1,59 @@
+Sustainability Management 
+
+NTT DATA Sustainability Report 2020 Data Book
+
+Matrix of Material ESG Issues
+
+Material ESG Issues
+Category 
+Material ESG Issue 
+Details 
+Business 
+(innovation) 
+■① Offer social infrastructure and business
+category–specific solutions based on 
+advanced technologies 
+ 
+■② Build and ensure stable management/
+operation of IT infrastructure 
+ 
+Human resources 
+■③ Secure and develop IT human
+resources 
+Attract talented IT human resources and develop them in-house 
+through training while minimizing employee turnover. 
+■④ Promote diversity and inclusion
+Increase human resource diversity and help individual employees 
+understand the importance of diversity and utilize their abilities 
+and experience. 
+■⑤ Promote workstyle innovation
+Eliminate long working hours, create comfortable working 
+environments with an emphasis on a work-life balance and 
+improve productivity. 
+Security 
+■⑥ Ensure information security
+ 
+■⑦ Protect data privacy
+ 
+Environment 
+■⑧ Respond to climate change
+Formulate a long-term plan to curb greenhouse gas emissions by 
+improving the energy efficiency of our data centers and office 
+buildings. 
+Community 
+■⑨ Promote IT education
+Deploy our core business strengths to provide IT literacy and 
+skills to children, the general public, NPOs/NGOs and so forth. 
+Disaster risk 
+■⑩ Respond to disaster risks
+Develop a business continuity plan (BCP) and continuously 
+improve it to minimize potential damage. 
+Compliance 
+■⑪ Ensure compliance
+Disseminate and instill our Global Compliance Policy to prevent 
+violations of laws and regulations. 
+Supply chain 
+■⑫ Promote a responsible supply chain
+Request cooperation from suppliers to consider human rights and 
+the environment and ensure compliance based on the NTT DATA 
+Guidelines for CSR in the Supply Chain and the like.

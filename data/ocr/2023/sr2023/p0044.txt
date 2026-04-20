@@ -1,0 +1,52 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Circular Economy 
+Reduce waste and create a society where the value of products and services continues to circulate 
+ 
+Basic Policy 
+ 
+We need to separate economic activities from resource consumption globally and shift to a circular economy to realize a 
+sustainable society and environment. NTT DATA Group Corporation, NTT DATA Japan, and global Group companies are working 
+continuously to reduce waste to achieve a waste recycling rate of 99% or higher in 2030 in line with the NTT Group’s “Eco 
+Strategy 2030.” 
+In addition to efforts to shift to a circular economy globally, we aim to realize a society that produces no waste and ensures 
+that resources can be used and recycled sustainably through our support to clients using blockchain, AI, IoT, and other 
+technologies. 
+ 
+Recycling Related to Our Business 
+ 
+ Waste Reduction 
+NTT DATA Group Corporation, NTT DATA Japan, and global Group companies are striving to achieve a waste recycling rate of 
+99% or higher in 2030 in line with the NTT Group’s “Eco Strategy 2030.” 
+To meet these targets, we are pursuing various ongoing efforts, such as outsourcing waste disposal to companies with 
+higher recycling rates. We achieved the following results in fiscal 2022. 
+ Non-industrial and office waste: 99％ 
+ Construction waste: 95％ 
+ 
+We are also pursuing the following initiatives to reduce generated waste. 
+① 
+Recycling and donation of disused PCs after implementing information security measures 
+FY2022 result: 
+ ・Recycled: Approximately 10,000 units 
+ ・Donation to developing country through nonprofit organizations: 45 units 
+② 
+Donation of emergency rations (that are no longer needed because they have been replaced) to a volunteer organization 
+Fiscal 2022 result: 738 boxes 
+ ・Donation to Second Harvest Japan, a certified nonprofit organization: 718 boxes 
+ ・Donation to Funabashi’s Children’s Food Bank Network, Food Share Shin-Funa: 20 boxes 
+ 
+ Compliance with the Act on Promotion of Resource Circulation for Plastics 
+NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan are actively engaged in efforts to reduce the 
+emission of industrial waste from plastic products and promote recycling. In fiscal 2022, the amount of discarded plastic was 757 
+tons, with a recycling rate of more than 99%. 
+We will continue our efforts to reduce waste in the future. 
+[Reference page] “Environmental Data” (Fiscal 2022 Recycling Amounts) 
+ 
+ Proper Management of Hazardous Materials 
+NTT DATA Group Corporation, NTT DATA Japan, and Group companies in Japan store manufactured goods containing waste 
+polychlorinated biphenyl (PCB), which is designated as a specified toxic industrial waste material, and dispose of materials, 
+including waste acid from batteries. We properly manage and dispose of these specified industrial waste materials in full 
+compliance with the Waste Management and Public Cleansing Law and all other relevant laws and regulations. Since fiscal 
+2013, we have been systematically disposing of PCB-containing waste materials based on the Act on Special Measures 
+concerning Promotion of Proper Treatment of PCB Wastes and guidance from related ministries and agencies.

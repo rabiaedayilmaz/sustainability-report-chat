@@ -1,0 +1,50 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+ 
+ Secure and Sustainable-by-design Services and Solutions 
+Provide safe and secure commercial systems to meet customers‘ expectations for the installation and operation of secure systems. In addition, 
+our company will contribute to the improvement of customers’ security and sustainability through our products, services and consulting services.
+Basic Policy
+To meet customer expectations for the installation and operation of secure systems, we 
+provide safe and secure commercial systems and contribute to the improvement of customers’ security and sustainability through our products, services, and consulting. We 
+prevent security breaches caused by cyberattacks, internal fraud, and other threats to 
+personal and confidential information. 
+Ensure Information Security
+NTT DATA recognizes the importance of achieving an appropriate balance between 
+ensuring the safety of information and the active utilization and sharing of information. 
+We implement a wide range of measures that cover both the human and technological 
+aspects of information security. Administrative measures include formulating rules 
+and providing education and training in information security, while technological 
+measures involve solutions that prevent information leaks and the adoption of zero 
+trust architecture.
+ 
+To share knowledge and expertise across the entire Group, we work with domestic 
+Group companies to host NTT DATA Group information security forums in Japan, and 
+with Group companies outside Japan to host global security meetings. Through this distribution of knowledge within the Group, we are working to establish unified information 
+security governance.
+Basic Policy
+NTT DATA has established rules and regulations including the NTT DATA Group Security 
+Policy (GSP). The GSP includes a code of conduct to protect information assets from serious security breaches, such as information leakage and unauthorized access, and a code 
+of conduct for the active utilization and sharing of information. These policies apply 
+across the entire Group, including Group companies in and outside Japan. In addition, 
+these codes of conduct, which also apply to business partners to whom we outsource 
+operations, help us ensure that our information assets are handled appropriately.
+Promotion System
+Since fiscal 2006, NTT DATA has been promoting thorough information security in accordance with the NTT DATA Group Security Policy (GSP). The GSP is also applied to our 
+Group companies outside Japan. Under NTT DATA, Inc., we have established an information security promotion system organized by region and business, ensuring a unified 
+baseline while maintaining flexibility tailored to each region and business segment. 
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Secure and Sustainable-by-design Services and Solutions

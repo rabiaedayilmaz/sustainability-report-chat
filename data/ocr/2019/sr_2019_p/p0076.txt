@@ -1,0 +1,85 @@
+Compliance with climate change regulations presents transitional risks of increased costs for 
+actions such as facility upgrades and additional operational functions.
+Because of electricity usage accounts for nearly all of CO₂ emissions of NTT DATA Group due 
+to the characteristics of our businesses, we envisage a need to procure energy from sustainable 
+sources to continue our business. However, as the potential for generating renewable energy and 
+the certificate trading system in Japan are currently underdeveloped, achieving this is extremely 
+difficult. Also, there are concerns that domestic regulations will be substantially strengthened, 
+increasing the cost burden associated with CO₂ emissions and seriously hindering business 
+continuity. If we were forced to switch to renewable energy all at once at current electric power 
+consumption levels, the estimated cost increase would be at least ¥2.8 billion. In response to 
+these types of risks, the NTT DATA Group has been installing renewable energy-based private 
+power generation equipment at its Company buildings. In March 2018, we completed construction 
+on Mitaka Data Center EAST, which has adopted an outside air-cooling system that utilizes 
+photovoltaic power generation and natural energy (outdoor air during the spring, fall, and winter), 
+bringing our total number of buildings with photovoltaic power equipment to three. Currently, 
+two of our other buildings are also utilizing low-carbon energy, participating in district cooling and 
+heating (DHC) systems. Installation costs for renewable energy-based private power generation 
+equipment (excluding costs at Mitaka Data Center EAST) and DHC system participation costs at 
+our other two buildings add up to roughly ¥700 million. Going forward, we will move incrementally 
+forward with the switchover to renewable energy and other low-carbon energy sources. Our 
+current renewable energy generation capacity is 221 MWh.
+Furthermore, under the Tokyo metropolitan government’s Ordinance on Environmental 
+Preservation, large facilities are required to reduce total CO₂ emissions from energy usage and to 
+participate in a cap-and-trade program of emissions trading. A total of seven NTT DATA Group 
+buildings in Tokyo are subject to the ordinance, which presents the risk of increased operating 
+costs due to measures aimed at complying with the ordinance. Estimated costs associated with 
+this ordinance are expected to amount to approximately ¥100 million between 2015 and 2019. 
+(Calculations for the second compliance period were based on the need to purchase 10,000 
+t-CO₂e of credits (certificates) priced at ¥10,000/t-CO₂e. However, we anticipate that we will be 
+able to partly offset these costs against surpluses from the first compliance period.) To manage this 
+risk, we are implementing measures such as upgrading to highly efficient electrical equipment and 
+air-conditioning equipment and enhancing operation of air-conditioning, lighting, and other shared 
+facilities. The cost of addressing this risk for the period between fiscal 2017 and fiscal 2018 was 
+approximately ¥700 million. As a result of these efforts, total CO₂ reductions for fiscal 2018 were 
+Risks and Opportunities Related to Climate Change
+Transitional Risks
+40,577 t-CO₂e, a reduction rate of approximately 26%.
+Additionally, the NTT DATA Group is working to find solutions to societal issues, such as climate 
+change, through its business operations and is implementing progressive and environmentally 
+superior workstyles. These efforts have led to high third-party praise regarding our ESG (we have 
+been selected for inclusion in the DJSI World Index), as well as to high employee satisfaction 
+and retention rates (turnover rate of 3.6%, lower than the telecommunications industry average 
+of 10.5%). We estimate that we would suffer an approximately ¥62.2 billion decrease in annual 
+income if the third-party praise we receive concerning our ESG and our employee satisfaction rates 
+were to fall to industry-standard levels (calculated by multiplying the increase of turnover by net 
+sales per employee).
+In response to these types of risk, we conduct annual employee training regarding global trends 
+in climate change and the NTT DATA Group’s response to them. Furthermore, we have distributed 
+information access devices for teleworking to employees, allowing for flexible workstyles at home 
+or in satellite offices. Expenses for education and training aimed at raising employee expertise are 
+approximately ¥7.8 billion, while our distribution of information access devices for teleworking 
+incurs annual running costs of roughly ¥1.1 billion.
+Risks Driven by Physical Impact
+With regard to physical impact caused by climate change, there is a risk that abnormal weather 
+phenomena such as large typhoons, flooding, heatwaves, and torrential rains could shut down 
+the power supply to data centers, while flooding and lightning could halt operations at the data 
+centers. Some 50% or more of the NTT DATA Group’s sales are connected with its data centers, 
+and its main data centers are located on middle latitudes in the northern hemisphere, which are 
+frequently experiencing heavy rainfall due to climate change. Due to these unique characteristics, 
+suspensions of operations at our data centers could have severe impacts on our business, and 
+could also negatively impact large-scale systems that support social infrastructure, such as financial 
+and medical services. For these reasons, operational suspensions at our data centers carry the risk 
+of causing enormous damage to society at large.
+With these factors in mind, the NTT DATA Group has equipped its data centers with in-house 
+emergency generators in readiness for power outages. However, if these generators halt operations 
+due to flooding, there is a risk that our data center business continuity may be jeopardized. 
+Operation of our data centers could also be interrupted by malfunctions in equipment caused by 
+lightning strikes. One day of operational suspension would result in approximately ¥3.2 billion in 
+lost sales (calculated based on the daily sales rates of services provided through our data centers). 
+In reality, we would suffer further damages, such as a decline in trust, so this figure is actually the 
+lowest value that could be expected. We have been taking various measures to avoid these risks, 
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

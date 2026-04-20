@@ -1,0 +1,112 @@
+“Mitaka Data Center EAST”
+A Data Center that Has One of the Largest and Most Advanced
+Features in Japan While Achieving Excellent Environmental Performance
+Mitaka Data Center EAST
+・Gross floor space: 37,650 m²
+・Number of installed rack units: Up to 5,600 units
+・Structure: By installing horizontal seismic isolation devices and
+vertical vibration control dampers in addition to the bird cage
+structure of its outer periphery and truss structure over the roof,
+its horizontal and vertical accelerations are decreased by some
+80% and 40%, respectively.
+・Power supply: Equipped with emergency power generators that
+can operate for 72 hours without refueling
+・Electricity usage per rack unit: Capable of supporting up to
+20 KVA per rack unit
+・Network: Multi-carrier compatible networks pulled in through
+service tunnels (dedicated underground tunnels)
+・Security: Conforming to FISC and ISO 27001 guidelines
+Conceptual Diagram for Realizing Digital Transformation
+Eﬃciency improvement
+Aggressive utilization of
+information technology
+User 
+Companies
+Digital Transformation
+NTT DATA
+Types of value
+ provided
+mode 1
+(Mission-critical/
+Information Systems)
+mode 2
+(AI/IoT Areas)
+・Optimization of platforms 
+・Automation of operations
+・Digital
+・Business Innovation
+CASE
+Digital transformation
+Within the NTT DATA Group, the term “digital transformation” is 
+defined as “promoting the use of digital in ways that contribute 
+to our customers’ businesses.” Digital environments surrounding 
+businesses are increasingly required to develop further and proceed 
+to the next level because of market changes brought about by the 
+drastic advancements in AI technology as well as the rapid increase 
+in the number of IoT devices in today’s world.
+In April 2018, NTT DATA began operating Mitaka Data Center 
+EAST, its 16th data center in Japan. The Center is equipped 
+with functions required to serve as the foundation for enabling 
+the digital transformation of all companies in any type of 
+industry and any business category, including the gathering 
+and accumulation of data; computerization of data and adding 
+value to it; and promotion of collaboration for co-creation.
+One of the most notable features of Mitaka Data Center 
+EAST is its excellent environmental performance. Servers 
+installed at data centers usually give off a lot of heat. 
+Compressors and cooling systems in the centers needed to 
+mitigate the heat consume vast amounts of energy. In Mitaka 
+Data Center EAST, however, we succeeded in reducing energy 
+consumption by actively using cool outside air.
+The Center has a unique physical form in which the 
+Contributions 
+to SDGs
+● Helping reduce environmental impact
+● Enabling stable energy procurement and promoting more efficient 
+use of energy
+● Developing social infrastructure that is convenient, safe and secure
+building’s perimeter length increases in proportion to the floor 
+height. This shape was the result of adopting the “through-thewall air-conditioning system using hot aisle capping,” a system 
+that enables efficient cooling of the hot servers by taking in 
+cool outside air from underfloor spaces. In this system, the 
+periphery surface of the building provides air passages, which 
+makes it easier to let the heated air out in higher floors as the 
+floor’s periphery surface increases in proportion to its height.
+On the Center’s roof, solar power panels with a total 
+generation capacity of 90 kW are installed, helping reduce CO₂ 
+emissions by 28,528 kg per year. The reduction is equivalent 
+to an annual reduction in oil consumption of 353,609 liters.
+The Center aims to achieve a PUE (Power Usage 
+Effectiveness of the Center, calculated by dividing the Center’s 
+power consumption by the power consumed by its IT devices) 
+of below 1.3 through taking various measures. Data centers 
+in Japan typically have a PUE of 1.87. Thus, if we succeeded 
+in achieving a PUE of below 1.3, it is expected to bring about 
+significant energy saving effects, equivalent to a reduction in 
+electricity bills worth some 1 billion yen a year. By cutting back 
+on the electricity expenses for its air-conditioning systems, the 
+Center contributes not only to the protection of environment 
+but also to the reduction of customers’ rack ownership costs.
+As these environmentally friendly features were regarded 
+favorably in the process of acquiring LEED certification, a 
+green building rating system overseen by the U.S. Green 
+Building Council, Mitaka Data Center EAST in September 
+2018 obtained the latest version of the LEED Gold 
+certification, becoming the first organization in the data 
+center category in Japan to do so.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+NTT DATA Sustainability Report 2019
+Efforts to Make Social 
+Contributions through 
+Businesses

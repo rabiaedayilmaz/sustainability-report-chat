@@ -1,0 +1,34 @@
+Sustainability Management 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Spreading Sustainability Awareness 
+ 
+Since fiscal 2013, the NTT Group has convened its annual NTT Group Sustainability Conference (formerly NTT Group CSR 
+Conference), aimed at instilling employees’ awareness of sustainability by sharing sustainability-related best practices across 
+the Group. The NTT DATA Group participates in the conference every year. 
+In fiscal 2022, a total of 113 entries were submitted by various NTT Group companies from both domestic and international 
+divisions, resulting in more than 270,000 employee votes. Among NTT DATA’s submissions, six projects advanced to the final 
+selection, with four receiving the top awards, including two that earned the MVP distinction. 
+ 
+An outline of projects that received the MVP distinction follows. 
+The establishment of a medical equipment supply chain in Malawi using drones 
+Company 
+NTT DATA Business Solutions AG (Germany) 
+Overview 
+NTT DATA Business Solutions AG (Germany) is providing support and an adaptable service platform for a 
+project led by the drone development start-up Wingcopter GmbH in eastern Africa’s Malawi. The project 
+aims to establish a medical equipment supply chain for deliveries using drones. The platform encompasses 
+flight planning, order management, and the resource management of drones and pilots, while also 
+accommodating the entire national catalog of medical supplies. Wingcopter is utilizing drones to deliver 
+medical supplies to more than 115,000 individuals residing in remote areas of Malawi. In addition, its drone 
+training program is helping train local residents as drone pilots, contributing to education and employment 
+opportunities in the region. 
+Improving the user experience of recycling parks through AI 
+Company 
+NTT Ltd. (Belgium) 
+Overview 
+This project focused on accurately forecasting the time remaining until recycling station containers reach full 
+capacity using AI, thereby optimizing the timing of container collection and effectively addressing the issue of 
+overflowing containers. This improvement enhances the user experience at recycling parks, reducing the 
+likelihood of littering in public spaces and natural environments. It also streamlines the efficiency of recycling 
+container collection services for providers.

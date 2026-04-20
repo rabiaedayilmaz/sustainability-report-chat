@@ -1,0 +1,36 @@
+Contributing to Regional Communities and Society as a Whole
+IT makes people happy. In addition to realizing this thought, important issues for NTT DATA are the development and provision 
+of solutions directly linked to the resolution of social issues and the fulfillment of its responsibilities as a corporate citizen.
+The NTT DATA Group works to create and develop a healthy society through social contribution activities that emphasize 
+employee participation, and through the development of IT systems designed to help resolve social issues.
+Developing People-friendly Systems
+Initiatives for Broadly Improving Website Accessibility
+The widespread adoption of information technology in society has brought with it the global problem of the digital divide*1. In Japan, 
+there are calls to take into consideration the elderly and disabled in public websites and to improve the IT user-friendliness across a 
+wide range of digital devices including tablets.
+The NTT DATA Group, recognizing in each IT user the potential for innovation, promotes the development of people-friendly 
+information systems centered on universal design (UD)*2. We are pursuing a wide-ranging effort, from applying UD in the systems and 
+services we deliver to clients to training and enhancing the awareness of employees.
+NTT DATA is responding to the growing interest in usability by incorporating usability evaluation into the development of information 
+systems and the IT services process so that we can systematically organize and apply expertise in this field. In addition to making 
+screens easier to understand, we are working on improving user manuals.
+Meanwhile, initiatives aimed at improving usability have recently progressed from being defined as ease of use to place greater 
+emphasis on the user experience (UX) from the user’s perspective, an approach that leans toward fuller satisfaction for users. We 
+will endeavor to resolve accessibility issues in the ICT and IoT areas by developing systems that are easy to use and satisfy users 
+through the increased, active incorporation of the UX approach.
+*1 The economic and social gap or imbalance that exists between those who have access to computers and the Internet and the capability to use them and those that do not
+*2 Design aiming for ease of use by all people, irrespective of age, gender, nationality, disability or individual experience and abilities
+● Active Involvement in the International Association for Universal Design
+The International Association for Universal Design (IAUD) was established in Japan in 2003 to promote the widespread adoption of 
+universal design (UD). NTT DATA has been a full member of the IAUD—the largest organization of its kind in Japan—since its inception.
+In fiscal 2015, NTT DATA employees participated in the UD Project for Media and the Mobile Space Project for the second 
+consecutive year.
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

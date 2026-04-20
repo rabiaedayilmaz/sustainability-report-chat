@@ -1,0 +1,224 @@
+GRI Standard Contents Index
+Disclosure
+References
+Reason for Omission/Supplemental Explanation
+GRI 308: Supplier Environmental Assessment 2016
+308-1
+New suppliers that were screened using 
+environmental criteria
+pp.029-030
+Challenging Net-Zero across the Supply Chain 
+308-2
+Negative environmental impacts in the supply 
+chain and actions taken
+―
+No instances of non-compliance
+GRI 408: Child Labor 2016
+408-1
+Operations and suppliers at significant risk for 
+incidents of child labor
+pp.080-081
+Promoting a Responsible Supply Chain
+pp.082-083
+Ensuring Compliance 
+p.104
+Respect for Human Rights 
+GRI 409: Forced or Compulsory Labor 2016
+409-1
+Operations and suppliers at significant risk for 
+incidents of forced or compulsory labor
+pp.080-081
+Promoting a Responsible Supply Chain 
+pp.082-083
+Ensuring Compliance 
+pp.104-106
+Respect for Human Rights 
+GRI 414: Supplier Social Assessment 2016
+414-1
+New suppliers that were screened using social criteria pp.080-081
+Promoting a Responsible Supply Chain 
+414-2
+Negative social impacts in the supply chain 
+and actions taken
+―
+No instances of non-compliance
+GRI 415: Public Policy 2016
+415-1
+Political contributions
+pp.086
+Response to Government Policies 
+GRI 418: Customer Privacy 2016
+418-1 Substantiated complaints concerning breaches 
+of customer privacy and losses of customer data
+p.010
+Progress in Relation to Nine Material Issues and FY2023 Targets 
+pp.072-074
+Ensure Information Security and Protect Data Privacy 
+3. Future of Work New ways of working that enhance employee experience and performance. Provide and promote work-style reforms for society as a whole 
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+pp.061
+Initiatives Related to Materiality and KPIs 
+p.090
+Global Human Resource Development Framework 
+ Materiality of Sustainability Management
+GRI 401: Employment 2016
+401-1
+New employee hires and employee turnover
+p.087
+Strengthening the Hiring of Diverse Human Resources 
+pp.098-101
+Employee Data (NTT DATA) 
+401-2
+Benefits provided to full-time employees that 
+are not provided to temporary or parttime 
+employees
+p.091
+Personnel Management System 
+We have developed a system that reflects 
+the performance and other achievements 
+in compensation for contract employees. 
+Additionally, if we determine that individuals 
+can contribute effectively over the long 
+term, we may hire them as permanent 
+employee status.
+401-3
+Parental leave
+p.100
+Employees Using Childcare and Nursing Care Systems 
+p.108
+Creating an Environment for Balancing Work with 
+Childcare and Nursing Care 
+ Diversity, Equity and Inclusion
+GRI 403: Occupational Health and Safety 2018
+403-1
+Occupational health and safety management 
+system
+pp.092-093
+Promoting Work-Style Innovation 
+pp.094-096
+Promoting Health Management 
+p.097
+Employee Relations 
+403-2
+Hazard identification, risk assessment, and 
+incident investigation
+pp.094-096
+Promoting Health Management 
+p.097
+Employee Relations 
+p.101
+Number of Occupational Accidents 
+403-3
+Occupational health services
+pp.092-093
+Promoting Work-Style Innovation 
+pp.094-096
+Promoting Health Management 
+p.101
+Number of Occupational Accidents 
+403-4
+Worker participation, consultation, and 
+communication on occupational health and safety
+p.097
+Employee Relations 
+403-5
+Worker training on occupational health and safety p.095
+Improving Health Education and Health Literacy 
+403-6
+Promotion of worker health
+pp.092-093
+Promoting Work-Style Innovation 
+pp.094-096
+Promoting Health Management
+p.097
+Employee Relations 
+403-7
+Prevention and mitigation of occupational health 
+and safety impacts directly linked by business 
+relationships
+pp.092-093
+Promoting Work-Style Innovation 
+pp.094-096
+Promoting Health Management 
+p.097
+Employee Relations 
+403-8
+Workers covered by an occupational health 
+and safety management system
+pp.092-093
+Promoting Work-Style Innovation 
+pp.094-096
+Promoting Health Management 
+pp.097
+Employee Relations 
+403-9
+Work-related injuries
+p.095
+Efforts to Support the Balance Between Medical 
+Treatment and Work 
+p.101
+Number of Occupational Accidents 
+403-10
+Work-related ill health
+p.096
+Preventing Occupational Accidents 
+p.101
+Number of Occupational Accidents 
+GRI 404: Training and Education 2016
+404-1
+Average hours of training per year per employee p.100
+Annual Study Hours and Training Costs per Participant 
+404-2
+Programs for upgrading employee skills and 
+transition assistance programs
+pp.088-091
+Development of Human Resources with Diverse 
+Expertise 
+404-3
+Percentage of employees receiving regular 
+performance and career development reviews
+p.091
+Personnel Management System 
+p.097
+Improving Employee Engagement 
+GRI 407: Freedom of Association and Collective Bargaining 2016
+407-1
+Operations and suppliers in which the right 
+to freedom of association and collective 
+bargaining may be at risk
+pp.080-081
+Promoting a Responsible Supply Chain 
+pp.082-083
+Ensuring Compliance 
+pp.104-106
+Respect for Human Rights 
+Society: Inclusive Society　Realization of a Society for Healthy and Happy Lives 
+ 
+1. Human Rights & DEI Work to create an equitable society where a diverse range of people thrive and respect each other’s human rights
+3-3
+Management of material topics
+p.008
+Nine Material Issues 
+pp.013-014
+Commitment to Initiatives 
+pp.104-106
+Respect for Human Rights 
+ Materiality of Sustainability Management
+GRI 402: Labor/Management Relations 2016
+402-1
+Minimum notice periods regarding operational 
+changes
+p.097
+Labor-Management Dialogue to Enhance Work 
+Environments 
+We are currently assessing and preparing 
+for the next Sustainability Report (scheduled 
+for release in October 2024) to aim for the 
+information disclosed aligns with GRI Standards.
+
+NTT DATA Sustainability Report 2023　Data Book

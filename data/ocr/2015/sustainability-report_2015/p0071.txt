@@ -1,0 +1,56 @@
+*1 The term information security incidents refers to the actualization of security threats related to information management and system operation, such as computer virus infection, unauthorized access, and 
+information leakage.
+*2 FIRST is a global community consisting of approximately 300 CSIRTS from government agencies, educational institutions, companies, and other organizations.
+*3 A CSIRT is an incident response team comprised of security specialists. These teams collect and analyze information on security incidents, security-related technologies, and vulnerabilities, and conduct 
+activities including implementing effective countermeasures and training.
+■ Information Security Policy Configuration
+Basic Policy
+Compatible 
+countermeasures
+ (in accordance with 
+basic policy)
+Manuals, procedural 
+documents
+Information 
+security policy
+Detailed rules, 
+implementation 
+methods
+Basic considerations and decision 
+standards related to the 
+establishment of information 
+security
+Clear direction, by area, on putting 
+information security in place
+Specific procedures for 
+implementing compatible 
+countermeasures in information 
+systems and operations
+At NTT DATA, the Information Security Committee, which was established in 1999, meets periodically to maintain an understanding 
+of the status of information security activities conducted throughout the Group and areas requiring improvement and to formulate 
+necessary initiatives. Measures decided by the committee are advanced by the Information Security Office, a personal information 
+protection promotion organization, and the information security promotion officers appointed at each individual work site.
+In addition, NTTDATA-CERT was established in July 2010 as a specialized organization for preventing information security 
+incidents*1 and responding to any incidents that might occur. It was also at this time that we joined the Nippon CSIRT Association 
+as well as Forum of Incident Response and Security Teams (FIRST)*2, a global computer security incident response team (CSIRT)*3 
+community. Through our participation in these organizations, we are collecting a wide range of information on security trends in 
+Japan and overseas, which we then utilize to improve our own information security management systems.
+The NTT DATA Group arranges the operation of overseas Group companies around five regions and the area of solutions. These 
+operations are entrusted to regional integrated companies. However, we also endeavor to ensure a standardized level of corporate 
+governance throughout the entire Group, and this objective is pursued through a joint effort that involves NTT DATA’s head office, 
+which serves as our global headquarters, the regional integrated companies that function as regional headquarters, and others.
+Likewise, swift and accurate security governance is pursued to ensure information security, and we have begun operating a 
+global security governance system centered on regional integrated companies as part of this endeavor. NTT DATA reviews the 
+information management conditions of each regional integrated company on a quarterly basis, thereby maintaining an understanding 
+of management circumstances. This understanding is utilized in stabilizing and improving management levels through the sharing of 
+information, discussions, supervised tours, and other improvement support activities.
+● Fulfilling Our Mission as a Global IT Company: Putting in Place an Information Security Management System
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

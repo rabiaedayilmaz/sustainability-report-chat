@@ -1,0 +1,35 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ Climate Change Scenario Analyses 
+Reasons for conducting scenario analyses and setting boundaries and time horizons 
+Scenario Identification 
+We conduct scenario analyses with the aim of understanding the impacts of climate change on our business and evaluating 
+the resilience of the Group’s strategies to climate-related risks and opportunities. 
+We started scenario analyses in 2018 and have since gradually expanded the boundaries and time horizons. In fiscal 2021, 
+our analyses focused on the 1.5˚C scenario, in which a transition to a low-carbon economy is made based on the Paris 
+Agreement, and the 4˚C scenario, in which climate change measures are not implemented beyond what is currently planned. 
+We used IPCC reports and the IEAʼs World Energy Outlook as the main inputs for examining the scope of the projected future 
+world, and used EPA, EEA, and MOE country analysis documents as reference. For scenarios, we adopted the SSP5-8.5 
+Scenario (no climate change action) cited in the IPCC’s Sixth Assessment Report, the SSP1-1.9 Scenario (1.5˚C), the IEAʼs 
+Sustainable Development Scenario, and the IEAʼs Net-Zero Emissions by 2050 Scenario, then assessed the potential impact on 
+our business and value chain. 
+Boundary (Target Range) 
+The NTT DATA Group’s business focuses on five areas—public & social infrastructure, financial, and enterprise & solutions 
+(Japan), as well as North America and EMEA/Latin America—and expects all our clients and suppliers in each area to be impacted 
+by climate-related factors. For this reason, we have established a boundary of “all businesses and their associated value chains” 
+to identify risks and opportunities and examine their financial impacts. 
+ 
+Time Horizon 
+For time horizon, we selected the long-term period up to fiscal 2050 to meet the expectations of clients, shareholders, society, 
+and other stakeholders who demand a long-term vision for climate change in line with the Paris Agreement, given the nature of 
+the Group as a provider of systems that support the foundations of society. As an intermediate point, we have set a medium-term 
+horizon up to fiscal 2030, which coincides with the SBTs. 
+ 
+Results of Fiscal 2021 Scenario Analyses 
+Scenario Analysis Details 
+We used two main scenarios to provide a detailed assessment of climate-related risks and opportunities. The first is the SSP1-1.9 
+scenario, which keeps the temperature rise below 1.5˚C under sustainable development, and the other is the SSP5-8.5 scenario 
+(maximum emissions) scenario that assumes continued dependence on fossil fuels and no climate policy. While setting targets based 
+on the SSP1-1.9 scenario, we also identified climate-related risks under the SSP5-8.5 scenario and are reflecting these in our 
+business strategies.

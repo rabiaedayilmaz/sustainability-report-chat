@@ -1,0 +1,165 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+ Climate-Related Risks and Opportunities 
+Risks (1–6) and Opportunities (1–4) 
+Risks and 
+Opportunities 
+Risk/Op
+portunity 
+Type 
+Outline 
+Time 
+horizon 
+Likeliho
+od of 
+occurre
+nce 
+Degree 
+of 
+impact 
+Financial Impact of Risks and Opportunities 
+Countermeasure Costs 
+Risk 1 
+Increase in 
+energy costs in 
+Japan caused 
+by the shift to 
+renewable 
+energy 
+Transitio
+nal risk 
+To comply with the Paris 
+Agreement, we will need to 
+procure electricity from 
+renewable energy sources to 
+continue our business. 
+Long 
+term 
+Virtually 
+certain 
+High 
+If we were forced to switch to renewable energy all at 
+once at current electric power consumption levels, 
+the estimated cost increase would be at least ¥2.8 
+billion. 
+The current combined cost of installing renewable 
+energy private power generation facilities and 
+participating in the DHC system is around ¥800 
+million. 
+Risk 2 
+Increased cost 
+of complying 
+with Tokyo 
+Cap-andTrade Program 
+regulations 
+Transitio
+nal risk 
+Operational costs will increase 
+as we reduce total CO2 
+emissions to comply with Tokyo 
+Cap-and-Trade Program 
+regulations. 
+Medium 
+term 
+Virtually 
+certain 
+Medium
+–high 
+We estimate that if we purchased in full the amount 
+of renewable energy needed to achieve our emission 
+target for the third compliance period of the 
+ordinance (2020–2024), the cost burden would be 
+around ¥330 million. (However, we expect to be able 
+to partly offset these costs against surpluses from 
+the second compliance period.) 
+The total estimated cost for equipment upgrades and 
+operational improvement at NTT DATA’s seven 
+buildings in Tokyo in fiscal 2019 was around ¥500 
+million. 
+Risk 3 
+Data center 
+shutdown due 
+to abnormal 
+weather 
+Physical 
+risk 
+Large typhoons, floods, heat 
+waves, torrential rains and other 
+abnormal weather events 
+increase the risk of data center 
+operational shutdown due to 
+power outages, flooding and 
+lightning strikes. 
+ 
+Short 
+term 
+Virtually 
+certain 
+High 
+One day of operational suspension would result in 
+around ¥3.2 billion in lost sales (based on the daily 
+sales rates against total net sales). In reality, we 
+would suffer further damage, such as a decline in 
+trust, so this figure is actually the minimum estimated 
+value. 
+The annual cost of renewing our air-conditioning 
+systems to reduce power consumption and prevent a 
+shutdown of in-house power generation at data 
+centers in the event of a disaster is around ¥1.2 billion 
+(minimum assumed cost). 
+Risk 4 
+Increase in 
+operating 
+costs due to 
+rising average 
+temperatures 
+Physical 
+risk 
+Operating costs will increase in 
+line with rising average 
+temperatures. 
+Long 
+term 
+Virtually 
+certain 
+Medium We estimate that a 1.0°C rise in temperature would 
+increase electricity consumption at our data centers 
+in Japan by around 4.5 million kWh, resulting in an 
+annual increase in energy costs of around ¥70 
+million. 
+ 
+The cost of upgrading facilities and enhancing 
+operations at all NTT DATA Group data centers in 
+Japan totaled around ¥600 million in the period from 
+fiscal 2017 to fiscal 2019. 
+Risk 5 
+Outflow of 
+talented 
+human 
+resources 
+Transitio
+nal risk 
+Any decline in the social 
+evaluation of our ESG activities 
+and/or employee satisfaction 
+levels could cause a decrease in 
+employee retention rates. 
+Long 
+term 
+Virtually 
+certain 
+High 
+We estimate that we would suffer a decrease in 
+annual revenue of around ¥38.9 billion if third-party 
+evaluation of our ESG and employee satisfaction 
+rates were to fall to industry-standard levels 
+(assuming our current rates of turnover and hiring). 
+In fiscal 2019, we allocated around ¥8.1 billion to 
+training and development programs aimed at raising 
+employees’ expertise, including about global climate 
+change trends and the Group’s responses. Also, the 
+annual cost of providing teleworking arrangements for 
+employees, enabling them to work from their homes 
+or satellite offices, was around ¥1.1 billion, bringing 
+total annual expenditures to around ¥9.2 billion.

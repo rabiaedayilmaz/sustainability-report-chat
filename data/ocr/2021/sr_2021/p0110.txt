@@ -1,0 +1,52 @@
+Social 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+Activity Results 
+ 
+ Human Rights Due Diligence 
+As an NTT Group company, we are incrementally implementing a human rights due diligence process in accordance with policies 
+set forth in the NTT Group’s Human Rights Charter established in fiscal 2014. Specifically, we established a human rights 
+management system in the first phase of the process (2014–2016) and strengthened human rights management in the second 
+phase (2017–2018). 
+In fiscal 2019, we conducted our second human rights management survey (December 2019–January 2020), following the 
+first survey in fiscal 2016, with the aim of reaffirming our understanding of potential human rights issues. 
+Since fiscal 2017, we have been working to validate the results of previous internal surveys. As the first initiative, we obtained 
+an assessment of potential human rights risk from an external expert organization. We also examined the degree to which the 
+NTT Group’s business has a negative impact on the human rights of its stakeholders. Specifically, we identified human rights 
+issues that the NTT Group should address from the perspectives of “likelihood of future human rights risks in each country” and 
+“severity of human rights risks that might arise in our business.” 
+In fiscal 2018, we conducted a manifest human rights impact assessment in the Asian region as a test case based on the 
+results of an assessment of potential human rights risk conducted in the previous year. 
+In fiscal 2019, we conducted a human rights management survey, which revealed five human rights issues to address as a 
+top priority: women’s rights, right to privacy, working hours, occupational health and safety, and freedom of association and right 
+to organize. 
+To foster understanding of the five priority issues, in fiscal 2020 we engaged outside experts to give internal lectures in 
+collaboration with NTT. We also held dialogues with overseas Group companies to obtain reports on their initiatives. 
+ 
+ Measures to Address the U.K. Modern Slavery Act 
+NTT DATA UK established compliance policies based on the U.K.’s Modern Slavery Act (MSA), which was passed in March 
+2015. Listed below are ways in which we are implementing these policies: 
+• We comply with the MSA for all activities and investigations. 
+• Our purchasing terms and conditions require all suppliers to comply with the MSA. 
+• We conduct procurement checks of our top suppliers on a regular basis to ensure compliance with many business-related 
+laws and regulations, including the MSA. 
+• Checks of top suppliers performed since 2015 have confirmed their compliance with the MSA. Checks of other suppliers are 
+done in accordance with the due diligence and risk assessment processes. If we find any noncompliance, we swiftly point it 
+out and take prompt action. 
+• We have external and internal whistleblowing systems for registering noncompliance. 
+• We provide MSA-related training as required. 
+• NTT DATA UK’s MSA-related obligations are communicated regularly to employees, and its compliance status is reviewed 
+by directors on an annual basis. 
+ 
+ AI Guidelines and AI Advisory Board 
+The NTT DATA Group’s AI Guidelines, which summarize the Group’s approach, were established to mitigate discrimination and 
+incidents caused by AI and utilize AI for social development. Based on the guidelines, we promote the development of AI 
+technology and the application of the technology to business. 
+ 
+https://www.nttdata.com/jp/ja/news/release/2019/052900/ (Japanese version only) 
+ 
+In April 2021, we established the AI Advisory Board, consisting of external experts, as part of efforts to strengthen and promote 
+our AI governance activities. 
+ 
+https://www.nttdata.com/jp/ja/news/release/2021/041901/ (Japanese version only)

@@ -1,0 +1,129 @@
+▶Information Security Training Offered in Fiscal 2018
+Target
+Content and Format
+Participation
+All employees
+Information Security and Personal 
+Information Protection Training
+(e-learning; in three languages)
+Target
+100% employee completion (11,527 people)
+Achieved
+100% employee completion (11,527 people)
+Position based
+Information security lectures 
+Onsite learning
+Incorporated in position-based training conducted by the Human 
+Resource Department
+Internal Security training for 
+qualified personnel (e-learning) 
+Learning materials were provided online to applicable personnel.
+Business partners 
+and temporary staff
+Personal Information Protection 
+Introduction Training / Information 
+security education (e-learning)
+Target
+100% of all parties registered on our company system 
+(26,302 people)
+Achieved
+100% of all parties registered on our company system
+(26,302 people)
+Information Security Training 
+Handbook
+Booklets available to new business partners and temporary staff via 
+download
+▶Information Security Training at Key Group Companies in Fiscal 2018
+Target
+Implementation Format
+Participation
+Group company employees, 
+business partners, 
+and temporary staff
+GSP security training and personal 
+information protection training
+ (e-learning; in three languages)
+Domestic Group companies 
+67 companies, 29,979 employees
+Overseas Group companies 
+25 companies, 4,375 employees
+Response to Security Incidents Involving the Leakage of 
+Personal Information
+Management system
+We established a system led by the Corporate and Technology Strategy Officer, in which the
+Information Security Committee comprehensively evaluates activities conducted during the fiscal year 
+under review.
+Auditing and 
+monitoring system
+The Company established a governance monitoring system that covers domestic and international 
+Group companies and operates from three points of view: thoroughness of basic operations, external 
+fraud countermeasures, and response to internal fraud.
+Incident response
+We are operating an organizational CSIRT that works to detect incidents early on and provide quick 
+and appropriate emergency response.
+Human resource 
+development
+The Company is strengthening both e-learning and onsite learning to develop human resources wellversed in security.
+Disaster and System Failure Countermeasures
+▶Structure for Responding to Earthquakes and Other Large-Scale Natural Disasters
+Disaster
+Countermeasures
+Headquarters
+System manager
+Damage reporting / 
+Business continuity 
+decisions
+Individual system 
+operation / 
+Restoration services
+Customers
+Head Ofﬁce
+NTT DATA
+Group companies
+Each segment, etc.
+System manager
+System manager
+System manager
+Plans and Systems Responsive to Disaster-Related Risks
+NTT DATA maintains personal, confidential, and business information. When this information 
+leaks, it poses the threat of damaging our social credibility and brand image. Leaks may also 
+have negative impacts on the Group’s operating results and financial conditions through, 
+for example, payments for damages. We are engaging in the following initiatives aimed at 
+predicting and alleviating these security risks.
+There were no substantiated complaints concerning breaches of customer privacy or loss of 
+customer data in fiscal 2018.
+The NTT DATA Group provides many information systems and services that support social 
+infrastructure. Therefore, a system shutdown or interruption of services in the event of a 
+disaster would have an enormous impact on society and people’s lives. Therefore, we strive 
+to constantly improve our disaster BCP as well as contingency plans for systems and services 
+related to social infrastructure. Since the Great East Japan Earthquake, we have particularly 
+sought opportunities where we can apply the lessons we learned from this difficult experience.
+As in the case with the Great East Japan Earthquake, we face the risk of disasters of greater 
+scale and diversity, which further raises the importance of plans and systems for response.
+NTT DATA has “Disaster Business Contingency Plans (BCPs)” and “Contingency Plans” in 
+place, and conducts various drills and trainings to ensure that the Company can swiftly ensure 
+the continuation of its business after a disaster.
+We hold Companywide drills for all employees, including drills for confirming personal safety 
+and setting up the Disaster Countermeasures Headquarters at the Head Office. Furthermore, 
+each organization conducts separate drills that reflect the nature of their respective operations 
+in an effort to minimize disaster risks.
+Protecting our buildings, electrical systems, air conditioners, security, and various functions 
+of our data centers is vital for the operation of information systems. For this reason, we have 
+obtained certification for ISO 22301:2012, an international standard for business continuity 
+management, at all Group-owned buildings and have established a system able to respond in 
+the event of a large earthquake, widespread power outage, or similar incidents.
+* As of March 31, 2019
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

@@ -1,0 +1,115 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+Reducing workload through the digitalization of deposit account inquiries between 
+government bodies and financial institutions
+NTT DATA Japan Corporation
+Social Infrastructure Solution Sector
+Social Innovation Division
+Asset Business Group, Asset Business Section
+Business need
+Solution
+•
+To ensure the stable operation of social security systems, fair taxation, and a safe and secure society, local governments, national tax offices, police, and other government bodies conduct investigations into individuals’
+and corporations’ deposit balances and transaction records by submitting inquiries to financial institutions. Speed and accuracy are essential in carrying out this work.
+•
+Currently, both inquiries to financial institutions and the responses that they issue are still handled on paper. This process is time-consuming, and the need to check information in various formats increases operational
+workload.
+Every year, government bodies and financial institutions
+process
+roughly
+
+million
+deposit
+account
+inquiries.
+Traditionally,
+financial
+institutions
+handled
+these
+inquiries
+individually on paper and sent responses by physical mail. This
+labor-intensive process typically took one to two weeks, and in
+some cases, up to 50 days. To improve speed and accuracy, a
+secure system was needed to connect government bodies and
+financial institutions and to support deposit account inquiries in
+a unified electronic format. Such a system reduces the effort
+required
+to
+handle
+paper
+documents,
+mailing
+costs
+and
+associated delays, and the complexity caused by differing
+document formats. Wider adoption of such systems by both
+government bodies and financial institutions is expected to
+further enhance efficiency.
+pipitLINQ® is a public-private collaboration platform that connects
+government bodies and financial institutions, enabling the digital
+handling
+of
+deposit
+account
+inquiries
+among
+participating
+organizations. Leveraging NTT DATA’s technological assets, the
+platform ensures secure and efficient data linkage. Recognizing the
+high costs of traditional paper-based operations, NTT DATA organized
+joint study sessions with administrative and financial institutions to
+share best practices, conducted demonstration tests to verify feasibility,
+and
+provided
+policy
+recommendations
+to
+promote
+nationwide
+adoption—advancing the digitalization of government procedures.
+Eliminating paper-based processes has significantly reduced labor,
+costs, and delays—cutting working hours by 55% for government
+bodies and 99% for financial institutions—and has contributed to
+improving the quality of social security systems. Looking ahead,
+pipitLINQ®
+will
+continue
+to
+leverage
+this
+trusted
+public-private
+information infrastructure to connect industries, organizations, and
+people,
+contributing
+to
+the
+creation
+of
+a
+more
+equitable
+and
+prosperous society.
+Impact
+Inquiry response time
+Conventional processes: 
+20 days
+With pipitLINQ:
+3 days
+Source: Survey of institutions that have implemented pipitLINQ® (valid
+responses: 379 public institutions, 15 financial institutions;
+conducted Sept. 26–Oct. 15, 2025)
+Overview of pipitLINQ® utilization
+pipitLINQ®
+Japan
+pipitLINQ: Electronic Deposit Account Inquiry Service from NTT DATA Connecting Government Bodies and Financial Institutions (in Japanese only)
+pipitLINQ: Electronic Deposit Account 
+Inquiry Service from NTT DATA 
+Connecting Government Bodies and 
+Financial Institutions (in Japanese only)

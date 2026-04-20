@@ -1,0 +1,66 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Large typhoons, floods, heat waves, torrential rains, and other abnormal weather events increase the 
+risk of data center operational shutdown due to power outages, flooding, and lightning strikes. 
+ 
+Assumed business and financial impacts 
+More than 40% of our sales are associated with the data center business, and almost all the main data centers are located on 
+middle latitudes in the northern hemisphere, which are frequently experiencing heavy rainfall due to climate change. In Japan, 
+financial institutions, which are our major clients, are demanding low-latency trade processing with the Tokyo Stock Exchange 
+(TSE), which is located near Tokyo Bay. In addition, as public institutions have requested low-latency communication and efficient 
+interconnection with the data centers and Internet exchanges of other companies, there is a trend toward using data centers 
+near Tokyo Bay. Accordingly, in Japan where we are headquartered, we have many data centers in Tokyo located in relatively 
+coastal areas that are particularly vulnerable to abnormal weather events. 
+In the United States, the New York Stock Exchange and Internet Exchange are located near New York Harbor. We locate 
+our data centers near New York Harbor to ensure low latency in communication processing and improve the efficiency of 
+interconnection with major clients and other companies’ data centers. As a result, our data centers are vulnerable to abnormal 
+weather events and face a Company-wide risk of data center outages caused by interruption of power transmission to data 
+centers in Japan and outside Japan due to extreme weather (such as major typhoons, floods, heat waves, and heavy rains), 
+flooding, and lightning strikes. 
+ 
+ Financial impact 
+NTT DATA has data center facilities located in regions identified as high-risk areas according to the IPCC’s Sixth Assessment 
+Report. While there is a risk of operational disruptions, we have implemented various measures based on hazard maps and 
+other resources to ensure business continuity. If a typhoon were to cause a five-day shutdown of our major data centers located 
+mainly in the Tokyo metropolitan area, we estimate that the negative impact on net sales would be ¥14 billion. 
+ 
+Measures and costs 
+Infrastructure maintenance and management and disaster preparedness 
+using a drone operation management system 
+In March 2020, in Japan, we established Grid Sky Way LLP together with TEPCO 
+Power Grid, Inc., and Hitachi, Ltd. (with Chugoku Electric Power Transmission & 
+Distribution Co., Inc., joining in June 2020). The activities of this business 
+partnership include building and demonstrating a system to enhance the 
+sophistication of infrastructure facility inspections, including using drones to 
+inspect electric power equipment, and strengthen resilience during disasters 
+such as flooding, which is of particular concern, as countermeasures against 
+natural disasters that are becoming more severe due to abnormal weather. 
+Our role is to create an environment for field testing a drone operational management system. In fiscal 2021, the business 
+partnership conducted test flights of unmanned drones near power transmission facilities in Okayama Prefecture to test 
+unmanned automated flights for inspecting power facilities. In fiscal 2022, over a period of approximately nine months, 
+collaborative demonstrations of drones utilizing the Grid Skyway system were conducted in 44 locations in Japan. 
+In the future, we will continue to develop a route platform to support beyond visual line of sight (BVLOS) drone flights, 
+focusing on the utilization of drones for infrastructure maintenance and disaster response. This will enable us to assess situations 
+quickly and comprehensively during disasters, such as the condition of evacuation routes, structures, and the flooding status of 
+data centers. This will contribute to the enhancement of disaster response operations for government agencies and infrastructure 
+providers. 
+ 
+Strengthen data center resilience 
+Since the 2020 COVID-19 pandemic, we have increased internal network bandwidth with the aim of establishing and improving 
+teleworking environments for employees. Indirectly, this has also helped increase the resilience of our data centers to climate 
+change. In fiscal 2022, NTT DATA conducted two disaster preparedness drills with the aim of rapidly responding to disasters, 
+including data center clients, when such events occur. We are planning to invest in updating the disaster preparedness system 
+in the future, and we will work on defining the system requirements, including input from our clients. 
+ 
+ Costs 
+NTT DATA has been continually enhancing its Business Continuity Plan (BCP) for data centers, offices, and communication 
+facilities. As part of our efforts to ensure business continuity, we will invest a cumulative total of ¥9 billion over the course of the 
+current medium-term management plan for the strengthening and upgrading of data centers, remote access, maintenance 
+environments, and related expenses. 
+ 
+ 
+Risk２: Data center shutdown due to abnormal weather 
+[Physical risk: Acute] 
+Time horizon: Short term 
+A drone in flight during a disaster preparedness drill

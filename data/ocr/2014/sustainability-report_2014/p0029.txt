@@ -1,0 +1,134 @@
+The Whistle Line in Action
+NTT DATA Group
+employees
+Whistle Line Desk
+I must do
+something
+Provide
+information
+E-mail
+Letter
+FAX
+Reply
+Investigation and
+action
+Business Sectors/Group Companies
+Risk management promotion ofﬁcer
+NTT DATA
+Chief Responsibility Ofﬁcer (CRO)
+Reply
+Request for 
+investigation
+Available to all NTT 
+DATA Group 
+employees 
+including full-, 
+part-time, and 
+temporary staff
+Compliance
+Information Security
+Maintaining a Whistle Line for the Early 
+Detection of Problems
+We launched the Whistle Line in 2003 in order to maintain 
+sound management through the detection and correction of 
+behavior that contravenes laws and corporate ethics at an 
+early stage. This service receives reports from and provides 
+consultation to all NTT DATA Group personnel, including 
+temporary staff and suppliers.
+In operating this service, we place the utmost 
+importance on the protection of privacy, prohibitions 
+against unfair treatment, and the obligation to uphold 
+confidentiality. Moreover, survey results and corrective 
+actions are reported to the Executive Committee, 
+corporate auditors, and other authorities and are used to 
+increase the soundness of business management. Over 
+the past three years, the service attended to around 70 
+cases a year which entailed the reporting incidents or 
+seeking of advice. Where necessary, we have analyzed 
+the likelihood of similar cases and taken Group-wide 
+measures to prevent a recurrence.
+Looking ahead, we will continue to encourage the use 
+of the Whistle Line and strengthen efforts aimed at 
+making improvements regarding similar incidents.
+Fulfilling Our Mission as a Global IT Company: 
+Putting in Place an Information Security 
+Management System
+NTT DATA has regularly held meetings of its Information 
+Security Committee, which was established in 1999, to 
+discuss the status of its Group-wide activities as well as 
+efforts to identify pending issues and determine new 
+measures as and when required. The decisions of the 
+Information Security Committee are implemented by the 
+Information Security Office, which was set up to promote 
+information security, with an information security team 
+member appointed at each work site.
+Moreover, we established NTTDATA-CERT as a body 
+to prevent information security incidents*1 from happening 
+and to respond immediately when a security incident 
+occurs in July 2010. NTTDATA-CERT became a member of 
+the Nippon CSIRT*2 Association, as well as a member of 
+FIRST*3, a global CSIRT organization. Through activities 
+associated with these organizations, we gather a wide 
+range of information on security-related trends both in 
+Japan and overseas, which we use to improve the security 
+of our systems.
+*1 Threats related to information management and system administration, such as viruses, 
+unauthorized access, and information leaks
+*2 CSIRT (Computer Security Incident Response Team) is an incident response team 
+consisting of security specialists. The team collects and analyzes information on security 
+incidents, security-related technologies and vulnerabilities, and conducts activities for 
+effective response and training.
+*3 FIRST (Forum of Incident Response and Security Teams) is a global community 
+comprising approximately 300 CSIRT teams from government organizations, academic 
+institutions, and private companies.
+We Strive for Sound, Transparent Corporate Management so as to Achieve 
+Continuous Growth while Gaining the Trust of Our Stakeholders.
+Information Security Management Structure
+President and CEO
+Chief Information Security Ofﬁcer (CISO)
+Personal Information Protection Manager
+NTTDATA-CERT
+Information
+Security
+Committee
+Internal
+Audit
+Department
+Head of the
+Organization
+Information Security Steering
+Organization / 
+Personal Information Protection 
+Promotion Organization 
+(Information Security Office)
+Information Security 
+Manager 
+Personal Information
+Protection Manager of
+Each Department 
+Information Security
+Team Member 
+Companies
+Business Sectors, 
+Staff Departments, etc.
+Related Staff
+● Corporate Planning
+● Research and 
+Development 
+Headquarters 
+● Information Systems
+● General Affairs, 
+Legal Affairs, 
+Intellectual Property
+● Training Department 
+etc 
+Report
+Audit
+Proposal
+Audit
+Periodic Reports
+NTT DATA CSR Report 2014 28
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

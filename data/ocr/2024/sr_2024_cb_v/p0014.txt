@@ -1,0 +1,87 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Successful Energy Optimization Through Real-time Information, Coaching and Gamification
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+DTE Insight
+Carbon
+Neutrality
+• Smart meters have the potential to empower households to understand their energy usage and reduce their carbon footprint through access to real-time information and the ability to set
+and track energy usage targets, however, concerns around areas such as privacy and transparency remain barriers to widespread adoption.
+• With conventional energy monitoring services, households receive energy reports at the end of each month, meaning they learn how much energy they used after the fact. Solutions
+delivering real-time insights can enable homeowners to take action within monthly cycles to proactively prevent overspending and excess emissions.
+DTE
+Energy
+is
+a
+Detroit-based
+diversified
+energy
+company involved in the development and management
+of energy-related businesses and services across the
+United States. The company sought to change the
+narrative
+around smart meter adoption
+by providing
+customers with a transparent system that delivers realtime energy awareness and insights while addressing
+privacy concerns as a barrier to adoption. The system
+was intended to create win-win situations for customers,
+DTE Energy and wider society by empowering users to
+proactively reduce their energy costs, increasing loyalty
+by
+creating
+a
+positive
+touchpoint
+for
+an
+ongoing
+relationship, and reducing overall energy use.
+Business need
+Solution
+Impact
+Overall decrease in energy 
+usage among Insight users
+10%
+The unique blend of coaching, gamification, and social elements
+has reinforced a positive touchpoint between users and utility
+providers while generating the highest aggregate savings for a DTE
+energy efficiency program. Gamifying the experience also more than
+doubled the user retention rate to 65%.
+NTT DATA worked with DTE Energy to conceptualize,
+architect, and design DTE Insight, a system featuring
+custom hardware that quickly and securely binds to an
+advanced meter, then presents real-time energy data in a
+mobile app. The app supports Android and iOS devices,
+including the Apple Watch, giving users access to real-time
+information, wherever they are. By enabling users to easily
+monitor and adjust their appliances, the app empowers
+people to enjoy time at home in comfort with the peace of
+mind that comes from being in control of their energy use.
+Featuring
+personalized
+energy
+efficiency
+recommendations and weekly energy-saving challenges,
+DTE Insight also engages users through coaching and
+gamification. Users can even set personal energy goals,
+then
+monitor
+their
+progress
+and
+receive
+positive
+reinforcement upon reaching their energy reduction and
+savings targets. To ensure data privacy, the app includes
+opt-in/opt-out features and the gamification aspects do not
+share personal identifiers.
+DTE Energy Insight | Our work
+Putting the Power of Smart Data 
+into the Hands of Energy 
+Consumers

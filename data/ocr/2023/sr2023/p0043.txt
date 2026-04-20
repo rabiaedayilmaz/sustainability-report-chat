@@ -1,0 +1,37 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ Metrics and Targets (Management Metrics and Targets for Climate-Related 
+Risks and Opportunities) 
+Metrics and targets set for climate-related risk management and opportunity-related strategies are below. 
+Metrics Category 
+Metrics, Targets, Results, etc. 
+GHG emissions 
+Metrics: Scope 1, 2, and 3 emissions 
+Targets: 
+GHG emissions 
+Short term: Make the following reduction by FY2025 compared with FY2021. 
+Scope 1 and 2: Reduce by 50,000 tons 
+Medium term: Make the following reductions by FY2030 compared with FY2021. 
+ Scope 1 and 2: Reduce by 68% (SBT1.5˚C level) 
+Scope 3: Reduce by 42% 
+Long term: Achieve net zero by FY2040 (Scope 1, 2, and 3) 
+Internal carbon price 
+Internal carbon price (FY2023): ¥6,500/t-CO2 
+Note: NTT Group unified price (to be updated annually) 
+Compensation 
+Executive compensation and employee bonuses are linked to climate change–related 
+performance. 
+Notes: 
+Non-Audit and Supervisory Committee directors are eligible for compensation linked to 
+the achievement of the GHG emission reduction plan with a 5% evaluation weight. 
+Employees are eligible for compensation linked to the achievement of annual KPI 
+objectives related to climate change adaptation and other sustainability contributions as 
+part of a recognition system. 
+NTT DATA obtained approval under the Science-Based Targets initiative (SBTi) for its GHG emission reduction targets: 60% 
+reduction by fiscal 2030 for Scope 1 and 2 (1.5˚C target) and 55% reduction by fiscal 2030 for Scope 3 (both compared with 
+fiscal 2016). Fiscal 2022 results were as follows. 
+(In accordance with the integration with NTT Ltd., we plan to review our SBT targets with the base year set as fiscal 2021.) 
+ 
+Note: Scope 2 figures are market-based (calculated based on the amount of electricity procured by each electric power company and its emission factor, 
+etc.).

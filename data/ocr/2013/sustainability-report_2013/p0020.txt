@@ -1,0 +1,127 @@
+Paradigms for Society and 
+Regional Communities
+The NTT DATA Group contributes to the advancement of society as a whole through the 
+development and provision of highly reliable, easy-to-use systems. At the same time, we 
+contribute to the resolution of issues in regions and countries where we have a presence.
+Major Activities and Achievements in Fiscal 2013
+Major Initiatives Undertaken during Fiscal 2013 and Future Plans
+Initiatives
+Planned Initiatives
+Initiatives Undertaken during Fiscal 2013
+Future Plans
+Developing Systems that are Safe and Secure
+Quality improvements
+Promote process improvements incorporating 
+CMMI*
+• Achieved CMMI Level 5 by one organization, 
+and CMMI Level 3 by one organization and one 
+overseas Group company
+• Incorporating CMMI further in Group companies in the Asia-Pacific region
+Promote system development and management 
+methods within Group companies
+• Released an English version for Asian markets 
+and also elsewhere overseas
+• Establishing and widely deploying processes 
+that meet overseas needs
+Quality of security
+Promote the development of technologies to 
+raise the quality of security
+• Deployed four services to protect against new 
+cyber attacks
+• Working to collaborate with clients through 
+response-to-incident activities we provide 
+them directly
+• Continuously implementing technology developed against new cyber attacks through 
+facilitating information sharing with other organizations through CSIRT activities
+Disaster countermeasures
+Investigate and improve disaster business 
+continuity plans (BCP) taking into account the 
+risks that came to light in the Great East Japan 
+Earthquake
+• Reviewed and extended damage forecasts in 
+BCPs for important maintenance systems
+• Verifying and optimizing contingency plans 
+through emergency drills along the plans
+• Distributed action manuals with emergency 
+information, and confirmed the first action at 
+each office
+• Confirming how to act first in a disaster 
+through monthly safety registration drills and 
+annual disaster drills
+System failure countermeasures
+Continue initiatives for “prevention” and 
+“response”
+• Promoted and spread of ITSM work bench
+• Establishing and promoting a quantitative evaluation system on service quality
+Developing People-friendly Systems
+Universal design (UD) promotion
+Improve ease of use of information systems
+• Promoted initiatives on Human Centered 
+Design, user experience (UX), color universal design, quality improvement in operating 
+manuals
+• Remaining continuously active on issues listed 
+on the left, and bolstering collaboration within 
+the NTT DATA Group and the NTT Group on 
+these issues
+Enhance employee education and cultivate 
+skilled personnel
+• Held in-house (in the Group) seminars involving 
+Group companies overseas, and encouraged 
+employees to acquire qualifications on UD and 
+UX
+• Nurturing advanced expertise through exchanges 
+with related institutions and knowledgeable people outside the Group; expanding our expertise 
+by “design thinking” initiatives
+Initiatives for improving 
+client satisfaction (CS)
+Implement improvement actions aimed at 
+enhancing CS
+• Continued carrying out CS surveys based on 
+questionnaires and interviews
+• Continuing implementation of CS measures 
+across the institutions, incorporating client 
+feedback; improving our questionnaire distribution process with the aim of collecting more 
+opinions from clients
+Contributing to Regional Communities and Society as a Whole
+Utilize IT to resolve social issues
+Develop systems that resolve social issues
+• Provided the Bridge Monitoring System, the 
+emergency command support tool in medical 
+emergency transportation, and other services
+• Advancing development of IT systems that 
+can help to resolve social issues, including 
+health and social welfare, disaster and crisis 
+management
+• Promoted activities supporting recovery of 
+disaster-affected areas through the provision 
+of IT
+• Providing ongoing support for town development through IT as well as job creation in 
+disaster-affected areas
+Promoting social contribution 
+activities
+• Promote employee volunteer participation
+• Promoted Group-wide activities
+• Planned and undertook volunteer work in 
+disaster-affected areas by recruiting participants from among all Group employees
+• Organizing existing activities and clarifying our 
+operational policies
+• Considering global activities
+Based on our coherent policy of contributing to solving 
+social problems through provision of high quality services, 
+the NTT DATA Group in fiscal 2013 actively offered 
+leading-edge solutions such as the Bridge Monitoring 
+System, the cloud-based building environment and 
+energy management system (BEMS) service, and IT 
+infrastructure reconstruction in disaster-devastated 
+areas. Moreover, we are transforming websites and 
+information terminals to conform with universal design 
+(UD) principles with the goal of building a society 
+comfortable to everyone. For the Group, improving 
+client satisfaction is an important issue that forms the 
+fundamental of our entire business and is thoroughly 
+implemented across the Group. We will proceed with 
+initiatives to help regions and societies from various 
+aspects in the future, too.
+* Capability Maturity Model Integration is a model created by the Software Engineering Institute, Carnegie Mellon University, that expresses the level of maturity 
+of an organization performing system development. The model includes five levels of maturity.
+NTT DATA CSR Report 2013

@@ -1,0 +1,101 @@
+[ Industrial Accident Prevention Initiatives ]
+With regard to the prevention of industrial accidents, in addition to conducting two annual workplace 
+safety patrols, we engage in activities to raise in-house awareness of National Safety Week, National 
+Industrial Health Week, and the Accident-Free Holiday Campaign organized by the Ministry of Health, 
+Labour and Welfare and the Japan Industrial Safety and Health Association.
+ 
+The number of occupational accidents during fiscal 2016 stood at four, two less than in fiscal 
+2015. Going forward, with the aim of achieving no accidents, the Health and Safety Committee will 
+continue its efforts to ensure that employees remain on guard against potential hazards.
+ Labor Relations
+[ A Better Work Environment Based on Labor–Management Dialogue ]
+The Company conducts labor–management talks with NTT DATA unions regarding issues pertaining 
+to working conditions as they arise. NTT DATA’s basic stance is to emphasize dialogue between labor 
+and management in addressing various issues.
+ Pursuing Employee Satisfaction
+[ Ongoing Employee Satisfaction Surveys ]
+The NTT DATA Group strives to improve workplace environment and Company mechanisms and 
+ascertain issues pertaining to the creation of a company where employees can work comfortably. 
+These efforts include the regular implementation of attitude surveys targeting all NTT DATA Head 
+Office and domestic Group company employees, which are connected to workplace environment 
+improvements. In the fiscal 2016 survey, NTT DATA Head Office employee satisfaction was ranked 
+3.70 points out of a total of five points, indicating continued satisfaction.
+ 
+Moreover, in fiscal 2015 we began conducting the “One Voice” employee engagement survey for 
+all employees working at our Group companies overseas.
+ 
+We will continue striving to create rewarding workplace environments through these initiatives.
+Initiatives for Improving Accessibility
+The widespread adoption of IT in society has brought with it the problem of the digital divide*1. The 
+NTT DATA Group, recognizing in each IT user the potential for innovation, promotes the development 
+of people-friendly information systems centered on universal design (UD)*2. We are pursuing a widerange of initiatives, from applying UD in the systems and services we deliver to clients to training and 
+enhancing the awareness of employees.
+ 
+Furthermore, in recent years the definition of “easy-to-use” services has advanced with an increasing importance on “user experience (UX)” approaching deeper “satisfaction” from the “user's point of 
+view.” UX indicates a way of thinking focused on the degree to which user demands for fun, comfort, 
+and convenience can be realized. UX places importance on a user-focused design approach unlike 
+traditional approaches rooted in technology or markets. Since 2002, NTT DATA has adopted designs 
+from the user’s perspective in its system development process in an effort to design systems that are 
+people-friendly, satisfying, and resolve accessibility issues in the ICT and IoT fields.
+*1 The economic and social gap or imbalance 
+that exists between those who have access 
+to computers and the Internet and the capability to use them and those that do not
+*2 Design aiming for ease of use by all people, 
+irrespective of age, gender, nationality, disability, or individual experience and abilities
+The NTT DATA Group works to create and develop a healthy society through social 
+contribution activities that emphasize employee participation, and through the development of IT systems designed to help resolve social issues.
+With Regional Communities and Society as a Whole
+
+3.68
+3.71
+3.73
+3.77
+3.70
+4.0
+3.8
+3.6
+3.4
+3.2
+3.0
+
+Employee Satisfaction Survey Results
+Ratio of respondents to all employees
+FY
+ Employee Satisfaction Survey Results
+(Points) 
+(%)
+A full score is 5.0. Employee satisfaction is measured in four stages, including requires improvement (below 3.0), requires attention (from 3.0 to 
+3.29), normal (from 3.3 to 3.59), and [satisfied 
+(3.6 and above)]. The level at the NTT DATA 
+Group lies within the “satisfied” domain.
+Management Approach
+The NTT DATA Group contributes to the advancement of society as a whole by developing and 
+providing IT solutions for global social issues. To encourage each individual employee to proactively pursue social contribution activities, the Social Contribution Promotion Office takes the lead 
+in promoting effective initiatives under our social contribution policy. We will continue to fulfill our 
+responsibility as a corporate citizen by engaging in effective social contribution activities that are 
+in line with international initiatives and guidelines such as the Sustainable Development Goals 
+(SDGs) adopted at a United Nations summit in 2015.
+UI
+User Interface
+UD
+Universal Design
+UX
+User Experience
+System appearance
+Accessibility/usability
+Experience gained 
+through service
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Environment
+Governance
+GRI Standards
+Social

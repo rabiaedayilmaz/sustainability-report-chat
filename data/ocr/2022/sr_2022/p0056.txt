@@ -1,0 +1,48 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2022 Data Book 
+ Greenhouse Gas Emissions in the Value Chain 
+To reduce the risks of climate change and realize a low-carbon society, it is important to engage in energy-saving measures not only for 
+the Company’s facilities but also for the overall society. We integrate environmental considerations into all aspects of our corporate 
+activities. To this end, from fiscal 2013 we broadened the scope of our aggregated calculation of GHG emissions and began management 
+under Scope 3, which calculates the aggregate amount of these emissions by considering product and service life cycles, from 
+procurement to distribution and final disposal. For Scope 1 and 2, we added data from overseas operations to data obtained from a thirdparty certifier. As a result, total greenhouse gas emissions of the NTT DATA Group were 1,778,859 t-CO2e in fiscal 2021. 
+Building on this result, the entire Group will seek to identify more effective carbon-reduction initiatives and embrace challenges 
+together with clients and business partners. 
+ 
+ 
+Emission Rates by Scope in Fiscal 2021 
+ 
+We receive third-party verification at each business site. 
+[Japan & North America] 
+We received third-party verification of our GHG emissions (Scope 1, 2, and 3), energy consumption, and water consumption in fiscal 2021 
+from LRQA Limited. 
+Verification of Scope 1 and 2 emissions, energy consumption, and renewable energy consumption applies to all organizations of 
+NTT DATA and 91 consolidated Group companies in Japan, United States, and India. Verification of water consumption applies to all 
+organizations of NTT DATA and 75 domestic consolidated Group companies. Verification of Scope 3 applies to all organizations of NTT 
+DATA and 207 domestic and overseas consolidated Group companies. 
+ 
+[EMEAL] 
+We received third-party verification of our GHG emissions (Scope 1 and 2) from AENOR INTERNACIONAL, S.A.U., in fiscal 2021. The 
+scope of the verification covered 86 sites in Europe, Latin America, and Africa. 
+ 
+ 
+Summary of Third-Party Certified Data* in Fiscal 2021 
+ 
+Direct GHG emissions (Scope 1) 
+5,400 t-CO2e 
+Indirect GHG emissions from energy sources (Scope 2, market basis) 
+121,158 t-CO2e 
+Indirect GHG emissions from energy sources (Scope 2, location basis) 
+152,249 t-CO2e 
+Other indirect GHG emissions (Scope 3) 
+1,639,180 t-CO2e 
+Energy consumption 
+356,169 MWh 
+Renewable energy consumption 
+70,682 MWh 
+Water consumption 
+446,452 m3 
+Wastewater 
+265,326 m3 
+*Scope of data collection: Japan and North America

@@ -1,0 +1,133 @@
+NTT DATA Sustainability Report 2018
+Information Security Governance
+ Auditing and monitoring system
+Since 2006, the NTT DATA Group has been diligently working to secure information security in 
+accordance with its GSP. We are also establishing auditing and monitoring systems at domestic 
+and overseas Group companies.
+ The Company has been pressing forward with initiatives related to security auditing while focusing 
+on three points of view: thoroughness of basic operations, external fraud countermeasures, and 
+response to internal fraud. 
+ Moving forward, we will continue to pursue thoroughness of basic operations and pay particular 
+attention to fraud response measures. 
+1. Thoroughness of basic 
+operations
+We verify the management statuses of internal organizations and systems 
+that process personal information based on our GSP.
+2. External fraud 
+countermeasures
+In order to respond to increasingly sophisticated and complicated cyberattacks, 
+we check the statuses of system countermeasures at Group companies.
+3. Response to internal fraud
+We confirm the statuses of system response measures to ensure proper reaction to and prevention of internal fraud.
+ Internal Auditing System
+Performed annually and internally in accordance with GSP
+Group companies 
+(individual) 
+NTT DATA 
+(Head Office) 
+Internal Audit Department
+Furthermore, to reinforce information security on a global scale we operate a global security 
+governance system centered on regional integrated companies that is similar to the system in place 
+for business management. NTT DATA regularly reviews the information management conditions of 
+each regional integrated company on a quarterly basis to maintain an understanding of management 
+circumstances and provide support for maintaining and enhancing the level of control.
+ Since fiscal 2015, we have held workshops aimed at strengthening our initial response in the event 
+of an incident.
+ Acquisition of Information Security Management Certification
+At NTT DATA Group companies, each unit that handles confidential information and personal information acquires ISO/IEC 27001 certification—the international standard for information security management systems (ISMS)—as an organization, as necessary. As of March 31, 2018, 41 Group companies, 
+including NTT DATA, have acquired this certification in Japan. Several overseas Group companies, 
+for example in Europe, China, and India, have also obtained ISO/IEC 27001 certification.
+ In addition, 40 Group companies, including NTT DATA, have been granted the right to display the 
+PrivacyMark of the Japan Institute for Promotion of Digital Economy and Community (JIPDEC).
+ Information Security Governance
+Stakeholders
+Backups
+NTTDATA-CERT
+Auditing
+Internal Audit 
+Department
+Monitoring Information
+Security Office
+Steering Information
+Security Committee
+Each segment (Worksite, project)
+Assessment 
+Information Security 
+Committee
+ Information Security Management System
+Audits
+Members
+Report
+Report
+President and Chief Executive Officer
+Corporate and Technology Strategy Officer / 
+Personal Information Protection Manager 
+(Supervisor)
+Internal 
+Audit 
+Department
+Information 
+Security 
+Committee
+Information Security Steering 
+Organization / Personal 
+Information Protection 
+Promotion Organization 
+(Information Security Office)
+NTTDATA—CERT
+Collaborating 
+Organizations
+■ Business Strategy 
+Department
+■ Technological Innovation 
+Headquarters
+■ Information System 
+Department
+■ ESG Promotion, Legal, 
+and Intellectual Property 
+Departments
+■ Training Department
+• Business 
+Department
+• Staff 
+Department, 
+etc.
+Information Security Promotion Supervisor
+Department Manager of Business 
+Personal Information Protection
+Information Security Promotion Officer
+Personal Information Protection Staff
+Audits
+Heads of 
+organizations
+• Audits are performed on targets selected based on 
+results of risk evaluations.
+• In addition to auditing based on our GSP, we began to 
+audit systems for internal fraud in 2015.
+• We monitor audit items shared 
+between Group companies.
+Reporting
+Management team: 
+CISO
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Social
+GRI 
+Standards
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Environment
+Governance

@@ -1,0 +1,143 @@
+Supporting Greenhouse Gases 
+Emissions Countermeasures
+Proposing systems that support 
+emissions trading
+Since the beginning of the first commitment 
+period (2008–2012) of the Kyoto Protocol, 
+which sets binding targets for reducing 
+greenhouse gases emissions, Japan has 
+actively pursued its 6% reduction target. The 
+emissions trading*1 of greenhouse gases has 
+attracted particular attention.
+Along with the development and 
+operation of Japan’s National Registry 
+System*2 as the infrastructure for international 
+emissions trading, NTT DATA develops and 
+operates systems to manage emissions by 
+companies voluntarily participating in Japan’s 
+Voluntary Emissions Trading Scheme run by 
+the government.
+In fiscal 2009, we developed and operated 
+a system for the Ministry of the Environment’s 
+Offsetting Credit (J-VER) scheme, as well as 
+a system for Japan’s trial emission trading 
+scheme*3 in the domestic integrated market.
+We will continue to contribute to the 
+reduction and management of CO2 emissions 
+in Japan by offering systems that support 
+corporate emissions identification and trading.
+Supporting environmentally friendly 
+product development and CO2 
+reduction through carbon offsets
+Through the Carbon Offset Products Project 
+(COP) sponsored by the NTT DATA Institute 
+of Management Consulting, we support the 
+reduction of CO2 emissions from corporate 
+business activities and environmentally 
+friendly strategic product development 
+through carbon offsets*4.
+COP is a member of the Co-op Net 
+Business Federation, the first in the world to 
+use carbon offsets to reduce CO2 emissions 
+from stores to zero. In addition to opening 
+four zero-CO2 emission stores in Saitama and 
+Chiba from June 2008 to July 2009, in June 
+we opened a zero-CO2 emissions refrigerator 
+center in Inzai, Chiba.
+We plan on promoting COP setup and 
+participation to realize an expanded number 
+of zero-CO2 emissions stores, as well as 
+zero-CO2 emissions factories that use carbon 
+offsets for manufacture and transportation 
+and zero-CO2 emissions transport.
+Promoting the greening of data 
+centers with increased demand
+In recent years, the energy consumed by 
+server operation and the cooling of highvolume heat-generating equipment at data 
+centers around the world is increasing. To 
+meet its responsibility as the largest data 
+center operator by floor space in Japan, 
+NTT DATA promotes the suppression of 
+energy consumption and the reduction of 
+CO2 emissions at its data centers. We began 
+providing Green Data Center services in 
+January 2008 to reduce environmental impact 
+and improve IT efficacy.
+In addition to a shared IT platform 
+service*5 in October 2008, this service 
+comprises the iDC, design and construction 
+and housing services, supporting the creation 
+of new corporate value from environmental 
+and IT perspectives.
+Credit inquiry
+register/transfer
+Exchange
+brokers
+Credit inquiry
+register/transfer
+Compensation
+Company A
+Company B
+Internal emissions
+management system
+Assigned
+amount
+Excess
+Emission
+amount
+Internal emissions
+management system
+Surplus
+Emission
+amount
+Assigned
+amount
+Trading system
+Purchase of
+emission credits
+Sale of surplus
+emission credits
+Compensation
+National
+Registry
+System
+Greenhouse Gases Emissions Trading Support System
+NTT DATA disseminates information and proposes concepts on environmental impact reduction through IT activities. 
+In addition to reducing the environmental impact of our business activities, we develop technologies and services 
+that support customers’ environmental protection activities.
+*1 Emissions trading
+Mechanism that enables 
+countries and companies 
+unable to achieve reduction 
+targets directly to purchase 
+credits from countries 
+and companies that have 
+reduced emissions beyond 
+their targets.
+*2 National Registry 
+System
+A system to manage the 
+possession and transfer 
+of national and corporate 
+credits as defined by the 
+Kyoto Protocol.
+*3 System for Japan’s 
+trial emission trading 
+scheme
+A system to manage the 
+target status of participating 
+companies and the 
+exchange of credits in the 
+market through the trial 
+implementation of emissions 
+trading in the domestic 
+integrated market.
+*4 Carbon offsets
+Mechanism to offset CO2 
+emissions by investing 
+in green energy and 
+afforestation businesses that 
+protect woodland sinks.
+NTT DATA and the Environment
+IT Solutions to Reduce Environmental Impact
+NTT DATA CSR Report 2009

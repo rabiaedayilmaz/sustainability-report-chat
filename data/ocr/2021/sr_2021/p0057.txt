@@ -1,0 +1,46 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Environmental Targets 
+ 
+ Greenhouse Gas Emission Reduction Targets and SBT Certification 
+The NTT DATA Group has established greenhouse gas emission reduction targets for fiscal 2030 and obtained certification from 
+the SBT1 initiative. We have set a 1.5°C target for both Scope 1 and Scope 2 emissions.2 
+Addressing climate change is one of the key ESG priorities set forth in the ESG Management section of the NTT DATA 
+Group’s Medium-Term Management Plan (fiscal 2019–2021). To date, the Group has reduced greenhouse gas emissions in 
+society by promoting green IT solutions. We have also continued reducing greenhouse gas emissions at our own facilities, 
+including our Green Data Center®. 
+→See “Addressing Climate Change” (page 65) for more details. 
+ 
+To achieve the 1.5°C target set by the SBT initiative, we will continue with existing initiatives and pursue various others. These 
+include using the latest technologies to further conserve energy at our data centers, expanding the use of renewables and taking 
+measures to reduce greenhouse gas emissions throughout the supply chain. In these ways, we will step up our responses to 
+climate change issues in our business and corporate activities and help realize a sustainable society. 
+ 
+The NTT DATA Group’s Greenhouse Gas Emission Reduction Targets 
+Scope 1 and Scope 22 
+60% reduction by FY2030 from FY2016 (1.5℃ target) 
+Scope 32 
+55% reduction by FY2030 from FY2016 
+1. The science-based targets (SBT) are aimed at keeping the temperature increase below 2°C compared to pre-industrial temperatures. 
+2. Scope 1: Direct greenhouse gas emissions by businesses themselves (fuel combustion, industrial processes) 
+Scope 2: Indirect emissions from the use of electricity, heat or steam supplied by other companies 
+Scope 3: Indirect emissions other than Scope 1 and Scope 2 (emissions of other companies related to the activities of an entity) 
+ 
+ 
+• Target (Scope 1 and 2) by the end of fiscal 2030: 60% reduction from fiscal 2016 
+Fiscal 2020 result: 31% reduction 
+• Target (Scope 3) by the end of fiscal 2030: 55% reduction from fiscal 2016 
+Fiscal 2020 result: 28% reduction 
+ 
+ Climate Change Management System 
+The NTT DATA Group has established a cross-lateral environmental management system centered on the Eco Activity Promotion 
+Committee, which is chaired by a representative director and executive officer, and the Eco Activity Liaison Committee, which 
+consists of environmental managers and environmental promoters from each division and Group companies that have acquired 
+ISO 14001 certification. Group companies that have acquired ISO 14001 certification have also appointed environmental 
+promotion officers. Particularly important issues are reported to the Board of Directors. 
+ In November 2020, we established the cross-lateral Climate Action Committee to formulate and promote medium- and longterm strategies to deal with the issue of climate change in collaboration with existing efforts of the Eco Activity Promotion 
+Committee. The Committee is chaired by a representative director and executive officer and engages in activities via 
+subcommittees for green business, green power, green purchasing and workstyle innovation. A wide range of people from our 
+business divisions participate as subcommittee leaders and review members. Reports on policies and major activities are 
+submitted annually at Board of Directors meetings for discussion.

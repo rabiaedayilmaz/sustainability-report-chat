@@ -1,0 +1,68 @@
+20% decline
+by 2040 expected* 
+Japan's workforce
+Remote customer service 
+by digital avatar contributes to labor savings 
+and a digital shift in store experiences
+By creating digital stores that use avatars linked to the 
+movements of operators to propose products 
+remotely, we will realize a new way of serving 
+customers during the COVID era and promote ﬂexible 
+work styles for employees.
+Avatar calls are integrated 
+with the product display to 
+foster seamless contact
+Remote specialists direct 
+customers to products from a 
+variety of locations, including 
+the head oﬃce, store back 
+oﬃces and homes.
+Professional staff
+Beauty concierge and 
+“Hint Show” staﬀ
+Remote customer
+service
+*Source: 2020 White Paper on Health, Labour and Welfare
+Shaping a new society amid 
+the COVID-19 pandemic
+In the retail sector, it is becoming increasingly diﬃcult 
+to expand the number of physical stores due to 
+Japan’s declining workforce. Meanwhile, the COVID-19 
+pandemic is changing the way customers and sellers 
+communicate with each other on the sales ﬂoor. With 
+these factors in mind, NTT DATA has partnered with 
+TOKYU HANDS, a retail chain that specializes in home 
+improvement and lifestyle products, to conduct ﬁeld 
+tests of digital stores that use avatars linked to the 
+movements of operators to propose and promote 
+products remotely. This enables us to oﬀer new 
+customer service options during the COVID era, 
+unbound by the conventional assumption that equates 
+“customer service” with “face-to-face contact.”
+ 
+In the ﬁeld tests, we set up special avatar booths 
+in ﬁve TOKYU HANDS stores in three cities, through 
+which personnel with expert knowledge directed 
+customers to products that meet their needs. The 
+personnel are backed by avatars from the head oﬃce, 
+store back oﬃces and homes. This arrangement 
+enables customers to shop with more convenience 
+and peace of mind, and realizes more ﬂexible working 
+styles for employees. It also uses an AI-based facial 
+recognition function to visualize each customer’s 
+gender and age group, as well as emotion estimation 
+data, conversation data and other information, with 
+the aim of improving the quality of customer services. 
+Based on the results of these ﬁeld tests, NTT DATA 
+will increase the number of digital stores with avatar 
+booths and the range of customer service scenarios 
+while using e-commerce sites to interface with 
+customers in their homes. In these ways, we will 
+embrace the challenge of using digital technology to 
+transform the new customer service market.
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

@@ -1,0 +1,87 @@
+30% compared to our conventional data centers. In 2016, we began construction of the Mitaka Data 
+Center EAST (scheduled for completion in February 2018). We expect to realize Japan’s top-class 
+electricity consumption efficiency of PUE 1.3 or less (annual average) by adopting an outside air-cooling 
+system utilizing natural energy and shortening air-conditioning equipment operating time. Furthermore, 
+we collaborated with our subsidiary NTT DATA Intellilink Corporation and Japan Radio Co., Ltd., to 
+develop a unified HVDC power supply system, which has been installed at data centers of other companies. The system was recognized with a Minister of Economy, Trade and Industry Award in the Green 
+IT Awards 2012.
+ 
+We have also been recognized by the Green IT Promotion Council for the energy-saving performance of our systems and are focused on establishing industry standards this recognition expands. 
+In 2015, Group company NTT DATA Intellilink Corporation together with Takasago Thermal Engineering Co., Ltd., Osaka University, and the Advanced Telecommunications Research Institute International received the Minister of the Environment Award for “Joint Technological Developments Related 
+to Drastically Low-Carbon Data Centers and Waste Heat Utilization in Offices, Etc.” at the 13th 
+Industry-Academia-Government Collaboration Achievement Awards.
+[ Opportunities Driven by Physical Impact ]
+There is an opportunity to accelerate business utilizing cloud-based data centers, which will enable 
+high levels of safety in corporate data storage by avoiding the risk of data loss due to abnormal 
+weather phenomena such as typhoons and localized torrential rain. In its dual roles of supporting the 
+construction of corporate systems and providing joint-use system services, NTT DATA has accumulated expertise in system platform technologies related to cloud computing and provided safe and 
+highly reliable system platforms.
+ 
+In fiscal 2016, sales of the NTT DATA Group’s cloud computing services amounted to approximately ¥330.2 billion and accounted for over 19% of total sales of ¥1,732.4 billion. For example, our 
+joint-use enterprise systems, such as the Chigin Kyodo Center (BeSTA®) for regional banks, have 
+gained the top market share of around 30%, and more than 90% of credit associations in Japan use 
+our comprehensive online Shinkin Kyodo System. We believe that accelerating demand for cloud 
+computing services will enable us to further expand our business.
+ 
+Our cloud computing services create business opportunities by providing two comprehensive 
+solutions for platform services, one that offers everything from infrastructure to applications and 
+another that offers construction and operation services that build data center environments combining common-use system components, such as those offered in joint-use data centers for financial 
+institutions. For example, since 2011 our BizXaas® Office service, which provides systems required 
+for an office environment via cloud computing, has been deployed in-house to promote telecommuting and set up satellite offices as part of BCPs.
+ 
+In 2012 we also enhanced our service line-up by adding low-cost, fast-response “quick services” 
+to our existing menu of data analysis and information services, taking advantage of the use of Big 
+Data, a peripheral service that is highly compatible with cloud computing.
+[ Other Risks ]
+Risks driven by changes in other climate-related developments include increased investor requests 
+for corporate information disclosure related to climate change, declines in share price associated 
+with lower evaluation by investors, and deterioration in market-imposed financing conditions.
+ 
+As of March 31, 2017, 17% of NTT DATA stock was held by overseas corporations, and lower evaluation by overseas investors actively engaged in ESG investment carries the risk of a decline in share price 
+that would decrease corporate value. If the price of shares held by overseas investors were to fall by 0.1%, 
+the impact on the Company’s market capitalization would amount to approximately ¥272 million*1.
+ 
+NTT DATA recognizes the importance of information that investors focus on in their requests for 
+information disclosure related to climate change, especially from CDP*2, and proactively discloses 
+information to investors. From fiscal 2013 to fiscal 2016, we have been actively disclosing information 
+on matters including climate change by participating in a Ministry of the Environment project to 
+develop infrastructure for environmental information disclosure systems, which is intended to construct an information platform that enables institutional investors in Japan to utilize ESG data.
+*1 Calculated on the basis of 280,500,000 outstanding shares as of March 2017
+*2 CDP was launched in 2003 by a U.K.-based NGO to evaluate the climate change policies of businesses and enterprises. (Formerly the 
+Carbon Disclosure Project)
+ 
+While addressing climate change is associated with business risks, it also presents business 
+opportunities within the NTT DATA Group. Our goal is to bring about a sustainable society and 
+achieve growth for the Group by providing IT services that can be applied to addressing the social 
+challenge of mitigation and adaptation with regard to the impact of climate change.
+[ Opportunities Driven by Regulatory Changes ]
+The acceleration of stronger regulations aimed at realizing a zero CO2 emissions society in 2050 is 
+expected to increase demand for more efficient IT systems, which account for a certain proportion of 
+corporate energy consumption. Examples include demand for efficiency and virtualization, consolidation into joint data centers, and outsourcing increased demand to data centers with high energy 
+efficiency. NTT DATA’s sales of data center and related services amounted to ¥69.1 billion as of 
+March 31, 2017, and we believe we can further expand sales to ¥75.0 billion in fiscal 2018, buoyed 
+by increased demand for outsourcing to energy-efficient data centers.
+ 
+In addition, the NTT DATA Group is promoting a Green Data Center service aimed at reducing the 
+environmental load by integrating IT and facilities technologies and is steadily introducing green data 
+center technologies that can achieve large-scale reductions in energy consumption at its own data 
+centers. Seeking to further expand business opportunities, we have invested over ¥10 billion in technologies including HVDC power supply systems from fiscal 2009 to fiscal 2015 and have steadily 
+advanced from demonstration experiments to commercialization. 
+ 
+For example, through comprehensive installation of green data center technologies, including 
+HVDC power supply systems, virtualization technologies, and air current control systems for cooling, 
+we succeeded in reducing energy consumption at the NTT DATA Mitaka Building by approximately 
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Governance
+GRI Standards
+Environment

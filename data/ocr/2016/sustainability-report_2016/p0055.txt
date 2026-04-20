@@ -1,0 +1,94 @@
+Scope
+Target Definitions
+Base Value
+ (base fiscal year: 2008)
+Fiscal 2015
+Target Value
+Results
+Assessment
+Reduce the environmental 
+impact of society through the 
+promotion of Green IT
+Simplify quantitative assessment 
+tools
+—
+Assessment following 
+full-scale application: 
+20 cases
+Assessment 
+following full-scale 
+application: 20 cases
+○
+Reduce greenhouse gas 
+emissions
+Amount of CO2 emissions
+306, 562 t
+16% reduction 
+(257,512 t or less)
+25% reduction
+(230,728 t)
+○
+Reduce the amount of copy 
+paper purchased
+Amount of copy paper purchased
+(gross amount calculated on a 
+number of sheets basis)
+327,800,000 
+sheets*
+37% reduction 
+(206,510,000 sheets 
+or less)
+41% reduction
+(192,100,000 sheets)
+○
+Reduce the amount of waste 
+for final disposal
+Amount of waste for final disposal
+(gross amount)
+402 t
+71% reduction
+ (116 t or less)
+78% reduction (89 t)
+○
+Final waste disposal rate (final 
+disposal amount/total amount of 
+waste)
+—
+2.3% or less
+1.9%
+○
+Participation in local 
+community environmental 
+contribution activities
+Number of activity participants
+—
+4,000
+3,572
+×
+* Revised to reflect the significant impact of expanding the scope of data in fiscal 2016.
+ Fiscal 2016 Target Attainment Status
+ Overview of the NTT DATA Group’s Environmental Impact
+The figures are based on data collected from NTT DATA Group companies that have acquired both ISO 14001 and Group 
+integrated certification (see list of companies on page 51).
+We believe that the reliable and continuous achievement of our goals to reduce the NTT DATA Group’s environmental impact 
+is a fundamental responsibility of our environmental management efforts. To minimize the environmental impact of its business 
+activities, the NTT DATA Group monitors and analyzes the types and amounts of resources and energy consumed by various 
+processes and their environmental impacts.
+The environmental impact posed by the NTT DATA Group’s business activities primarily arises from the emission of 
+greenhouse gases resulting from the consumption of energy, mainly as electric power. However, there are many other factors 
+that affect the environment, including data center construction and the use of paper and water resources. In addition, we 
+cannot ignore the environmental impact of energy consumption resulting from the operation of systems and services provided 
+by the NTT DATA Group by clients. The NTT DATA Group strives to correctly ascertain and analyze the environmental impact of 
+its business activities and to utilize these results in various improvement activities.
+■ Group Targets and Results in Fiscal 2016
+ (Scope of data: NTT DATA and 27 Group companies in Japan that have acquired Group integrated ISO 14001 certification)
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

@@ -1,0 +1,60 @@
+Leading the Development of Standards for Low Environmental 
+Impact Green Software
+While software’s environmental impact is often less visible, significant improvements are 
+possible through energy-saving and efficiency measures. Thoughtful design and operation can reduce energy consumption, and optimizing the use of renewable energy and 
+storage can further lower environmental impact over long-term operation. 
+ 
+NTT DATA believes that collaboration with diverse stakeholders is essential to 
+addressing industry-wide IT challenges and setting standards. As such, we participate 
+as an operating member of the Green Software Foundation (GSF), a global nonprofit 
+organization aimed at reducing GHG emissions from software. In January 2025, Gadhu 
+Sundram of NTT DATA UK was appointed Chairperson of GSF. At GSF, NTT DATA has 
+contributed to developing the Software Carbon Intensity (SCI) methodology, which 
+evaluates carbon emissions from software use based on electricity consumption, the 
+carbon intensity of electricity, and hardware usage. In March 2024, SCI was standardized as ISO/IEC 21031:2024, enabling comparison of environmental impact across 
+software with the same functionality and assessment of the effects of software modifications on carbon emissions. 
+ 
+In addition, NTT DATA collaborates with leading industry companies—including 
+NTT Group, NEC, Hitachi, and Fujitsu—to promote the adoption of sustainable IT in 
+Japan by establishing methodologies for evaluating GHG emissions associated with 
+software development. In March 2024, our approach was selected for a project by the 
+Ministry of Economy, Trade and Industry (METI), resulting in rules that enable calculation and comparison aligned with the Ministry’s published Carbon Footprint Guidelines. This initiative was recognized in January 2025 with the LCA Japan Forum* 
+Chairman’s Award. 
+Calculation of IT System Carbon Footprints
+As more companies calculate, disclose, and work to reduce their GHG emissions, an 
+increasing number are requesting more accurate emissions data from their suppliers. IT 
+systems are no exception, and requests from clients for carbon footprint information 
+from IT vendors are beginning to rise. At NTT DATA, we have started providing emissions 
+data in accordance with our product-specific carbon footprint calculation rules for software*, primarily to clients who support this initiative. By receiving actual emissions data 
+instead of industry averages, clients can reflect their reduction efforts in disclosed emissions and develop concrete actions to reduce GHG emissions. Going forward, it is 
+important to further embed these initiatives more broadly. NTT DATA will not only 
+provide carbon footprint data but also promote measures to enhance clients’ confidence, 
+including expanding the scope of calculation rules, enabling global coverage, and obtaining third-party certification. 
+* The LCA Japan Forum has published rules in accordance with the Carbon Footprint Guidelines developed by METI and the Ministry 
+of the Environment. These rules were developed through collaboration among major industry companies, including NTT DATA, NEC, 
+Hitachi, Fujitsu, and NTT.
+Participation in SustainableIT.org and Governance Award
+In addition to the Green Software Foundation, NTT DATA participates in SustainableIT.org 
+as part of international initiatives on sustainable IT. SustainableIT.org is a platform where 
+business leaders worldwide discuss governance frameworks for sustainable IT and share 
+advanced knowledge and best practices. In September 2024, NTT DATA received the 
+Governance Award at the SustainableIT Impact Awards 2024. This award recognizes 
+leaders and organizations that have significantly contributed to IT sustainability, highlighting the NTT DATA Group’s goal of achieving Net-Zero GHG emissions by 2040 and its 
+promotion of R&D to reduce IT-related GHG emissions.
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

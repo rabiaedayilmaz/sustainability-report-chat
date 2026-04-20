@@ -1,0 +1,107 @@
+Using AI Technology and Big Data to Prevent Disease Complications 
+Smart Alert Solution
+In addition to conventional monitoring, NTT DATA and the everis Group have developed the Smart Alert Solution, which uses 
+accumulated vital data and AI technology to predict complications before they occur. The Smart Alert Solution’s prediction 
+model utilizes operations performed in ICU settings, amalgamating and consolidating data previously found on medical monitors and in paper documents. The solution also allows for the operation of a single integrated system for making predictions 
+and alerting doctors and nurses to risks. 
+ 
+The Smart Alert Solution operates on NTT DATA’s Big Data infrastructure based on open-source software, processing 
+dispersed streams of patient vital data and predicting the risk of complications in real-time. When complications are predicted 
+to occur, the system immediately provides alerts via bedside and mobile terminals. By providing related vital data, the system 
+helps doctors diagnose situations swiftly. 
+ 
+In addition, in November 2016 NTT DATA commercialized ehCOS 
+SmartICU and began rolling out the system with a focus on Spain. This 
+expanded electronic medical record system for ICUs facilitates the 
+accumulation and referencing of ICU data. On January 30, 2017, 
+Spain’s Virgen del Rocío University Hospital installed the Smart Alert 
+Solution at 27 beds in a new effort to verify its effectiveness. Based on 
+the results, we plan to equip the ehCOS SmartICU with additional functions. By the end of 2017, we aim to commercialize the new version 
+and roll it out around the world, beginning with Spain, Latin America, 
+and North America.
+Data Management and IT System 
+Integration in Medical Settings
+Medical settings call for the use of IT services, such as the introduction of monitors and other devices that incorporate Internet of Things (IoT) technologies, in 
+providing high-quality healthcare according to patient conditions. 
+ 
+The IT strategy that the Japanese government announced in 2013 also emphasizes the importance of using IT to share patient data, analyze and utilize data, and 
+promote medical technologies. Centering on emergency medical care, this strategy points to the need to concentrate the deployment of human and physical 
+resources in order to achieve early rehabilitation back into society, as well as to 
+create networks for patient data and medical settings. 
+ 
+Intensive care units (ICUs), in particular, must monitor the vital data of critically ill patients to quickly detect any irregularities and address complications 
+and other risks. In such situations, the integration of data management and IT 
+systems are priorities. Sophisticated systems need to be put in place to enable 
+more timely medical intervention that can keep critically ill patients’ conditions 
+from worsening and raise the survival rate. 
+CASE 1
+Initiatives Targeting Material CSR Issues 
+Social and regional communities
+Spain’s Virgen del Rocío University Hospital, which has introduced 
+the Smart Alert Solution
+
+30,398
+
+11,233
+
+40,000
+30,000
+20,000
+10,000
+
+FY
+Medical
+Forecasts
+
+Medical
+ Military, space, aero
+ Automotive
+ Medical
+ Industrial
+ Computer
+ Consumer
+ Telecommunications 
+ Global Number of IoT Devices: Trend and Forecasts
+ (Million)
+Source: 2016 Information and Communications in Japan White Paper, Ministry of Internal Affairs and Communications
+http://www.soumu.go.jp/johotsusintokei/whitepaper/ja/h28/pdf/28honpen.pdf
+Achieving Causal Analysis, Visualization, and Early Medical Intervention
+Hospital system
+Stream 
+processing
+Real-time
+Batch 
+processing 
+Analysis server
+Web app
+Mobile app
+Patient vital data
+Risk scoring
+Configuration of 
+projection model
+Alert and provision 
+of related vital 
+summary information
+Although the advent of IoT is causing a dramatic increase in the number 
+of items connected over the Internet, the overall use of IoT in healthcare 
+is relatively low, presenting an issue in the creation of networks.
+Up 270%
+Visualization of drug 
+administration and 
+vital information to 
+enable alert 
+assessment 
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+Governance
+GRI Standards
+Initiatives Targeting Material 
+CSR Issues

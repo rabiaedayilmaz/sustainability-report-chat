@@ -1,0 +1,160 @@
+An Overview of the NTT DATA Group’s Environmental Impact 
+The environmental impact of the NTT DATA Group’s business activities derives chiefly from the emission of greenhouse gases 
+through the consumption of energy centering on electricity. Lloyd’s Register Quality Assurance Limited has been charged with the 
+responsibility of providing a third-party verification of the Group’s input of energy and greenhouse gas emissions from fiscal 2014.
+Scope of Environmental Impact Measurement 
+Measurement period: 
+From April 1 to March 31 of the following year
+Measurement organization: Fiscal 2012 NTT DATA (all organizations), 65 Group companies (Japan only)/Fiscal 2013 NTT DATA (all 
+organizations), 64 Group companies (Japan only)/Fiscal 2014 NTT DATA (all organizations), 69 Group 
+companies (Japan only)
+Within the NTT DATA Group
+INPUT
+Business Activities
+OUTPUT
+Outside the NTT DATA Group
+Greenhouse gases (CO2)
+ Energy*
+FY2012
+FY2013
+FY2014
+Utility power
+(10,000 kWh) 
+52,213
+48,878
+48,342
+Kerosene (kl) 
+
+Light gas oil (excluding 
+Company vehicles) (kl)
+
+A–C heavy oil (kl) 
+
+City gas (10,000 m3) 
+
+Gasoline 
+(Company vehicles) (kl)
+
+Light gas oil 
+(Company vehicles) (kl)
+
+Steam, cold energy (GJ)
+—
+—
+46,132
+* Steam and cold energy included from fiscal 2014
+ Acquired third-party verification
+　 Greenhouse gases* 
+(10,000 tons of CO2)
+FY2012
+FY2013
+FY2014
+Electricity use
+20.9
+23.3
+25.0
+Gas/fuel use
+0.4
+0.4
+0.5
+Heat use
+—
+—
+0.3
+Company vehicle use
+0.2
+0.2
+0.2
+Total
+21.5
+23.9
+25.9
+* Heat use included from fiscal 2014
+ Acquired third-party verification
+　 Water resources 
+(10,000 m3)
+FY2012
+FY2013
+FY2014
+Clean water consumption 
+
+Gray water consumption
+3.9 
+4.7
+5.7
+　 Water resources 
+(10,000 m3)
+FY2012
+FY2013
+FY2014
+Drainage amount
+
+　 Paper resources 
+(Tons)
+FY2012
+FY2013
+FY2014
+Copy paper
+
+Fliers, pamphlets, etc. for 
+clients
+
+　 Office waste 
+(Tons)
+FY2012
+FY2013
+FY2014
+Amount generated
+5,824 
+5,580
+4,570
+Amount recycled
+5,129 
+4,636
+3,557
+Amount of final disposal
+
+　 Specified chlorofluorocarbon used
+for air conditioning systems* 
+(Units)
+FY2012
+FY2013
+FY2014
+Number of air 
+conditioning system units 
+using specified 
+chlorofluorocarbon (CFC)
+
+* Details of the number of air conditioning system units were 
+presented based on the central heating prior to fiscal 2013. 
+From fiscal 2014, details of the number of air conditioning 
+system units is presented based on the central heating 
+together with details of air conditioning systems based on the 
+individual method.
+　 Construction materials
+　 Construction waste 
+(Tons)
+FY2012
+FY2013
+FY2014
+Amount generated
+
+Amount recycled
+
+Amount of final disposal
+
+Construction materials, cables, etc.
+Energy
+Planning/
+design
+Manufacturing/
+testing
+Installation at 
+client sites
+Service 
+operation at 
+client sites
+Sales
+Data center
+
+Data and Information

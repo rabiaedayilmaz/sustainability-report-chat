@@ -1,0 +1,66 @@
+Internal Auditing Department
+NTT DATA’s Audit and Monitoring System
+Audit and 
+monitoring system
+● We established an audit and monitoring system covering domestic and overseas Group 
+companies based on meticulous information security under the NTT DATA Group Security 
+Policy (GSP) (since fiscal 2006).
+● We promote security audits from the three perspectives listed below. Risk-based audits enable 
+focused and efficient audits in high-risk areas.
+1. Rigorous basic tasks: Check the safety management status of the organization based on the 
+GSP and the safety management status of systems that handle personal information.
+2. Response to external improprieties: With increasingly sophisticated cyberattacks, the effectiveness of systematic measures such as protection against vulnerabilities and detection/
+interception of attacks has been confirmed.
+3. To prevent information leakage due to internal improprieties, in addition to systematic and 
+physical measures such as access control and removal management, the effectiveness of 
+measures, including management of outsourced parties, shall be confirmed.
+Internal Auditing System
+Security Incident Prevention, Detection, and Responses
+NTT DATA operates NTTDATA-CERT as an organizational CSIRT to prevent the occurrence of information security 
+incidents* through its day-to-day activities. NTTDATA-CERT works to detect incidents early and provide quick and 
+appropriate emergency responses.
+* Actualization of security threats related to information management and system operation, such as computer malware infection, unauthorized access, and information leakage
+Activities to Prepare for New Security Risks
+We gather, analyze, and communicate a wide range of security-related information including the newest attack 
+methods and incident occurrences, while engaging in communication monitoring, emergency responses, research 
+and development, and collaboration with external organizations.
+Wide-Ranging Internal and External Collaborations
+In addition to internal activities, NTT DATA is a member of FIRST*, a global CSIRT community. We also collaborate 
+broadly with external security organizations, including the JPCERT Coordination Center (JPCERT/CC) and CSIRT 
+teams from all member companies of the Nippon CSIRT Association (NCA). With these efforts, we quickly share 
+security-related information and enable early detection and responses to security concerns.
+* Abbreviation of Forum of Incident Response and Security Teams: A global community of 762 CSIRT teams (as of October 2024) from government agencies, educational 
+institutions, corporations, and the like.
+CSIRT Operation Utilizing OSINT
+We employ an approach that incorporates Open Source Intelligence (OSINT) into the operation of NTTDATA-CERT, 
+our computer security incident response team (CSIRT). This involves actively utilizing legally accessible information 
+from government official announcements, mass media reports, papers, technical documents, and other sources. 
+Our team of information analysis experts at NTTDATA-CERT daily collects, analyzes, and predicts security trends 
+based on this information. The insights gained are then disseminated to our various companies as news updates 
+or in the form of the Quarterly Report on Global Security Trends*. Furthermore, we bolster our cyberattack monitoring capabilities and integrate this valuable information into our overall security strategy and measures.
+ * For past issues of the Quarterly Report on Global Security Trends, please refer to this link. 
+https://www.nttdata.com/global/en/about-us/sustainability/governance/security
+NTT DATA Group Corporation
+NTT DATA Japan
+NTT DATA, Inc.
+Group companies (individual)
+Performed annually and internally in accordance with GSP
+(Head Office)
+● Audits are performed on targets selected based on 
+results of risk evaluations.
+● Audits based on the GSP are conducted, including 
+an assessment of security measures for confidential information, such as personal data.
+● We monitor audit items shared 
+between Group companies.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

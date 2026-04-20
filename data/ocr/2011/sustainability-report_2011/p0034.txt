@@ -1,0 +1,161 @@
+The NTT DATA Group establishes three-year medium-term 
+targets as part of ongoing ISO 14001 improvement activities and 
+reviews those targets each year against results. Since fiscal 2010, 
+one medium-term management focus has been to enhance 
+environmentally oriented management. In pursuit of this goal, 
+we have promoted the greening of the NTT DATA Group, 
+the greening of customers and society, and environmental 
+contributions and communications. We have established targets 
+for our environmental activities attuned to this shift in direction.
+Based on our fiscal 2011 performance, in fiscal 2012 we will 
+revise some of our targets and move toward these 
+new objectives.
+ Fiscal 2011 Results
+To cut greenhouse gas emissions as part of the greening of the 
+NTT DATA Group, we have created the EneMotta system to make 
+the energy consumption of each floor and internal organization 
+“visible.” We have also introduced reduced power consumption 
+settings on the air conditioning equipment at data centers. 
+However, as we were unable to lower power consumption 
+as planned at several sites in Japan that we operate in leased 
+buildings, in fiscal 2011 our CO2 emissions amounted to 297,552 
+tons of CO2*1, slightly higher than in the preceding fiscal year. In 
+terms of basic units of sales, this amounted to a 9.9% reduction 
+from fiscal 2006 levels, falling short of our target. With regard to 
+reducing waste for final disposal, the introduction of a reuse/
+recycle system for OA equipment, which accounts for 65% of 
+industrial waste, led to a 14% reduction compared with fiscal 
+2009 levels, to 344 tons, and we reached our target. To reduce 
+copy paper purchased, we set reduction targets for each 
+organization, held paperless meetings, optimized printer layouts 
+and took advantage of authenticated printing. Consequently, 
+copy paper purchased in fiscal 2011 amounted to 246.1 million 
+sheets, down 19.5% from fiscal 2009 levels and substantially 
+exceeding our target. 
+As part of our efforts toward the greening of customers and 
+society, we conducted in-house Kankyo Shiro*2 environmental 
+assessment system training twice and introduced systems 
+and services to measure the environmental impact reduction 
+of customers and society. Although we conducted 17 CO2 
+reduction effect measurements, we acquired only three NTT 
+Group Solution Environmental Label certifications, as few of the 
+plans proposed fell within the scope of such certifications. We 
+set new targets for the number of participants in community 
+environmental contribution activities, and promoted these 
+activities at individual organizations and Group companies. 
+Fiscal 2011 Results and Medium-Term Targets
+Managing Target Achievement by 
+Establishing Three-Year Medium-Term Targets
+Fiscal 2011 Results and Targets for Fiscal 2012 and Beyond
+Activities
+Fiscal 2011 Results
+Targets for Fiscal 2012 and Beyond
+Target Value Definitions
+Target 
+Values
+Achieved
+Achievement 
+Status
+
+Greening of the 
+NTT DATA Group
+Reduce greenhouse 
+gas emissions
+Greenhouse gas emissions (CO2 
+conversion) per unit net sales 
+(fiscal 2006 comparison)
+10% 
+reduction
+9.9% 
+reduction
+Partially 
+achieved
+15% reduction
+15% reduction
+17% reduction
+Reduce waste for 
+final disposal
+Waste for final disposal 
+(fiscal 2009 comparison)
+12% 
+reduction
+14% 
+reduction
+Achieved
+16% reduction
+20% reduction
+24% reduction
+Reduce copy paper 
+purchased
+Copy paper purchased 
+(fiscal 2009 comparison)
+15% 
+reduction
+19.5% 
+reduction
+Achieved
+25% reduction
+35% reduction
+40% reduction
+Greening of 
+customers and 
+society
+Reduce the environmental 
+impact of society through 
+the promotion of Green IT
+2011: Environmental label certifications*3
+2012: Quantitative assessments
+From fiscal 2013: CO2 reduction
+Label 
+certifications: 
+
+Label 
+certifications: 
+
+Not achieved
+Quantitative 
+assessments: 
+
+1.5 million tons 
+of CO2
+1.8 million tons 
+of CO2
+Expand environmental 
+solutions business
+Net sales
+¥5 billion
+¥4.52 billion
+Not achieved
+¥7 billion
+¥10 billion
+¥12 billion
+Environmental 
+contributions and 
+communications
+Engage in regional 
+community environmental 
+contribution activities
+Activity participants
+
+1,244
+Achieved
+1,500
+3,000
+4,000
+*3 Label certifications: The number of NTT Group Solution Environmental Labels assigned to ICT solutions with an environmental impact reduction effect through 
+quantitative investment. Those with a rate of reduction exceeding 15% are certified as environmentally friendly solutions.
+Numerical Data on Targets and Results
+Fiscal 2011 results and targets for fiscal 2012 and beyond for the Group are calculated within the applicable scope of groupwide integrated ISO 14001 certification (see page 33).
+*1 Converted value expressing the volume of electricity used. Conversion factor 
+based on fiscal 2006 emissions factor (0.555 kg-CO2/kWh). 
+*2 Kankyo Shiro: A system for assessing the environmental impact of information 
+systems developed by the NTT Information Sharing Laboratory Group. The 
+system calculates environmental impact reductions that can be achieved 
+through reduced transportation volume, equipment digitalization, etc., 
+resulting from system introduction.
+• Reducing Greenhouse Gas Emissions • Reducing Waste for Final Disposal • Reducing Copy Paper Purchased • The Greening of Customers and Society
+• Community Environmental Contribution Initiatives • Environmental Accounting
+Additional Topics on Website
+Solution Environmental Labels http://www.ntt.co.jp/kankyo/label/index.html (Japanese only)
+Related website
+34 NTT DATA CSR Report 2011

@@ -1,0 +1,49 @@
+■ NTT DATA Technology Foresight Formulation Process
+NTT DATA Group specialists around the world
+NTT R&D laboratories
+External specialists
+Public information surveys
+NTT DATA Technology Foresight
+Information society trends
+Technology trends
+Social issues 
+Business issues
+Innovation
+technology
+Focus Field 1—Software Engineering
+Focus Field 2—IT Platform Technology
+NTT DATA has been working to achieve high-quality, rapid software development by employing automated tools, which 
+has given us a highly competitive edge. However, rival companies have also made advances in their automation technology 
+for software development in recent years. Under these circumstances, further sophistication in automation technology and 
+improvement in adoption rate with regard to internal development projects have become important factors in surviving the 
+competition.
+In addition, the need for renewing legacy systems, or legacy modernization, is expected to grow in significance within the 
+IT industry as a new technological factor. For systems developed long ago, repeated additions of functions have commonly 
+resulted in clients themselves losing perspective of system specifications, making the renewal of the systems highly 
+challenging. As current systems become obsolete, we expect there will be an increase in these projects, which would require 
+the establishment of a safe and reliable methodology for legacy modernization.
+It is becoming increasingly more important to develop technologies for constructing and managing infrastructure that 
+provides the flexibility, high availability and short time requirements that clients expect from IT systems. NTT DATA has been 
+working to develop standardized IT infrastructure compatible with cloud-based platform services offered by various vendors. 
+In the coming years, we will seek to meet client needs by establishing on-demand technology that provides highly reliable 
+infrastructure featuring a sophisticated combination of diverse IT platform technologies.
+Over the years, NTT DATA has also been publicly disclosing its knowledge on constructing a framework for the distributed 
+processing of large-scale data, such as Apache Hadoop. We are aware of our role in contributing to the realization of IoT that 
+connects various objects to IT systems and a digital society by applying our know-how to social infrastructure.
+As a general rule, we have been pursuing a policy of disseminating and deploying automation technology in software 
+development projects wherever applicable. In fiscal 2016, we sought to raise the accuracy of the requirements definition 
+documents used to select projects to which automation technology should be applied. As a result, we were able to raise the 
+aggregate annual adoption rate for the technology to 70%. Also, we overhauled our open systems application framework and 
+released the TERASOLUNA Server Framework for Java 5. Adopting the widely used Spring Framework has made it easier for 
+us to comply with the latest technology and securing programmers on a global basis.
+ Example of Major Initiatives
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

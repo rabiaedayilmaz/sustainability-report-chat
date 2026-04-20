@@ -1,0 +1,107 @@
+Information Security 
+Management Structure
+Management structure based on 
+the PDCA cycle
+Ongoing improvements and upgrades to 
+information security require the PDCA cycle, 
+comprising formulation, implementation, 
+auditing, and revision and assessment of 
+policies and measures.
+To implement information security 
+measures and raise security levels, we 
+established the position of Chief Information 
+Security Officer (CISO) in 1999. The 
+Information Security Committee, headed by 
+the CISO, meets periodically*1 to ascertain 
+the status of activities and issues and to 
+determine remedial measures.
+Resolutions of the Information Security 
+Committee are deployed under the 
+Information Security Promotion Office by 
+400 people throughout the Group who are 
+dedicated to promoting information security.
+Moreover, decision-making bodies, 
+promotional organizations, individual worksites 
+and auditing organizations cooperate on the 
+early detection of problems, including through 
+the auditing of the status of information 
+security measures by the Internal Audit 
+Department. This facilitates the implementation 
+of ongoing revisions and improvements based 
+on objective assessments.
+Acquiring ISMS, Privacy Mark and 
+other third-party accreditations
+Within the NTT DATA Group, necessary 
+units that handle confidential and personal 
+information hold ISO 27001 information 
+security management system certification. 
+As of May 2009, the relevant departments of 
+30 Group companies, including the parent 
+company, had acquired this certification.
+In addition, NTT DATA and 24 other 
+Group companies were authorized to use the 
+Japan Information Processing Development 
+Corporation’s Privacy Mark.
+Encouraging Information Security 
+Management Certification
+Preventing information leakage 
+and divulgence when outsourcing
+NTT DATA subcontracts software 
+development to partner companies. When 
+outsourcing involves confidential or personal 
+information, we utilize a proprietary Security 
+Check Sheet to confirm subcontractor 
+security structures and security levels. In 
+addition, we indicate required information 
+security management levels and enter into 
+contracts only after obtaining agreement 
+with the terms of our Special Agreement 
+on Confidential Information and Personal 
+Information.
+Extending educational and 
+promotional activities to 
+employees and partner companies
+NTT DATA pursues information security 
+education through e-learning, classroom 
+lectures and other forms of training for 
+employees, temporary workers and business 
+partners to ensure safe ongoing information 
+security practices.
+During fiscal 2009, we distributed 
+educational materials and support tools to 
+spread the NTT DATA Group Security Policy 
+(GSP) among Group companies. We also 
+started providing GSP Assessments*2 and 
+produced and distributed pamphlets and 
+publicity posters in Japanese, English and 
+Chinese. We aim to foster knowledge and 
+expertise sharing by holding forums for 
+staff responsible for information security 
+promotion.
+Information Security 
+Education
+Also, we periodically check the 
+implementation status of security measures 
+after contracts have been signed. If necessary, 
+we conduct on-site investigations to prevent 
+information leakage and divulgence.
+*1 The number of times 
+the committee held
+The committee met four 
+times in fiscal 2009, bringing 
+the number of meetings 
+since 1999 to 43.
+*2 GSP Assessments
+These assessments utilize 
+e-learning to deepen 
+understanding of NTT 
+DATA’s GSP. Each Group 
+company deploys the 
+system as needed to 
+promote information 
+security education among its 
+employees.
+NTT DATA and Its Stakeholders
+NTT DATA and the Environment
+CSR Infrastructure
+NTT DATA CSR Report 2009 45

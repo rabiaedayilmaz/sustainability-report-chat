@@ -1,0 +1,83 @@
+Digital transformation (DX) is expanding rapidly 
+across government and other public organizations, 
+evidenced by the planned establishment of the Japan 
+Digital Agency in the fall of 2021. This has given rise 
+to the “Cloud by Default Principle,” which states that 
+cloud services should be considered as the ﬁrst 
+choice when developing government information 
+systems. This principle has spurred the development 
+of various cloud services. Due to the wide variety of 
+service delivery platforms and service content, 
+however, selecting the most appropriate services has 
+become problematic.
+ 
+In response, NT T DATA oﬀers its Digital 
+Community Platform™, a multi-cloud integration 
+service that enables the seamless, safe and secure 
+use of various public cloud services. This service 
+meets operational quality, security and other 
+requirements that beneﬁt social infrastructure as 
+demanded by our public-sector clients, including 
+governments and other public organizations.
+ 
+In addition to migrating existing systems to the 
+cloud, we provide a full range of cloud-based services 
+that meet the needs of public institutions, including 
+service selection, introduction and operation. We also 
+oﬀer an authentication linkage function, which allows 
+existing user management systems to be deployed 
+without modiﬁcation, thus ensuring safe and secure 
+use of various public cloud services. We will continue 
+fostering DX among governments while supporting 
+productivit y improvements and work-st yle 
+innovations for civil servants.
+80 users
+Realizing digital government (target users by the end of fiscal 2024)
+Supporting the work of public 
+institutions and advancing 
+the digital transformation (DX) of 
+governments and other public organizations
+The Digital Community Platform™ is a multi-cloud 
+integration service we oﬀer to public institutions engaged 
+in DX. In addition to meeting operational quality, security 
+and other requirements that beneﬁt social infrastructure, 
+it facilitates the selection and utilization of optimal public 
+cloud services and contributes to civil servant 
+productivity improvements and work-style innovations.
+Notes:
+1. Amazon Web Services (AWS) is a trademark of Amazon.com, Inc., and/or its affiliates in the 
+United States and other countries.
+2. Microsoft and Azure are registered trademarks of Microsoft Corporation in the United States 
+and/or other countries.
+The public
+Closed NW/WAN
+IaaS
+PaaS
+SaaS
+崯崠崧嵓崛嵇嵍崳崮崋
+崿嵑崫崰崽崑嵤嵈
+Public institution
+Digital Community 
+PlatformTM
+قDCPFTMك
+Big data
+AI
+Authentication
+Amazon
+Web Services
+Microsoft
+Azure
+OpenCanvas
+Business
+service
+New services
+(planned)
+Infrastructure
+service
+Overview of Digital Community Platform™ (DCPF™)
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

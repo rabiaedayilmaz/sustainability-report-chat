@@ -1,0 +1,122 @@
+46.8
+95.9
+98.5
+81.6
+
+(Fiscal year)
+
+90.2
+Operating
+ income
+(Billions of yen)
+Operating
+ income 
+margin
+(%)
+5.2
+8.6
+8.9
+8.7
+7.1
+
+907.2
+1,074.4
+1,139.0
+1,142.9
+
+(Fiscal year)
+
+1,044.9
+Net sales
+(Billions of yen)
+NTT DATA Group Overview
+Providing the information systems that support people’s daily lives 
+and society as a whole
+Since separating from and becoming independent of NTT in 
+1988, the NTT DATA Group has provided information systems 
+and services attuned to social requirements and issues. These 
+span public administration sector systems to corporate systems 
+for the fi nancial, manufacturing, distribution, 
+telecommunications, medical and healthcare sectors, as well as 
+cross-industry social infrastructure services. Further, we have 
+promoted globalization of our operations over the past few 
+years, and, as of March 31, 2010, had expanded our international 
+business to sites in 78 cities, spreading across 25 countries.
+Carrying the banner of a leadership role in the Japanese IT 
+industry, as well as being a global corporation conducting 
+business worldwide, the NTT DATA Group will support society by 
+providing innovative new paradigms and values into the future.
+Company Profi le
+Name
+NTT DATA CORPORATION
+Head Offi ce
+Toyosu Center Building, 3-3 Toyosu 3-chome, 
+Koto-ku, Tokyo 135-6033
+Established
+May 23, 1988
+President and CEO Toru Yamashita
+Common Stock
+¥142,520 million (as of March 31, 2010)
+Business Year
+April 1 to March 31
+Employees
+9,670 (non-consolidated) 34,543 (consolidated) 
+(as of March 31, 2010)
+Subsidiaries and 
+Affi liates
+Subsidiaries: 161
+Affi liates: 19
+(as of March 31, 2010)
+Consolidated Net Sales
+Consolidated Operating Income/Operating Income Margin
+Financial Sector
+NTT DATA provides systems integration and shared-use services 
+according to the scale requirements and objectives of a wide 
+range of fi nancial institutions, such as governmental fi nancial 
+institutions, securities and insurance companies, banks, credit 
+banks, credit unions, labor banks 
+and agricultural cooperatives. We 
+also off er a wide range of 
+outsourcing services to help 
+fi nancial institutions raise business 
+effi ciency and improve service 
+quality.
+Major Systems and Services
+• Shinkin Shared Center • Foreign Exchange ASP
+• Exchange information system • Insurance Enterprises Common Gateway
+• Zaimon fi nancial data distribution gateway service
+Medical and Healthcare Sector
+We provide services to promote health and disease prevention 
+on a daily basis, a regional health information network system 
+that provides better healthcare 
+services by sharing patient 
+information and a wide-area 
+disaster and emergency medical 
+information system.
+Major Systems and Services
+• Medical Insurance Claim Processing System
+• Health Data Bank (ASP service for health management)
+• Creative Health Sankenjin (healthcare management and lifestyle practice 
+improvement support service)
+• Health Checkup Support System • Regional Health Information Network System
+• Wide-Area Disaster and Emergency Medical Information System
+Public Administration Sector
+In addition to developing and operating information systems 
+that support society as a whole, we provide systems and services 
+designed to make regional societies safe, convenient and 
+prosperous. From nationwide to 
+community-based systems and IT 
+services that support cooperation 
+between public and private sectors, 
+we help create social infrastructure 
+with an end-user perspective.
+Major Systems and Services
+• Social Insurance Online System
+• Motorcar Total Information Advanced System (MOTAS)
+• Nippon Automated Cargo and Port Consolidated System (NACCS)
+• Regional Tax Portal System (eLTAX)
+• Communication System for Disaster Mitigation
+• FairCast Child Safety Communication Network
+Proﬁ le
+Business Fields
+NTT DATA CSR Report 2010

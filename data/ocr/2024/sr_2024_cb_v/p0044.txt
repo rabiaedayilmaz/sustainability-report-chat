@@ -1,0 +1,99 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+Hotel Stays Providing Insight into Sleep Quality
+NTT DATA Japan Corporation
+First Business Section CPG Division
+Second Industry Business Sector
+Sleep Tech Hotel
+• To achieve a sustainable society, there is a need to support public physical and mental health and to improve wellbeing as a means to enhance individuals’ happiness and quality of life.
+• Causes of lifestyle diseases such as diabetes and high blood pressure include dietary habits, stress, and insufficient exercise or sleep. Regular health checks and lifestyle reviews are
+key ways to achieve the early detection and prevention of such diseases.
+Business need
+According to OECD research, Japanese people have
+the world’s lowest average number of sleep hours. Lack
+of sleep is closely correlated with lifestyle diseases such
+as sleep apnea, high blood pressure, diabetes and
+arteriosclerosis, and people are paying more attention to
+their sleep schedules year after year. Companies are
+responding
+by
+developing
+products
+and
+services
+to
+improve
+sleep
+quality,
+including
+functional
+foods,
+supplements and mattresses.
+This is also leading to rapid expansion of the “sleep
+tech” market, comprising services and systems driven by
+technologies such as IT and AI that aim to improve sleep
+quality.
+Impact
+Number of people experiencing increased productivity
+through reduced health-related anxiety and improved
+health
+Solution
+NTT
+DATA
+is
+leveraging
+information
+technology
+to
+improve the public’s physical and mental health through its
+Food & Wellness® platform. Aiming to create a world in
+which people can understand their own health without
+having to take proactive measures, it sees sleep-related
+data as a key area of information, alongside health check
+and genome data.
+When the capsule hotel Nine Hours Shinagawa Station
+Sleep Lab Powered by NTT DATA opened in August 2024,
+it began collecting and analyzing sleep data from hotel
+guests who agreed to take part. With the consent of guests,
+sensors inside the capsule units are used to acquire,
+aggregate and analyze sleep related data, such as their
+heart rate during sleep, snoring, and the number and length
+of apnea occurrences. Guests can get insight into their
+personal sleeping habits through sleep reports, helping
+them to learn about their optimal sleeping environment.
+NTT DATA
+also
+established
+the
+Inter-company CoCreation Program, which engages in co-creation with
+companies looking to leverage sleep data in areas such as
+product effectiveness verification, marketing and product
+development. By providing data that has been collected
+and analyzed, the hotel enables companies to verify the
+impact of their products on addressing sleep-related issues
+and improving health. Data from analysis can also lead to
+the development of new products.
+In the future, NTT DATA will continue to develop facilities
+and services aimed at improving people’s wellbeing while
+also looking to create a world where wellness checks can
+be incorporated into daily life.
+Approx. 5,000 people
+Note 1: Estimate calculated based on behavioral change 
+percentage from survey results from approximately 20,000 hotel 
+customers, based on the sleep reports customers received.
+Note 2: Estimate includes improved productivity through 
+productivity-increasing factors, such as a reduction in absences 
+from work or a lowering of periods of reduced concentration, 
+resulting from behavioral changes by hotel customers.
+Food ＆Wellness (Public Contact Points)
+NTT DATA (In Japanese only)
+Digital
+Accessibility
+Smart X
+Co-Innovation
+Future of
+Work

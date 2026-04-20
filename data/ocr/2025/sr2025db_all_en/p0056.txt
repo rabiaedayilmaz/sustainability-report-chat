@@ -1,0 +1,60 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Data-Driven Project Management
+In today’s increasingly complex and fast-paced system development environment, we 
+have transformed traditional management—relying on experience and intuition—into 
+data-driven project management. Vast amounts of data accumulated through ticket 
+management are visualized in real time using business intelligence-based project management dashboards, allowing progress and quality to be analyzed across multiple 
+dimensions. This enables evidence-based decision-making and maximizes project 
+success rates.
+Application of Generative AI and Agent Technology to 
+Project Management
+NTT DATA is applying its generative AI utilization concept, Smart AI Agent™, to the internal 
+project management domain, advancing capabilities in areas that have been difficult to 
+support mechanically until now. Based on a core mechanism that consolidates AI agents 
+and serves as the hub for their collaboration, we are developing and systematically 
+deploying solutions that leverage generative AI and agent technologies. For instance, we 
+are implementing systems where AI supports the entry and correction of management 
+information during daily development activities, thereby reducing the burden on workers. 
+Additionally, we are developing reporting and application systems where AI collects and 
+performs initial analysis and evaluation of management information, enabling deeper 
+analysis in collaboration with human evaluators. These solutions leverage generative AI 
+and agent technologies and are being systematically deployed across the organization.
+Human Resource Development Emphasizing System 
+Management Stability
+Seeking to stabilize system operations, NTT DATA’s Quality Assurance Department promotes IT-SM community activities to develop human resources who will engage in 
+system operation and maintenance.
+ 
+Our IT-SM community activities include IT service management improvement training, which involves learning through examples of system failure response and prevention, and IT-SM community seminars to serve as forums for presenting and sharing 
+those examples.
+ 
+Furthermore, we support and develop personnel involved in system operation and 
+maintenance by providing various tools. These include a standardized on-site inspection 
+checklist for stable system operations, a portal site that collects stability measures and 
+IT-SM–related information, a collection of example failure cases for recovery training, a 
+system development guide aimed at improving operational quality during the development phase, and a guide for reducing human errors, containing explanations of measures and case studies.
+Addressing Serious Issues
+At Group companies in Japan, executives and employees are required to promptly 
+notify the quality assurance desk in the event of any serious quality issue with a commercial system. The Quality Assurance Department and external relations desk have an 
+emergency contact system in place, whereby the Corporate Management Committee 
+deliberates countermeasures to highly serious issues. Particularly serious incidents are 
+reported swiftly to senior managers. We also investigate the cause of each incident, 
+consider measures to prevent recurrence, report to the competent authorities as necessary according to laws and regulations, and disclose appropriate information to customers through our website.
+ 
+Following a major failure in 2023, we conducted a comprehensive system-wide 
+inspection. From 2024 onward, we are continuing to implement a process in which particularly high-risk new service launch projects are reviewed by third parties.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Digital Safety and Reliability

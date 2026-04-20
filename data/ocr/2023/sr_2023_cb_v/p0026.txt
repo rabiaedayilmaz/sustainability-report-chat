@@ -1,0 +1,83 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Business Solutions (Natuvion GmbH) (Germany)
+Reduction in data in energy-related 
+service companies
+Click here for 
+reference article
+Economy | Clients’ Growth
+50%
+Data Reduction 
+Challenge
+Reducing Data Volume for Lower Power 
+Consumption and More Sustainable IT
+Carbon
+Neutrality
+Future
+of
+Work
+Smart X
+Co-Innovation
+· The use of cloud services is expanding worldwide primarily due to DX and AI, leading to an increase in the number of data 
+centers and data volume in various regions.
+· The Center for Low Carbon Society Strategy, Japan Science and Technology Agency, predicts that global data center power 
+usage will increase 4,300 times from 2016 to 2050.
+Decreasing data volume is crucial for lowering the
+power consumption of data centers and promoting the
+sustainability of IT. Natuvion GmbH, specializing in SAP
+S/4HANA
+migrations,
+cloud
+transfers,
+and
+data
+management, is actively engaged in the Data Reduction
+Challenge. This initiative focuses on diminishing data
+volume
+by
+implementing
+projects
+related
+to
+data
+migration, management, and cloud transfers.
+In
+each
+project,
+Natuvion
+collaborates
+with
+the
+customer by sharing not only aspects such as cost and
+data
+security
+but
+also
+data
+reduction
+goals.
+This
+information is also shared internally. The amount of data
+reduced is reported in terabytes from the pre-execution
+phase.
+In a leading toy manufacturing company in Denmark
+that implemented the data management system, the
+initial data was reduced from 13 terabytes to 11
+terabytes. In addition, a large business process service
+provider in the energy sector achieved a 50% reduction
+in data volume by deleting unnecessary data during
+migration to SAP System Cloud.
+Natuvion GmbH carries out around 100 to 150
+projects each year and remains committed to advancing
+sustainable information systems through the delivery of
+specialized
+expertise
+and
+the
+company's
+product
+offerings.
+Photo: Gorodenkoff via Shutterstock

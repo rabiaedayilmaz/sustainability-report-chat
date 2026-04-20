@@ -1,0 +1,66 @@
+NTT DATA Sustainability Report 2025 Case Book
+Material Issues
+SDGs
+Planet positive
+Social Issues
+Countries
+India
+Revolutionizing the fight against wildlife crime through digital data collection and analysis
+HAWK - HQ
+Legal Experts
+Forest Stations / Offices
+Data Analysis team 
+Mobile Users / Staff 
+Police
+CBI
+ED
+Other State FDs
+NCRB
+WCCB
+YouTube:
+Combating Wildlife Crime with HAWK 
+Technology
+•
+The illegal wildlife trade, a USD 19 billion global black market, continues to drive alarming biodiversity loss. In India, species such as elephants and leopards are among the most severely affected, with over 3,000
+leopards killed between 1994 and 2010. In 2023 alone, enforcement agencies seized 75kg of raw ivory and 385 wildlife artifacts, highlighting the persistent scale of the crisis.
+•
+India has recorded more than 33,300 wildlife crime cases involving over 400 species, but the conviction rate is just 2%. This is largely attributed to resource constraints and weak inter-agency coordination. Although a
+foundational legal framework is in place, there is an urgent need to bolster its implementation and strengthen institutional mechanisms.
+Forest and wildlife crime poses a significant threat to
+biodiversity, with wildlife trafficking ranking as the fourth largest
+illegal trade category. While centralized, intelligent systems can
+play a crucial role in tracking and management of wildlife crime,
+barriers to implementation include limited funding, technological
+constraints, and the absence of cohesive strategic frameworks.
+In India, state forest departments urgently needed a solution
+to address these needs. Recognizing this critical gap, the
+Wildlife Trust of India (WTI) conceptualized a comprehensive
+monitoring solution, but required financial and technical support
+to put the system into practice.
+NTT DATA delivered financial backing and technical expertise to
+support the creation of Hostile Activity Watch Kernel (HAWK), a cloudbased, real-time wildlife crime monitoring platform developed by the
+WTI. As India’s first expert-reviewed system for wildlife conservation,
+HAWK is built to be modular, scalable, and customizable to meet the
+diverse enforcement needs of forest and wildlife protection agencies.
+HAWK is currently operational in three states across India (Kerala,
+Karnataka, and Tamil Nadu), with deployment underway in the state of
+Odisha. The implementation strategy involves a structured approach
+comprising needs assessment, system customization, phased rollout,
+capacity building through training, and planning that accounts for
+handover to state departments to ensure sustainable operation.
+The platform is under active evaluation by India’s Ministry of
+Environment, Forest and Climate Change for potential nationwide
+deployment, aimed at significantly strengthening India’s proactive
+wildlife protection and enforcement capabilities.
+Business need
+Solution
+Conceptual diagram of HAWK deployment
+WTI team members involved with HAWK
+NTT DATA North America
+Global Corporate Social Responsibility & Marketing
+Hostile Activity Watch Kernel (HAWK)
+Impact
+Number of suspects included in database:
+About 54,000
+Number of wildlife deaths uncovered:
+Over 5,800

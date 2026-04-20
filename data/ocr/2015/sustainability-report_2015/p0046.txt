@@ -1,0 +1,53 @@
+*1 The results of our joint verification have been patented (Pat. No. 5785229 (2015))
+*2 A service for assessing the environmental impact of information systems developed by the NTT Information Network Laboratory Group. The service calculates environmental impact reductions that can be 
+achieved through reduced consumption of materials and energy, transportation volume of people and goods, etc., resulting from system introduction.
+*1 An organization comprised of members of both the public and private sectors that was established to promote the spread of smart communities within Japan as well as their global expansion
+*2 Sponsored by the Japan Electronics and Information Technology Industries Association (JEITA). The Green IT Promotion Council is responsible for promoting green IT and helping build a smart society 
+through various activities. These include developing methods for estimating and measuring the energy-saving of and with IT devices, formulating an energy-saving technology roadmap, developing public 
+awareness about green IT in Japan and overseas, and bolstering cooperation with countries in Asia and elsewhere.
+*3 A working group of the Life Cycle Assessment Society of Japan. The group’s objectives are to establish a shared method for estimating the effect that ICT has on reducing environmental impact and 
+devise key performance indicators (KPIs) to measure energy savings achieved via environmental management in companies that supply ICT as well as companies that adopt ICT.
+<Reducing the Environmental Impact of Society through IT>
+<Proactively Participating in Environmental Projects Promoted by Administrative and Industrial Organizations>
+<Reducing Greenhouse Gas Emissions>
+<Waste Reduction>
+The NTT DATA Group and the NTT Information Network Laboratory Group have jointly verified general-purpose evaluation and measurement 
+methods*1 for quantitatively evaluating the effectiveness of environmental impact reduction for all development projects. We began conducting 
+quantitative evaluation in fiscal 2015 with tools based on the results of this verification.
+In fiscal 2015, we conducted two quantitative evaluations based on these methods, which are more suited to general-purposes 
+applications and actual business conditions than to the environmental impact assessment system*2 used in the past. From fiscal 2016, we will 
+begin full-scale application of these methods throughout the Group in an effort to extend and expand the use of quantitative assessments.
+The NTT DATA Group participates in environmental projects promoted by the government and other organizations, taking advantage 
+of technologies and expertise honed from the construction of numerous public administration systems. We also actively join 
+environmental working and other groups of a variety of organizations.
+In recent years, we have been exchanging a wide range of opinions as a member of the Japan Smart Community Alliance 
+(JSCA)*1 and the Green IT Promotion Council*2. These discussions include the creation of smart communities aimed at realizing 
+next-generation sustainable societies, the development of methods for estimating and measuring the energy-saving of and with IT 
+devices, and research involving the introduction of energy management systems to buildings and stores. NTT DATA also works in a 
+study group under the business platform of the Life Cycle Assessment Society of Japan (JLCA)*3 on building a common framework 
+among corporations to reduce CO2 emissions via the use of IT and has participated in formulating common guidelines for estimating 
+reductions in CO2 emissions in ICT businesses.
+In fiscal 2015, we sought to improve our recycling ratios and reduce the final amount of waste disposal by changing the processing 
+routes for waste products to address the reason we were unable to meet the waste targets for the previous year.
+As a result, we significantly exceeded our targets by achieving a 70% reduction in the final amount of waste disposal compared with 
+fiscal 2009 and a final waste disposal rate of 2.4%.
+In fiscal 2016, we will strive to improve our recycling ratios through measures such as using disposal firms with high recycling ratios 
+and changing the processing route, while maintaining our efforts on the reuse and recycling of office equipment to attain our fiscal 2016 
+targets of a reduction in the final amount of waste disposal of 71% or more and a final waste disposal rate of 2.3% or less.
+In fiscal 2015 we continued to promote power-saving measures that take into account diverse workstyles, including the replacement 
+of desktop computers with notebook PCs and the use of telework owing to the rotating partial closure of office floors in major buildings 
+in the Tokyo Metropolitan area. As a result of our efforts to reduce total CO2 emissions in fiscal 2015 by at least 16.0% compared with 
+fiscal 2009, we were actually able to achieve a considerable reduction of 22.5% from the levels recorded in fiscal 2009.
+Although CO2 emissions are expected to rise in fiscal 2016 due to the expansion of our data center business, we intend to continue 
+raising our operational efficiency and promoting lifestyle innovations.
+● The Greening of the NTT DATA Group
+● The Greening of Clients and Society
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

@@ -1,0 +1,74 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+Improving Global Governance Maturity
+NTT DATA has established a process to aggregate security risks faced by each regional 
+company and determine the security measures that should be prioritized across the 
+global Group. In addition, the latest revisions to global standards, such as ISO/IEC 27001 
+and NIST CSF, are incorporated into the Group’s regulations.
+Global Security Infrastructure
+To accommodate increasingly diverse work styles and counter increasingly sophisticated 
+cyberattacks, we have built and continue to operate a global security platform common 
+across NTT DATA as the first phase. This foundation strengthens security for e-mail and 
+cloud service usage while centrally managing user devices and Internet access points to 
+maintain a high level of security throughout the Company. Even if an external network 
+intrusion occurs, the system can isolate networks between domestic and overseas sites 
+to prevent the spread of damage to other locations.
+ 
+In addition, advanced log analysis enables the early detection of sophisticated cyberattacks. Since fiscal 2020, the second phase of the global security platform has been 
+implemented, including the introduction of an e-mail security gateway to further 
+enhance e-mail security. Moreover, leveraging a zero-trust architecture, we have implemented a system that combines IdP, Secure Gateway, and EDR to further strengthen the 
+security of users’ IT environments and client PCs.
+Early Escalation to Address Serious Incidents
+To ensure the early detection of and prompt response to serious incidents, we have 
+established a hierarchical incident response organization at NTT DATA’s domestic and 
+overseas sites. This structure ensures immediate on-site responsiveness as well as the 
+capability to handle complex incidents. In addition, Group rules clearly define roles, 
+responsibilities, and reporting standards, maintaining a system in which serious incidents 
+are promptly reported from NTT DATA’s Group companies, both in and outside Japan, to 
+the Head Office.
+  [Reference page] Non-Financial Data “Security, Critical System Failures, Compliance, Anti-Competitive Practices, 
+and Bribery”
+Initiatives in Security Business
+Comprehensive Security Management to Ensure Safe and 
+Secure System Environments
+NTT DATA harnesses the expertise it has gathered from its experience and track record 
+to propose optimal solutions that reflect changes in its clients’ business structure.
+ 
+For example, NTT DATA has built a Zero Trust environment that is utilized by 190,000 
+users all over the world, leveraging security know-how developed through various client 
+projects. Based on this expertise, approximately 1,000 security specialists globally are 
+establishing security governance, providing high-level security technologies necessary 
+for systems handling critical information and implementing Zero Trust security to facilitate safe remote work environments that support new ways of working.
+ 
+Moreover, information security incidents in recent years have highlighted the importance of preparing against contingencies on the assumption that protective security 
+measures might be bypassed altogether by sophisticated targeted attacks or information 
+leaks caused by internal misconduct. To contain and localize any damage, we must provide reliable detection of an attack and swift response and recovery. We help reinforce 
+the security measures of our clients by offering security consulting to identify risks and 
+providing solutions and services for neutralizing and protecting against risks. Furthermore, we offer construction services for detection, response, and recovery as well as 
+operational monitoring services to support our clients’ security measures.
+Initiatives to Ensure Security
+Ensuring the Security of Commercial Systems
+In addition to known attacks against which countermeasures are available, more and 
+more attacks exploit vulnerabilities that even software developers and system development vendors are not aware of. To address such unknown attacks, we must adopt security measures across our systems without leaving any vulnerabilities.
+ 
+We share the latest trends in security technology and vulnerability information 
+across the Group in a timely manner. When building and operating our systems, we 
+incorporate processes to maintain the necessary level of security and establish mechanisms to enable the system to maintain that security level. We strive to continuously 
+provide safe and secure systems and services, including by subjecting our system to 
+regular diagnostic testing by security experts and appropriately responding to newly 
+discovered vulnerabilities.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Secure and Sustainable-by-design Services and Solutions

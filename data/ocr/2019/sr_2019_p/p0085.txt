@@ -1,0 +1,156 @@
+Environmental Data
+Units
+Amount
+Ozone layer 
+protection
+Use of vehicles using CFCs
+Number of Company vehicles that employ CFCs in air-conditioner refrigerants
+Vehicles
+
+Number of Company vehicles that employ HCFCs in air-conditioner refrigerants
+Vehicles
+
+Number of Company vehicles that employ HFCs in air-conditioner refrigerants
+Vehicles
+
+Use of CFCs in vehicle air-conditioners
+kg
+
+Use of HCFCs in vehicle air-conditioners
+kg
+
+Use of HFCs in vehicle air-conditioners
+kg
+1,823
+Elimination of specified-CFC fire prevention equipment
+Buildings from which specified-CFC fire prevention equipment removed during the 
+period 
+Buildings
+
+Amount of specified CFCs removed from fire prevention equipment during the 
+period 
+kg
+
+Amount of specified CFC gas emitted by fire prevention equipment during the 
+period 
+kg
+
+Remaining number of buildings employing specified-CFC fire prevention equipment Buildings
+
+Remaining specified CFC gas emissions from fire prevention equipment
+kg
+28,706
+Resource usage
+Consumption of water resources
+㎥
+912,329
+Clean water consumption
+㎥
+451,097
+Sewerage water consumption
+㎥
+294,038
+Gray water consumption
+㎥
+6,441
+Rainwater consumption
+㎥
+
+Consumption of clean, sewerage, and other water (Total water consumption)
+㎥
+160,753
+(Scope of Environmental Impact Measurement: All NTT DATA organizations, 68 Group companies in Japan)
+*1: CO₂ conversion factor uses CO₂ emission factor by electric power companies.
+*2: Units and emissions from fiscal 2013 include individual free-standing air-conditioning units as well as central airconditioning units.
+Primary Category
+Subcategory
+Recycled Amount
+Company computers
+Recycled amount (Number of units)
+6,927
+Reused amount (Number of units)
+13,202
+Thermal recycling
+Recycled non-industrial waste (kg) 
+450,228
+Recycled industrial waste (kg) 
+486,636
+Recycling of industrial waste requiring special treatment (kg)
+
+Units
+Fiscal 2015 Fiscal 2016 Fiscal 2017 Fiscal 2018
+Scope 1
+Emissions 
+t-CO₂e
+6,073
+10,547
+8,802
+5,746
+Coverage rate of data (sales)
+％
+
+Scope 2
+Emissions
+t-CO₂e
+238,679
+248,591
+309,063
+275,622
+Coverage rate of data (sales)
+％
+
+Energy
+Total consumption of non-renewable energy
+MWh
+476,607
+504,867
+666,261
+588,179
+Total amount of renewable energy either purchased 
+or used by the Company (biomass, photovoltaic, 
+wind power, etc.)
+MWh
+
+103,342
+102,651
+Total cost of energy consumption
+¥1.0 billion
+
+Coverage rate of data (sales)
+％
+
+Water
+Total water usage
+million ㎥
+0.34
+0.55
+0.58
+0.80
+Coverage rate of data (sales)
+％
+
+Waste
+Total final disposal of waste
+t
+
+Coverage rate of data (sales)
+％
+
+▶ Fiscal 2018 Recycling Amounts
+▶ Fiscal 2018 Global Environmental Impact Data and Data Coverage
+(Scope of Aggregate Data: All NTT DATA organizations, 68 Group companies in Japan)
+(Scope of data aggregation: Consolidated NTT Data Group companies)
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

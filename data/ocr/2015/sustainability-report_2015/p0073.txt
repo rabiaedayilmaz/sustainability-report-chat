@@ -1,0 +1,49 @@
+In 2013, we established the Forensic Laboratory for identifying the causal factors of an incident and analyzing the extent of damage 
+to provide clients with a Total Managed Security Service (TMSS) that meets the need for total security management in handling the 
+occurrence of an incident up to the recovery of client operations. In recent years, targeted cyber-attacks have been on the rise, 
+targeting intellectual property and personal information with attack methods tailored to specific companies, organizations and users. 
+In response, we newly created the Security Operation Center (SOC) inside the Shinagawa Data Center, which was opened in July 
+2014, and tasked it with fortifying the administration and monitoring services of our TMSS for the early detection of malware loose 
+inside an organization. We aim to help its clients expand their operations by continuously enhancing the TMSS to provide safe and 
+secure system environments through total management.
+● Ensuring Safe and Secure Environments with Total Security Management
+Information Security Strategies
+Practicing and maintaining an appropriate balance between ensuring safety of information and actively utilizing and sharing 
+information, both of which are objectives of the GSP, is essential if the NTT DATA Group is to continue to be a partner to customers 
+that aids in their evolution.
+In fiscal 2015, we advanced Group-wide information security measures based on four core information security strategies—
+implementing comprehensive recurrence prevention measures, realizing more advanced predictor detection and better incident 
+response capabilities, implementing measures to ensure security for commercial systems, and increasing security governance.
+Recently, there have been multiple incidents of illegal access to information through breaches (vulnerabilities) of information systems, 
+resulting in personal and confidential information leaks, business disruption, and other harmful outcomes. Because most illegal 
+accesses make use of known attacks, against which countermeasures are available, we should apply preventative measures across 
+our systems without leaving any vulnerability.
+The NTT DATA Group shares the latest trends in security technology and vulnerability information within the Group in 
+a timely manner. In having built the system that is now in operation, the Group incorporated processes to maintain the 
+necessary level of security and has established mechanisms to enable the system to maintain that level of security. The 
+system in place is also subjected to regular security diagnostic testing carried out by security experts. To be able to provide 
+safe and secure systems and services to its clients on an ongoing basis, NTT DATA has worked on, for example, appropriate 
+responses to newly discovered vulnerabilities.
+In recent years, there has been a rapid increase in targeted attacks. This new variation of attack on information systems frequently 
+causes harm to government agencies and private businesses. Because many targeted attacks use already-known vulnerabilities, it 
+can be preventable by security patch management and other measures.
+The NTT DATA Group has intensified vulnerability checks on its main software programs and ensured that terminals with 
+inadequate security measures cannot connect to the Group’s in-house networks.
+However, taking measures such as virus detection using anti-virus software (entry measure) and blocking by URL filters (output 
+measure) alone would be insufficient for sophisticated attacks. Attacks may exploit the brief period between the discovery of a 
+vulnerability and the application of patch software and cause damage.
+NTT DATA is making advances in R&D into new detection methods and dynamic defenses to construct systems and structures 
+that provide early detection and response by monitoring suspicious communications and blocking unwanted access, so that we can 
+take immediate action in the event that a vulnerability is exploited to cause damage, such as spreading a computer virus.
+● Key Strategies in Fiscal 2015
+● Measures to Ensure Security of Commercial Systems
+● Addressing New Security Risks
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+
+Sustainability Report 2015
+NTT DATA

@@ -1,0 +1,154 @@
+Primary 
+Category
+Subcategory
+Recycled 
+Amount
+Waste Dis posal A mount
+Total 
+Emissions
+Final 
+Disposal
+Incineration
+Landfill 
+Amount
+Category A+B
+Mixture of Categories A and B (unsorted waste)
+
+Category A 
+(burnable)
+Fine paper
+1,255,844 
+
+1,255,844 
+
+Newspapers, magazines, cardboard
+92,985 
+
+92,985 
+
+Refuse
+14,839
+
+16,173 
+
+Paper waste
+270,750
+3,550
+
+274,300 
+
+Plastics (burnable)
+4,869
+
+4,869 
+
+Waster oil
+
+Unsorted burnable waste, other burnable waste
+353,795
+44,056
+
+397,851 
+4,406 
+Category B
+(non-burnable)
+Bottles
+35,734 
+
+35,796 
+
+Cans
+294,576 
+
+294,576 
+
+Plastics (non-burnable)
+1,453 
+
+1,453 
+
+PET bottles
+95,814 
+
+95,814 
+
+Unsorted non-burnable waste and other nonburnable waste
+
+Category C
+OA equipment, fixtures, others
+2,264,527
+22,899
+4,954 
+2,292,380 
+7,244 
+Total
+4,685,474 
+71,280 
+5,827 
+4,762,581 
+12,955 
+(Kilograms)
+Environmental Data
+Units
+Amount
+Resource usage
+Consumption of water resources
+m³
+630,016
+Clean water consumption
+m³
+342,463
+Sewerage water consumption
+m³
+239,692
+Gray water consumption
+m³
+42,619
+Rainwater consumption
+m³
+1,538
+Consumption of clean, sewerage and other water
+m³
+3,704
+Energy consumption
+Utility power
+10,000 kWh
+47,661
+Kerosene
+kl
+
+Light gas oil (excluding Company vehicles)
+kl
+
+A–C heavy oil
+kl
+
+City gas
+10,000 m³
+
+Gasoline for Company vehicles
+kl
+
+Light gas oil for Company vehicles
+kl
+
+Steam
+GJ
+9,314
+Cold energy
+GJ
+32,059
+ 
+Office Waste of the NTT DATA Group in Fiscal 2016
+NTT DATA (all organizations), 75 Group companies (Japan only)
+Scope of Environmental Impact Measurement
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

@@ -1,0 +1,115 @@
+Boundary
+Unit
+FY2020
+FY2021
+FY2022
+FY2023＊1
+ ➂＊2
+％
+ー
+ー
+ー
+
+➂
+t-CO2e
+7,241
+9,613
+14,018
+39,507
+t-CO2e (Location)
+170,807
+165,748
+165,792
+665,870
+    (Market)
+155,165
+130,066
+83,912
+307,009
+198,227
+100,537
+52,297
+33,677
+Electricity use
+190,799
+93,970
+46,792
+28,306
+Gas/fuel use
+3,673
+2,972
+2,089
+2,014
+Company vehicle use
+1,322
+1,242
+1,203
+1,078
+Heat use
+2,433
+2,353
+2,214
+2,279
+
+CH4(Methane)
+
+N2O(Dinitrogen monoxide)
+
+HFC(Hydrofluorocarbon)
+
+PFC(Perfluorocarbon)
+
+SF6(Sulfur hexafluoride)
+
+NF3 (Nitrogen trifluoride)
+
+➂
+608,474
+329,633
+372,225
+1,433,959
+➂
+59,938
+92,077
+187,028
+770,750
+➂
+MWh
+641,483
+406,116
+413,000
+1,574,312
+*1 CO2 emissions from business activities are the values obtained by subtracting “greenhouse gases other than CO2
+ 
+” from “total greenhouse gases.”
+*2 The list of ISO-certified companies is on p.20.
+*3 NTT DATA has classified the electricity used by customers at data centers as Scope 3, starting from the fiscal year 2021 actual results.
+*4 Total energy consumption is the value obtained by adding the Wh equivalent of fuel consumption, such as gasoline and city gas, to purchased electricity.
+*5 In October 2022, the NTT DATA Group combined the overseas business of NTT, Inc., a wholly owned subsidiary of Nippon Telegraph and Telephone Corporation, into its overseas business. 
+ Although data related to NTT, Inc.’s overseas business is not included within the data scope for ﬁscal 䏆䏄䏆䏆, it is included for ﬁscal 䏆䏄䏆䏇. Consequently, some data for ﬁscal 䏆䏄䏆䏇 may show increases compared to ﬁscal 䏆䏄䏆䏆.
+ISO 14001 certification status (employee coverage rate)
+CO2 emissions
+ from business activities＊1, 3
+Total CO2 emissions
+➁
+t-CO2e
+Breakdown
+Greenhouse gas direct emissions (Scope 2)
+➂
+Greenhouse gas direct emissions (Scope 1)
+Total energy consumption＊3, 4
+Greenhouse gas emissions
+other than CO2
+(CO2 equivalent)
+Total greenhouse gases other than CO2
+➁
+t-CO2e
+Breakdown
+Electricity consumption
+Purchased electricity
+MWh
+Renewable energy and new energy consumption
+Environment
+Environmental Performance Data 1
+
+NTT DATA Sustainability Report 2024  Data Book

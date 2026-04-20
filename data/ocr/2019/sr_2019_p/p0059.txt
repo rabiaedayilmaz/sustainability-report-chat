@@ -1,0 +1,103 @@
+In 2005, NTT DATA was engaging in workstyle innovation, aiming to become a company that 
+provided its customers with change through IT in accordance with its Group Vision at the time, 
+“Global IT Innovator.” Starting in fiscal 2018, we have changed our Group Vision to “Trusted 
+Global Innovator” and are continuously working to provide this innovation, currently through 
+changes in our workstyles and how they affect our customers.
+Our workstyle reforms involve more than just simply reducing working hours; while raising their 
+own work quality, all employees are making time within their days to aim for self-actualization. 
+By using this time effectively, they are achieving growth and making continuous and active 
+contributions, helping us to achieve our goal of maintaining a strong level of competitiveness.
+At the same time, NTT DATA is implementing health management practices, and aims to 
+become a “Companies ‘to be elected’ in the Labor Market” by improving systems and working 
+environments, improving development productivity, and correcting long working hours through 
+cooperation with customers and business partners.
+We will continue to grow by having our employees and the company influence each other 
+positively.
+Enhancing Digital and Global Skills of All Employees to Innovate the Workstyle
+Starting from fiscal 2019, we have introduced the self-innovation time initiative, in which 
+employees spend a part of their work hours on the innovation domain, such as enhancement of 
+digital and global skills, innovation of workstyles by taking advantage of digital tools, and sharing 
+of knowledge across the Company and with other organizations. As the common KPI for all 
+organizations within the Company, we aim to take 40 hours of self-innovation time per employee 
+in fiscal 2019.
+Reducing Long Working Hours
+■Promoting Initiatives toward Addressing the IT Industry’s Issue of Long Working Hours
+In the IT industry, long working hours are an ongoing problem. NTT DATA is promoting efforts
+aimed at decreasing total working hours based on 
+the appropriate management of working hours.
+Up to now, we have sought to manage 
+working hours by recording computer log on and 
+log off times and managing working hours using 
+smartphones to log start and stop times. We 
+have also set reduction targets for total working 
+hours at each workplace and promoted the 
+consideration and implementation of measures for attaining the targets. We report the progress 
+toward the achievement of the reduction targets for each organization to the top management 
+every quarter. Additionally, we have implemented a plan-do-check-act (PDCA) cycle, through 
+which we continuously review and improve initiatives. In this way, we achieved the target for 
+fiscal 2018 to reduce our average annual working hours to 1,890 per employee.
+By using the BI platform Tableau, we also visualize the analysis results of data related to 
+working hours in a secure and timely manner and share them within the Company. We use AI to 
+detect the indication of long working hours and drive forward initiatives to prevent overwork.
+
+FY
+（hour）
+1,910
+1,901
+1,890
+1,941
+1,941
+▶︎ Total Annual Working Hours Per Employee
+　 (Non-consolidated)
+▶︎ Average Paid Leave Taken in Days, Rate of Paid Leave Taken (Non-consolidated)
+Fiscal 2015
+Fiscal 2016
+Fiscal 2017
+Fiscal 2018
+Average paid leave taken in days per person
+17.0
+18.2
+17.7
+17.6
+Average rate of paid leave taken (%)
+85.0
+91.0
+89.0
+88.1
+Reforming Workstyles
+■Encouraging Employees to Take Paid Leave
+NTT DATA promotes work–life balance for its employees by encouraging them to be proactive in
+taking paid refreshment leave*¹ and anniversary leave*².
+As a result of our promotional efforts, employees took an average of 17.6 days of paid leave 
+per person in fiscal 2018. Moving forward, we will continue to incorporate various policies and 
+measures while working to increase employee utilization of paid leave.
+*1: Employees can take more than four consecutive days of vacation when a work milestone is achieved.
+*2: Employees decide their own anniversary date and plan to take vacations every year on this anniversary.
+■Opening the Way for Workstyles That Are Not Location Dependent
+NTT DATA has operated a teleworking employment program since February 2008 as one specific
+strategy aimed at workstyle reform.
+In April 2018, we revised our teleworking system to increase policy flexibility regarding where 
+and for how long our employees can utilize teleworking. These revisions included removing limits 
+on the number of teleworking days and allowing employees to telework in places other than their 
+homes. Currently, about 90% of NTT DATA employees are taking advantage of this system.
+Additionally, we have encouraged workstyle reform by establishing flexible time policies; 
+more than half of our employees utilize our flex-time system, which began in April 1993, and our 
+discretionary work system, which began in December 2010.
+Furthermore, we are establishing new infrastructure by moving our development environment 
+to the cloud and implementing teleconferencing. Moving forward, we will continue to promote 
+workstyle reforms that enable our diverse human resources to contribute actively.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Social
+Social
+NTT DATA Sustainability Report 2019

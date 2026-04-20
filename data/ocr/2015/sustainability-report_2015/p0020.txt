@@ -1,0 +1,47 @@
+Company Data
+People at Work
+Society and Regional Communities 
+CSR Infrastructure
+CSR in the NTT DATA Group
+Global Environment
+Paradigms for Society and Regional 
+Communities
+The NTT DATA Group contributes to the advancement of society as a whole through the development 
+and provision of highly reliable, easy-to-use systems. At the same time, we contribute to the 
+resolution of issues in regions and countries where we have a presence.
+● Building a Management System Based on ISO 9001 and Continuously Promoting Improvement Activities
+Initiatives to Improve Quality
+At the present time, as business becomes ever more global and IT continues to evolve, the needs that 
+companies ask us to meet are becoming more diverse. Responding to those needs requires us to constantly 
+hone our powers of foresight and create new mechanisms that are of benefit to society.
+Recognizing the critical importance of providing its clients with safe and secure services, the NTT DATA 
+Group has been actively facilitating the supply of, for example, highly reliable as well as people-friendly 
+systems, thereby contributing to the development of society.
+Through these efforts, we will create new businesses that will nimbly pick up on changes in the world and 
+expand our business domains, while helping to resolve wide-ranging social issues.
+Looking ahead, we will bring innovation to fruition in cooperation with our clients and use IT to provide 
+paradigms that are beneficial to both larger society and regional communities.
+Approach Adopted by the NTT DATA Group
+Developing Systems that are Safe and Secure
+The bringing to fruition of systems and services that offer round-the-clock, year-round stability is a key responsibility and forms 
+the basis for providing services to our clients. In realizing a social infrastructure that people feel safe and secure to use, the 
+entire NTT DATA Group is engaged in, for example, the gaining of certification under quality management standards and the 
+standardization of development and management methods. The Group is facilitating the provision of services that are geared 
+to raising system reliability.
+NTT DATA obtained ISO 9001 certification—the international standard for quality management—on a Group-wide basis in 1998 
+and subsequently adopted a systematic approach for creating a quality management system across the entire organization. Since 
+fiscal 2008, NTT DATA has created unified Company-wide rules governing system development and management methods and 
+has clarified procedures for applying the rules to bolster the system on a Group-wide basis. In March 2010, we formulated an 
+implementation method to boost quality and productivity, which we have also deployed Company-wide, under our unified rules. In 
+addition, we quickly focused on making process improvements and enhancing the transparency of system development, and we 
+incorporated Capability Maturity Model Integration (CMMI)* to formulate development and operational standards. In recent years, we 
+have particularly recognized the importance of raising the standard of quality control at development sites, including those of Group 
+companies. We are therefore taking steps to roll out CMMI throughout the Group and to share quality-related information.
+As part of our global effort to enhance quality, we have deployed an ISO 9001-compliant quality assurance system in Vietnam and 
+Shanghai, China, within the Asia-Pacific region, while providing support and information for process improvement utilizing CMMI to 
+Chinese locations in Beijing and Wuxi.
+* Capability Maturity Model Integration is a model created by the Software Engineering Institute of Carnegie Mellon University and now managed by the CMMI Institute. It expresses the level of maturity of an 
+organization undertaking system development on a five-point scale.
+
+Sustainability Report 2015
+NTT DATA

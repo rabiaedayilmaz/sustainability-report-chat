@@ -1,0 +1,102 @@
+NTT DATA hosts a UD working group that has conducted 
+in-house seminars since fiscal 2006. In fiscal 2011, we held 
+a UD Research Seminar on February 14, 2011. As lecturers 
+from outside the Company, we invited Mr. Kohji Fujisawa, 
+a researcher on communications, and Mr. Masaya Ando, an 
+Associate Professor at the Chiba Institute of Technology, to talk 
+about UD practice methods and the user experience*3, a more 
+advanced form of UD.
+We also incorporated internal UD seminars into the list 
+of items for our human resources development program 
+(CDP Basic) for young employees (up through their fifth year 
+of employment). With regard to UD-considerate system 
+development, in addition to explaining tool usage methods 
+ranging from requirement definition to design, the seminars 
+provided hands-on opportunities for the attendees.
+In fiscal 2012, we plan to conduct internal seminars from 
+the standpoint of accessibility, particularly including thoughts 
+on UD as it relates to color and UD practice methods, as we 
+continue our efforts to train young employees.
+*3 User experience: In addition to functionality and ease of use, the user 
+experience means paying attention to how the user wants to and enjoys using 
+products and systems. 
+NTT DATA believes that the pursuit of business that has value to 
+society is essential to our corporate growth and the creation of a 
+sustainable society. Based on this awareness, we work to develop 
+IT systems that help resolve a host of social challenges, such as 
+the falling birthrate and aging population, healthcare and welfare 
+issues, disaster and crisis management, and regional vitalization.
+ Identification Service Using IC-Equipped 
+Drivers Licenses
+In recent years, customer identification has become a legal 
+requirement for financial institutions and government agencies, 
+in an attempt to clamp down on the improper use of bank 
+accounts and the submission of fraudulent claims. Private-sector 
+companies have also stepped up their identification efforts 
+when providing services. 
+However, companies face a growing burden from having 
+to check for forgeries of drivers licenses used for identification, 
+create ID documents and manage the information trail. 
+NTT DATA is working to resolve this issue by providing 
+BizPICO as a cloud service that confirms whether IC-equipped 
+drivers licenses have been falsified and manages the 
+information trail. This helps to make identification more reliable 
+and raises business efficiency. We won an industry grand prize 
+in the ASP SaaS Cloud Award 2011 recognizing the advanced 
+nature of this application for publicly issued IC cards (drivers 
+licenses) and provision of a cloud-based service.
+UD Research Seminar
+People with 
+drivers 
+licenses
+Wave card 
+and input 
+PIN number
+IC-equipped 
+drivers 
+licenses
+Forgery 
+check
+Businesses, 
+financial 
+institutions, 
+etc.
+BizPICO Center
+Read out 
+IC information
+Verify whether 
+falsiﬁed
+Store certiﬁcation 
+information
+Manage 
+public keys
+Certiﬁcation 
+information
+Registration, 
+referral
+Using IT to Resolve Social Issues
+Concentrating on the Development of IT 
+Systems that Contribute to the Creation of 
+a Sustainable Society
+Raising Universal Design Awareness 
+through in-House Seminars
+Contributing to 
+Regional Communities 
+and Society as a Whole
+We work to help realize a healthy society by 
+focusing on social contribution activities that 
+emphasize employee participation and through 
+the development of IT systems designed to help 
+resolve social issues.
+BizPICO System
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+• Supporting the Creation of Easy-to-Use Websites
+• Participating in Projects with the International Association for Universal Design
+• Making Our Web Accessibility Check Site, HAREL, Freely Available to the Public
+• Conducting Website Accessibility Validation Checks
+• Extending the Customer Satisfaction Survey to Group Companies
+Additional Topics on Website
+
+NTT DATA CSR Report 2011

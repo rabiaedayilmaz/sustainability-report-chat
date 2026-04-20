@@ -1,0 +1,86 @@
+Sharing of medical care
+and examination results
+Core hospitals
+Services provided by specialists:
+• Medical care and examination 
+contingency plans
+• Patient follow-up care
+• Periodic medical care and 
+examinations
+Constructing a close-knit medical network to 
+treat diabetes patients
+The Regional Medical Network realizes cooperation between 
+medical institutions. It connects core hospitals, clinics and 
+pharmacies within a regional community through the online 
+sharing of information on healthcare and prescriptions. The 
+network facilitates and optimizes the eﬃ ciency of medical 
+services depending on patient conditions, such as providing 
+primary care physicians (PCP) services for daily healthcare and 
+core hospitals for emergency cases and serious illnesses. This 
+also alleviates the medical treatment load for doctors.
+The Ministry of Health, Labour and Welfare, an advocate of 
+regional medical networks, is calling for cooperation between 
+medical institutions to deal with four serious ailments: cancer, 
+strokes, heart attacks and 
+diabetes. Accordingly, a 
+sensitive response attuned to 
+the progression of patients’ 
+pathological conditions and 
+symptoms is indispensable 
+for the treatment of these 
+conditions. Diabetes in 
+particular requires careful 
+treatment that involves 
+adjustments to insulin 
+dosage and periodic reviews of test results by specialists in core 
+hospitals, in addition to daily treatment by a PCP. This requires 
+the sharing of detailed medical records on an ongoing and 
+frequent basis.
+Against this background, the Wakashio Medical Network* 
+was established as a collaborative eﬀ ort between medical 
+institutions in the Sammu area of eastern Chiba Prefecture, 
+where the number of doctors is limited. In September 2008, 
+this network adopted NTT DATA’s Diabetes Regional Medical 
+Cooperation Paths Support Services to realize a regional medical 
+network focused on the treatment of diabetes.
+Supporting precise medical services across all 
+regions through IT
+In its system construction, NTT DATA conducts in-depth 
+discussions with doctors, pharmacists and other network 
+participants under the guidance of Togane Hospital, one of the 
+core hospitals. Based on their opinions, investigations are carried 
+out from multiple perspectives, leading to the selection of all 
+data to be shared and enabling the construction of a framework 
+for eﬃ cient cooperation. In consideration of user-friendliness, 
+data is entered easily through simple input screens that can 
+National
+average
+Chiba
+Prefecture
+Sammu
+region
+
+Source: Learning about Successful Regional 
+Medical Cooperation from the Wakashio Medical 
+Network, IGAKU-GEIJUTSUSHA Co., Ltd.
+The Number of Doctors in 
+Sammu, Chiba Prefecture, per 
+100,000 residents
+Adding new functions to medical 
+networks in regional communities
+Amid growing and serious concerns over low birthrates, longevity and the uneven distribution of 
+doctors in the ﬁ eld of medical care in Japan, governments have been promoting the construction 
+of regional medical networks to enable community-based healthcare through the spread of 
+medical IT networks.
+Diabetes requires a deﬁ nitive response in light of these circumstances. One case of meticulous 
+medical care service realized through cooperation between regional medical institutions is 
+presented below.
+* Wakashio Medical Network
+Comprised of 24 medical institutions, 21 pharmacies and eight other units 
+including healthcare and welfare centers, with Togane Hospital as the core 
+facility. NTT DATA has provided technological support for this project since 2000.
+Feature
+Fulﬁ lling “inspired responsibilities” on the themes of the Environment, Society and People
+Theme Society
+
+NTT DATA CSR Report 2009

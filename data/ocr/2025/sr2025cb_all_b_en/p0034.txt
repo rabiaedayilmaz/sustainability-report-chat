@@ -1,0 +1,124 @@
+NTT DATA Sustainability Report 2025 Case Book
+①Shinkin Joint System organization affiliation rate ｜ 92.5%
+Percentage of organizations affiliated with Shinkin Joint System, a leader among a multitude of existing systems (As of March 31, 2025)
+Coverage of affiliated shinkin banks relative to total number of shinkin banks: 92.5%（235/254);
+Number of affiliated locations: 5,803
+・In addition to the core Shinkin Joint System, NTT DATA hopes to increase use of subsystems such as app-based banking and systems to
+support contact with external stakeholders, contributing to greater operational efficiency for shinkin banks nationwide.
+②Number of major incidents ｜0
+Number of disruptions affecting “Ensuring core system availability” provisions under the Shinkin Joint System Service Level Agreement (SLA):
+0 (Fiscal 2024)
+・ Stable year-round operation has been achieved, without major incidents that may lead to service suspension. However, other disruption
+does occur during system operation. In addition to minimizing impediments to stable operation, NTT DATA is working to further enhance
+resilience, such as by quickly identifying causes and taking remedial action when disruption does occur.
+⑤Examples of effective operations ⑥Examples of service improvements to resolve regional issues
+This section contains summaries of case studies from NTT DATA’s business activities, based on interviews with the Shinkin Joint Center.
+(Held in October 2025)
+Rather than covering all of the division’s systems, the logic model and impact indicators presented in the impact summary focus on
+certain systems as representative examples. In obtaining impact data, the Shinkin Bank Division principally utilized quantitative
+internal data, alongside qualitative data from interviews with stakeholders. As the main initial focus is implementing impact
+management, the team recognizes outstanding issues relating to data collection, management and quality assurance and will
+continue to explore improvement measures moving forward.
+Social Impact Visualization Process
+・We held interviews with the Shinkin Joint Center
+as a way to understand the social impact of our
+work.
+While
+we
+had
+created
+hypotheses
+regarding
+issues
+faced
+by
+shinkin
+banks,
+hearing about aspects such as the way that
+urban and rural areas feel different challenges
+showed me the importance of receiving input
+from customers directly.
+・We had a chance to learn from the customer,
+that at the time of a natural disaster,
+a shinkin
+bank in an affected area was able to provide
+customers with ATM and consultation services,
+with help from a nearby shinkin bank‘s mobile
+vending car, due to the fact that they were using
+joint
+systems.
+My
+regular
+work
+focuses
+on
+infrastructure development, so I have had few
+opportunities to hear from customers directly, 
+but through this initiative,
+I was able to
+understand more fully how our
+system supports our customers.
+・
+Despite working hard on my own tasks every
+day, I realized that I had been unable to fully
+visualize
+how
+the
+entire
+division
+connects
+together
+and
+the
+impact
+that
+we
+have
+on
+customers. This initiative gave me a clearer idea
+of what to strive for. I will engage in dialogue
+with the members of my team about how our
+current work connects to everything else as I
+continue to my daily efforts.
+・I
+had
+found
+it
+difficult
+to
+convey
+the
+full
+picture of our work to people who are new to
+the
+division
+and
+other
+stakeholders.
+This
+initiative helped me to put those concepts into
+words and visualize them, which I hope can
+boost the division’s image.
+Participant Feedback
+Workshop participants
+Ryoga Ohashi, Atsushi Ogawa, Yuka Sugawara, Kao Tanaka, Tadayoshi Nakano, Keiko Nakamura, Mao Fujita,
+Shintarou Matsuura, Atsushi Mizunaga, Taisei Miyakawa, Yasushi Miyano, Megumi Yasuda, Shinya Yamanishi
+Interviews(from left): Atsushi Ogawa / Yuka Sugawara / Tadayoshi Nakano / Taisei Miyakawa
+Head of Shinkin Bank Division Hideo Hanamura (back row, third from left) delivered a message of encouragement to participants on the day of the 
+final workshop.
+Key Reference Data and Calculation Methods
+④ Number of passbook-free bank accounts ｜889,452 accounts
+Number of shinkin bank accounts that no longer require a paper passbook (Results as of August 2025)
+・ Making accessing financial services through apps more convenient for regional businesses and individuals makes
+passbooks less necessary. For financial institutions, passbook-free bank accounts also reduce costs related to printing,
+posting and storing passbooks and lowen the ongoing burden of maintaining passbook printing machines. NTT DATA
+will continue to provide value through digital technology with the aim of further expanding the number of passbookfree bank accounts.
+③ Number of app-based bank accounts ｜ 1,580,000 accounts
+Number of bank accounts registered for passbook-free apps or app-based banking (Results as of August 2025)
+・ Results point to a certain level of widespread adoption among generations with high digital affinity. However, overall
+user numbers suggest that this indicator can be improved further, and NTT DATA will work to increase the number of
+accounts using apps by expanding security measures, enhancing links with other services, and improving convenience
+for app users.
+Special Feature: Initiatives to Visualize Social Impact
+Impact Summary (Part 2 of 2)
+Empowering Shinkin Banks to Continue Supporting Communities Through Technology

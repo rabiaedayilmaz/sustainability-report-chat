@@ -1,0 +1,100 @@
+▶Information Security Management System
+Audits
+Members
+Report
+Report
+President and Chief Executive Ofﬁcer, Representative Director
+Corporate and Technology Strategy Ofﬁcer /
+Personal Information Protection Manager (Supervisor)
+Internal
+Audit
+Department
+NTTDATA-CERT
+Collaborating Organizations
+■ Business Strategy Department
+■ Technological Innovation 
+Headquarters
+■ Information System Department
+■ ESG Promotion, Legal, and 
+Intellectual Property 
+Departments
+■ Training Department
+ 
+ 
+Audits
+Information Security
+Committee
+Information Security Steering Organization /
+Personal Information Protection
+Promotion Organization
+(Information Security Ofﬁce)
+• Business 
+• Staff, etc.
+Heads of
+organizations
+Responsible for Information Security 
+Promotion / Manager of Personal 
+Information Protection
+Information Security Promoter / 
+Responsible for Personal 
+Information Protection
+Acquisition of Information Security Management Certification
+Global Governance
+Global Security through Collaboration
+Head Ofﬁce
+Information Security Steering Organization
+Regional
+Head Ofﬁces
+Information Security Steering Organization
+Other
+companies
+Information Security Steering Organization
+Reports
+(excluding Signiﬁcant incidents)
+Reports 
+(Signiﬁcant incidents)
+Information sharing
+Reports
+Request
+Request
+Request
+Business Strategy Department
+overseeing each region
+▶Global Information Security Governance Structure
+Information Security Governance
+At NTT DATA Group companies, each unit that handles confidential information and personal 
+information acquires ISO/IEC 27001 certification—the international standard for information 
+security management systems (ISMS)—as an organization, as necessary. As of March 31, 2019, 
+42 Group companies, including NTT DATA, have acquired this certification in Japan. Several 
+overseas Group companies, for example in Europe, China, and India, have also obtained 
+ISO/IEC 27001 certification. 
+In addition, 41 Group companies, including NTT DATA, have been granted the right to 
+display the PrivacyMark of the Japan Institute for Promotion of Digital Economy and Community 
+(JIPDEC).
+The NTT DATA Group has been diligently working to secure information security based on 
+the NTT DATA Group Security Policy (GSP) since fiscal 2006. The GSP has been applied to the 
+Group’s overseas locations as well. A global framework for promoting information security has 
+been built since fiscal 2012, centered around the six regional head offices in North America 
+(NDS), EMEA (EMEA), APAC (NDAP), China (NDCI), Business Solutions (itelligence), and Spain 
+and Latin America (everis). Information security is managed based on unified baselines as well 
+as in a flexible manner that meets the specific needs of each region.
+To ensure thorough information security governance globally, information security is managed 
+at the three levels of information security steering organizations at the Head Office, regional 
+head offices, and individual Group companies.
+The information security steering organizations at each level cooperate closely to maintain 
+and develop information security policies, monitor information security measures, respond to 
+emergencies, and take preventive measures against incidents.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

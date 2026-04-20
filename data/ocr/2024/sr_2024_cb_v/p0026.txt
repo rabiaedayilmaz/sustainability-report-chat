@@ -1,0 +1,186 @@
+Social issues
+NTT DATA Sustainability Report 2024 Case Book
+Economy
+Clients’ Growth
+Material Issues
+SDGs
+Supporting Digital Transformation in Manufacturing to Boost Productivity
+NTT Data Smart Factory Team
+Smart Factory
+Smart X
+Co-Innovation
+Trusted
+Value Chain
+• In Japan‘s manufacturing sector, skilled workers are retiring, while the number of young workers continues to decline. By 2030, it is predicted that there will be a shortfall of 380,000 
+workers. (Source: Future Labor Market Projections for 2030, Persol Research Institute)
+• In manufacturing, digital transformation often targets specific process improvements, but efforts to optimize overall production and expand business opportunities remain limited.
+(Source: White Paper on Manufacturing Industries 2024, Ministry of Economy, Trade and Industry, Ministry of Health, Labour and Welfare, and Ministry of Education, Culture, Sports, Science and Technology) 
+Business need
+Amid
+the
+labor
+shortages
+facing
+manufacturing,
+the
+concept of smart factories has begun to take hold. These
+factories
+use
+AI
+and
+digital
+technologies
+to
+manage
+operations efficiently and address social challenges like
+those mentioned above. But manufacturing floors face many
+challenges. Daily production demands are relentless. Data
+on people, materials, and equipment is scattered. Each
+department
+handles
+management
+and
+improvement
+separately. Differences in mindset between back-office (IT)
+and manufacturing operations (OT) teams create barriers to
+collaboration,
+making
+problem-solving
+harder.
+In
+manufacturing, digital transformation often targets specific
+process
+improvements,
+but
+efforts
+to
+optimize
+overall
+production and expand business opportunities remain limited.
+Solution
+NTT DATA has partnered with Fanuc to launch a service in
+April
+
+that
+improves
+manufacturing
+operations
+by
+integrating OT and IT through Fanuc's FIELD system Basic
+Package.
+The FIELD system Basic Package offers an API designed
+for seamless IT solution integration. It enables easy collection,
+visualization, and analysis of operational technology (OT) data
+within the factory from equipment and devices from different
+manufacturers and generations. NTT DATA provides full
+support to the manufacturing industry, offering: assistance with
+OT
+and
+IT
+data
+visualization
+and
+analysis,
+including
+implementation
+of
+the
+FIELD
+system
+Basic
+Package;
+consulting
+for
+continuous
+improvement
+activities;
+and
+deployment and operational support for related systems and
+security services from NTT DATA, tailored to the specific
+needs of the customer.
+This enables the centralization of data that had previously
+been managed separately, and the sharing of that data across
+departments,
+boosting
+productivity
+and
+streamlining
+operations. The system is designed to adapt to users'
+proficiency and the problem-solving steps in production sites.
+It provides ongoing support for improvement kaizen activities,
+from operational
+monitoring
+to
+integration
+with
+external
+systems.
+NTT DATA is actively expanding not only in Japan but also
+internationally,
+supporting
+operational
+improvements
+and
+reforms in the manufacturing sector.
+*Compiled by METI from a survey of 257 manufacturing companies
+conducted by the New Energy and Industrial Technology Development
+Organization (NEDO) under its "Research and Development Utilizing
+Wireless Communication Technologies to Reinforce the Dynamic
+Capabilities of the Manufacturing Industry/Survey Project on Measures
+to Strengthen Dynamic Capabilities on Manufacturing Floors and Future
+Dissemination
+of
+the
+Measures“
+(Source:
+White
+Paper
+on
+Manufacturing Industries 2024, Ministry of Economy, Trade and
+Industry; Ministry of Health, Labour and Welfare; Ministry of Education,
+Culture, Sports, Science and Technology)
+Impact
+Implementation rate of digital transformation 
+aimed at "optimizing overall manufacturing 
+functions"
+26.5%*
+NTT DATA GROUP to Start Offering 
+Manufacturing Site Improvement 
+Services by Integrating OT and IT
+NTT DATA GROUP (in Japanese only)
+Webinar: How CrossFunctional Teams Transform 
+the Manufacturing Floor
+NTT DATA (in Japanese only)
+FIELD system Basic Package
+Indirect department
+LEVEL 3: Manufacturing Operations Management
+LEVEL 4: Business Planning and Logistics
+MES
+LEVEL 2: Execution at Plant Level
+ISA-95 Definition
+LEVEL 1: Equipment Controller Level
+Manufacturing floor
+LEVEL 0: Sensor Level
+Process design
+Production plan
+Manufacturing execution
+PLC
+ERP
+PLM
+Production management
+FIELD system Basic Package
+Cell / Job Shop
+Large-scale line
+NTT Data
+SOC Services
+Management
+DWH
+BI
+Monitoring platform
+OT/IT Security
+Customer
+Customer
+NTT DATA Japan Corporation
+First Industry Business Sector
+Machinery, Electronics & 
+Construction Division

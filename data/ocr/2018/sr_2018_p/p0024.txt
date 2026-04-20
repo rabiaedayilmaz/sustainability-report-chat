@@ -1,0 +1,106 @@
+NTT DATA Sustainability Report 2018
+In recent years, as their use of cloud-computing services grows, companies have 
+been increasingly contracting one-stop service providers to design, build, and operate 
+cloud-computing systems. With a rise in the number of companies transferring data 
+previously managed in-house to data centers (the cloud) and utilizing cloud computing, 
+the role of data centers is becoming ever more important.
+ Further, today’s data centers must be built to withstand earthquakes and other 
+major natural disasters and have high levels of security. In addition, they need to be 
+able to cope with large power loads as power consumption per server rack rises 
+due to the introduction of highly integrated systems and the expansion of cloudcomputing services.
+ To cater to the aforementioned needs, NTT DATA has built a state-of-the-art facility, Mitaka Data Center EAST, next 
+to Mitaka Data Center. Boasting the largest number of server racks in Japan (5,600), the new data center began providing 
+services in April 2018.
+Realizing Advanced Environmental Performance through a Leading-Edge Facility
+At Mitaka Data Center EAST, we aim to achieve some of the highest levels of power usage effectiveness (PUE) in Japan 
+by using natural energy and the latest equipment and facilities. Specifically, we aim to realize PUE of 1.3 or less on an 
+annual average and design value basis.
+ 
+ 
+Looking Ahead
+Keeping in mind future technological innovations in relation to servers, other IT devices, air-conditioning, and power 
+equipment, we have designed Mitaka Data Center EAST so that it can be readily upgraded and expanded and has the 
+capacity to receive large amounts of power. This design will allow us to offer leading-edge data center facilities consistently 
+without having to undertake major renovation. As well as providing the latest facilities for many years to come, we will 
+improve the data center even further to lower its environmental impact.
+Mitaka Data Center EAST
+Reduction of Energy Consumption— 
+Japan’s Perennial Issue
+Japan depends on imports for the majority of its energy resources. This 
+gives the country an energy structure that is highly susceptible to changes 
+in energy-related conditions both domestically and overseas. Securing 
+supplies of energy—the lifeblood of daily life and industrial activity—is 
+always a major task for Japan.
+ In response to this situation, in 2015 METI established a long-term 
+energy supply–demand outlook (energy mix) for Japan, which was based 
+on a strategic energy plan approved by a Cabinet decision in 2014. With 
+the achievement of policy goals for safety, supply stability, economic efficiency, and environment-friendliness as its premise, this energy mix sets 
+out Japan’s target supply–demand structure. Given that they account for 
+a large share of energy consumption, companies must implement rigorous 
+energy-saving measures if Japan is to realize this energy mix.
+*1: A joule is a unit used to measure energy. 1 MJ = 0.0258 × 10-3 crude oil equivalent kl
+*2: With respect to comprehensive energy statistics, the calculation method has been changed for the 
+figures of fiscal 1990 and of subsequent fiscal years.
+*3: The industrial segment is the total of the agricultural, forestry, fisheries, mining, construction, and 
+manufacturing industries.
+*4: The GDP of fiscal 1993 and of the preceding fiscal years are the estimates of The Institute of Energy 
+Economics, Japan.
+Source: Prepared based on Energy White Paper 2018, Ministry of Economy, Trade and Industry
+ http://www.meti.go.jp/press/2016/03/20170331012/20170331012-4.pdf 
+(In Japanese only)
+ Final Energy Consumption and Real GDP
+(1018J*1)
+(Trillions of yen, 2011 prices)
+
+1990*3
+
+FY
+Transportation segment
+Residential segment
+Commercial and other segments 
+CASE 3
+Mitaka Data Center EAST—Accommodating 5,600 Server Racks, the Largest 
+Number in Japan, and Catering to Increasingly Sophisticated Demand
+Industrial segment, the 
+biggest consumer*2*3
+ Key Environmental Features
+ Structure of the Outside-Air Cooling System
+Industrial segment
+Global environment
+Respond to climate change
+• Direct and indirect outside-air cooling 
+systems that use natural energy
+• Atrium with zero CO2 emissions 
+• Energy-saving system that uses solar 
+power generation
+• Exterior cladding that heightens the 
+facility’s performance and saves energy
+• Motion detectors with image sensors
+GDP*4
+Cold patio
+Improves cooling efficiency through precooling
+Hot patio
+Uses exhaust heat to lower energy load
+Reduction of energy consumption of the industrial segment, 
+which consumes the most energy, is a major issue
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group

@@ -1,0 +1,145 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book 
+Environmental Data 
+Unit 
+Amount 
+Ozone layer 
+protection 
+Removal of air-conditioning system units using chlorofluorocarbons (CFCs) during the period 
+ 
+Removal of air-conditioning system units using specified CFCs 
+Units 
+
+Removal of air-conditioning system units using alternative hydrochlorofluorocarbons (HCFCs) 
+Units 
+
+Removal of air-conditioning system units using alternative hydrofluorocarbons (HFCs) 
+Units 
+
+Recovery and destruction of specified CFCs used for air-conditioning systems 
+kg 
+
+Recovery and destruction of alternative HCFCs used for air-conditioning systems 
+kg 
+
+Recovery and destruction of alternative HFCs used for air-conditioning systems 
+kg 
+
+Use of air-conditioning system units using CFCs 
+ 
+Air-conditioning system units using specified CFCs 
+Units 
+
+Air-conditioning system units using alternative HCFCs 
+Units 
+
+Air-conditioning system units using alternative HFCs 
+Units 
+2,161
+Specified CFCs used for air-conditioning systems 
+kg 
+3,168
+Alternative HCFCs used for air-conditioning systems 
+kg 
+6,615
+Alternative HFCs used for air-conditioning systems 
+kg 
+62,150
+Storage of air-conditioning system units using CFCs 
+ 
+Storage of air-conditioning system units using specified CFCs 
+Units 
+
+Storage of air-conditioning system units using alternative HCFCs 
+Units 
+
+Storage of air-conditioning system units using alternative HFCs 
+Units 
+
+Stored amount of specified CFCs used for air-conditioning systems 
+kg 
+
+Stored amount of alternative HCFCs used for air-conditioning systems 
+kg 
+
+Stored amount of alternative HFCs used for air-conditioning systems 
+kg 
+
+Use of vehicles using CFCs 
+ 
+Number of Company vehicles that employ CFCs in air-conditioner refrigerants 
+Vehicles 
+
+Number of Company vehicles that employ HCFCs in air-conditioner refrigerants 
+Vehicles 
+
+Number of Company vehicles that employ HFCs in air-conditioner refrigerants 
+Vehicles 
+
+Use of CFCs in vehicle air conditioners 
+kg 
+
+Use of HCFCs in vehicle air conditioners 
+kg 
+
+Use of HFCs in vehicle air conditioners 
+kg 
+1,852
+Elimination of specified CFC fire prevention equipment 
+ 
+Buildings from which specified CFC fire prevention equipment was removed during the period 
+Buildings 
+
+Amount of specified CFCs removed from fire prevention equipment during the period 
+kg 
+
+Amount of specified CFC gas emitted by fire prevention equipment during the period 
+kg 
+
+Remaining number of buildings employing specified CFC fire prevention equipment 
+Buildings 
+
+Remaining specified CFC gas emissions from fire prevention equipment 
+kg 
+31,680
+Resource usage 
+Consumption of water resources 
+ 
+Clean water consumption 
+ｍ3 
+401,343
+Sewerage water consumption 
+ｍ3 
+253,506
+Gray water consumption 
+ｍ3 
+33,289
+Rainwater consumption 
+ｍ3 
+
+Consumption of clean, sewerage, and other water (total water consumption) 
+ｍ3 
+23,640
+(Scope of data aggregation: 75 domestic Group companies, including NTT DATA) 
+1. The CO2 conversion factor uses the CO2 emission factor of electric power companies. 
+2. Units and emissions from fiscal 2013 include individual freestanding air-conditioning units as well as central air-conditioning units. 
+ 
+ Fiscal 2021 Recycling Amounts 
+ 
+Primary Category 
+Subcategory 
+Recycled Amount 
+Company computers 
+Recycled amount (number of units) 
+9,117
+Reused amount (number of units) 
+25,409
+Thermal recycling 
+Recycled non-industrial waste (kg) 
+360,842
+Recycled industrial waste (kg) 
+550,834
+Recycling of industrial waste requiring special treatment (kg) 
+
+(Scope of data aggregation: 75 domestic Group companies, including NTT DATA)

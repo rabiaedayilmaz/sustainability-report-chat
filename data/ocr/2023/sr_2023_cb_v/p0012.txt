@@ -1,0 +1,91 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Italia (Italy)
+One
+method
+of
+carbon
+pricing,
+emissions
+trading,
+involves
+the
+buying
+and
+selling
+of
+CO2
+emission
+allowances in the market. The demand for carbon
+credits*
+utilized
+in
+emissions
+trading
+is
+steadily
+increasing. Given that forests absorb roughly 30% of
+Earth’s
+total
+CO2,
+they
+are
+poised
+to
+experience
+heightened demand as sources of carbon credits.
+NTT DATA Italia has developed a new method called
+CO2Sink to measure and monitor forest carbon based
+on AI technology and scientific standards, aiming to
+enhance trust in forest-derived carbon credits in the
+market. Using Light Detection and Ranging (LiDAR),
+laser light is emitted to measure forest characteristics
+such as shape based on reflected light information,
+enabling the classification of vegetation and trees.
+Furthermore, it gathers information on the temporal
+changes in vegetation characteristics, allowing for the
+estimation of resource quantities through AI modeling.
+Efforts are under way to obtain certification from
+Verra, a leader in voluntary carbon credit certification,
+while also enhancing accuracy and transparency. This
+involves
+utilizing
+ISO
+14060
+for
+the
+quantification,
+monitoring, reporting, and verification of CO2 emissions
+and removals. These endeavors contribute not only to
+the management of forests and land use but also to the
+activation of the CO2 emission trading market.
+Forest area in Calabria, Italy, where realtime CO2 absorption can be measured
+Enhancing Carbon Credit Quality Through AI-based 
+Forest Management and Monitoring
+Click here for 
+reference article
+· Measures to encourage companies to reduce carbon emissions are needed to achieve greenhouse gas emission 
+reduction targets.
+· Carbon pricing involves assigning a price to emitted carbon and imposing economic burdens on companies and is 
+being widely adopted worldwide to promote emission reduction efforts and transition to renewable energy sources. 
+5,600 hectares
+Carbon
+Neutrality
+CO2Sink
+*Carbon Credit:
+Carbon credits are a mechanism for quantifying 
+the reduction or absorption of greenhouse gas 
+emissions, such as CO2, into credits, which can 
+be traded primarily among companies.
+LiDAR acquisition
+3D modeling
+Time series from
+satellite images
+Forestal data
+AI solution
+Above ground live
+forest biomass
+Conceptual diagram of CO2Sink

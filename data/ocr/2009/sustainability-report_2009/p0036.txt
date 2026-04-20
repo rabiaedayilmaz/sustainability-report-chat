@@ -1,0 +1,184 @@
+Fiscal 2009 Results and 
+Medium-Term Targets
+Managing target achievement by 
+establishing three-year mediumterm targets
+The NTT DATA Group establishes three-year 
+medium-term targets as part of ongoing ISO 
+14001 improvement activities and reviews 
+those targets each year against results.
+As in the previous year, in fiscal 2009 we 
+set new reduction targets for electricity use, 
+as converted to greenhouse gas emissions 
+(CO2 conversion), waste for final disposal and 
+copy paper purchased.
+•Reducing Greenhouse Gas Emissions
+We strive to conserve energy through efforts 
+that include increasing business efficiency 
+and switching off unnecessary lighting, and 
+replacing air conditioners and lighting in 
+our data centers and buildings with higherefficiency equipment.
+As part of our Green NTT*1 initiative that 
+began in fiscal 2009, a solar power system 
+was installed in the Green Data Center. We 
+also continued to concentrate servers at data 
+centers interspersed among various offices.
+Higher electricity usage at data centers 
+from an increase in equipment resulted in 
+fiscal 2009 greenhouse gas emissions of 
+306,562 tons of CO2*2. In basic units of sales, 
+reduction rates surpassed those of fiscal 2008, 
+representing an 8.3% decrease compared 
+to the base year (fiscal 2006), falling just 
+short of the target of lowering emissions 9% 
+compared to fiscal 2006 levels.
+The target for fiscal 2010 is a 9.5% 
+reduction compared to fiscal 2006 levels. We 
+aim for decreased electricity usage through 
+more efficient data center operation and the 
+visualization of energy-saving efforts at offices.
+•Reducing Waste for Final Disposal
+By increasing the amount of waste consigned 
+to industrial waste disposal companies that 
+have high recycling ratios, and by working to 
+separate garbage thoroughly, waste for final 
+disposal was 402 tons, achieving the target of 
+reducing the amount per basic unit of sales 
+43% compared to fiscal 2006 levels.
+In the future, through activities such as 
+reusing personal computers, we aim to lower 
+this amount further.
+Fiscal 2009 Results and Targets for Fiscal 2010 and Beyond
+Activities
+Fiscal 2009 Results
+Targets for Fiscal 2010 and Beyond
+Target Value Definitions
+Target 
+Values
+Achieved Achievement 
+Status
+
+Reducing 
+environmental 
+impact within 
+the NTT DATA 
+Group
+Reduce greenhouse gas 
+emissions
+Greenhouse gas emissions 
+(CO2 conversion) per 
+unit net sales (fiscal 2006 
+comparison)
+9% 
+reduction
+No
+8.3% 
+reduction
+9.5% 
+reduction
+10% 
+reduction
+12% 
+reduction
+Reduce waste for final 
+disposal
+Waste for final disposal 
+per unit net sales (fiscal 
+2006 comparison)
+40% 
+reduction
+Yes
+43% 
+reduction
+45% 
+reduction
+50% 
+reduction
+New target
+Reduce copy paper 
+purchased
+Copy paper purchased 
+(fiscal 2006 comparison)
+6% 
+reduction
+No
+4.6% 
+reduction
+7% 
+reduction
+8% 
+reduction
+9% 
+reduction
+Reducing 
+environmental 
+impact outside 
+the NTT DATA 
+Group
+Reduce customers’ 
+environmental impacts
+Fiscal 2010 Targets
+(1) Expand environmental 
+solutions business
+Achievement rate
+80%
+No
+8 of 11 items 
+achieved
+Reduce the environmental impact of 
+society through the promotion of Green IT
+Clarify quantitative assessment criteria, 
+create assessment promotion mechanism 
+and raise employee awareness of Green IT
+(2) Conduct quantitative 
+environmental impact 
+assessments
+Number of assessments 
+that can be used for 
+sales and other activities
+5 items
+Yes
+5 items 
+assessed
+(3) Engage in regional 
+community environmental 
+contribution activities
+Implementation rate
+85%
+Yes
+5 of 6 items 
+achieved
+90%
+The Group formulates medium-term targets for reducing environmental impacts for a three-year period. Targets are 
+reviewed each year to achieve ongoing improvement of environmental protection activities.
+Numerical Data on 
+Targets and Results
+Fiscal 2009 results and 
+targets for fiscal 2010 and 
+beyond for the Group 
+are calculated within 
+the applicable scope of 
+groupwide integrated ISO 
+14001 certification (see 
+page 33).
+*1 Green NTT
+An initiative to promote 
+renewable energy sources 
+focusing on solar power 
+systems. To this end, NTT 
+Green LLP was established to 
+install solar power systems. 
+By 2012, the NTT Group 
+plans to have an installed 
+base totaling 5 megawatts.
+*2 Greenhouse gas 
+emissions: 306,562 tons 
+of CO2
+Converted value expressing 
+the volume of electricity 
+used. Conversion factor 
+based on fiscal 2006 
+emissions factor (0.555 kg 
+CO2/kWh).
+NTT DATA and the Environment
+Targets and Results
+NTT DATA CSR Report 2009

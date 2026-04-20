@@ -1,0 +1,97 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+Prosperity positive
+Social Issues
+Material Issues
+Countries
+Advancing sustainability and efficiency through intelligent lifecycle management
+Insights and Resources:
+Reboot Your Device Strategy and Reduce 
+Ewaste with Sustainable Device as a Service
+Automated 
+provisioning
+Ordering & 
+procurement
+Asset 
+management
+Support & 
+maintenance
+Lifecycle
+management
+Smart
+refresh
+Readiness & 
+design
+Retirement/
+Extended Use
+Impact
+Business need
+Solution
+•
+Digital technologies are crucial to modern business but are also significant sources of greenhouse gas emissions. Among these, endpoint devices account for 50-75% of overall IT-related CO₂ emissions.
+•
+Device manufacturing has a particularly significant environmental impact, both consuming valuable natural resources and generating emissions. For example, about 80% of a laptop’s CO₂ footprint occurs in the
+manufacturing phase. Extending device lifecycles is therefore an important avenue towards more sustainable device ecosystems.
+Enterprises are rapidly adapting to changes such as hybrid
+working while also transforming their IT approaches to reduce
+costs and boost efficiency. This means larger, more diverse
+device ecosystems. Legacy management methods ill-equipped
+for this scale and complexity lead to poor standardization, timeconsuming onboarding with extensive manual configuration and
+inadequate e-waste practices. Conventional age-based refresh
+schedules also cause inefficiencies, with some employees
+using
+machines
+with
+degraded
+performance,
+hindering
+productivity, while other fully-functional devices are replaced to
+fulfil age requirements.
+A holistic, systematic solution is required to give employees
+seamless
+onboarding,
+minimize
+downtime,
+and
+generate
+resource efficiencies aligning business objectives with circular
+economy practices.
+NTT DATA Digital Workplace Services (DWS) are designed to
+provide clients with a strategy for the future of work, significantly
+enhance productivity, foster seamless collaboration, strengthen security
+measures, and improve overall user experiences. These offerings
+include our Smart, Sustainable and Social Device-as-a-Service (SDaaS),
+which delivers comprehensive end-to-end device lifecycle management
+with a strong focus on sustainability.
+Instead of refresh scheduling based on device age, SDaaS involves
+proactively monitoring devices based on performance and supporting
+longer lifespans through regular maintenance and updates. This means
+devices are only replaced once their performance degrades. Efficiencies
+are also generated through hardware catalogs tailored to specific
+personas in each organization, optimizing configurations and limiting
+bespoke provisioning. High-specification devices still working well at
+reduced capacity can also be refurbished and reassigned to employees
+with less intensive computing needs. In addition, digital twins generate
+further efficiencies by simulating entire IT processes to provide a
+comprehensive view of end-user device health and emissions, driving
+smart, sustainable decision-making. For devices that remain functional
+at end-of-term or end-of-life, NTT DATA enables their donation to
+schools or underprivileged communities, helping to advance digital
+access and empowerment.
+Clients are also provided with a dashboard that provides real-time
+views into the impact their devices have on carbon footprint and offers
+insights for cost optimization and refresh management. SDaaS can
+transform organizations’ approach to their digital needs, embracing the
+circular economy in manner that also brings business benefits in terms
+of cost and productivity.
+Reduction in carbon 
+footprint
+20- 40%
+Reduction in the total cost of 
+ownership of devices
+over 15%
+SDaaS lifecycle overview
+Digital Workplace Services Global Offering
+NTT DATA Group
+Centralized IT Device Lifecycle Management
+Europe, America

@@ -1,0 +1,71 @@
+Strategy
+Describe management’s 
+role in assessing and 
+managing nature-related 
+dependencies, impacts, 
+risks, and opportunities.
+A. Describe the nature-related dependencies, impacts, risks, and 
+opportunities the organisation has identified over the short, 
+medium, and long term.
+Regarding nature-related dependencies, NTT DATA uses water for cooling equipment and sanitation services in data centers. In regions facing 
+water stress, there is a risk of being unable to use water for these purposes during periods of severe drought or other abnormal weather 
+events associated with climate change.
+ 
+In terms of nature-related impacts, NTT DATA generates domestic wastewater at its data centers, but we do not discharge industrial effluent. We do, however, own fuel storage facilities for the backup generators in our data centers. In the event of a fuel spillage incident, there is a 
+risk of water and soil pollution.
+ 
+Regarding nature-related opportunities, in addition to contributing to nature and biodiversity by appropriately addressing anticipated risks, 
+the acceleration of conservation efforts might increase the demand for offerings. This could lead to more opportunities to provide solutions 
+that support efficient water delivery for water service providers and consulting services that assist with nature-related disclosures. Several 
+examples of these opportunities will be detailed in the disclosure recommendations section.
+ 
+Among the above, regarding nature-related dependencies, we have confirmed that one data center operating in Southeast Asia is located 
+in a region with very high water stress.
+B. Describe the effect nature-related dependencies, impacts, risks, 
+and opportunities on the organisation’s business model, value 
+chain, strategy, and financial planning, as well as any transition 
+plans or analysis in place.
+As a potential risk with significant impact, data centers located in water-stressed areas could face severe drought, resulting in the shutdown of 
+water-cooled cooling systems due to water shortages and other potential impacts. Furthermore, if a fuel spill occurs from the fuel stored for 
+generators, recovery costs will arise. There are also concerns about reputational damage in both scenarios.
+C. Describe the resilience of the organisation’s strategy to nature- 
+related risks and opportunities, taking into consideration different 
+scenarios.
+Data centers in Southeast Asia, located in water-stressed areas, have implemented water-consuming cooling systems. We will establish a BCP 
+that accounts for the potential severe drought arising from climate change scenarios and encourage water-saving actions. Moreover, we will 
+manage oil storage facilities in accordance with legal regulations.
+D. Disclose the locations of assets and/or activities in the organisation’s direct operations, and, where possible, upstream and downstream value chain(s) that meet the criteria for priority locations.
+One data center operating in Southeast Asia is located in a region assessed to have very high water stress.
+Nature-related dependencies, impacts, potential risks, and opportunities
+Risks
+Opportunities
+Dependencies
+Utilization of water for data center cooling management
+Shutdown of water-cooled cooling systems due to water scarcity
+Implementation of water-saving cooling systems
+Utilization of water for hygiene services in data centers
+Challenges in providing hygiene services to employees
+Encouraging water-saving behaviors and establishing Business 
+Continuity Plans (BCPs) for drought conditions
+Impacts
+Fuel storage facilities for operating backup generators in data centers
+Water and soil contamination due to oil spills
+Proper management of oil storage facilities
+Other
+ー
+ー
+Increased opportunities to offer services and consulting due to 
+the acceleration of efforts in nature and biodiversity conservation
+Strategy and Risks/Opportunities [Details]
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

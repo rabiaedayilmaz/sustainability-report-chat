@@ -1,0 +1,59 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Smart X Co-Innovation 
+Creating new value through co-creation with various companies to realize a smart and innovative society 
+ 
+Basic Policy 
+ 
+NTT DATA will promote the creation of new value through co-creation with various customer companies to realize a smart and 
+innovative society through IT technology. IT solutions play a wide range of roles in solving social issues. We need to develop 
+and provide innovative solutions by appropriately connecting people, companies, technologies, systems, data, services, and 
+industries. To create cross-cutting solutions and services that are not limited to specific industries or the customers in front of us, 
+we will set up a cross-organizational working team within the Group to accelerate the creation and implementation of business 
+ideas. 
+Recognizing the critical importance of providing clients with safe and secure services, we have established an organized 
+and systematic quality management system and adopted advanced development methods to provide highly reliable solutions. 
+We also conduct customer satisfaction surveys. Based on the opinions and requests that we receive, we carry out improvement 
+activities to provide better services from the customers’ perspective. 
+ 
+Innovation Management 
+ 
+ “Innovation Center” Activities at Six Sites Around the World 
+In August 2022, Innovation Centers were established in six locations worldwide, namely Japan, North America, Italy, Germany, 
+China, and India. These Centers are dedicated to activities in emerging fields, focusing on identifying advanced technologies 
+that are expected to become mainstream in the next 5–10 years, such as quantum computing and metaverse. Through shared 
+R&D with customers, they aim to drive new business innovations. 
+A strategy group, which formulates technology strategies, and the six local centers have assembled approximately 180 
+experts, including researchers, consultants, and engineers, who advance activities in line with the technology themes set based 
+on each Center’s strategy. The Centers engage in collaborative R&D with innovative clients and collaborate with universities and 
+start-ups to quickly gather leading local technology information and apply it to the next technology strategy. By the end of fiscal 
+2025, we aim to increase the number of staff to 300 and drive innovation in our clients’ businesses. 
+ 
+Establishment of the Global Generative AI Laboratory 
+The Innovation Center spearheaded the establishment of the Global Generative AI Laboratory in June 2023, aimed at promoting 
+the use of generative AI on a global scale. We are actively working on applying generative AI in the field of software development 
+with the aim of generating business opportunities through advanced technology. This includes deploying related solutions at 
+various international locations, engaging in lab activities, and developing guidelines for the utilization of generative AI. We are 
+expanding the deployment of generative AI-related solutions globally, including source code auto-generation, chatbots, and text 
+search solutions. We are also offering new services that integrate document comprehension AI and generative AI. Through cocreation with our clients, we will facilitate knowledge sharing among our various locations, conduct research and validation on 
+emerging AI technologies, and leverage generative AI models developed by NTT Laboratories. Furthermore, we are developing 
+guidelines from ethical and security perspectives to ensure that our clients can confidently, safely, and swiftly harness the latest 
+AI technologies for their businesses. These guidelines are being established with the guidance and input from the AI Advisory 
+Board, led by the AI Governance Office. 
+[Reference page] AI Governance 
+ 
+https://www.nttdata.com/global/ja/news/release/2023/062901/ (Japanese only) 
+ 
+Demonstration Experiment for the Vatican Library Web3 Support Project 
+Leveraging the technology from our Innovation Center in Italy, we conducted a demonstration experiment for the Vatican Library 
+Web3 Support Project from February 20 to March 31, 2023, in collaboration with the Vatican Apostolic Library (“Vatican Library”). 
+The project combined digital content with NFTs (Non-Fungible Tokens) to support cultural activities. Supporters applied for 
+assistance through a website and, by sharing project information on social media, obtained NFTs that served as proof of their 
+support for the Vatican Library. With these NFTs, they can gain access to the Vatican Library’s special content, which includes 
+high-resolution images and explanatory texts for 15 cultural heritage items, on the website. NTT DATA explored the potential of 
+extending the community of cultural institutions and their supporters online through Web3, which is the next-generation 
+decentralized Internet powered by blockchain technology. This verification process is a step toward leveraging Web3 for future 
+business initiatives. 
+ 
+https://www.nttdata.com/global/ja/news/services_info/2023/022001/ (Japanese only)

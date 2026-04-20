@@ -1,0 +1,151 @@
+NTT DATA Sustainability Report 2018
+ The Use of a Simulator for Deep Reinforcement 
+Learning
+The rapid progress of AI in recent years has increased the practical applications for machine 
+learning and driven the emergence of deep learning. Consequently, advanced AI is playing ever 
+more important roles in a broad range of fields. For example, Japan hopes to use advanced AI to 
+address such societal issues as the risk of earthquakes and other natural disasters.
+ Our annual NTT DATA Technology Foresight report (see page 33) identified as one of 2017’s 
+technological trends the ubiquity of artificial neural networks—which are capable of deep learning. 
+In August 2017, NTT DATA and NTT FACILITIES, INC., developed the world’s first active vibration 
+control technology to use advanced AI to mitigate the vibration of skyscrapers that is caused by 
+seismic motion.
+Reducing Shaking Significantly Compared with Conventional Technology
+Active vibration control technology is a 
+vibration control method that mitigates the 
+shaking of a building by using external 
+energy to apply the required controlling 
+force. In accordance with the seismic 
+motion, advanced AI that has learned 
+optimal vibration control based on 
+measurement data from a sensor controls 
+dampers, which mitigate the shaking of 
+buildings by absorbing seismic energy. 
+Vibration tests on large-scale models have 
+confirmed that, in comparison with 
+conventional 
+technology, 
+our 
+new 
+technology more than halves the shaking 
+of skyscrapers caused by long-period 
+seismic motion. Therefore, we believe that 
+this technology will reduce damage to 
+skyscrapers resulting from long-period seismic motion and give residents greater peace of mind.
+Looking Ahead
+We are developing active vibration control technology with a view to using it for real buildings. 
+As well as contributing to long-period seismic motion countermeasures for skyscrapers, we will 
+continue developing AI-enabled services that help address a variety of other societal issues.
+By providing AI-enabled solutions, the NTT DATA Group helps address an array of societal issues 
+worldwide. One such solution is a cognitive automation engine that subsidiary NTT DATA Services, 
+LLC, has developed. The engine—NTT DATA Robotic Context Processor—contributes to the 
+efficient management of contracts between hospitals and insurers and other complex legal documentation, which is a major task in the healthcare industry.
+Receiving Recognition for Bringing Business Innovation to Customers
+NTT DATA Robotic Context Processor uses 
+built-in optical character recognition (OCR), 
+natural language processing, and self-learning 
+capabilities to comprehend complex legal 
+documentation and execute appropriate 
+actions based on directives. In this way, our 
+processor significantly reduces the time 
+personnel spend managing various types of 
+documents. In recognition of its contribution 
+to innovation in customers’ businesses, this 
+solution received the Best Achievement in 
+Operational Excellence to Deliver Business 
+Transformation 
+at 
+The 
+Business 
+Transformation & Operational Excellence World Summit, an annual event held in the United States 
+to promote operational excellence initiatives. Also, we can increase the speed, accuracy, and 
+cost-effectiveness of document creation even further by using Lean Bot & Security Bot in combination and NTT DATA Code Finder. Lean Bot & Security Bot is an automated workflow monitoring 
+service that helps to automate and increase the efficiency of work, while NTT DATA Code Finder 
+is a medical coding support service based on natural language processing.
+Looking Ahead
+NTT DATA will increase the use of NTT DATA Robotic Context Processor, Lean Bot & Security Bot, 
+and NTT DATA Code Finder. At the same time, we will continue advancing innovations with a view 
+to developing services and solutions that address a range of societal issues and help customers 
+digitize their operations.
+Contribution to the Healthcare Industry through 
+a Cognitive Automation Engine
+AI-Enabled Active Vibration Control 
+Technology for Skyscrapers
+ The NTT DATA Group’s Solutions
+CASE 4
+In reinforcement learning, minimizing shaking of the building is 
+set as a target. Using an algorithm that gives high scores to 
+control (compensation) that is more effective, the artificial neural 
+network automatically acquires optimal active control rules 
+through trial-and-error learning.
+Improve
+accuracy by auto-feeding data 
+into a self-learning AI dictionary.
+Read and locate
+content, and convert 
+non-standard information into 
+a standard format, using a 
+grammatical approach.
+Read and identify
+excerpts with the right content 
+for further processing using 
+heuristic analysis.
+(4) Compensation
+Degree of vibration 
+control
+(1) Target
+Setting of target
+(3) Action
+Actuator control
+(2) Status
+Physical quantity
+Identify
+the right document from 
+hundreds of heterogeneous 
+documents / flat files.
+Classify
+content based on 
+definitions using a 
+rules-based engine.
+Segment
+chunks of continuous 
+text into separate 
+words with predefined 
+dictionary keywords 
+and symbols.
+Extract
+content from image-based 
+documents using OCR.
+ Benefits of Introducing NTT DATA Robotic 
+Context Processor
+Calculation of controlling 
+value
+Response simulation
+Building seismic response 
+simulator
+Deep neural network
+Output
+Input
+Robotic Context 
+Processor can
+
+経営者からの
+メッセージ
+CONTENTS
+Company 
+Data
+Sustainability in the 
+NTT DATA Group
+Helping Address 
+Societal Issues through 
+Our Business
+Social
+GRI 
+Standards
+Governance
+Environment
+Message from the 
+President
+Awareness and 
+Permeation of CSR 
+at NTT DATA Group

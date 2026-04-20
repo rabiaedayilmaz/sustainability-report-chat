@@ -1,0 +1,54 @@
+Environment | Regenerating Ecosystems
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+NTT DATA Business Solutions (Denmark)
+The Wadden Sea, spanning the Netherlands, Germany,
+and Denmark, is the world’s largest tidal flat and a
+UNESCO
+World
+Heritage
+site.
+Its
+environment,
+characterized by the daily cycle of tides flooding and
+ebbing, fosters diverse ecosystems, attracting numerous
+migratory birds and supporting a wealth of flora and
+fauna. However, in recent years, environmental pollution
+and overexploitation have led to the degradation of its
+ecosystems. 
+NTT Data Business Solutions is collaborating with
+conservation groups focused on the Wadden Sea and
+Microsoft, which provides generative AI, on a project
+aimed at guiding visitors to the Wadden Sea to engage
+in ecologically responsible tourism activities.
+Through AI chat, visitors are provided with valuable
+information and guidelines for ecological conservation,
+promoting voluntary actions (green nudging). In addition,
+efforts are under way to analyze the information stored
+in the data platform, consider IoT sensors to measure
+visitor behavior, and enhance the quality of
+Q&A
+interactions through AI learning.
+Plans are in place to continue the project, promoting
+the conservation of the Wadden Sea ecosystem and
+exploring expansion into other industries such as smart
+buildings.
+Number of wild animal species listed in 
+the International Union for Conservation 
+of Nature (IUCN) Red List
+Using AI Chat to Propose Eco-Friendly Tourism,
+Preserving World Natural Heritage Ecosystems
+Click here for 
+reference video
+· The International Union for Conservation of Nature (IUCN)’s “Red List” (a list of endangered wildlife 
+species worldwide) indicates 44,000 species are at high risk of extinction. 
+44,000
+Green Nudging
+The Wadden Sea Project
+Smart X
+Co-Innovation
+Nature
+Conservation
+Photo: Rudmer Zwerver via Shutterstock

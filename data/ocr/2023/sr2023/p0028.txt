@@ -1,0 +1,37 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+Green Software 
+NTT DATA takes the lead in promoting the green transformation of IT for our clients and society, working toward a sustainable 
+society while reducing environmental impact. 
+Leading the Creation of Development Standards for Software with Reduced Environmental Impact 
+In the software domain, which significantly influences GHG emissions in facilities such as IT equipment and data centers, we 
+are actively involved as operational members of the Green Software Foundation (GSF), a global nonprofit organization 
+established in May 2021 with the aim of promoting environmentally friendly “green software.” 
+ 
+GSF is actively engaged in establishing standards and developing tools for the creation of green 
+software that broadly reduces GHG emissions. Through our participation in GSF’s initiatives, we aim 
+to promote the widespread adoption of software development practices with lower environmental 
+impact. 
+Note: The logo of the Green Software Foundation is a trademark of the Linux Foundation in the United States and other 
+countries. 
+ 
+In December 2022, GSF released version 1.0 of Software Carbon Intensity (SCI), a methodology for evaluating GHG emissions 
+when software is used. This involves assessing carbon emissions as a score based on factors such as power consumption 
+during software use, hardware utilization, and the carbon intensity* of power consumption. By leveraging SCI, it becomes 
+possible to compare the environmental impact of multiple software to similar functions and allows for the comparison of the 
+carbon emissions’ impact resulting from modifications made to the software. As an operational member, we collaborated with 
+other member companies to develop SCI 1.0. 
+*Carbon intensity indicates how many grams of carbon dioxide emissions are measured when 1 kWh of electricity is consumed (unit: gCO2eq/kWh). 
+ 
+Case Study with ClientIntesa Sanpaolo Bank (Italy) 
+NTT DATA Italy is utilizing SCI 1.0 to measure the energy consumption and GHG emissions of its IT systems and designing a 
+framework to reduce emissions. An example of its application is Intesa Sanpaolo Bank, one of Italy’s leading banks. The bank 
+required accurate measurement and monitoring of its IT system’s GHG emissions to reduce the environmental impact of the 
+systems and enhance operational efficiency. With the solution provided by NTT DATA Italy, Intesa Sanpaolo Bank achieved a 
+reduction in GHG emissions from its IT systems and realized cost savings through the reduction of system energy consumption. 
+It also gained clarity on which parts of the system had room for improvement. These initiatives have earned Intesa Sanpaolo 
+Bank recognition as a financial institution that achieves sustainability through its IT systems and services. 
+ 
+ Dashboard Visualizing GHG Emissions

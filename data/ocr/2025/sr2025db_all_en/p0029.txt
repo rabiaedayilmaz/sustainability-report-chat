@@ -1,0 +1,161 @@
+Proposal
+Delivering forward-looking proposals to clients by leveraging 
+our involvement in developing emission calculation rules, 
+establishing common standards, and building ecosystems
+Implementation
+Promoting cross-company and cross-industry initiatives by 
+implementing solutions and IT systems that reduce 
+environmental impact
+Outcomes
+Creating new systems and value through digital technology to 
+drive solutions to social issues and sustainable development
+Visualizing environmental data 
+and demonstrating its value
+Quantify GHG emissions and 
+environmental impacts to support 
+corporate decision-making and 
+transformation, accelerating the 
+realization of a better global society
+Platform for connecting data
+Safely share environmental data to 
+promote a circular economy and 
+create a future-oriented society
+Build an ecosystem for a circular economy
+Creating a society where resources circulate requires a system for 
+securely sharing data between companies. Leveraging accumulated 
+know-how, we provide end-to-end support for intercompany data 
+integration, from consulting to solution implementation. We also 
+engage in providing common technologies and participating in 
+global advocacy activities.
+Cross-industry ecosystem for electric vehicle batteries
+As the first initiative of the Ouranos Ecosystem, we built a 
+data-sharing platform that enables related companies to exchange 
+carbon footprint information for electric vehicle batteries. In 
+collaboration with automotive industry associations and government bodies, we established a system that allows data to be 
+shared safely and securely. 
+Securely connect data to help achieve a circular economy
+Our EV battery data platform initiative was highly evaluated and 
+received the Prime Minister’s Award*1. We have also begun developing 
+a Chemical and Circular Management Platform (CMP)*2 for sharing 
+chemical substance information. Going forward, we will expand these 
+efforts to other fields and contribute to creating a society where 
+resources circulate across industries.
+Sustainable IT
+Minimize environmental and social 
+impact, and achieve a sustainable 
+digital society through IT energy 
+savings and optimization
+Sustainable IT aimed at reducing environmental impact during 
+software use
+NTT DATA promotes sustainable IT across all stages of system 
+development, from requirements definition to operation. Using SCI, 
+we provide solutions to analyze emissions. In addition, we identify 
+inefficiencies in IT systems and support optimization and improvement efforts.
+Green Data Center
+Realize environmentally friendly, 
+energy-efficient data centers 
+through renewable energy and 
+advanced technologies
+Environmental impact reduction achieved through advanced data 
+center operations
+By enhancing the operation of clients’ data centers, we have realized 
+reductions in environmental impact. In India, the adoption of liquid 
+cooling improved data center power usage effectiveness (PUE),*3 while 
+in Germany, waste heat from servers has been reused for nearby 
+heating and hot water supply, contributing to reductions in GHG 
+emissions.
+Syntphony Sustainability
+Support the measuring 
+environmental impact and achieving 
+Net-Zero Goals through an assetbased platform
+“Beyond Net Zero” and “Smart Solutions”
+NTT DATA Inc. offers clients the Syntphony Sustainability platform, 
+which consists of two assets: Beyond Net Zero and Smart Solutions. 
+The platform measures corporate emissions, impacts on natural 
+capital, and carbon footprints, while supporting the development and 
+implementation of measures to achieve Net-Zero targets.
+Advance decarbonization through AI and digitalization to enable 
+smarter decision-making
+“Syntphony Beyond Net Zero” calculates carbon footprints in real time 
+using AI and digitizes decarbonization, environmental credit management, and natural capital management. “Syntphony Smart Sustainability” uses AI to efficiently manage water, energy, mobility, and value 
+chains, supporting decision-making through real-time automation.
+Reduce environmental impact and create social value
+By leveraging Syntphony Sustainability, ESG data accuracy has 
+improved by more than 50%, and GHG emissions have been reduced 
+by more than 30%. It also contributes to enhancing citizen satisfaction, EV charging management, water resource efficiency, and value 
+chain traceability.
+*1 Received the Prime Minister’s Award at the 54th Japan Industrial Technology Awards, hosted by Nikkan Kogyo Shimbun.
+*2 NEDO “Project for the Development and Pilot of a Data Sharing System to Realize the Ouranos Ecosystem,” a chemical substance information traceability management system.
+*3 An indicator that measures the power usage efficiency of data centers.
+Visualize GHG emissions
+Achieving a decarbonized society requires making GHG emissions 
+visible. C-Turtle® enables companies to easily check not only their 
+own GHG emissions but also those of suppliers and investees. In 
+addition, expert green consulting supports companies in developing 
+medium- to long-term decarbonization 
+plans.
+Establish rules and common standards for Sustainable IT
+The use of IT and software has a significant environmental impact due 
+to GHG emissions associated with electricity consumption. NTT DATA 
+participates in the Green Software Foundation to promote the adoption 
+of sustainable IT. We are developing and standardizing methods to evaluate emissions from 
+software use (Software Carbon Intensity, SCI) with 
+the aim of enabling global application.
+Consulting services to support clients in creating green data centers
+With the rapid adoption of AI and cloud technologies, data center 
+electricity consumption is increasing, leading to higher GHG emissions 
+and other environmental impacts. Leveraging our operational expertise 
+and track record in energy efficiency and renewable energy adoption 
+for decarbonization, we provide consulting 
+services to support clients in implementing 
+green data centers.
+Realize green data centers by integrating technology and operations
+At both our own and our clients’ data centers, we implement various 
+measures to reduce environmental impact. By 
+combining electricity and heat usage visualization, 
+AI-based automatic air-conditioning control, server 
+cooling technologies, energy-saving measures, 
+and renewable energy, we achieve comprehensive 
+data center greening.
+Contribute to a decarbonized society by promoting Sustainable IT
+As part of its sustainable IT initiatives, NTT DATA implemented GHG 
+emissions visualization and analysis solutions for Intesa Sanpaolo, Italy’s 
+largest bank. Emissions were reduced in 
+approximately 70% of applications, contributing to the realization of a decarbonized 
+society through sustainable IT.
+Reduce GHG emissions
+By leveraging digital technologies and integrating renewable energy and 
+energy-saving measures into systems, GHG emissions are reduced. The 
+AI-powered air-conditioning optimization service, HUCAST, predicts 
+weather, indoor temperature and humidity, and human traffic 
+to automatically adjust air conditioning. This reduces energy 
+used for air conditioning by up to 50%, contributing to 
+decarbonization while also generating cost savings.
+Communicate the value of corporate efforts
+The general-purpose C-Turtle® has already been implemented by more 
+than 3,000 companies, and C-Turtle® FE for financial institutions has 
+been adopted by more than 20 financial institutions. By making GHG 
+emissions and reduction initiatives visible—including those of business 
+partners and investees—these tools enable companies to showcase 
+their efforts as social value. 
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Initiatives to Achieve Net-Zero through “Proposal, Implementation, and Outcomes”
+NTT DATA supports our clients’ climate action efforts through the framework of “proposal, implementation, and outcomes.” By combining initiatives such as visualizing emissions, participating 
+in rule-making, promoting energy savings and the use of renewable energy through digital technologies, and advancing sustainable IT, we help ensure that clients’ efforts are effective and 
+translate into societal value and sustainable growth. Through this framework, we support our clients’ challenges and contribute to achieving Net-Zero across society.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

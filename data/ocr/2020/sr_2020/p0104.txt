@@ -1,0 +1,168 @@
+Comparative Table with GRI Standards 
+
+NTT Data Sustainability Report 2020 Data Book 
+301-3 
+Reclaimed products and their packaging 
+materials 
+― 
+― 
+Energy 
+302-1 
+Energy consumption within the organization 
+P064-066 
+― 
+302-2 
+Energy consumption outside of the organization 
+― 
+― 
+302-3 
+Energy intensity 
+― 
+― 
+302-4 
+Reduction of energy consumption 
+P056 
+P065-066 
+― 
+302-5 
+Reduction in energy requirements of products 
+and services 
+P056-057 
+― 
+Water and Effluents 2018 
+303-1 
+Interactions with water as a shared resource 
+P065-066 
+― 
+303-2 
+Management of water discharge-related impacts 
+― 
+― 
+303-3 
+Water withdrawal 
+― 
+― 
+303-4 
+Water discharge 
+― 
+― 
+303-5 
+Water consumption 
+P065-066 
+― 
+Biodiversity 
+304-1 
+Operational sites owned, leased, managed in, or 
+adjacent to, protected areas and areas of high 
+biodiversity value outside protected areas 
+― 
+― 
+304-2 
+Significant impacts of activities, products, and 
+services on biodiversity 
+― 
+― 
+304-3 
+Habitats protected or restored 
+― 
+― 
+304-4 
+IUCN Red List species and national conservation 
+list species with habitats in areas affected by 
+operations 
+― 
+― 
+Emissions 
+305-1 
+Direct (Scope 1) GHG emissions 
+P045-046 
+P065-066 
+― 
+305-2 
+Energy indirect (Scope 2) GHG emissions 
+P045-046 
+P065-066 
+― 
+305-3 
+Other indirect (Scope 3) GHG emissions 
+P061 
+P065-066 
+― 
+305-4 
+GHG emissions intensity 
+P061 
+P066 
+― 
+305-5 
+Reduction of GHG emissions 
+P045-046 
+― 
+305-6 
+Emissions of ozone-depleting substances (ODS) 
+― 
+― 
+305-7 
+Nitrogen oxides (NOx), sulfur oxides (SOx), and 
+other significant air emissions 
+― 
+― 
+Effluents and Waste 
+306-1 
+Water discharge by quality and destination 
+― 
+― 
+306-2 
+Waste by type and disposal method 
+P064-066 
+― 
+306-3 
+Significant spills 
+― 
+― 
+306-4 
+Transport of hazardous waste 
+― 
+― 
+306-5 
+Water bodies affected by water discharges 
+and/or runoff 
+― 
+― 
+Environmental Compliance 
+307-1 
+Non-compliance with environmental laws and 
+regulations 
+P049 
+― 
+Supplier Environmental Assessment 
+308-1 
+New suppliers that were screened using 
+P062-063 
+― 
+308-2 
+Negative environmental impacts in the supply 
+chain and actions taken 
+― 
+― 
+400: Social 
+Employment 
+401-1 
+New employee hires and employee turnover 
+P072-074 
+― 
+401-2 
+Benefits provided to full-time employees that are 
+not provided to temporary or part-time 
+employees 
+― 
+― 
+ 
+401-3 
+Parental leave 
+P078 
+― 
+Labor/Management Relations 
+402-1 
+Minimum notice periods regarding operational 
+― 
+―

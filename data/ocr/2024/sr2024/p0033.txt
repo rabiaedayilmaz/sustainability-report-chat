@@ -1,0 +1,52 @@
+Strategies and costs
+Utilization of renewable energy in cloud services
+To support the adoption of renewable energy in the cloud, we ensure that all power used in the operation of services such as OpenCanvas®, a highly reliable and secure cloud service, is sourced from 100% renewable energy. 
+We have declared our commitment to achieving net-zero GHG emissions from the use of our services in data centers by fiscal 2030. By transitioning our cloud services utilizing our data centers to renewable energy operations, 
+we aim to contribute to the reduction of GHG emissions throughout our clients’ supply chains.
+Costs
+We have allocated a total of ¥25 billion for cloud-related investments, including technology development and the 
+enhancement of global delivery centers, for the cumulative period from fiscal 2022 to fiscal 2025.
+Financial impact
+In addition to an increase in abnormal weather events, such as typhoons and localized heavy rains, we 
+expect the growing demand for decarbonization to lead to energy conservation through shared use and 
+consolidation of equipment and the introduction of renewable energy, as well as increasing demand for 
+migration to the cloud, which is resilient and contributes to decarbonization. We estimate that the cumulative increase in cloud-related sales across the entire Group will amount to ¥210 billion from fiscal 2022 to 
+fiscal 2025.
+Strategies and costs
+Development and acquisition of consulting talent
+We are enhancing our consulting capabilities as a key strategy in our current medium-term management plan by 
+promoting the development and acquisition of consultants who support strategic planning and execution. We are 
+implementing project placements in areas such as climate change and conducting off-the-job training for internal 
+talent development. At the same time, we are strengthening global recruitment efforts for individuals with consulting experience in climate change and related fields, as well as those with experience in government and corporate 
+sectors. Moreover, we are advancing knowledge sharing within the Group companies through our IT solutions, 
+including the information sharing platform, Digital Work Place; online seminars; and our website. 
+Costs
+We have allocated a total of ¥4 billion from fiscal 2022 to fiscal 2025 for investments related to strengthening our 
+consulting capabilities, including the development and acquisition of sustainability-related consulting talent and 
+the establishment of relevant environmental frameworks.
+Time horizon: Short term
+Opportunities Related to Products and Services (Opportunity 3)
+Opportunity
+
+  Increasing needs for resilient cloud services 
+Business and financial impacts
+We anticipate an increasing demand for resilient cloud solutions that contribute to decarbonization, driven 
+by the rise in extreme weather events and the growing need for decarbonization efforts to prevent data loss. 
+Shared cloud services, exemplified by community cloud services, not only rely on robust infrastructure but 
+also contribute to energy savings, thereby expanding business opportunities even further.
+ 
+In addition, we have declared our intention to achieve net-zero emissions for Scope 1 and 2 of our data 
+centers by 2030. All cloud services utilizing our assets through our data centers are planned to be operated 
+using renewable energy.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

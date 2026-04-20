@@ -1,0 +1,148 @@
+NTT DATA Sustainability Report 2025 Case Book
+SDGs
+People positive
+Social Issues
+Material Issues
+Countries
+High-precision, high-frequency satellite data delivering insights and supporting decisionmaking to address pressing social issues
+MARBLE VISIONS
+NTT Data Japan Corporation
+Social Infrastructure Solution Sector
+Social Innovation Division
+Impact
+Marble Visions Inc.
+Expanding to various public and industrial sectors to meet social needs
+Urban Planning
+Land Management
+Agriculture and Forestry
+Traffic
+Spatial information 
+management, environmental 
+assessment
+Planning drawings, urban 
+development simulation
+Understanding growth 
+conditions, resource amounts
+Road management,
+drone control
+Science
+and
+Research
+Disaster
+monitoring
+Sustainability
+Smart
+City
+Advanced
+Construction
+Infrastructure
+Management
+Facility management, 
+renewable energy 
+development
+Disaster Prevention/
+Environment
+Hazard maps, ecosystem 
+assessment
+©Maxar Technologies, NTT DATA Japan Corporation
+3D terrain data 
+(DSM, DTM), 
+building models
+Tree height and canopy
+Land use
+Damage situation
+Ground condition
+Digital twinning
+Global standardization
+Feedback
+Incremental development
+High-resolution, high-frequency 3D earth observation satellite system
+World’s most precise level 
+3D geospatial data
+Small optical satellite with 
+high resolution and high 
+pointing accuracy
+Stereoscopic and wide-area 
+observation through cooperative 
+operation of multiple satellites
+Business need
+Solution
+•
+As the world faces dramatic environmental changes and frequent natural disasters, understanding current conditions and generating accurate forecasts has become more complex, hindering the adoption of effective
+countermeasures.
+•
+Rapid urbanization and aging infrastructure are further complicating efforts to implement appropriate land-use planning and disaster risk assessments.
+•
+Wide-ranging, up-to-date awareness of the current state of agricultural products, forests, resources and infrastructure is needed to implement resource management and environmental conservation.
+The large number of satellites launched in recent years,
+boosted by lower-cost rockets and more compact designs, is
+expected to enable high-resolution, high-frequency satellite
+imaging. This data is being recreated in cyberspace for use in a
+growing range of areas, including infrastructure design and
+disaster prevention planning. This technology can also help to
+address social issues, from environmental changes to natural
+disasters
+and
+aging
+urban
+infrastructure.
+High-accuracy
+geospatial data and analysis are also needed to enhance
+productivity in agriculture, forestry and resource exploration. In
+addition to understanding the current situation and how it is
+evolving, addressing issues in these areas requires analysis,
+simulations, and forecasting to support rapid, precise action.
+One-stop services spanning from high-accuracy observation
+satellite
+systems
+to
+satellite
+image-based
+analysis
+and
+decision-making support capabilities are therefore key.
+NTT DATA has achieved detailed building-level representations of
+undulations with resolution as precise as 50cm, principally in urban
+areas, through its digital 3D map service AW3D, which delivers
+content adding value to satellite images. Working to leverage AI and
+other cutting-edge technologies in geographic information extraction,
+its services have been deployed on more than 4,000 projects in 130
+countries and regions around the world.
+As a new evolution building on these achievements, NTT DATA
+launched the dedicated satellite observation service supplier Marble
+Visions in July 2024. Using more precise, higher-frequency data, this
+one-stop service covers everything from satellite development and
+operation to advanced data analysis, including 3D data. In the future,
+observation satellite systems capable of 3D observation, visualization
+and use of digital maps covering the earth will support not only
+confirmation of present conditions, but also understanding of how the
+situation
+is
+changing
+and
+analysis,
+simulations
+and
+forecasting
+regarding urban areas, thereby enabling rapid, precise decision
+making. This can support a sustainable future through applications in
+areas such as labor saving in land management, evaluation of forest
+resources,
+disaster
+risk
+management,
+remote
+infrastructure
+inspections,
+infrastructure
+optimization,
+optimal
+natural
+energy
+allocation and management, remote resource evaluation, the shift to
+smart cities, and assessment and management of real estate assets.
+Number of solution usages
+Over 100 / year
+Usage image of AW3D
+Marble Visions
+Japan

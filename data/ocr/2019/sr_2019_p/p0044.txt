@@ -1,0 +1,74 @@
+Initiatives for Improving Accessibility
+UI
+User Interface
+UX
+User Experience
+System appearance
+UD
+Universal Design
+Accessibility/usability
+Experience gained through service
+▶︎ Improving Accessibility
+*1: The economic and social gap or imbalance that exists between those who have access to computers and the 
+Internet and the capability to use them and those that do not
+*2: Design aiming for ease of use by all people, irrespective of age, gender, nationality, disability, or individual 
+experience and abilities
+Trial Launch of the “Customer Friction Factor,” 
+a Metric for Quantitatively Assessing the User Experience
+The widespread adoption of IT in society has brought with it the problem of the digital divide*¹. 
+The NTT DATA Group, recognizing in each IT user the potential for innovation, promotes the 
+development of people-friendly information systems centered on universal design (UD)*². 
+We are pursuing a wide-range of initiatives, from applying UD in the systems and services we 
+deliver to clients to training and enhancing the awareness of employees.
+Furthermore, the definition of “easy-to-use” services has advanced with an increasing 
+importance on “user experience (UX)” approaching deeper “satisfaction” from the “user’s point 
+of view.” UX indicates a way of thinking focused on the degree to which user demands for fun, 
+comfort, and convenience can be realized. UX places importance on a user-focused design 
+approach unlike traditional approaches rooted in technology or markets. Since 2002, NTT 
+DATA has adopted designs from the use’s perspective in its system development process in an 
+effort to design systems that are people-friendly, satisfying, and resolve accessibility issues in 
+the ICT and IoT fields.
+In April 2018, NTT DATA commenced the trial launch of the Customer Friction Factor (CFF), with 
+a view to full-scale application in Japan. The CFF is a metric developed by NTT DATA Services to 
+quantitatively assess user experience (UX).
+End users make use of a wide range of communication channels, including stores, response 
+desks, websites, smartphone apps, and telephones. When consumers accept services, flow lines 
+grow more diverse, which can interrupt the smooth flow of services when the next step is unclear or 
+in the event of a request for repetition. Systems and services that utilize corporate operations may 
+also experience difficulties, when coordination is patchy or slow.
+In addition to addressing such issues from the service provider end, consumers are increasingly 
+calling for service improvements that focus on UX. Using conventional methods, assessing UX using 
+quantitative diagnostics of multiple channels was problematic, and the scope for defining problems 
+and executing improvement measures was limited. CFF is a quantitative assessment method in 
+which specialists diagnose and quantify discomfort parameters that end users experience when 
+using a service. Furthermore, relative values can be obtained through comparison with other 
+services, making it possible to consider approaches for improving UX and confirm the level of 
+improvement. 
+By applying CFF to a variety of projects, NTT DATA has verified assessment criteria for Japan by 
+obtaining values from diagnostic and various other perspectives. We aim for a full-scale business 
+rollout in fiscal 2020.
+■ AQUAIR™ Digital Business Design Studio
+AQUAIR is a place for co–creation for clients to work with UX-UI*¹ designers and other 
+specialists, where they can bring their ideas into reality seamlessly from planning of new 
+Services, prototyping and feasibility test. For example, the UX-UI designer identifies users’ 
+needs and issues, the consultant assesses market trends and feasibility, and the engineer casts 
+the ideas into shape. Various specialists thus form a team and offer consistent support to the 
+clients’ activities.
+*1: UX (user experience) is users’ experience and emotions obtained by using a particular product or a service. UI (user 
+interface) is the point of contact for a user using a product or a service.
+https://nddn.design/aquair#
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Social
+Social
+NTT DATA Sustainability Report 2019

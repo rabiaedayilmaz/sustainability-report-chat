@@ -1,0 +1,69 @@
+■ Information Security Policies
+■ Information Security Policy Configuration
+■ Main Organizations and Functions for Information Security Governance
+*1 Actualization of security threats related to information management and system operation, such as computer virus infection, unauthorized access and information leakage.
+*2 A global community consisting of approximately 300 CSIRTS from government agencies, educational institutions, companies and other organizations.
+*3 Incident response teams comprised of security specialists. The teams collect and analyze information on security incidents, security-related technologies and vulnerabilities and 
+conduct activities including implementing effective countermeasures and training.
+Policy
+Outline
+NTT DATA Group Security Policy (GSP)
+Uniform rules for information security for the NTT DATA Group
+Information Security Policies
+Basic policies, standards and specific procedures related to information security
+Organization
+Functions
+Information Security Committee (Assessment/Steering)
+Chaired by the chief information security officer and comprising managers of each sector, the 
+committee is responsible for ascertaining and evaluating the status of activities and issues at all the 
+companies and determining information security strategies for the Group.
+Information Security Office (Monitoring)
+Promotes the decisions of the Information Security Committee and confirms the status of progress. 
+Designates information security promotion officers at each worksite.
+NTT DATA-CERT (Backups)
+Organization for preventing information security incidents*1 and responding to any incidents that might 
+occur. Joined the Nippon CSIRT Association as well as the Forum of Incident Response and Security 
+Teams (FIRST)*2, a global computer security incident response team (CSIRT)*3 community to collect a 
+wide range of information on security trends in Japan and overseas and utilize it toward improving 
+the security of our own systems.
+NTT DATA Group’s Unified Security Policy
+Information Security Management System
+Information leaks stemming from security breaches and improper use of information have serious implications for our 
+credibility. NTT DATA has therefore established policies covering the entire Group to ensure appropriate handling of information 
+assets in line with uniform standards so that information can be circulated safely throughout the Group. We have also 
+established rules to prevent information security incidents at partner companies commissioned by NTT DATA to undertake 
+operations, including software development.
+The NTT DATA Group has built an information security management system and established an information security 
+governance in order to deal with information security risks. The main organizations and their functions are listed below.
+Basic Policy
+Compatible 
+countermeasures
+ (in accordance with 
+basic policy)
+Manuals, procedural 
+documents
+Information 
+security policy
+Detailed rules, 
+implementation 
+methods
+Basic considerations and decision 
+standards related to the establishment 
+of information security
+Clear direction, by area, on putting 
+information security in place
+Specific procedures for 
+implementing compatible 
+countermeasures in information systems and 
+operations
+ Information Security Management System
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

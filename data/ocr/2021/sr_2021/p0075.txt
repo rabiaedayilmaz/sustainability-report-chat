@@ -1,0 +1,198 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Risks and Opportunities 
+Type 
+Outline 
+Time 
+Horizon 
+Likelihood 
+of 
+Occurrence 
+Degree of 
+Impact 
+Financial Impact of Risks and Opportunities 
+Countermeasure Costs 
+Opportunity 
+
+Realization of 
+high energy 
+efficiency from 
+the application 
+and system 
+design layers to 
+facilities layer 
+Opportunity to 
+increase 
+demand for 
+services 
+Demand for highly efficient data 
+centers might increase because 
+the enforcement of the Paris 
+Agreement will necessitate the 
+improved efficiency of IT systems, 
+which account for a large 
+proportion of corporate energy 
+consumption. 
+Long 
+term 
+Likely 
+High 
+ 
+ 
+ 
+Sales from our data centers and related 
+services amounted to ¥58.7 billion in fiscal 
+2020. Under our business plan, we expect 
+such sales to reach ¥67.0 billion in fiscal 2021 
+in line with growing market needs. 
+ 
+We build and operate data centers with high 
+environmental performance, including the Mitaka Data 
+Center, and plan to promote further renewable energy 
+use, energy conservation and new energy management 
+from fiscal 2021 and thereafter. In fiscal 2020, total R&D 
+expenses for elemental technologies of green data 
+centers, including AI/IoT, deep learning and virtualization 
+technologies, amounted to ¥22,739 million. 
+Opportunity 
+
+Competitive 
+advantage of AP 
+layer (process 
+innovation 
+through nextgeneration 
+production 
+technology) 
+More efficient 
+production 
+processes 
+The establishment and expansion 
+of global Centers of Excellence 
+for digital technologies to 
+strengthen the field of advanced 
+technology provide an opportunity 
+to radically improve productivity 
+through groundbreaking new 
+technologies, such as system 
+development process innovation. 
+Medium 
+term 
+Virtually 
+certain 
+High 
+We anticipate that creating business 
+opportunities through the swift delivery of 
+Green Innovation and reducing costs by 
+shortening the development period will result 
+in a contribution to our profits of around ¥50 
+billion. 
+In fiscal 2020, we invested ¥5 billion in R&D on 
+production technology and process innovation, including 
+through AP modernization—which involves a gradual 
+digital migration while effectively utilizing existing 
+assets—as well as on next-generation production 
+technologies related to digital service management, 
+integrated platform development and the like. 
+Opportunity 
+
+Increase in 
+demand for 
+cloud computing 
+and shared 
+services due to 
+more frequent 
+abnormal 
+weather events 
+Opportunity to 
+increase 
+demand for 
+services 
+The use of cloud-based data 
+centers and shared platforms, 
+which offer a high level of safety 
+and protection of corporate data 
+from being lost due to typhoons, 
+localized heavy rains and other 
+abnormal weather events, could 
+accelerate. 
+Short 
+term 
+Virtually 
+certain 
+High 
+Sales from cloud computing and shared 
+platform–related services in fiscal 2020 totaled 
+¥608.2 billion. With the emergence of 
+technological innovations, such as the publichybrid cloud and the digital transformation of 
+legacy systems, we forecast sales of around 
+¥630 billion in fiscal 2022. 
+In fiscal 2020, we invested around ¥3 billion in R&D on 
+cloud core technologies, including technology for 
+consolidating platforms into our Integrated Development 
+Cloud. 
+Opportunity 
+
+Increase in 
+demand for 
+smart energy–
+related 
+innovation 
+Opportunity to 
+increase 
+demand for 
+services 
+Growing concern about climate 
+change and rising energy costs 
+have led to accelerated 
+improvements in the efficiency of 
+social infrastructure, providing 
+increased opportunities for largescale energy-related businesses. 
+Medium 
+term 
+Virtually 
+certain 
+High 
+We currently generate around ¥10 billion in 
+sales in the smart energy–related business 
+annually and anticipate cumulative sales of 
+¥70 billion–¥100 billion over the next five 
+years until fiscal 2025. 
+In fiscal 2020, we invested more ¥1 billion in the smart 
+energy–related business and anticipate cumulative sales 
+of ¥70 billion–¥100 billion over the next five years until 
+fiscal 2025. 
+Opportunity 
+
+Diversity of 
+human 
+resources 
+through locationindependent 
+work styles 
+Opportunities 
+through 
+substitution and 
+diversification of 
+resources 
+The adoption of teleworking and 
+other flexible, location-neutral 
+work styles might provide 
+opportunities to strengthen our 
+resilience as a company. 
+Medium 
+term 
+Virtually 
+certain 
+High 
+We estimate the financial impact of providing 
+flexible, location-neutral work styles to be 
+¥58,980 million, based on our superior 
+employee retention rate (vis-à-vis the industry 
+standard) and reduction in commuting-related 
+CO2 emissions. 
+The cost of providing teleworking arrangements, 
+including participating in Telework Days and using our 
+Integrated Development Cloud for centralized system 
+development, was ¥1.1 billion. 
+ 
+Note: Time horizons: Short term: FY2020–2023; Medium term: FY2024–2030; Long term: FY2031–2050

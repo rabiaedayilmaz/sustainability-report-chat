@@ -1,0 +1,79 @@
+Ultra-Energy Saving Power Supply System 
+“XECHNO” Power + “FRESH HVDC” for Data Centers
+Promoting Power Saving at Data Centers Using 
+In-house Developed “PRORIZE” DC Server
+infrastrucure that supports comfortable driving for EV users by 
+enabling users to quickly charge their cars at several charging 
+station network areas using a single IC card.
+NTT DATA INTELLILINK Corporation developed the ultra-energy 
+saving power supply system, “XECHNO” Power + “FRESH HVDC” 
+for data centers in March 2012. This system was developed to 
+replace existing uninterruptible power supply systems (UPS) to 
+dramatically reduce power losses during alternating current 
+(AC)/direct current (DC) conversions when electricity is supplied 
+to data centers. 
+Generally at data centers, electrical power and IT equipment 
+such as electrical transformers, storage batteries and distribution 
+boards are designed, built and managed separately. However, to 
+maximize the power efficiency of the product, we took another 
+approach and put them together as a single system. Specifically, 
+we reduced the number of AC-DC conversions from three to one 
+and gave a two-part structure to the system. “FRESH HVDC” 
+controls high-voltage direct current power, and “XECHNO” Power 
+converts DC from “FRESH HVDC” into a 12 volt DC—the voltage 
+used by IT equipment—and then distributes DC to each of the 
+equipment. As a result, we were able to drastically improve 
+electrical power efficiency and achieve groundbreaking energy 
+savings of 10-30% per data center. Furthermore, we are able to 
+ensure the electrical safety and quality of the product, which we 
+can assert is unlike any other in the world.
+Japan Radio Co., Ltd. has already introduced this product in 
+Japan in March 2012. Going forward, we plan to propose that this 
+system be introduced to data centers not only in Japan but in the 
+rest of the world as well.
+The number of servers installed at data centers is rising primarily 
+due to the increased outsourcing of system operations, usage of 
+cloud-computing environments and disaster countermeasures. 
+Under these circumstances, we currently face such major 
+challenges as the need to improve server consolidation ratios as 
+well as reduce power consumption and heat emissions.
+In September 2011, NTT DATA began providing system 
+platform building and operating services using in-house-developed 
+“PRORIZE” DC servers. The fact that the size of the servers is half 
+that of standard rack-mounted servers contributes to the 
+improvement of their consolidation ratios. Moreover, they can 
+curtail electrical power usage by more than 10% compared with 
+conventional AC power supply systems, due to their compatibility 
+with DC power supply systems, which are used by “XECHNO” 
+Power, thereby enabling data centers to save power.
+* CHAdeMO Association: An organization that promotes the spread of quick charging 
+based on the CHAdeMO method and its international standardization, with cooperation 
+from automakers, charger manufacturers, other companies, governmental organizations 
+and various other groups
+Additional Topics on Website
+t Promoting Efforts to Acquire “Environmental Solution Label” t Providing the Environmental Solution Business (Green Data Center Service/Solutions for Visualizing Energy Consumption/
+ “Mieru-ka Eco Bucho,” a Solution to Visualize the Office Energy Consumption)
+t Cooperation on Initiatives Promoted by Administrative and Industrial Organizations 
+Private Cloud Infrastructure “Lindacloud” Wins the METI Minister’s Award in the Green IT Award 2011
+T O P I C S
+In October 2011, NTT DATA’s private cloud infrastructure “Lindacloud” was awarded the Minister of Trade, 
+Economy and Industry Award in the category of “Savings in IT-related Energy Consumption” of the Green IT 
+Award 2011, organized by the Green IT Promotion Council. “Lindacloud” is an integrated hardware and 
+software package for private cloud infrastructure. It is based on NTT DATA’s own hardware that has been 
+designed specifically for low power consumption and low heat emissions, backed by proprietary software 
+specially developed to run on this hardware.
+The product was selected for its originality, owing to, among other things, the fact that: 1) it had been 
+designed with the customer in mind and from the perspective of a system integration company; 2) it features 
+functions required specifically for managing a private cloud; and 3) it helps to reduce 
+power consumption required for cooling components thanks to revisions made to the 
+heat emission design of server structures. We will deliver this product to customers 
+seeking a low price server infrastructure that enables the storage, search, and analysis of 
+Big Data, which will grow along with the further development of cloud-based systems, 
+while at the same time expanding our product lineup.
+Members in charge of 
+developing “Lindacloud”
+Paradigms for Society and Regional Communities
+Paradigms for People at Work
+Paradigms for the Global Environment
+
+NTT DATA CSR Report 2012

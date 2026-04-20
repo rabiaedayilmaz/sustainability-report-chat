@@ -1,0 +1,84 @@
+Internal Control
+ Maintaining and Continuously Strengthening Internal Control Systems
+The NTT DATA Group promotes the creation and maintenance of internal control systems in accordance with a basic policy of always considering risks arising from business activities and taking various 
+types of measures to realize efficient implementation of equitable, transparent business activities.
+ 
+Twice a year, we also convene meetings of the Internal Control Promotion Committee, which is 
+tasked with assessing the effectiveness of internal control systems and managing and furthering 
+overall internal control. In addition, NTT DATA actively conducts internal audits that focus on a range 
+of different risks.
+ 
+Given continued global business expansion going forward, the Company will maintain efforts to 
+strengthen the Group’s overall internal control capabilities by further advancing efforts to establish 
+global internal audit capabilities while introducing efficient methods of auditing.
+ Implementation Status of Internal Audits
+NTT DATA’s Internal Audit Department conducts audits from a standpoint that is independent from 
+operational divisions.
+ 
+In fiscal 2016, the Company audited in-house organizations, 9 domestic Group companies, and 
+8 overseas Group companies. This audit primarily focused on risks specific to the Company. These 
+risks include business process compliance, long working hours, proper contracting, and delegation 
+agreements and information security. Also, the Company monitored the internal auditing activities of 
+26 Group companies. In addition, to expand and improve internal auditing of the Group as a whole, 
+79 domestic and overseas Group companies conducted autonomous inspections based on unified 
+audit items.
+ 
+Furthermore, in terms of new initiatives, we have also introduced a monitoring indicator system to 
+detect indications of fraud before it occurs, and we are expanding the functions of the system using 
+computer-assisted audit techniques (CAAT) tools to analyze data from various in-house information 
+systems. This auditing system is already being applied to our internal organizations, and we are 
+seeking to advance the initiative by considering expanding its application to Group companies in 
+Japan and anticipating more of its deployment in our overseas Group companies as well.
+ 
+Going forward, NTT DATA aims to realize coordination with the internal audit divisions of domestic 
+and overseas Group companies and to advance measures to establish a global internal auditing 
+system while increasing the quality and quantity of internal audits.
+ Education and Training Related to Internal Control Systems
+As an annual exercise, NTT DATA provides an e-learning course on internal control related to financial 
+reporting in order to emphasize the importance of internal controls and promote understanding 
+among employees about its policies and views. 
+that includes overseas organizations.
+ 
+In Japan, in the fiscal year ended March 31, 2014, NTT DATA increased management efficiency 
+by beginning the renewal of the common accounting system that domestic Group companies use. 
+As of March 31, 2016, NTT DATA extended the introduction of the system, which is used by approximately 70 major domestic Group companies. As a result, many domestic Group companies use a 
+common accounting system. This enables centralized management of accounting information and 
+the securing of internal control. Furthermore, the use of this system significantly reduces maintenance and operational burdens.
+ 
+Moreover, aiming to increase the efficiency of Group management, NTT DATA introduced an 
+in-house Group Management Infrastructure system that visualizes Group companies’ management 
+information (in the financial and personnel fields) to domestic Group companies. Through this new 
+system NTT DATA aims to optimize management resource allocation to reflect project characteristics, expedite business management, enhance the precision of information used for decision-making, 
+and realize Group synergies.
+[ Ensuring Robust Group Governance Based on Group Management Policies and Group 
+Management Rules ]
+To optimize the Group as a whole, the NTT DATA Group established Group Management Policies to 
+define the basic approach to Group management. Furthermore, with respect to consultation and 
+reporting between NTT DATA and Group companies, Group Management Rules have been established for domestic Group companies and a Group Authority Matrix has been established for overseas Group companies. The rules and matrix are used in combination with Group Management 
+Policies to realize robust management of Group governance.
+ Governance Structure of Regional Integrated Companies
+NTT DATA
+Business Unit
+Business Unit
+Business Unit
+Board of Directors
+Nomination and Compensation Committee
+CEO
+Audit Committee
+Independent auditor
+Executive officers
+Internal auditor
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+GRI Standards
+Governance

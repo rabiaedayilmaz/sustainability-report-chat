@@ -1,0 +1,90 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Saving Energy and Enhancing Comfort through Predictive Control Based on AI Analysis of 
+Footfall and Outside Temperature Data
+NTT DATA Japan Corporation
+Asset Business Section
+Social Innovation Division 
+Social Infrastructure Solution Sector
+HUCAST AI-Driven HVAC Optimization Services
+Carbon
+Neutrality
+• Office buildings and other commercial facilities account for about 40% of Japan’s energy-related CO2 emissions. About half of this figure is connected to air conditioning. Under its Plan
+for Global Warming Countermeasures, which aims to achieve net zero emissions by 2050, Japan is seeking to reduce CO2 emissions from commercial buildings by 51% from fiscal 2013
+levels by fiscal 2030. To achieve this, building operators need concrete energy reduction strategies.
+• Electricity prices are also expected to rise in future, making reducing energy costs an urgent necessity.
+Office building air conditioning is
+typically operated
+reactively to achieve a consistent temperature suitable for
+the time of year (feedback-based control). However, this
+method takes time to achieve the set temperature and is
+likely to lead to unnecessary air conditioning operation,
+resulting
+in
+rising
+energy
+consumption.
+Efficient
+temperature management requires highly sophisticated
+control to account for time lags and multiple factors that
+impact
+temperatures,
+but
+operation
+is
+still
+almost
+exclusively handled by humans on a moment-to-moment
+basis. Feedback-based control
+also has limitations that
+make
+it
+difficult
+to
+achieve
+comfortable
+indoor
+environments while also reducing energy costs.
+Business need
+Solution
+NTT DATA developed the HUCAST AI-Driven HVAC
+Optimization Services, which launched in September 2023.
+AI analyzes data points such as the weather, indoor
+temperature and movement of people, then forecasts future
+temperatures as a basis for proactive air conditioning
+control (feed forward control).
+This resolves shortcomings of feedback-based control,
+including short term temperature adjustments and wasteful
+air conditioning operation. AI forecasting can also be
+automatically linked with on-site equipment to enable
+control
+without
+manual
+operation.
+Based
+on
+comfort
+evaluation metrics (PMV*), the system can also control the
+temperature to provide a comfortable environment for as
+many people as possible while also reducing energy use.
+In verification tests at multiple office buildings, commercial
+facilities and mixed-use buildings, including JR Shinjuku
+Miraina Tower, this system contributed to reductions in
+energy use of up to 50％.
+Through further expansion, HUCAST can advance the
+optimization of office buildings’ energy use and contribute
+to a carbon neutral society.
+Impact
+Up to 50％
+Energy use reduction after introducing HUCAST
+(based on verification tests at multiple facilities)
+*Predicted Mean Vote (PMV) quantifies human perceptions of thermal
+comfort on a scale from -3 (very cold) to +3 (very hot). PMV is used in
+the international standard ISO 7730, which recommends heating
+environments have a PMV within ±0.5 of 0.
+HUCAST AI-Driven HVAC Optimization Services: AIpowered Energy Saving Free From Manual Operation 
+(in Japanese only)

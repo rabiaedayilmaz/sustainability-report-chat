@@ -1,0 +1,87 @@
+CSR Infrastructure
+Make improvements to information security 
+of overseas Group companies
+Security that contributes to management: 
+Information Security for New Media 
+Information Security
+Promoting Information Security Measures 
+Based on Three Key Strategies
+The more pervasive IT becomes in our lives, the more risks we 
+face with regard to the safety of information and the greater the 
+necessity for appropriate measures to safeguard that information. 
+As a provider of many large-scale systems and systems of 
+strategic importance to our customers, the NTT DATA Group 
+maintains an information security management structure. In line 
+with the Group Security Policy (GSP), which is underpinned by 
+balancing of information security with the active use and sharing 
+of information, we strive to raise the level of security groupwide 
+and foster an information security mindset.
+In fiscal 2012, NTT DATA implemented information security 
+strategies based on three key strategies: (1) make improvements 
+to information security of overseas Group companies; (2) ensure 
+that basic security activities are conducted; and (3) security that 
+contributes to management.
+To promote information security management throughout the 
+Group, we maintain an awareness of the groupwide PDCA 
+(Plan Do Check Act) cycle and the PDCA cycles of individual 
+Group companies.
+For groupwide PDCA, NTT DATA’s IT Security Strategy Office 
+assumes a key role in ensuring groupwide information security 
+and it has been monitoring the establishment of information 
+security management systems by domestic Group members, 
+their training and educational initiatives, and the implementation 
+of internal audits. In fiscal 2012, the scope of the office’s 
+monitoring was broadened to include overseas Group companies 
+and the office started assessing the effectiveness of information 
+security strategies groupwide as well as supporting the activities 
+of individual companies.
+On an individual company level, we are focusing on 
+providing support for the information security activities of 
+overseas Group companies in response to the increase in 
+operational sites around the world. In fiscal 2012, representatives 
+from the IT Security Strategy Office visited eight overseas Group 
+companies, as well as five domestic companies. After listening to 
+briefings on the problems and issues facing each member 
+company, they offered advice and examined ways of achieving 
+appropriate solutions on the spot. The office also collected 
+information on the operation of information security for each 
+quarter and provided guidance on improvements. We also 
+worked to expand our information security training, increasing 
+internet based training (IBT) for GSP from two languages to three 
+(Japanese, English, and Chinese), and we strove to ensure 
+employees retained this security-related knowledge through 
+post-training follow-up measurements of effectiveness. We 
+provided support for training GSP internal auditors by producing 
+training materials in three languages. As a result of these efforts, a 
+total of 268 employees from 66 companies worldwide attended 
+the course and became internal auditors.
+While the emergence of smartphones and social media has 
+increased business opportunities, the higher the degree of 
+freedom the greater the potential for information leaks and 
+other risks. NTT DATA builds environments that allows the safe use 
+of such new information devices and media for business purposes. 
+At the same time, we also devise operational structures that minimize 
+damage in the unlikely event of an information security incident.
+In fiscal 2012, we established rules for settings and 
+operational sequences to enable the safe use of tablet devices in 
+daily business. We produced guidelines for enhancing the security 
+of smartphones and launched a dedicated service that gives 
+smartphones access to our in-house servers. We have clarified our 
+Social Media Policy regarding the social media accounts that 
+NTT DATA officially administers and published this policy on our 
+website along with a list of official accounts.
+We plan to review the in-house rules governing the use of 
+tablet devices and expand the number of applicable devices to 
+take account of the increase in in-house services and the 
+functions of products themselves.
+Additional Topics on Website
+t Implementation Status of Internal Audits t Education Related to Internal Control System t Reinforcing Group Governance t Implementation of Compliance Assessments
+t Running a “Whistleblower Line" Service t Recurrence Prevention Measures Relating to Bribery t Risk Management t NTT DATA Group’s Unified Security Policy 
+t Information Security Management Structure t Acquisition of Information Security Management Certification t Information Security Education and Training 
+t Dialog with Shareholders and Investors
+Related Website
+NTT DATA Information Seucirty Report 2012
+http://www.nttdata.com/global/en/csr/security/index.html
+Representatives from the IT Security Strategy Office visit 
+a workplace
+38 NTT DATA CSR Report 2012

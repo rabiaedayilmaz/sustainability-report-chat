@@ -1,0 +1,73 @@
+Sustainability Management
+Introduction
+Planet positive
+People positive
+Governance
+Appendix
+*1 The concept of designing services and systems according to the needs of users.
+*2 Design that emphasizes ease of use for all people, irrespective of age, gender, nationality, disability, or individual experience and 
+abilities.
+*3 UX (user experience) refers to users’ experience and emotions obtained by using a particular product or service. UI (user interface) 
+is the point of contact for users of a product or service.
+Specific Initiatives
+Establishment of the Global AI Risk Management Policy
+To ensure that global businesses leveraging AI technology operate in a sound and 
+risk-managed manner, we have established the AI Risk Management Policy. This policy 
+defines the AI risks to be managed at both global and Group-wide levels and outlines the 
+management framework for effectively addressing these risks.
+Establishment and Implementation of Rules and Guidelines for 
+AI Risk Management
+To achieve policy-based risk management, NTT DATA has established concrete and practical management rules for AI in general. In addition, we have developed internal guidelines tailored to generative AI that summarize considerations and approaches from the 
+perspectives of development, deployment, and use. In this process, we are collaborating 
+with NTT DATA Japan and NTT DATA, Inc., to advance our initiatives globally. Furthermore, 
+we have defined AI risks to be addressed based on the European Union’s AI Act and 
+various domestic and international guidelines, standardizing the detection process for 
+these risks. Starting in fiscal 2023, we are implementing risk checks for AI projects at NTT 
+DATA Group Corporation and NTT DATA Japan.
+Support Activities for Establishing AI Governance
+We create and provide educational content to enhance employees’ awareness of AI 
+ethics and conduct risk assessments for individual projects and develop strategies for 
+risk avoidance and mitigation. Furthermore, we support the establishment of AI governance within our Group companies.
+AI Advisory Board
+With the aim of strengthening AI-related governance, we established the AI Advisory 
+Board in April 2021, composed of external experts. In this Board, outside experts and 
+members of NTT DATA’s AI projects discuss technology trends, laws, regulations, and civil 
+society’s awareness of AI utilization, incorporating the findings into concrete measures 
+for AI governance.
+HCD Viewpoint
+User
+UD
+(Universal Design)
+Accessibility/ 
+Accessibility/ 
+Usability
+Usability
+UI
+(User Interface)
+Face of the system
+Face of the system
+UX
+(User Experience)
+Experience gained 
+Experience gained 
+through the service
+through the service
+Human-Centered Design Initiatives
+We pay close attention to each individual IT user, whom we view as a potential innovator. 
+With this in mind, we promote the creation of human-friendly information systems based 
+on the human-centered design (HCD)*1 approach. HCD is a step forward from the universal design (UD)*2 concept for systems and services and places greater emphasis on 
+user-friendliness. With HCD, we engage in wide-ranging activities from the user’s perspective. These include adopting a “UX design”*3 approach that extends to user satisfaction. To achieve good UX, it is important to adopt a user-focused approach to design in 
+addition to traditional approaches rooted in technology or markets. Since 2002, NTT 
+DATA has been developing human-friendly systems by applying user-oriented design to 
+the system development process in the ICT and IoT fields.
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Prosperity positive
+ Responsible Technology and AI Ethics

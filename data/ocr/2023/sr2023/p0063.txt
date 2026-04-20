@@ -1,0 +1,55 @@
+Economy | Clients’ Growth 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+Using Digital Twin Technology in Data Centers 
+The Innovation Center (Italy) utilized digital twin technology to visualize data centers operated by customers as detailed 3D 
+virtual replicas. This allowed for the verification of operational and energy efficiency. By synchronizing temperature, device status, 
+and other factors within the digital twin, it became possible to simulate operational scenarios and responses during abnormal 
+situations. This enables performance management and effective responses to abnormalities. Digital twin technology enables 
+repeated testing before physical implementation and is particularly valuable for energy optimization, such as reducing CO2 
+emissions. The Innovation Center is actively promoting the use of digital twins. 
+ 
+Resona Kids’ Money Academy 
+The Resona Group hosts the “Resona Kids Money Academy,” Japan’s largest financial and economic education program for 
+children where employees serve as instructors. Through the program, children can learn about topics such as “the role of money” 
+and “the importance of work” in an enjoyable way, with more than 44,000 kids participating so far. In March 2023, NTT DATA 
+and Resona Holdings collaborated to host the Academy in the metaverse. This event was designed for the metaverse space, 
+considering its unique characteristics, with a focus on ensuring seamless operation, validating technical constraints, and aiming 
+to enhance the Academy within the metaverse environment. Participants were able to control their avatars and engage in quizzes 
+and team-based games related to money matters within the metaverse space “DOOR” provided by NTT QONOQ, INC. 
+ 
+https://www.nttdata.com/global/ja/news/topics/2023/041400/ (Japanese only) 
+ 
+ Activities based on the NTT Group’s R&D 
+～Data Collaboration InfrastructureArchitecture Concept～ 
+A system for the safe distribution of data between companies and organizations is necessary to solve problems such as achieving 
+carbon neutrality and realizing a resource-recycling society. For example, to achieve carbon neutrality, it is necessary to 
+guarantee the reliability of data without falsification in the calculation of the CO2 emissions of the entire global value chain and 
+to establish a system that can distribute emission data between organizations. However, if a data distribution platform is built 
+that reflects the policies of a specific country or region, it will be limited to use in some countries or regions due to differences in 
+business practices and laws and regulations in each country or region, and it will be difficult to distribute data between 
+organizations. As a solution to this problem, NTT DATA and NTT Communications are working with a variety of companies and 
+organizations to study ways to distribute data among them. Leveraging the technology offered by NTT Group and the knowledge 
+gained from our previous initiatives, we are working on the development of a new data distribution platform that can interconnect 
+with data distribution platforms operated by German automotive manufacturers and others. 
+In May 2022, we published a white paper that outlines the challenges and our efforts toward realizing a global data sharing 
+infrastructure. It also provides insights into our upcoming validation experiments and technology development plans. 
+ 
+Creation of an Industry-wide Ecosystem for EV Batteries 
+In September 2022, NTT DATA and Denso Corporation (“Denso”) embarked on the establishment of an industry-wide ecosystem 
+for electric vehicle (EV) batteries, with the goal of creating a secure data collaboration platform that allows the exchange of 
+necessary data while safeguarding sensitive information. 
+The EU New Batteries Regulation, which was approved by the European Commission in June 2023, requires the disclosure 
+of CO2 emissions and resource recycling rates throughout the entire life cycle of batteries. From 2024 onward, Japanese 
+companies that intend to sell EVs in the European market will need to comply with this regulation. To securely share data with 
+various stakeholders in the value chain, a common platform is essential. 
+NTT DATA and Denso have signed a basic agreement for joint business consideration and jointly applied for the solicitation 
+of proposals under the subsidy program of the Ministry of Economy, Trade and Industry (METI) to create an industry-wide 
+ecosystem for EV batteries. The two companies were officially approved as business operators in September 2022 and 
+requirements were defined. The aim is for the platform used within this ecosystem to evolve into a next-generation information 
+infrastructure, enabling secure data utilization among companies across various industries in the future, with a scope that 
+extends beyond just EV batteries. To achieve commercialization of the service by the end of fiscal 2024, we will work toward 
+realizing a common platform for the automotive and manufacturing industries. 
+ 
+https://www.nttdata.com/global/ja/news/release/2022/101300/ (Japanese only)

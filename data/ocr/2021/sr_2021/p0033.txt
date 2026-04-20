@@ -1,0 +1,64 @@
+Governance 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Dealing with Diverse Risks 
+ 
+ 
+ 
+1. System development risk 
+ 
+The Group’s mainstay business is system integration. In this business, we are responsible for completing each system, from 
+the time we receive the order to the time we deliver it to the clients, under a contractual agreement. 
+Potential impact 
+Several factors could lead to an unexpected increase in costs. These include deviation from the original 
+estimate stemming from ambiguity in the contract and technical or project management problems that 
+were not initially anticipated during the development stage. 
+If a project is unprofitable, we might have to pay compensation for damages caused by unexpected 
+costs or delays in delivery, which could significantly affect the Group’s business performance and financial 
+position. For this reason, we deem system development risk to be a material risk. 
+Countermeasures 
+For large-scale projects that are new to us in terms of clients, business and/or technology, we have 
+protocols to help us fulfill our responsibility for project completion. For example, we have a third-party 
+organization that confirms the feasibility of the proposal and clarifies contractual details during the 
+proposal preparation stage. The organization also handles early responses to risks, examines the 
+appropriateness of plans and cost estimates at the time of order and inspects systems before delivery. 
+Moreover, projects of a certain size or larger that are new to us in terms of clients, business and/or 
+technology are identified as “high-risk projects” (including those of Group companies). For such projects, 
+we regularly monitor and manage progress and issues and take risk mitigation measures to minimize the 
+potential for the projects to become unprofitable. 
+2. Risk related to investments and M&As 
+ 
+The Group invests in domestic and overseas companies and organizations with the aims of acquiring new technologies, 
+solutions and development resources and building strategic partnerships. In addition, we view M&As as an important tool for 
+achieving our “Global 3rd Stage” goals and use this tool as a driver of global growth. When engaging in an M&A, we place top 
+priority on ensuring that the other party has common values and affinity with the NTT DATA Group. We also confirm the 
+feasibility of synergies with the Group, mainly from the perspectives of geography (focus areas) and offerings (service delivery 
+capabilities). 
+Potential impact 
+Especially with overseas M&As, several factors might make it difficult for the Group to adequately control 
+the other party’s operations or smoothly handle its business. These include legal restrictions, taxation 
+systems, differences in business practices, labor-management relations and political and economic trends 
+in each country. Also, the Group might be unable to properly deploy synergies with the other party, causing 
+sales and profits to be significantly lower than expected and preventing the Group from generating its 
+desired return on investment. These scenarios could lead to goodwill write-downs and the like, which 
+could significantly affect the Group’s business performance and financial position. For this reason, we 
+deem risk related to investments and M&As to be a material risk. 
+Countermeasures 
+When making M&A decisions, we use return on investment (ROI) and other indicators, as well as thirdparty assessments, to evaluate the financial soundness of the other party. 
+We regard the risk of being unable to adequately control the other party’s operations or smoothly 
+handle its business to be a material risk. For this reason, we require due diligence focusing on business 
+matters to be performed by internal business departments, financial advisers, accountants, lawyers and 
+other outside experts, as well as due diligence focusing on compliance based on the country risk of the 
+investee, to help make investment decisions. We then verify each of the risks uncovered in this process 
+and make decisions on countermeasures to minimize our overall risk exposure. 
+Also, there is a risk that the Group might be unable to properly deploy synergies with the other party, 
+causing sales and profits to be significantly lower than expected and preventing the Group from generating 
+its desired return on investment. To address such risk, we utilize various mechanisms, such as long-term 
+incentives and earn-outs according to the scale and content of the investment. We place great importance 
+on the continued growth of the acquired company through the creation of synergies with the NTT DATA 
+Group. In addition, we require a post-M&A integration process (PMI) plan to be made at the time of 
+decision-making. By implementing the integration process from an early stage, we aim to maximize the 
+benefits of M&A and minimize the relevant risks. 
+Through the above measures, we strive to prevent risks from materializing by carefully examining the 
+risks and establishing an appropriate governance structure to ensure that they do not have a significant 
+impact on the Group’s business performance and financial position.

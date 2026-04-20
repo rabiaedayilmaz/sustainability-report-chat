@@ -1,0 +1,123 @@
+■ RScube+
+® Function Groups
+Focus 〉〉〉
+Appropriate Use of Resources
+■ Image of the RScube+
+® System
+Account holder
+Credit 
+transaction 
+(rights transfer)
+Use of 
+Credit rights 
+(nullification)
+Credit 
+cancellation
+RScube+®
+Corporate account 
+(Company A)
+Handles users such as 
+account holders, etc.
+Handles accounts for 
+keeping Credits
+Individually establishes rules 
+that differ by system
+Edits the contents of 
+notifications sent to account 
+holders
+Sends announcements 
+and notifications via email 
+to account holders
+Establishes a workflow for 
+registering, viewing, examining 
+and approving applications, etc.
+Outputs data such as 
+account information, Credit 
+information, etc.
+Handles transaction 
+management such as 
+transfers and cancellations
+Handles Credit information
+Corporate account 
+(Company B)
+Account holder
+System 
+administrator
+Credit
+Credit issued
+Internet
+Purchased goods and services
+Capital goods
+Fuel- and energy-related activities (not included in Scope 1, 2)
+Transportation/distribution (upstream)
+Waste generated in operations
+Business travel
+Employee commuting
+Use of sold products
+End of life treatment of sold products
+We received third-party verification of Scope 1–3 greenhouse gas emission volume results for fiscal 2014 from Lloyd’s Register 
+Quality Assurance Limited. We intend to further improve the transparency of our data disclosure in fiscal 2016 by applying the 
+same calculation method used in fiscal 2014.
+ Third-party Verification of Greenhouse Gas Emissions
+NTT DATA’s System for Greenhouse Gas Credit Management Adopted for Use in Japan’s Joint Crediting Mechanism
+NTT DATA provides the “RScube+
+®” package software for managing the reduction of greenhouse gases and absorbed 
+amounts (hereinafter referred to as “Credits”). RScube+
+® was adopted for use in the system for the “Joint Crediting 
+Mechanism” being promoted by the Japanese government and has been applied to the system since November 2015.
+Market mechanisms, including bilateral credit transactions, have been incorporated into the Paris Agreement on 
+climate change and are expected to generate demand for systems that can manage complicated Credit transactions. By 
+providing RScube+
+® to facilitate efficient Credit management, we also contribute to introducing low-carbon technologies 
+in emerging countries and supporting sustainable economic development.
+User 
+management
+Transaction 
+management
+Credit 
+management
+Account 
+management
+Data
+output
+Contact 
+management
+Settings 
+panel
+Portal
+Workflow
+Purchased goods and services:
+45%
+Scope 3 
+Emissions
+3,484,821t-CO2
+Capital goods: 6%
+Fuel-and energy-related 
+activities (not included in 
+Scope 1, 2): 1%
+Transportation/
+distribution 
+(upstream): 1%
+End of life treatment of sold 
+products: 1%
+Use of sold products:
+45%
+Employee commuting:
+0%
+Business travel: 1%
+Waste generated
+in operations: 0%
+■ Scope 3 Emission Rates (by Category) for Fiscal 2016 (Scope of data: NTT DATA and 258 Group companies in Japan and overseas)
+ Waste Reduction
+In fiscal 2016, we continued our efforts from the previous fiscal year to improve our recycling ratios and reduce the final amount 
+Promoting Resource Saving and Recycling
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

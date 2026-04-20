@@ -1,0 +1,43 @@
+Paradigms for the 
+Global Environment 【Additional Topics】 
+NTT DATA CSR Report 2011 45/67 
+ 
+ 
+Proposing systems that support emissions trading 
+The Post-Kyoto Protocol and other measures highlight emissions trading*1 as one way of 
+achieving greenhouse gas reduction targets. Along with the development and operation of 
+Japan’s National Registry System*2 as the infrastructure for international emissions trading, 
+NTT DATA develops and operates systems to manage emissions by companies voluntarily 
+participating in Japan’s Voluntary Emissions Trading Scheme run by the government. 
+ 
+This scheme necessitated links between the international transaction log (ITL), 
+which manages international emissions trading, and individual countries’ national registries, 
+and NTT DATA assisted in making this connection for various EU countries. In 2008, all EU 
+countries’ national registries were linked with the ITL, enabling emissions trading between 
+Japan and EU countries, as well as among EU countries. We participated in connectivity 
+tests on links between Japan’s national registry and the EU-wide registry with the ITL and 
+supported efforts by the United Nations Framework Convention on Climate Change 
+(UNFCCC) Secretariat. 
+ 
+In addition to EU countries, 11 others were connected with the ITL as of March 31, 
+2011. In fiscal 2011, we performed upgrades in line with changes in UN system 
+specifications. 
+ 
+In April 2010, the Tokyo Metropolitan Government began emissions trading to meet 
+its overall obligation on greenhouse gas reduction. NTT DATA was commissioned to 
+develop applications for the backbone system, and service commenced in June 2011. 
+We will continue to reduce and manage CO2 emissions in Japan by offering systems that 
+support corporate emissions identification and trading. These will include new frameworks 
+designed for post-Kyoto and domestic emissions trading systems. 
+ 
+*1 Emissions trading: 
+Mechanism that enables countries and companies unable to achieve reduction targets directly to purchase 
+credits from countries and companies that have reduced emissions beyond their targets. 
+*2 National Registry System: 
+A system to manage the possession and transfer of national and corporate credits as defined by the Kyoto 
+Protocol. NTT DATA developed this system in 2002 under commission from Japan’s Ministry of Economy, 
+Trade and Industry (METI) and Ministry of the Environment. In November 2007, the system was linked to 
+the international transaction log (ITL), which is managed by the United Nations Framework Convention on 
+Climate Change (UNFCCC). This completion of links enabled the transfer of credits for emissions trading. 
+ 
+Supporting Greenhouse Gas Emissions Countermeasures

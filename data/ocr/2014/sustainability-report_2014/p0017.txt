@@ -1,0 +1,88 @@
+In the emergency medical service field, we are seeing an 
+upswing in the use of IT systems that help share information 
+on patient admissions at each hospital. However, data 
+regarding admission acceptance and refusal at each medical 
+institution is not always recorded in an appropriate manner 
+and there are cases that indicate improper use.
+So NTT DATA took advantage of the change in data 
+inputting entity from medical institutions to emergency 
+personnel and revamped the emergency medical service 
+information system.
+Specifically, steps were taken to improve the system by 
+having emergency personnel input two types of information: 
+transport performance and data on the ill or injured party 
+based on observations.
+In the case of the first type of information, transport 
+performance, emergency personnel record the name of the 
+medical institution to which the injured or sick person is 
+taken by smartphone. This information is seen by all relevant 
+parties in the prefecture reducing the incidence of the injured 
+or sick individual being transported from one hospital to 
+another seeking admission.
+Expectations toward Emergency Medical 
+Information Systems
+Adopted for the first time in Kagawa Prefecture in 2012, the 
+system has been highly rated by people involved in emergency 
+medical services. As a result, use of the system within the 
+prefecture stands at 100%.
+Improving emergency medical information systems is a 
+common concern in prefectures throughout Japan. We have 
+thus received substantial inquiries. With the aim of delivering 
+increasingly safe and reliable emergency medical services, we 
+are accelerating the pace at which we pursue improvements in 
+cooperation with people working at the emergency medical 
+service frontline.
+No. 2 Management Department, Healthcare Division
+(From left) Kenji Yahagi, Koichiro Hama, Daijiro Mishima
+Engagement for Tomorrow
+In the case of the second type of information, 
+gained from observing and monitoring the sick or injured 
+person, emergency personnel electronically record 
+handwritten information using a digital pen. By enabling 
+medical institutions to view this recorded information, 
+preparations can be made in advance to provide prompt 
+medical treatment.
+In this manner, emergency medical information 
+systems are helping to revolutionize communication at the 
+emergency frontline.
+OUR SOLUTIONS
+Paradigms for Society and
+Regional Communities
+Assisting at the Medical Frontline with Emergency Medical 
+Information Systems
+Better paradigms for smoother emergency medical services
+Emergency Medical Information Systems are Revolutionizing 
+Communications at the Emergency Frontline and Contributing to a System 
+that can Admit Patients to Hospital in the Shortest Possible Timeframe
+4-1-10
+
+087 11
+111- 1111 
+
+Digitization of Notes from Observing Sick or Injured Person 
+(Representation)
+Digital pen
+Item
+Type of accident
+Gender
+Facial appearance/expression
+Skin/body temperature
+Vomiting/incontinence
+Content
+General injury
+Male
+Pale
+Cold sweat
+Vomiting
+Visual information
+Text information
+4-1-10 
+
+087 111- 1111 
+Steps are being taken to digitize the taking of notes based on patient 
+observation without changing the existing system of taking notes by hand
+NTT DATA CSR Report 2014 16
+Data and Information
+Third-party Opinion
+Our Mission and Solutions
+Our Way

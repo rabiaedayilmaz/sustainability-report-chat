@@ -1,0 +1,54 @@
+Safety is of foremost importance to the aviation industry, which 
+is responsible for the lives and possessions of passengers. 
+Recent economic development and globalization in Southeast 
+Asia has contributed to the rapid growth of this industry in the 
+region, making improved safety an urgent issue. As a result, 
+the Southeast Asian countries are working via multiple initiatives 
+aimed at enhancing safety to establish air traffic control 
+infrastructure that secures the trust and confidence of the 
+global community. 
+One such initiative centers on improving the reliability 
+of air traffic control systems. NTT DATA has, in response, 
+provided its “flight route design” support system 
+called “PANADES.”
+The flight route design system designs optimal flight routes 
+by taking a range of parameters into account, including aircraft 
+performance, topography and structures around airports and 
+flight paths, weather, and congestion. Designing more efficient 
+routes while ensuring safety also contributes to shorter flight 
+durations, greater fuel savings, and a reduction in CO2 emissions.
+“PANADES” represents the culmination of the wealth of 
+experience and know-how that NTT DATA has amassed in the 
+field of air traffic control systems since the 1970s, and is based 
+on the international standards of the International Civil Aviation 
+Organization (ICAO). As a system that can automatically process 
+many complex computations, it has the distinct advantage of 
+shortening the time and reducing workload needed to design 
+flight routes, while delivering enhanced design quality.
+The system’s automation of calculations makes it possible 
+to create simulations for a greater number of flight paths, thus 
+enabling more efficient and safer flight route design.
+Since its launch in 2010, the system has enjoyed a good 
+reputation in Japan. In July 2011, we received an order from 
+Thailand’s Aeronautical Radio of Thailand Ltd. (AEROTHAI). This 
+has been followed by other overseas orders, including ones 
+from Indonesia and Vietnam through the auspices of the 
+Japanese International Cooperation Agency (JICA).
+We plan to expand its adoption not only in other Asian 
+countries, but also in Europe, the Middle East, Africa, and 
+elsewhere. Thanks to “PANADES”, NTT DATA will continue 
+supporting safer flight paths in the skies over a broad 
+geographical spectrum.
+Delivering safer, 
+more efficient experiences 
+in the world’s skies 
+Deploying the “PANADES” Aircraft Flight Route Design System 
+around the World
+Paradigms for Society and Regional Communities
+Paradigms for Society and Regional Communities
+Approach
+Approach 1
+P
+Special
+Feature
+12 NTT DATA CSR Report 2012

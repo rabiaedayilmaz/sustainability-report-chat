@@ -1,0 +1,54 @@
+Economy | Clients’ Growth
+SOCIAL
+ISSUES
+
+NTT DATA Sustainability Report 2023 Case Book
+Number of incidents involving 
+AI-related human rights violations
+Achieving a Society Where Humans and 
+AI Coexist in Harmony
+Click here for 
+reference article
+Generative AI, represented by ChatGPT, now boasts
+accuracy approaching human capabilities, making it
+accessible to the general user. However, its use requires
+addressing risks such as inaccurate responses leading to
+misjudgments, information leaks, and infringement upon
+the rights of others.
+NTT
+DATA
+is
+advancing
+collaborative
+trial
+implementations of innovative AI solutions with customers
+under the principles of “promotion” and “control,” actively
+supporting their business transformations. In addition, the
+NTT DATA Group is expanding and sustaining governance
+efforts, including the formulation of the NTT DATA Group’s
+AI Guidelines to facilitate the coexistence of humans and AI.
+At the AI Advisory Board comprised of external experts,
+frontline employees involved in AI projects also participate
+in discussions, contributing to concrete measures for
+governance.
+In April 2023, we established the AI Governance Office, a
+specialized organization dedicated to promoting the ethical
+use of AI. The office has developed and disseminated
+internal guidelines outlining considerations and response
+strategies for the utilization of generative AI, ensuring the
+provision of services using generative AI to customers in a
+safe and trustworthy manner.
+· Artificial intelligence (AI), with its high processing and learning capabilities, addresses challenges such as creating 
+new businesses and mitigating labor shortages. However, it also raises issues regarding user literacy and 
+regulation, including discrimination, human rights violations, and and dissemination of misinformation.
+
+Human Rights
+&
+DEI
+Trusted
+Value Chain
+AI Governance
+As of February 2024, since the establishment of the AI
+Governance Office on April 1, 2023.
+Conceptual diagram of AI governance
+NTT DATA (Japan)

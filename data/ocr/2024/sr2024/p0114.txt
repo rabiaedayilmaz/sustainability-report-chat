@@ -1,0 +1,186 @@
+Unit
+FY2020
+FY2021
+FY2022
+FY2023
+Greenhouse 
+gases
+Electricity usage
+10,000 t-CO2e*2
+23.6*4
+(21.5)
+(15.8)
+(139.4)*6
+11.9*5
+8.2*5
+30.3*5, 6
+Gas/fuel usage
+10,000 t-CO2e
+0.4*4
+0.3
+0.2
+0.2
+Heat usage
+10,000 t-CO2e
+0.2
+0.2
+0.2
+0.2
+Company vehicle usage
+10,000 t-CO2e
+0.1
+0.1
+0.1
+0.1
+Alternative CFCs, etc.
+10,000 t-CO2e
+
+Total
+10,000 t-CO2e
+24.3 
+(22.1)
+(16.3)
+(139.9)*6
+12.5*5
+8.7*5
+30.8*5, 6
+Water 
+resources
+Clean water consumption 
+(evaporation from cooling 
+equipment)
+10,000 m3
+
+Discharge amount
+10,000 m3
+
+Office waste
+Waste generation amount
+t
+3,373
+4,693
+3,592
+3,254
+Incineration/ 
+landfill amount
+t
+
+Recycling amount
+t
+3,345
+4,662
+3,559
+3,235
+Final disposal amount*3
+t
+
+Construction 
+waste
+Waste generation amount
+t
+1,457
+
+2,076
+1,941
+Recycling amount
+t
+1,206
+
+1,935
+1,801
+Final disposal amount
+t
+
+Outside NTT DATA Group
+The scope of aggregation is as follows:
+FY2020: NTT DATA and 79 Group companies (Japan and some outside Japan) 
+FY2021: NTT DATA and 79 Group companies (Japan and some outside Japan)
+FY2022: NTT DATA (all Group companies excluding NTT Ltd.); Total of 158 companies 
+FY2023: NTT DATA; Total of 602 companies
+*1 Including private power generation from FY2022
+*2 Indicates CO2 equivalent
+*3 Calculated considering thermal recycling
+*4 Increase due to expansion of overseas business scope
+*5 Electricity used by customers at data centers classified as Scope 3 from fiscal 2021 actual values
+*6 Increase due to the expanded aggregation scope resulting from integration with NTT Ltd.
+  Acquired third-party assurance 
+Energy
+Greenhouse gases (GHG)
+Service operations 
+at the client sites
+Environment
+Unit
+FY2020
+FY2021
+FY2022
+FY2023
+Energy
+Purchased electricity and 
+self-generated electricity*1
+10,000 kWh
+58,759*4
+(57,045)
+(58,582) (417,142)*6
+33,592*5
+37,223*5
+143,472*6
+Kerosene
+kl
+
+Diesel fuel (excluding 
+company vehicles)
+kl
+83*4
+
+439*4
+8,862*6
+A–C heavy oil
+kl
+
+City gas
+10,000 m3
+
+Gasoline 
+(company vehicles)
+kl
+
+Diesel fuel 
+(company vehicles)
+kl
+
+Steam, cooling and heating
+GJ
+42,680
+41,277
+38,836
+39,982
+Water resources
+Water intake
+10,000 m3
+
+Paper resources
+Copy paper
+t
+
+Flyers for clients, etc.
+t
+
+Air conditioning 
+using specific CFCs
+Number of air conditioners 
+using specific CFCs
+Units
+
+Construction 
+materials
+Construction materials, 
+cables, etc.
+Sales
+Planning/Design
+Manufacturing/Testing
+Data centers
+Installation work 
+at client sites
+Material Balance
+
+NTT DATA Sustainability Report 2024  Data Book

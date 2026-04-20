@@ -1,0 +1,113 @@
+Risk Management
+We work to precisely ascertain all risks to assure sustainable management and implement 
+optimal countermeasures.
+The NTT DATA Group seeks to ascertain all risks associated 
+with business activities and minimize their impact on 
+operations and frequency of occurrence. In 2002, we 
+appointed a Chief Risk Offi cer (CRO) to supervise and 
+promote risk management from a companywide perspective 
+and established the Risk Management Division. Risk 
+management promotion offi cers also were appointed to 
+each division and Group company to enable divisions to 
+respond proactively and independently to various risks.
+Principal division managers and risk management 
+promotion offi cers are in charge of risk management activities, 
+including the oversight of systems and procedures within their 
+scope of activity, and continuously monitor and supervise the 
+implementation status of risk management. Matters of 
+particular importance are monitored and supervised by 
+committees established to address specifi c issues. The Group 
+endeavors to enhance risk management through regular 
+reporting to the Board of Directors and Executive Committee 
+and feedback to management. Going forward, we will 
+persevere in our eff orts to construct a global risk 
+management system.
+After prioritizing major risks that have been identifi ed, NTT 
+DATA reviews the progress and achievement of targets and 
+refl ects the results in various measures. 
+In fi scal 2010, particular emphasis was placed on 
+preventing the spread of swine fl u. In April 2009, we set up a 
+Response Department to spearhead preventive measures 
+and foster awareness through such eff orts as groupwide 
+procedural manual deployment, formulation of rules for 
+reporting outbreaks and the dissemination of information to 
+employees. We will strengthen measures to respond to 
+hypothetical new, and more virulent, strains of infl uenza.
+In addition, the Company explained the business 
+continuity plan (BCP) at briefi ng sessions held at Group 
+companies as well as at NTT DATA. We also conducted 
+training to address the risk of earthquakes, covering safety 
+reporting and emergency tactics.
+Board of Directors
+Personnel in Charge
+of Promotion in
+Internal Companies
+Cost Center/Staﬀ
+Organization Personnel
+in Charge of Promotion 
+Group Company
+CROs/
+Promotion Oﬃcers
+President and Chief Executive Oﬃcer
+ (Corporate Management Committee)
+Chief Risk Oﬃcer (CRO)
+Organizations in Charge of Implementing Risk Management
+Special
+Response
+Team
+Monitoring
+Internal Committees
+Internal Audit Department
+Risk Management Division
+Board of Corporate Auditors
+Formed if 
+signiﬁcant
+risk arises
+Risk Management Structure
+Major Risks and Initiatives
+Major Risks
+Major Initiatives
+System 
+Project 
+Risks
+System 
+Failure Risk
+• Prevention: Improve system quality by internal development of product lines and construction technology during system 
+development, internal technical support from specialized divisions and thorough project management.
+• Failure Response: Establish recurrence prevention measures, ensure companywide awareness of incidents and countermeasures 
+and refl ect internal rules in system construction and operational maintenance work (for details, see page 21, “With Our 
+Customers: Disaster and System Failure Countermeasures”).
+System 
+Building 
+Risk
+• Project planning decisions and quality, progress and cost managements are conducted under the responsibility of the project 
+manager. Create structure for appropriate process confi rmation and decision-making.
+• For projects with high risk potential, including those with the risk of rising costs and declining revenue, the PMO*1 at the 
+headquarters or each internal company business sector inspects, formulates and executes an action plan from an objective 
+perspective to reduce risk.
+Information Security 
+Risks
+• As an information system provider, focus on the stable assurance of information security and the protection of personal 
+information (for details, see page 43, “Information Security”).
+Disaster Risks
+• Business Continuity Management Promotion
+• While formulating measures to prevent the infection and spread of infectious diseases such as swine fl u, establish business 
+continuity plans (BCPs) to ensure the availability of personnel handling high-priority operations to maintain the functioning of 
+core operations required by society.
+• As a provider of social infrastructure, have procedures and systems in place to ensure quick recovery of systems and 
+resumption of services in the event that an earthquake or other major disaster aff ects the Tokyo metropolitan area. To improve 
+the NTT DATA Group’s business continuity capabilities, create disaster response manuals and ensure that business continuity 
+planning incorporates corporate infrastructure.
+Legal Management 
+Risks
+• The General Aff airs Division is to employ measures to enhance the Code of Ethics and strengthen legal compliance (for details, 
+see page 41, “Compliance”).
+*1 Project Management Oﬃ ce (PMO): We have established PMOs at NTT DATA’s headquarters, each internal company and business sector to provide groupwide 
+organizational support for project managers. In cooperation with the project, the PMO strives to improve and stabilize processes.
+Risk Management Structure
+Strengthening our promotion structure through 
+cooperation among divisions and Group companies
+Countering various major risks
+NTT DATA CSR Report 2010
+
+CSR Infrastructure

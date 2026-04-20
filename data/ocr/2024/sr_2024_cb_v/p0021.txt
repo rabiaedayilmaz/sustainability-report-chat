@@ -1,0 +1,87 @@
+NTT DATA Sustainability Report 2024 Case Book
+Social issues
+Material Issues
+SDGs
+Environment
+Regenerating Ecosystems
+Supporting Green Coding in Development Pipelines to Enhance Software Quality and 
+Energy Efficiency
+NTT DATA Group Corporation
+Corporate Headquarters
+Sustainability Innovation Department
+Green IT: EcoDev
+Circular 
+Economy
+• IT accounts for 3% of global CO2 equivalent (CO2e) emissions, a figure expected to rise exponentially. This percentage is as high as 45% for Scope 2 emissions at technology-intensive
+companies, which includes industries such as banking, insurance and telecommunications.
+• Software can play a significant role in determining IT systems’ environmental impact. This has led to the establishment of the Software Carbon Intensity (SCI) standard for measuring
+carbon footprints, formed under the Green Software Foundation (GSF). The SCI Specification has been certified as the new international standard ISO/IEC 21031:2024, and the number
+of companies and organizations adopting it is expected to continue rising.
+Companies
+are
+becoming
+more
+aware
+of
+the
+environmental impact associated with software systems.
+One way to mitigate this impact is through sustainable-bydesign software with environmentally-friendly practices
+built
+into
+the
+software
+development
+lifecycle.
+While
+potential benefits include code optimization, reduced
+energy costs, and lowering of associated emissions,
+organizations have so far encountered difficulties in
+adequately following this approach, as control over the
+application of best practices in code sustainability is not
+automated
+and
+is
+almost
+entirely
+dependent
+on
+developers’ knowledge of the subject.
+Business need
+Solution
+NTT DATA has developed a conceptual framework for
+sustainable IT, with tools and capabilities dedicated to
+reducing the impact of different phases in IT lifecycles. One
+key element of this framework is EcoDev, a SonarQubebased tool for code sustainability that is designed to
+leverage static code analysis to control the implementation
+of globally-recognized best practices. EcoDev extends
+SonarQube’s capabilities by inspecting code, detecting
+violations of sustainable coding principles, and providing
+metrics to quantify code sustainability.
+The tool consists of two plugins. The Rules plugin
+includes a list of custom rules for environmentally-friendly
+coding based on internationally-recognized best practices
+from CISQ Green IT and the Green Software Foundation,
+while the Index plugin introduces the EcoDev Index (Green
+Index)
+to
+assess
+code
+quality
+from
+a
+sustainability
+perspective. EcoDev empowers organizations to ensure
+that new and existing applications are optimized for energy
+efficiency,
+thereby
+reducing
+their
+carbon
+footprint.
+Integrated directly into development pipelines, it enables
+automatic, rapid analysis to support code and architecture
+optimization, facilitating the creation of sustainable-bydesign software.
+Over 40 applications
+Number of applications with integrated mandatory green
+coding measurements
+Impact

@@ -1,0 +1,28 @@
+Paradigms for the 
+Global Environment 【Additional Topics】 
+NTT DATA CSR Report 2011 46/67 
+ 
+ 
+Development of a system to confirm the achievement of targets in the 
+Unified Domestic Emissions Trading Market 
+A system for Japan’s Pilot Operation of Unified Domestic Emissions Trading Market* was 
+put into effect in October 2008 with the aim of harnessing market mechanisms to reduce 
+CO2 emissions. 
+ 
+Under commission from the Ministry of the Environment, in March 2009 NTT DATA 
+completed development of and put into operation a system to confirm the achievement of 
+targets. This system monitors participating companies’ progress toward their emission 
+reduction targets and manages emissions trading in the marketplace. 
+ 
+Furthermore, in fiscal 2011 the Ministry of the Environment’s Japanese Voluntary 
+Emissions Trading Scheme (JVETS) was linked with the registration system. This allows 
+credits to be transferred among different systems in real time. 
+ 
+We will continue working to ensure stable operation of this system, thereby 
+supporting emissions trading among its participants. 
+ 
+* Unified Domestic Emissions Trading Market： 
+This system was put in place to enable companies and other organizations to reach their voluntary 
+emission reduction targets by trading credits for emissions beyond their domestic targets (credits), trading 
+domestic credits produced by small and medium-sized companies to reduce their emissions, and trading 
+Kyoto credits by reduced emissions on overseas projects.

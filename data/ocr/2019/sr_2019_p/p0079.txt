@@ -1,0 +1,70 @@
+▶Risks Related to Climate Change and Natural Disasters
+Potential impact 
+on business
+With the adoption of the Paris Agreement, demand for compliance with regulations related to climate 
+change is likely to grow stronger moving forward, raising the risk of costs associated with modifying 
+equipment and adding operational functions. Abnormal weather phenomena have also been on 
+the rise in recent years and could possibly cause tremendous damage or have enormously negative 
+impacts on our large-scale systems, which support social infrastructure, by shutting down power 
+supplies to our data centers in Japan and overseas or halting data centers through flooding. As a 
+result of these effects, investor demand for information disclosure regarding climate change would 
+grow, stock prices would fall as evaluations of the Company deteriorated, and terms of financing 
+from the market would worsen.
+Initiatives aimed 
+at alleviating risk, 
+etc.
+● Response to Risk Driven by Regulations
+Upgrading electric and air-conditioning units to highly efficient equipment, and response to risks 
+driven by physical impact, such as operational improvements related to air conditioning and 
+lighting
+● Response to Risk Driven by Physical Impact
+1. Identifying data centers where basements present high flood risk based on municipal hazard 
+maps and implementing flood prevention works
+2. Establishing back-up data centers in multiple locations
+3. Upgrading lightning rods at 15 NTT DATA buildings nationwide
+4. Adding data centers equipped with the latest disaster countermeasures (Mitaka)
+5. Ensuring that our emergency power generators can operate for 72 hours in case of power 
+outages and maintaining emergency fuel procurement agreements
+6. Enriching teleworking environments that enable continued operations when commuting is not 
+possible (gateway enhancement)
+● Other Risk Response
+We are actively disclosing information related to our CDP to investors. In addition, we are 
+participating in an information platform construction project sponsored by the Ministry of the 
+Environment that will enable institutional investors in Japan to utilize ESG data.
+Opportunities Related to Resource Optimization
+Our promotion of flexible workstyles that are not limited to the workplace, including teleworking 
+(working at home), is one example of the opportunities we create to reduce CO₂ emissions that 
+occur during employee commuting.
+NTT DATA is promoting Companywide utilization of teleworking, and a total of 42,600 
+employees participated in the five Telework Days in 2018. As a result, we received the Diversity 
+Management Selection 100 Prime Commendation from METI. We also received the Chairman’s 
+Award, as well as others, from the Japan Telework Association.
+Through teleworking and remote access from business trip destinations, we have reduced the 
+necessary amount of commuting and movement between buildings, which has reduced our CO₂ 
+emissions produced through commuting by 9,387 t-CO₂e (57 days of telework per year, or 23% of 
+business days). According to our estimate, reduction benefits were approximated 90 million yen. 
+CO₂ reductions from telecommuting, etc. × transaction price: Calculated at 10,000 yen/ tons-CO₂.
+ As a strategy for realizing opportunities to reduce CO₂ from commuting by implementing 
+flexible working formats not limited to specific workplaces, like telecommuting, the Company 
+participated in Telework Days mentioned earlier, conducted initiatives to promote use of trials, etc. 
+in system development divisions, consolidated the system development environment on a cloud, 
+and conducted initiatives to realize telecommuting in system development by using an “integrated 
+development cloud”, which aims at enhancing production technologies. Telework environment 
+operating costs are a minimum of ¥1.1 billion. Moving forward, through teleworking and remote 
+access from business trip destinations, we will work to reduce CO₂ emissions produced when 
+commuting and moving between buildings.
+These risks and opportunities are summarized in the table on page 79.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Environment
+NTT DATA Sustainability Report 2019

@@ -1,0 +1,67 @@
+Recent years have seen an increase in cyberattacks on 
+information systems, including through unauthorized 
+Internet access and targeted internal attacks using 
+malware. Among them, fraudulent transactions 
+conducted through online “spooﬁng”—using personal 
+information illegally acquired through information 
+leakage and/or phishing—have become particularly 
+sophisticated. With the increasing number of Internet 
+transactions and use of smartphone payments, 
+security measures against unauthorized transactions 
+and logins are urgently needed.
+ 
+In response, NTT DATA oﬀers CAFIS Brain, a 
+cloud-based service that detects fraudulent 
+transactions with high accuracy. It does this by 
+extracting information on terminals (personal 
+computers, smartphones and the like) operated by end 
+users and performing attribute/behavioral analysis in 
+conjunction with analyses of transaction information.
+ 
+This service utilizes NTT DATA’s high-security 
+data center to reduce customers’ system construction 
+and operation workloads. In addition to providing high 
+security, it helps minimize damages stemming from 
+fraudulent transactions and ensure safe and secure 
+Internet transactions, enabling customers to expand 
+their businesses more eﬃciently.
+ 
+Seeking to remain a partner that customers can 
+trust, we are striving to fulﬁll our responsibilities as 
+an advanced security company committed to both 
+ensuring information security and actively utilizing 
+and sharing information.
+¥27.38 billion
+Damage caused by fraudulent use (2019)*
+Deterring fraudulent credit card transactions in Japan
+As an advanced security company, NTT DATA oﬀers CAFIS 
+Brain, a high-precision cloud service that detects fraudulent 
+transactions and unauthorized logins. This service helps 
+ensure safe and secure Internet transactions for customers, as 
+well as reduced system construction and operation workloads.
+CAFIS Brain: Ensuring the security of 
+customer information and safe and 
+secure Internet transactions
+Adopting Company
+JSC
+JSON
+*Source: Japanese Credit Statistics (2019 Edition), Japan Consumer Credit Association
+Consumer
+Product purchase
+Website login
+New application/
+account opening establishment
+1. Acquisition of device 
+information
+3. Detection of suspicious 
+transactions
+2. Transmission of device and transaction information, etc.
+4. Transmission of suspicious transaction detection results
+5. Confirmation of suspicious transaction details and decisions 
+on whether to complete transaction
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

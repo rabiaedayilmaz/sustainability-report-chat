@@ -1,0 +1,126 @@
+Indicator
+Description
+Page
+Annual Report 
+
+Website
+GENERAL STANDARD DISCLOSURES
+G4-51
+a. Report the remuneration policies for the highest governance body and senior executives for the 
+below types of remuneration:
+ · Fixed pay and variable pay:
+ –Performance-based pay
+ –Equity-based pay
+ –Bonuses
+ –Deferred or vested shares
+ ・ Sign-on bonuses or recruitment incentive payments
+ ・ Termination payments 
+ ・ Clawbacks
+・ Retirement benefits, including the difference between benefit schemes and contribution rates for
+ the highest governance body, senior executives, and all other employees
+b. Report how performance criteria in the remuneration policy relate to the highest governance body’s 
+and senior executives’ economic, environmental and social objectives.
+P70-71
+P58
+G4-52
+Report the process for determining remuneration. Report whether remuneration consultants are 
+involved in determining remuneration and whether they are independent of management. Report any 
+other relationships which the remuneration consultants have with the organization.
+–
+G4-53
+Report how stakeholders’ views are sought and taken into account regarding remuneration, including 
+the results of votes on remuneration policies and proposals, if applicable.
+–
+G4-54
+Report the ratio of the annual total compensation for the organization’s highest-paid individual in each 
+country of significant operations to the median annual total compensation for all employees (excluding 
+the highest-paid individual) in the same country.
+–
+G4-55
+Report the ratio of percentage increase in annual total compensation for the organization’s highestpaid individual in each country of significant operations to the median percentage increase in annual 
+total compensation for all employees (excluding the highest-paid individual) in the same country.
+–
+Ethics and Integrity
+G4-56
+Describe the organization’s values, principles, standards and norms of behavior such as codes of 
+conduct and codes of ethics.
+P11-15
+http://www.nttdata.com/global/
+en/about/corporate/mission/
+index.html
+G4-57
+Report the internal and external mechanisms for seeking advice on ethical and lawful behavior, and 
+matters related to organizational integrity, such as helplines or advice lines.
+P71-72
+G4-58
+Report the internal and external mechanisms for reporting concerns about unethical or unlawful
+behavior, and matters related to organizational integrity, such as escalation through line management, 
+whistleblowing mechanisms or hotlines.
+P71-72
+SPECIFIC STANDARD DISCLOSURES
+Disclosures on Management Approach
+G4-DMA
+a. Report why the Aspect is material. Report the impacts that make this Aspect material.
+b. Report how the organization manages the material Aspect or its impacts.
+c. Report the evaluation of the management approach, including:
+ · The mechanisms for evaluating the effectiveness of the management approach
+ · The results of the evaluation of the management approach
+ · Any related adjustments to the management approach
+P22-24,
+25,27,29,39,
+42,47,4950,66-67,7172
+ 
+Economic
+Economic Performance
+G4-EC1
+Direct economic value generated and distributed
+P30,42
+P34-38
+G4-EC2
+Financial implications and other risks and opportunities for the organization’s activities due to climate 
+change
+P56-59
+G4-EC3
+Coverage of the organization’s defined benefit plan obligations
+P30
+G4-EC4
+Financial assistance received from government
+–
+Market Presence
+G4-EC5
+Ratios of standard entry level wage by gender compared to local minimum wage at significant 
+locations of operation
+–
+G4-EC6
+Proportion of senior management hired from the local community at significant locations of operation
+–
+Indirect Economic Impacts
+G4-EC7
+Development and impact of infrastructure investments and services supported
+P40-41,
+45,88
+G4-EC8
+Significant indirect economic impacts, including the extent of impacts
+–
+Procurement Practices
+G4-EC9
+Proportion of spending on local suppliers at significant locations of operation
+P28
+Environmental
+Materials
+G4-EN1
+Materials used by weight or volume
+P55
+G4-EN2
+Percentage of materials used that are recycled input materials
+P55,61
+Energy
+G4-EN3
+Energy consumption within the organization
+P55,65
+G4-EN4
+Energy consumption outside of the organization
+–
+
+Sustainability Report 2016
+NTT DATA

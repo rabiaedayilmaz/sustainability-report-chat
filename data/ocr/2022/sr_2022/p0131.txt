@@ -1,0 +1,156 @@
+Comparative Table with GRI Standards 
+
+NTT DATA Sustainability Report 2022 Data Book 
+305-1 
+Direct (Scope 1) GHG emissions 
+P049-050 
+P052-057 
+― 
+305-2 
+Energy indirect (Scope 2) GHG emissions 
+P049-050 
+P052-057 
+― 
+305-3 
+Other indirect (Scope 3) GHG emissions 
+P049-050 
+P052-055 
+P057 
+― 
+305-4 
+GHG emissions intensity 
+P036-037 
+P052-057 
+― 
+305-5 
+Reduction of GHG emissions 
+P049-050 
+P052-057 
+― 
+305-6 
+Emissions of ozone-depleting substances (ODS) 
+P052-055 
+― 
+305-7 
+Nitrogen oxides (NOx), sulfur oxides (SOx), and other 
+significant air emissions 
+P052-055 
+― 
+GRI 306 Waste 2020 
+306-1 
+Waste generation and significant waste-related impacts 
+P043-046 
+P049-050 
+P052-055 
+P057 
+― 
+306-2 
+Management of significant waste-related impacts 
+P043-046 
+P052-055 
+― 
+306-3 
+Waste generated 
+P044 
+P050 
+P052-055 
+P057 
+― 
+306-4 
+Waste diverted from disposal 
+P044 
+P052-055 
+P057 
+― 
+306-5 
+Waste directed to disposal 
+P049 
+P052-055 
+P057 
+― 
+GRI 308 Supplier Environmental Assessment 2016 
+308-1 
+New suppliers that were screened using environmental 
+criteria 
+P041-042 
+― 
+308-2 
+Negative environmental impacts in the supply chain and 
+actions taken 
+― 
+― 
+400: Social 
+GRI 401 Employment 2016 
+401-1 
+New employee hires and employee turnover 
+P087 
+P097 
+― 
+401-2 
+Benefits provided to full-time employees that are not 
+provided to temporary or part-time employees 
+― 
+― 
+ 
+401-3 
+Parental leave 
+P098 
+P106 
+Diversity, Equity and Inclusion 
+ 
+https://www.nttdata.com/global/en/Sustainability/dei/people 
+GRI 402 Labor/Management Relations 2016 
+402-1 
+Minimum notice periods regarding operational changes 
+― 
+― 
+GRI 403 Occupational Health and Safety 2018 
+403-1 
+Occupational health and safety management system 
+P091-095 
+P98 
+― 
+403-2 
+Hazard identification, risk assessment, and incident 
+investigation 
+P091-095 
+P98 
+― 
+403-3 
+Occupational health services 
+P091-094 
+P98 
+― 
+403-4 
+Worker participation, consultation, and communication on 
+occupational health and safety 
+P091-095 
+― 
+403-5 
+Worker training on occupational health and safety 
+P093 
+― 
+403-6 
+Promotion of worker health 
+P091-095 
+― 
+403-7 
+Prevention and mitigation of occupational health and safety 
+impacts directly linked by business relationships 
+P091-095 
+― 
+403-8 
+Workers covered by an occupational health and safety 
+management system 
+ 
+P091-095 
+― 
+403-9 
+Work-related injuries 
+P094 
+P098 
+― 
+403-10 
+Work-related ill health 
+P094 
+―

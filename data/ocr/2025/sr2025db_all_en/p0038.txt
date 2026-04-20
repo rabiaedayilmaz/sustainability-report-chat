@@ -1,0 +1,87 @@
+2,500
+2,000
+1,500
+1,000
+
+1,457
+
+2,076
+1,832
+1,941
+2020 2021 2022 2023 2024
+5,000
+4,000
+3,000
+2,000
+1,000
+
+3,373
+4,693
+3,592
+3,254
+3,763
+2020 2021 2022 2023 2024
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Basic Policy
+A global transition to a circular economy—addressing resource depletion through the 
+effective use of resources, while contributing to climate change mitigation and biodiversity conservation—is increasingly required. As an IT company, we strive to reuse and 
+recycle the IT equipment we use. In particular, we position IT and digital technologies as 
+part of the circular economy, and by providing services that leverage blockchain, AI, IoT, 
+and other technologies, we aim to minimize waste generation and contribute to a society 
+where resources are used and circulated sustainably. 
+Our Initiatives for Resource Circulation 
+Promoting Circular Use of IT Equipment
+As an IT service provider handling IT equipment, NTT DATA launched an IT equipment 
+reuse scheme within NTT DATA Japan Corporation in January 2025 to further promote the 
+reuse and recycling of IT equipment that is no longer in use through business activities. 
+The scheme centralizes equipment resale processing, which had previously been handled individually by each business unit, streamlining the process through a unified 
+approach. By reducing the workload for each business unit, we can promote reuse and 
+recycling more efficiently than through industrial waste processing, contributing both to 
+reducing our own waste and to advancing the circular economy. 
+ 
+In fiscal 2024, combining the above reuse scheme with other existing schemes, we 
+reused and recycled approximately 7,700 IT devices, contributing to a reduction of more 
+than 15,000 kg of electronic waste. We are also exploring the expansion of these initiatives to our operating companies outside Japan.
+Waste Reduction
+NTT DATA Group Corporation, NTT DATA Japan Corporation, and Group companies in 
+Japan are continuing initiatives such as outsourcing waste disposal to vendors with 
+higher recycling rates, in line with the NTT Group’s materiality targets, to achieve a waste 
+recycling rate of 99% or higher (including thermal recycling) by 2030. Waste recycling in 
+fiscal 2024 was as follows.
+ 
+● General and industrial waste: 99%
+ 
+● Construction waste: 95%
+ Recycling amount
+* The quantities for final disposal and amount reduced are too minor to be displayed on the graph.
+ Recycling amount 
+ Final disposal amount
+(t)
+(t)
+FY
+FY
+ 
+ Circularity
+Toward the transition to a circular economy, which is a global trend, we will work on efficient and circular use of resources. We will also work on the 
+transition to a circular economy for the entire society through solutions.
+Construction Waste
+(Waste generated from construction and demolition of 
+the Company’s own buildings)
+Office Waste*
+(Waste generated from offices and data centers)
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Circularity

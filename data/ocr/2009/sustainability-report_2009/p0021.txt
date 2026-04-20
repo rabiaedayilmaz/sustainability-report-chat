@@ -1,0 +1,112 @@
+Non-functional requirements*2, such 
+as performance, robustness and other 
+information system qualities, are highly 
+technical, difficult to realize and hard for 
+customers to understand. But without shared 
+awareness with customers, development 
+projects can require reworking and suffer 
+from time overruns, and running systems can 
+face operational difficulties. To help customers 
+visualize and understand these requirements, 
+six companies*3 launched the Non-functional 
+Requirement Grade Investigative Committee 
+in April 2008.
+In May 2009, the committee released 
+the Non-functional Requirement Grade Tool 
+to confirm shared awareness of requirements 
+Collaboration with 
+Companies Industrywide
+groups (software and hardware) and 
+technologies (procedures, tools, expertise) for 
+system construction. Moreover, we support 
+project management through in-house 
+organizations and control and systematic 
+confirmation and decision-making by project 
+managers.
+Each sector has established an 
+emergency contact system and formulated 
+response procedures. During fiscal 2009, we 
+revised procedures to reflect rules on the 
+reporting of failures to the Ministry of Internal 
+Affairs and Communications based on 
+November 2007 changes to the Regulations 
+for Enforcement of the Telecommunications 
+Business Act. Furthermore, we immediately 
+analyze the cause of any failure and publicize 
+in-house measures to prevent recurrence. 
+We reflect such findings in our provisions 
+for system construction and operation 
+maintenance processes. The Company also 
+conducts periodic internal audits to confirm 
+the thoroughness of countermeasures.
+Visualization of non-functional 
+requirements
+Linking CS surveys to improvement 
+activities
+NTT DATA conducts annual customer 
+satisfaction surveys because it believes that 
+sustainable growth stems from a company’s 
+customer orientation.
+During fiscal 2009, we distributed 300 
+questionnaires to 160 customers, with a 
+response rate of 95.7%, and conducted 
+interviews with 50. Results, expressed as 
+average evaluations for activity processes 
+comprising sales, design and development, 
+system quality, and maintenance and 
+operation, improved in all categories. The 
+overall average evaluation was 6.8 points, 
+up 0.1 point. The category of “creating 
+manuals and timely updates” improved 
+substantially. However, their evaluation on 
+“price understanding,” which has been on 
+an upward trend since the previous survey, 
+remains relatively low.
+We will continue to take the opinions 
+of customers on board, analyzing survey 
+results from various perspectives and taking 
+corrective action. We also aim to make 
+improvements through follow-up discussions 
+and other responses to the survey interviews.
+Improving Customer 
+Satisfaction
+with customers. The committee plans to 
+release a revised tool during the second half 
+of fiscal 2010.
+
+6.2
+
+6.1
+6.3
+6.7
+6.8
+(Fiscal year)
+Note: Average value for each survey item (maximum of 10 points)
+(Points)
+CS Survey Evaluation Results
+*2 Non-functional 
+requirements
+These requirements 
+specify criteria to judge the 
+operation of systems, such as 
+data volume, response time 
+and processing capacity, plus 
+hardware failure, disaster 
+countermeasures and other 
+durability factors. Achieving 
+a shared awareness of 
+these requirements with 
+customers is essential but 
+difficult, creating the need 
+for a standard method.
+*3 Six companies
+NTT DATA; FUJITSU LIMITED; 
+NEC Corporation; Hitachi, 
+Ltd.; Mitsubishi Electric 
+Information Systems 
+Corporation; and Oki Electric 
+Industry Co., Ltd.
+NTT DATA and Its Stakeholders
+NTT DATA and the Environment
+CSR Infrastructure
+NTT DATA CSR Report 2009 21

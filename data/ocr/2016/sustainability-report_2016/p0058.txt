@@ -1,0 +1,57 @@
+level, and reports its findings to the Environmental Management Promotion Office. If the Environmental Management Promotion 
+Office deems that any reported matter is likely to significantly impact the Company’s business, it draws up and submits 
+countermeasures to the Corporate Management Committee, which is the Company’s highest decision-making body.
+〈 Risks Driven by Physical Impact 〉
+〈 Offices 〉
+〈 Prioritization of Risks 〉
+〈 Products and Services 〉
+We are reducing CO² emission volume by approximately 15,150 t-CO² each year by efficiently operating office facilities through efforts 
+such as optimizing the operation of air supply and exhaust systems and optimizing the number of air-conditioners and hours of operation.
+The Environmental Management Promotion Office compiles a list of key climate change risks and opportunities together with 
+other important factors such as CO² emission volumes, financial effects and external evaluation of the Company’s response to 
+climate change. It prioritizes items based on difficulty, urgency and financial impact and then formulates proposals to address them.
+Our XECHNOR Power + FRESH HVDCR received the Minister of Economy, Trade and Industry Award in the energy-saving category 
+of the Green IT Promotion Council’s Green IT Awards 2012. This solution significantly reduces power loss from AC/DC conversion in 
+the power supply route of data centers, saving between 10% and 30% more energy than conventional UPS (uninterruptable power 
+supply) power sources that are widely used in existing data centers, and thereby further reducing CO² emissions.
+ Risks and Opportunities Related to Climate Change
+〈 Risks Driven by Regulatory Changes 〉
+Compliance with climate change regulations presents the risk of increased costs for actions such as facility upgrades and 
+additional operational functions.
+For example, under the Tokyo Metropolitan Government’s Ordinance on Environmental Preservation, large facilities are 
+required to reduce total CO² emissions from energy usage and to participate in a cap-and-trade program of emissions trading. 
+A total of eight NTT Data buildings in Tokyo are subject to the ordinance, which presents the risk of increased operating costs 
+due to measures aimed at complying with the ordinance. Costs associated with emissions trading to meet the requirements 
+for total CO² emission reductions are estimated to be approximately ¥100 million for the period between fiscal 2016 and 2021. 
+Calculations for the second compliance period were based on the need to purchase 10,000 t-CO² of credits (certificates) 
+priced at 10,000 yen/t-CO². However, we anticipate that we will be able to offset these costs against surpluses from the 
+first compliance period. To manage this risk, we are implementing measures such as upgrading to highly efficient electrical 
+equipment and air-conditioning equipment and enhancing operation of air-conditioning, lighting and other shared facilities. The 
+cost of addressing this risk for the period between fiscal 2011 and fiscal 2015 was approximately ¥1.7 billion, and reductions 
+in CO² emissions for the same period totaled 53,903 t-CO² (rate of reduction: approximately 17% from the base value set in 
+accordance with the Tokyo Metropolitan Government’s Ordinance on Environmental Preservation).
+With regard to physical impact caused by climate change, there is a risk that abnormal weather phenomena such as large 
+typhoons, flooding, heatwaves and torrential rains could shut down the power supply to data centers in Japan and the EU, 
+while flooding could halt operations at the data centers. The suspension of operations at our data centers could have an 
+impact on large-scale NTT DATA systems that sustain social infrastructures, such as financial and medical services, thereby 
+posing the risk of extensively impeding wider social systems.
+The NTT DATA Group has equipped its data centers with in-house emergency generators in readiness for power outages. 
+However, if these generators halt operations, there is a risk that our data center business continuity may be jeopardized. 
+Operation of our data centers could also be interrupted by malfunctions in equipment caused by lightning strikes. We have 
+been taking various measures to avoid these risks, such as by: (1) identifying data centers where basements present high 
+flood risk based on municipal hazard maps and implementing flood prevention works; (2) establishing back-up data centers 
+in multiple locations; and (3) upgrading lightning rods at 15 NTT DATA buildings nationwide.
+Furthermore, average global temperatures have been clearly on the rise over the past few years, posing the risk of higher 
+energy and operational costs due to air-conditioning needs at NTT DATA’s data centers, which are located around the world.
+We estimate that a temperature rise of 1°C in NTT DATA’s data centers in Japan would increase electricity usage by 5.4 
+million kWh, hiking energy costs by approximately ¥80 million. To manage this risk, we are upgrading power equipment and 
+
+Sustainability Report 2016
+NTT DATA
+Society
+Message from the President
+Company Data
+Our Way
+CSR in the NTT DATA Group
+Environment
+Governance

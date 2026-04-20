@@ -1,0 +1,101 @@
+Protect Data Privacy
+Basic Policy
+NTT DATA address data privacy protection in accordance with the NTT DATA Group Data Protection Policy (DP 
+Policy) while thoroughly implementing compliance with personal data protection regulations in various countries 
+and regions, such as the EU General Data Protection Regulation (GDPR), the California Consumer Privacy Act 
+(CCPA), the Personal Information Protection Law (PIPL) in China, and the Act on the Protection of Personal Information (APPI) in Japan.
+ 
+Specifically, we establish guidelines such as a privacy policy, requiring the proper handling of personal information in accordance with these rules, ensuring that personal data is appropriately protected across the entire 
+Group. These standards of conduct also apply to partner companies that we outsource operations to, enabling the 
+proper management of information assets.
+ 
+NTT DATA recognizes the importance of personal information and ensures the protection and safeguarding of 
+its customers’ personal information as a fundamental principle of its business and its responsibility to society. 
+Accordingly, we have established the Personal Information Protection Policy described below and ensure that all 
+our officers, employees, and business partners thoroughly understand and fully comply with the Policy.
+ Privacy Statement (Personal Information Protection Policy) 
+https://www.nttdata.com/global/en/info/privacy-statement
+As stated in NTT DATA Group Corporation’s Personal Information Protection Policy, we will clarify the purpose of 
+use of personal information to the individual and obtain consent, except in cases where there is a risk of harming 
+the rights and interests of the individual or a third party. The personal information obtained will not be used for 
+any purpose other than the one for which consent was given. Furthermore, unless mandated by laws or regulations, we will not provide the obtained personal information to third parties without obtaining prior consent from 
+the individual.
+ 
+We collect personal information only to the extent necessary to achieve the purpose of use, and after the designated retention period for its use or storage has elapsed, we will promptly dispose of or return it.
+ 
+We appropriately implement and protect safety management measures for personal information obtained 
+from our clients. Safety management measures include organizational measures, technical measures (such as 
+encryption, pseudonymization, and anonymization), and physical measures. 
+ 
+In the event that a request is made by the individual concerned regarding their personal data held by us (such 
+as for disclosure, correction, addition or removal, suspension of use, or deletion), we will respond in accordance 
+with the prescribed procedures.
+Promotion System
+Roles in Personal Information Protection (Privacy Protection)
+Representative Director and President / 
+Top management
+The representative director and president oversees personal information protection as top management 
+and appoints personal information protection managers and the personal information protection auditors.
+Personal information protection managers 
+(responsible persons)
+Appointed by the president, these officers have the responsibility and authority for the planning and 
+operation of the personal information protection management system, leading efforts in personal information protection from a Group-wide perspective. The officers appoint managers responsible for personal 
+information protection training and for handling complaints and consultations on a Company-wide basis. 
+They also direct each organizational head to oversee the handling of personal information within their 
+respective areas of operation.
+Managers responsible for personal information 
+protection training
+These managers are responsible for planning and implementing Company-wide education programs on 
+personal information protection, as well as overseeing training operations for employees and staff.
+Managers responsible for handling complaints 
+and consultations on a Company-wide basis
+These managers are responsible for receiving and addressing inquiries and complaints related to personal 
+information on a Company-wide basis.
+Personal information protection auditors 
+(Internal Audit Department)
+Appointed by the president, this role carries the responsibility and authority to conduct internal audits and 
+report findings from an impartial and objective standpoint independent of the personal information 
+protection manager.
+ [Reference page] “Ensure Information Security”
+Representative Director and President / Top management
+Personal information protection managers (responsible persons)
+Heads of organizations
+Head of Company-wide 
+complaints and 
+consultation desk
+Head of Company-wide 
+personal information 
+protection training
+Personal information 
+protection auditors 
+(Internal Audit 
+Department)
+Report
+Audit
+Audit
+Audit
+Audit
+Personal information 
+protection management organization
+Report
+NTT DATA Group Corporation
+Representative Director and President / 
+Top management
+Personal information protection managers 
+NTT DATA Japan
+Representative Director and President / 
+ Top management
+Personal information protection managers
+NTT DATA, Inc.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Environment
+Regenerating Ecosystems
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Economy
+Clients’ Growth

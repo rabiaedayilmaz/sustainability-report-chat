@@ -1,0 +1,130 @@
+With the aim of achieving decarbonization, many companies 
+are making eﬀorts to visualize GHG emissions from their 
+overall corporate activities, including Scope 3. However, 
+Scope 3 generally calculates GHG emissions by multiplying 
+the amount of activities (scale of corporate activities) by the 
+basic emission unit (market average). This makes it diﬃcult to 
+reﬂect the reduction eﬀorts of companies. On the other hand, 
+with calculation methods that can reﬂect the reduction eﬀorts 
+of companies upstream and downstream in the supply chain 
+by using the “Company-wide Emissions Allocation Method,” 
+consistent visibility and reduction of GHG emissions across the 
+entire supply chain can be achieved.
+We provide a GHG emissions visualization platform 
+C-Turtle™ for the “Company-wide Emissions Allocation 
+Method,” which allows us to combine data from our own 
+collection with data from global companies held by CDP, an 
+international NGO. By expanding the volume of emission 
+intensity per the entire sales of suppliers, companies can 
+calculate emissions more eﬃciently using the “Company-wide 
+Emissions Allocation Method.”
+CDP is a global standard for environmental information 
+disclosure that collects information on the environment from 
+companies and local governments around the world. As the 
+only premium member of the CDP supply chain in Japan and 
+as a CDP Gold Partner, we have contributed to CDP’s eﬀorts 
+to promote the visualization and reduction of GHG emissions 
+throughout the supply chain. In cooperation with CDP, we will 
+continue to provide consulting and solutions that lead to the 
+reduction of GHG emissions throughout the entire supply chain 
+to realize carbon neutrality for society as a whole.
+Amid growing interest in the visualization of company-wide greenhouse gas (GHG) emissions toward the realization of 
+decarbonization, NTT DATA provides C-Turtle™, a platform for visualizing GHG emissions in response 
+to the “Company-wide Emissions Allocation Method.” 
+This platform also enables the use of data on global companies held by CDP, an international NGO.
+Visualizing greenhouse gas (GHG) emissions 
+using data held by international NGOs reduced 
+emissions across the supply chain
+● Provides a cloud platform that automatically calculates 
+emissions from activity levels.
+● This easy-to-use operation screen eliminates the need for 
+spreadsheet software management. Automatically updates 
+emission units.
+Visualization platform for automatic emission calculations
+● It is possible to adopt the “Company-wide Emissions Allocation 
+Method” based on the supplier-speciﬁc emission intensity for 
+calculation of Scope 3 Category 1/ Category 2. The reduction 
+eﬀorts of other companies are reﬂected in our own emissions.
+● Supplier-speciﬁc emission intensity is calculated at NTT DATA 
+and managed on the platform.
+Scope 3 formula that can be reduced
+Three Features of C-Turtle™
+Scope 3* (other companies’ emissions 
+related to the business operator’s 
+business activity) share of GHG 
+emissions from corporate activities
+75%
+Source: Calculation of average emissions per company by industry based on sustainability reports of 122 companies, including SBI-certiﬁed 
+companies, RE100 member companies, and companies declaring themselves to be carbon-neutral
+*Reference: Indirect emissions other than Scope 1 (direct greenhouse gas emissions by the business operator) and Scope 2 (indirect emissions 
+associated with the use of electricity, heat, or steam provided by other companies)
+(Source: Ministry of the Environment, Green Value Chain Platform)
+● Investigates the amount of activity information that customers 
+can obtain and selects an appropriate calculation logic.
+● Responds to the TCFD disclosure. (Required Scope 3 Calculation 
+for all categories)
+Quick delivery of proven methods
+The progressive digitization of corporate activities and the 
+spread of remote work due to COVID-19 are leading 
+to an increase in communication traﬃc. While the use of 
+data centers is growing and their role is assuming greater 
+importance, they consume enormous power, which is 
+a key challenge. 
+ 
+In the global market, energy-saving measures to 
+combat climate change and reduce greenhouse gas 
+emissions are becoming important factors when selecting 
+services, making it essential to provide environmentally 
+friendly solutions.
+ 
+Mitaka Data Center EAST, one of the largest and most 
+advanced facilities in Japan, brings together NTT DATA’s 
+know-how in the construction and operation of systems 
+and data center facilities and incorporates leading-edge 
+technologies, such as AI and IoT.
+ 
+With a total ﬂoor area of 38,000 m2, the dedicated 
+data center building features a seismic isolation structure, 
+power backup, and other measures to ensure business 
+continuity in the event of a disaster. It is one of 
+Japan’s largest data centers and boasts exceptional 
+environmental performance. Natural light is used in 
+common areas, and electric power is supplied from 
+photovoltaic panels. Air-conditioning equipment needed to 
+cool the machines uses an outside air-cooling system that 
+utilizes natural energy to reduce operating time. The 
+center’s power eﬃciency is among the highest in the 
+nation, and it is the ﬁrst in Japan to receive Gold 
+certiﬁcation in the data center category of LEED, an 
+environmental performance rating system operated by 
+the U.S. Green Building Council.
+ 
+Going forward, we will increase procurement of 
+power derived from renewable energy sources. At the 
+same time, we will develop services to further reduce the 
+total power consumption of our data centers. To this end, 
+we will conduct ﬁeld tests using energy-saving IoT and 
+other technologies to visualize the operating environment 
+of servers, with the aim of reducing the energy needed for 
+cooling.
+Mitaka Data Center EAST: 
+Reduced environmental impact; 
+safe and secure operation
+We provide state-of-the-art data center services to customers while realizing sustainable operations, including by 
+using natural energy to reduce power consumption.
+16,146kg
+Annual CO2 emission reduction due to 
+use of photovoltaic panels (FY2020)
+Environment | Regenerating Ecosystems
+Environment | Regenerating Ecosystems
+Circular
+Economy
+Carbon
+Neutrality
+Carbon
+Neutrality
+Case: Mitaka Data Center EAST
+Case: C-Turtle™
+
+NTT DATA Sustainability Report 2022 Case Book
+NTT DATA Sustainability Report 2022 Case Book

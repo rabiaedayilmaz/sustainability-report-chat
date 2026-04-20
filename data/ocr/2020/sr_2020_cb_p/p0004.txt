@@ -1,0 +1,61 @@
+Using cloud-based telemedicine solutions 
+to alleviate the burden on medical professionals
+Shaping a new society amid 
+the COVID-19 pandemic
+More than 20,000
+Number of telemedicine solution users
+“ehC OS Remote Health” is a 
+cloud-based telemedicine solution 
+for medical institutions . B y 
+upgrading ehCOS Remote Health to 
+include functions dedicated to 
+C OV ID -19 an d p rov idin g the 
+solution free of charge in Europe 
+and South America, we enable 
+telemedicine to be used to treat 
+patients with mild symptoms in 
+their own homes. This helps 
+alleviate the burden on medical 
+institutions during the COVID 
+pandemic.
+In response to the worldwide spread of COVID-19 
+infections, we are strengthening the solutions we 
+provide to medical institutions with the aim of helping 
+them streamline their operations. One of these 
+solutions is ehCOS Remote Health, a cloud-based 
+telemedicine solution for medical institutions 
+developed by the everis Group, an overseas member 
+of the NTT DATA Group.
+ 
+The features of ehCOS Remote Health include a 
+self-triage function (that displays self-triage results 
+and advice when the patient inputs his/her symptoms 
+from a mobile terminal), a remote monitoring support 
+function (in which personnel from call centers and the 
+like follow up while monitoring patient input data via 
+the Web), a telemedicine function (for online meetings 
+among healthcare professionals and online medical 
+care meetings between healthcare professionals and 
+patients) and a data analytics function (using data 
+collected by the aforementioned functions, as well as 
+external data).
+ 
+As a result, mildly ill patients, who account for 
+around 80% of COVID-19 infections, can use ehCOS 
+Remote Health to monitor their symptoms and receive 
+medical treatment while at home. This helps reduce 
+the burden on medical institutions. The everis Group 
+has upgraded the solution to include various functions 
+dedicated to addressing COVID-19—such as 
+self-triage, chatbot and data analytics—and provides 
+the solution free of charge to all medical institutions 
+wishing to use it.
+ 
+We will continue stepping up eﬀorts to resolve 
+issues arising from the COVID-19 pandemic.
+Contributing to
+society through
+corporate activities
+Contributing to
+society through business
+NTT DATA Sustainability Report 2020 | Case Book

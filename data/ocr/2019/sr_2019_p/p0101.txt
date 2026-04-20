@@ -1,0 +1,81 @@
+Information Security Strategies
+Key Strategies in Fiscal 2018
+Performed annually and internally in accordance with GSP
+Group companies 
+(individual)
+NTT DATA 
+(Head Ofﬁce)
+Internal Audit Department
+• Audits are performed on targets selected based on 
+results of risk evaluations.
+• In addition to auditing based on our GSP, we 
+began to audit systems for internal fraud in 2015.
+ 
+• We monitor audit items 
+shared between Group 
+companies.
+Building of Global Security Infrastructure
+▶Internal Auditing System
+Establishment of an Escalation System to Manage Significant Incidents
+Establishment of an IT Infrastructure That Enables Quick Response to Incidents
+*1: Endpoint detection and response (EDR): A product that supports the handling of incidents by centrally managing 
+terminals and analyzing infected terminals and executing countermeasures collectively
+Information Security Education and Training
+Initiatives Aimed at Spreading Understanding among Employees and Others
+Practicing and maintaining an appropriate balance between ensuring safety of information and 
+actively utilizing and sharing information, both of which are objectives of the GSP, is essential if 
+the NTT DATA Group is to continue to be a partner to customers that aids in their evolution.
+In fiscal 2018, we focused on the issue of improving security governance in NTT DATA’s 
+global management and, as specific measures to address this issue, worked on building a 
+global security infrastructure and accelerating escalation for the management of a serious 
+incident. To prepare within the Company for cyberattacks, which are becoming increasingly 
+sophisticated and complex, we also worked to develop an IT infrastructure that will enable us 
+to speed up incident response.
+To counter increasingly sophisticated cyberattacks, we have established a Groupwide 
+infrastructure that strengthens security across NTT DATA Group locations in and outside of 
+Japan. The infrastructure comprises, firstly, the centralized management of Internet connection 
+points, which makes it possible for us to maintain a constant security level for the entire NTT 
+DATA Group. Secondly, a network with enhanced safety that enables the NTT DATA Group 
+to block connection between its locations in and outside of Japan as necessary. This allows 
+us to prevent the damage from spreading to other areas in the event of an intrusion. Thirdly, 
+an advanced log analysis solution that enables us to detect even advanced persistent threats 
+(APTs). We have introduced this solution throughout the NTT DATA Group.
+To facilitate the management of Significant incidents, we have established a common escalation 
+system for NTT DATA Group locations in and outside of Japan by setting global security rules 
+that clearly stipulate early detection and reporting. We also have incident response organizations 
+organized hierarchically, allowing an incident that a lower-level organization cannot handle to be 
+escalated to the next-level organization for support. This system helps us secure the ability to 
+quickly respond to incidents on site as well as to address very difficult incidents.
+Thanks to these escalation arrangements, roles, responsibilities, and reporting standards in 
+the event of a serious incident have been clarified, and prompt reporting from the overseas 
+regional head offices to the Head Office has been ensured.
+To prevent incidents such as sophisticated cyberattacks and massive malware infection, 
+NTT DATA has to date put its efforts into reinforcing security of its internal IT infrastructure, 
+such as strengthening terminal security and building a mechanism to constantly monitor the 
+characteristic behaviors of malware.
+We have also reviewed and improved our initial response to malware infection by building a 
+mechanism to separate and control the network environment at an early stage and introducing 
+endpoint detection and response (EDR)*¹. EDR automates security patch management on a 
+terminal-by-terminal basis and applies patches to unpatched terminals remotely. EDR can also 
+detect and automatically isolate unpatched terminals.
+The NTT DATA Group provides information security education for employees, business 
+partners, and temporary workers. We have delivered this education and training via e-learning 
+and classroom instruction to promote understanding of the Group’s policy on the protection of 
+personal information, the rules contained in the GSP, and the need to be constantly aware of 
+the importance of information security in one’s work. In fiscal 2018, we continued implementing 
+a broad range of measures with the primary aim of ensuring that every employee is aware of 
+the basic actions required to maintain information security.
+
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+Governance
+NTT DATA Sustainability Report 2019

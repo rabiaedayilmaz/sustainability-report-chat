@@ -1,0 +1,183 @@
+Environment 
+
+NTT DATA Sustainability Report 2020 Data Book 
+Risk 6 
+Loss of 
+reputation due 
+to delayed 
+responses 
+Transitio
+nal risk 
+Delays in responding to 
+increasing requests for ESG 
+information disclosure from 
+investors might result in loss of 
+reputation and a consequent 
+decline in our share price. 
+Short 
+term 
+Virtually 
+certain 
+Medium
+–high 
+If the price of our shares held by overseas investors 
+were to fall by 0.1%, the impact on the Company’s 
+market capitalization would amount to around ¥250 
+million. 
+Note: Based on 1,402,500,000 outstanding shares 
+as of March 31, 2020. 
+ 
+Expenses related to investor requests for corporate 
+information regarding climate change are about ¥20 
+million. 
+Opportu
+nity 1 
+Increase in 
+demand for 
+energyefficient data 
+centers 
+Opportu
+nity to 
+increase 
+demand 
+for 
+services 
+Demand for data centers might 
+increase because the 
+enforcement of the Paris 
+Agreement will necessitate the 
+improved efficiency of IT 
+systems, which account for a 
+large proportion of corporate 
+energy consumption. 
+Short 
+term 
+Likely 
+High 
+In fiscal 2019, sales from our data centers and 
+related services amounted to ¥57.5 billion. Due to 
+the COVID-19 crisis, we expect such sales to dip 
+temporarily, to ¥57.0 billion in fiscal 2020. However, 
+we believe that sales will grow further in fiscal 2021 
+and beyond alongside increased demand for 
+outsourcing to energy-efficient data centers. 
+We build and operate data centers with high 
+environmental performance, including the Mitaka Data 
+Center. In fiscal 2019, total R&D expenses for 
+elemental technologies of green data centers, 
+including AI/IoT, deep learning and virtualization 
+technologies, amounted to around ¥21.8 billion. 
+Opportu
+nity 2 
+Increase in 
+demand for 
+cloud services 
+due to more 
+frequent 
+abnormal 
+weather 
+events 
+Opportu
+nity to 
+increase 
+demand 
+for 
+services 
+The use of cloud-based data 
+centers, which offer a high level 
+of safety and protection of 
+corporate data from being lost 
+due to typhoons, localized heavy 
+rains and other abnormal 
+weather events, could 
+accelerate. 
+Short 
+term 
+Virtually 
+certain 
+High 
+The NTT DATA Group’s cloud computing service 
+sales were ¥613.0 billion in fiscal 2019. Due to the 
+COVID-19 crisis, we expect such sales to dip 
+temporarily, to ¥610.0 billion in fiscal 2020. However, 
+we believe that sales will grow again in fiscal 2021 
+and beyond. 
+From fiscal 2009 to fiscal 2016, we invested more 
+than ¥10.0 billion in cloud computing services. 
+Opportu
+nity 3 
+Increase in 
+demand for 
+smart meters 
+Opportu
+nity to 
+increase 
+demand 
+for 
+services 
+Growing concern about climate 
+change and rising energy costs 
+could lead to accelerated 
+improvements in the efficiency of 
+social infrastructure. 
+Long 
+term 
+Virtually 
+certain 
+High 
+We receive orders for smart meter operation 
+management systems and opportunities to plan 
+cloud services for electric power companies. We aim 
+to generate ¥10 billion in cumulate sales over five 
+years (from 2018) for all services related to the 
+deregulation of Japan’s electricity retail sector. Over 
+the next 10 years, we expect the everis Group to 
+generate around €500 million (¥60 billion) in 
+cumulative sales of information technology–based 
+services related to the transmission and distribution 
+of gas and electricity. Across the Group, we expect 
+climate-related opportunities using information 
+technology, such as smart meters for the electricity 
+and gas industries, to generate sales of more than 
+¥70 billion. 
+ 
+In fiscal 2019, total R&D expenses amounted to ¥21.8 
+billion. These included R&D on technologies related to 
+smart cities, such as AI/IoT technologies for smart 
+meter operation and management, automated driving, 
+and traffic congestion prediction and mitigation 
+simulation. 
+Opportu
+nity 4 
+Attracting 
+talented 
+human 
+resources 
+Opportu
+nity to 
+attract 
+human 
+resource
+s 
+The adoption of teleworking and 
+other flexible workstyles might 
+provide opportunities to attract 
+human resources. 
+Medium 
+term 
+Virtually 
+certain 
+Medium
+–high 
+We embrace a Companywide approach to 
+teleworking to realize flexible workstyles and reduce 
+CO2 emissions from commuting. We estimate that 
+the decline in business travel due to teleworking and 
+online meetings has led to a CO2 emission reduction 
+benefit of around ¥120 million. 
+The cost of providing teleworking arrangements, 
+including participating in Telework Days and using our 
+Integrated Development Cloud for centralized system 
+development, was ¥1.1 billion. 
+ 
+Note: Time horizons: Short term: Less than 1 year; Medium term: 1–3 years; Long term: 3–13 years

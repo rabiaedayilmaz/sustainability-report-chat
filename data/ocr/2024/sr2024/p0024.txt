@@ -1,0 +1,51 @@
+Toward Achieving Sustainable IT
+To reduce environmental impact in a society where digitalization is accelerating, NTT DATA has been intensifying 
+efforts to reduce GHG emissions across various IT systems, including data centers, hardware such as IT equipment, and software. Specifically, we analyze the current state of GHG emissions, identify areas where reductions 
+are possible, define priority areas for action based on the analysis, and then execute GHG emission-reduction 
+initiatives accordingly. NTT DATA, through our own initiatives, aims to reduce environmental impact across our 
+clients and the broader IT landscape within society.
+Green Data Centers® 
+With the advancement of digitalization, the rapid growth in demand for data processing, storage, and communication services provided by data centers has resulted in an increase in GHG emissions, in tandem with energy consumption. In October 2022, we integrated NTT Ltd., which operates data center businesses globally, establishing a 
+framework to meet the digital demands of our clients and society. In fiscal 2023, we commenced operations at 13 
+data centers located in India, Germany, the United States, and Malaysia, providing services across approximately 
+30 cities worldwide, with a scale of about 120 facilities and around 1,120 MW. We ensure the safety and security of 
+systems that serve as social infrastructure while promoting energy efficiency, energy conservation, and the introduction of renewable energy. Our goal is to achieve net-zero direct and indirect emissions (Scope 1 and 2) from 
+our data centers by 2030. By providing clients with sustainable data centers, we also contribute to reducing GHG 
+emissions for both our clients and society as a whole.
+ [Reference page] Sustainability Management “Spreading Sustainability Awareness”
+Efforts to Achieve NTT DATA NET-ZERO Vision 2040
+Examples of Initiatives to Achieve Net-Zero by 2040
+Note: Details of each initiative will be explained in the following sections.
+Scope 1 
+and 2
+(NTT DATA)
+● Optimize energy consumption through digital technology in data centers and similar facilities 
+● Achieve a 100% implementation rate for renewable energy at data centers and offices
+Scope 3 
+Upstream (Suppliers)
+● Reduce power consumption through the development of green software,*1 efficient power use, and 
+scaling back of hardware use through consolidation
+● Prioritize procurement from suppliers who are reducing emissions at the same level as NTT DATA (SBT 
+1.5°C approved level)
+Downstream (usage and disposal of services provided to clients)
+● Facilitate fundamental measures such as moving IT services to the cloud to reduce GHG emissions at 
+client sites and shifting business models from equipment sales to service provision
+● Introduce renewable energy for the services used by our clients as a GHG emission-reduction partner
+● Contribute to reductions in client emissions through sustainable IT*2, which enables visibility of GHG 
+emissions and enhances energy efficiency
+*1 The Green Software Foundation is a global nonprofit organization focused on promoting green software and building an ecosystem for its realization. It defines green 
+software as software with low GHG emissions. The main characteristics of green software are 1) power consumption by the software itself is low; 2) the software uses 
+fewer hardware resources; and 3) the way power is used is optimized, with the software running on electricity derived from renewable energy.
+*2 Sustainable IT refers to IT systems designed to reduce social and environmental impact across their components, including data centers, hardware, and software.
+Contents
+Appendix
+Corporate Governance
+Society
+Inclusive Society
+Economy
+Clients’ Growth
+Sustainability Management
+NTT DATA Sustainability Report 2024  Data Book
+
+Environment
+Regenerating Ecosystems

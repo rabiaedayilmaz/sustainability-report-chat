@@ -1,0 +1,38 @@
+Environment | Regenerating Ecosystems
+
+NTT DATA Sustainability Report 2022 Data Book 
+ 
+Main Initiatives 
+ 
+We utilize digital technology to help clients and society as a whole achieve carbon neutrality and strengthen resilience to climate change 
+(Green Innovation by IT), while at the same time promoting our own carbon-neutral initiatives (Green Innovation of IT). 
+Under Green Innovation by IT, we started offering green consulting services in January 2022. Here, we provide comprehensive 
+broad-ranging support to our clients, from decarbonization strategy and scenario planning and formulation to emission reduction support 
+using digital technology, delivery of solutions (such as visualization and optimization of electricity consumption), and implementation of 
+specific measures. Under Green Innovation of IT, we are reducing power consumption in our data centers through smart air-conditioning 
+control systems that make full use of AI technologies and cooling systems using immersion cooling methods. 
+We also actively engage in various initiatives aimed at reducing GHG emissions throughout the supply chain in diverse industries in 
+society and promoting visibility of such emissions. These include industry standardization efforts through membership in organizations 
+(we became a CDP Gold Accredited Solutions Provider and a member of the Green × Digital Consortium), as well as mechanism 
+development and entrenchment. 
+ 
+ Contribution through Support to Clients (Green Innovation by IT) 
+Three steps are required to decarbonize a company’s business activities: visualization of GHG emissions, setting of reduction targets and 
+plans, and implementation of those plans. As the foundation for reduction planning and implementation, visualization is an important first 
+step. C-Turtle™ is a GHG emissions visualization platform that we offer as part of our green consulting services. This platform enables 
+construction of optimal calculation methods according to business characteristics and data held. It also enables emissions reduced by 
+supplier companies to be properly included in the emission reduction calculations of procuring companies. 
+Meanwhile, we are enhancing our green consulting services for the manufacturing industry. Here, we use the ENERGY CLOUD™ 
+AI solution offered by Mitsubishi Heavy Industries, Ltd. This solution enables optimal capital investment planning by simulating emissions, 
+costs, and production volumes when changing fuel and equipment configurations. It enables advanced visualization and reduction of 
+Scope 1 and 2 emissions by creating a digital twin model of operating conditions from actual measured data through simulation-based 
+optimization along with real-time monitoring of manufacturing plants. It can also determine carbon footprint by not only product but also 
+production period and production line, enabling detailed and highly accurate information linkage downstream in the supply chain, thus 
+contributing to advanced visualization of the entire supply chain and reduced emissions. 
+ 
+Carbon footprint (CFP): A system that converts the amount of GHG emissions throughout the entire life cycle of products and service (from procurement of raw 
+materials to disposal and recycling) into a CO2 equivalent and displays it on the products and service in an easy-to-understand manner. 
+ 
+ 
+Offering Green Consulting Services and GHG Emissions Visualization Platform “C-Turtle™” 
+to Achieve Carbon Neutrality in Society

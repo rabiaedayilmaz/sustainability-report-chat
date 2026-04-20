@@ -1,0 +1,49 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+ 
+ Climate Change Risks and Response 
+ 
+Delays in responding to increasing requests for ESG information disclosure from investors might 
+result in a loss of reputation and a consequent decline in our share price, as well as deterioration in 
+fundraising conditions. 
+ 
+Assumed business and financial impacts 
+There is increasing demand among investors for companies to disclose information related to climate change. If there is a delay 
+in responding to such demand or our efforts to reduce GHG emissions are deemed insufficient, we face the risk of a falling 
+reputation among investors, which might lead to declines in our stock price and deteriorating conditions for raising funds in the 
+capital market. 
+Corporations outside Japan account for 12.94% (as of March 31, 2023) of our share ownership, and investors outside Japan 
+tend to be more active in ESG investing than Japanese investors. Therefore, a loss of reputation from investors outside Japan 
+might lead to a decline in our stock price and a fall in our corporate value. 
+In addition, Japanese financial institutions account for 20.10% (as of March 31, 2023) of our share ownership. Because 
+financial institutions in Japan have started joining the Partnership for Carbon Accounting Financials (PCAF), there is a risk that 
+the Company’s corporate value might fall due to a decline in reputation by financial institutions in Japan. 
+ 
+●Financial impact 
+If our stock price were to decline 1% due to a lower reputation by investors outside Japan and financial institutions in Japan, we 
+estimate that our market capitalization would decline by ¥24 billion* (fiscal year-end). 
+*Estimated based on 1,402,500,000 shares outstanding (as of September 30, 2022) 
+ 
+ 
+Measures and costs 
+Establishment of the Green Innovation Office, a dedicated organization for green initiatives, and promotion of internal 
+initiatives 
+In addition to its existing Green Action Committee (formerly Climate Action Committee), in October 2021 we established the 
+Green Innovation Office, a dedicated organization tasked with quickly responding to investor requests for climate-related 
+information disclosure and accelerating efforts to reduce GHG emissions. In response to disclosure requirements, the 
+organization is streamlining the process of calculating and visualizing our GHG emissions and promoting action on climate 
+change. We aim to contribute to solving climate change issues for our clients and society through supporting business 
+development and technological innovation in green initiatives. 
+ Initiatives of the Green Innovation Office 
+ 
+●Costs 
+The Green Innovation Office is engaged in various initiatives that include developing and providing services aimed at accelerating 
+the transition to greener solutions for our clients and society, as well as promoting innovation for GHG emission visualization 
+and reduction actions aimed at achieving our own net-zero goal. We have allocated ¥5 billion in the current medium-term 
+management plan for activity and innovation-based investments by the Green Innovation Office. 
+ 
+ 
+Risk 1: Loss of reputation due to delayed responses 
+[Transitional risk: Reputational] 
+Time horizon: Short term

@@ -1,0 +1,137 @@
+Comparative Table with GRI Standards 
+
+NTT DATA Sustainability Report 2022 Data Book 
+P098 
+GRI 404 Training and Education 2016 
+404-1 
+Average hours of training per year per employee 
+P097 
+― 
+404-2 
+Programs for upgrading employee skills and transition 
+assistance programs 
+P087-090 
+― 
+404-3 
+Percentage of employees receiving regular performance 
+and career development reviews 
+P090 
+P095 
+― 
+GRI 405 Diversity and Equal Opportunity 2016 
+405-1 
+Diversity of governance bodies and employees 
+P097 
+P105-108 
+P113-115 
+Diversity, Equity and Inclusion 
+ 
+https://www.nttdata.com/global/en/Sustainability/dei/people 
+Governance 
+ 
+https://www.nttdata.com/global/en/sustainability/governance 
+Governance Report 
+ 
+https://www.nttdata.com/global/en/-
+/media/nttdataglobal/1_files/investors/corporategovernance/ga220617-02.pdf 
+405-2 
+Ratio of basic salary and remuneration of women to men 
+P097 
+― 
+GRI 406 Non-discrimination 2016 
+406-1 
+Incidents of discrimination and corrective actions taken 
+― 
+― 
+GRI 407 Freedom of Association and Collective Bargaining 2016 
+407-1 
+Operations and suppliers in which the right to freedom of 
+association and collective bargaining may be at risk 
+P080-083 
+P101-103 
+― 
+GRI 408 Child Labor 2016 
+408-1 
+Operations and suppliers at significant risk for incidents of 
+child labor 
+P080-083 
+P101-103 
+― 
+GRI 409 Forced or Compulsory Labor 2016 
+409-1 
+Operations and suppliers at significant risk for incidents of 
+forced or compulsory labor 
+P080-083 
+P101-103 
+― 
+GRI 410 Security Practices 2016 
+410-1 
+Security personnel trained in human rights policies or 
+procedures 
+― 
+― 
+GRI 411 Rights of Indigenous Peoples 2016 
+411-1 
+Incidents of violations involving rights of indigenous 
+peoples 
+― 
+― 
+GRI 413 Local Communities 2016 
+413-1 
+Operations with local community engagement, impact 
+assessments, and development programs 
+P109-110 
+― 
+413-2 
+Operations with significant actual and potential negative 
+impacts on local communities 
+― 
+― 
+GRI 414 Supplier Social Assessment 2016 
+414-1 
+New suppliers that were screened using social criteria 
+P080-081 
+― 
+414-2 
+Negative social impacts in the supply chain and actions 
+taken 
+― 
+― 
+GRI 415 Public Policy 2016 
+415-1 
+Political contributions 
+P086 
+― 
+GRI 416 Customer Health and Safety 2016 
+416-1 
+Assessment of the health and safety impacts of product 
+and service categories 
+P064-067 
+― 
+416-2 
+Incidents of non-compliance concerning the health and 
+safety impacts of products and service 
+― 
+― 
+GRI 417 Marketing and Labeling 2016 
+417-1 
+Requirements for product and service information and 
+labeling 
+― 
+― 
+417-2 
+Incidents of non-compliance concerning product and 
+service information and labeling 
+― 
+― 
+417-3 
+Incidents of non-compliance concerning marketing 
+communications 
+P086 
+― 
+GRI 418 Customer Privacy 2016 
+418-1 
+Substantiated complaints concerning breaches of 
+customer privacy and losses of customer data 
+P074-078 
+―

@@ -1,0 +1,99 @@
+Users
+Computer resources
+Network
+PC
+PC
+PC
+PC
+PC
+Servers
+Network equipment
+Operating system
+Middleware
+Application infrastructure
+Applications, etc.
+Environmental Sector
+Environmental preservation initiatives are important for all of 
+society. We help to reduce the environmental impact of our 
+customers, and society as a whole, by developing technology and 
+services that support customers’ 
+environmental management and 
+preservation activities. We also assist 
+information transmission and 
+propose other ways to reduce 
+environmental impact through the 
+eff ective use of IT.
+Major Systems and Services
+• Ecology Express (a comprehensive environmental information website)
+• Greenhouse gases emissions trading support system
+• Environmental management consulting
+• Environmental impact reduction solutions • Environmental monitoring systems
+Telecommunications Sector
+Mobile phones continue to off er increasingly diverse and 
+sophisticated functions, which now include email, web access 
+and settlement services. We enhance user convenience by 
+creating and operating system 
+platforms that enable the stable 
+operation of these functions. Our 
+advanced technologies are also 
+instrumental in the development of 
+next-generation networks (NGNs).
+Major Systems and Services
+• Platform system supporting DCMX NTT DOCOMO Mobile Credit Service
+• Billing system (provides billing invoice data, billing system)
+• Customer management system • NGN operation system
+Payment Sector
+NTT DATA develops and operates large-scale network systems that 
+support Japan’s fi nancial and economic infrastructure by linking 
+payments and receipts among fi nancial institutions, retail and 
+credit companies and governmental 
+agencies. We are also working 
+toward a cashless society by 
+developing electronic money centers 
+and credit card verifi cation systems.
+Major Systems and Services
+• The Zengin Data Telecommunications System (a nationwide online processing 
+system for domestic fund transfers among Japanese fi nancial institutions)
+• ANSER (automated notifi cation service for deposits, withdrawals and transfer 
+requests)
+• CAFIS (integrated network system for credit card transactions)
+• Integrated ATM Switching Service
+Infrastructure to Support 
+an Array of Industries 
+We supply platforms and solutions that support advanced IT 
+services to customers across a diversity of sectors, and that are 
+independent of industry and business category. In fi scal 2011, we 
+commenced full-blown services utilizing cloud computing, which 
+is heralded as a new IT infrastructure. Leveraging our experience 
+and expertise in infrastructure 
+systems for corporations, 
+construction and operation of 
+shared-use centers and other fi elds, 
+we off er optimal cloud services 
+attuned to customer needs.
+Major Systems and Services
+• BIZXAAS, a comprehensive cloud-computing service
+• Green Data Center Service
+Manufacturing, Distribution 
+and Service Sectors
+We provide a diverse range of support—from consulting to 
+systems development and the provision of IT services—to help 
+our customers develop their businesses. In these ways, we 
+address customers’ needs to rationalize and streamline their 
+production, sales, logistics and 
+other business processes, as well 
+provide end-user needs analysis 
+and settlement system 
+optimization.
+Major Systems and Services
+• ERP solutions • Global business intelligence services
+• Global EC solutions • Workfl ow systems
+• Smart card/wireless settlement solutions (e-money and point management)
+• Pharmaceutical industry data exchange system JD-NET
+• EDI for the consumer-electronics industry
+Accessing various computer 
+resources via a network
+Cloud Computing Overview
+Note: DCMX is a trademark or registered trademark of NTT DOCOMO, INC., in Japan and 
+other countries.
+NTT DATA CSR Report 2010 7

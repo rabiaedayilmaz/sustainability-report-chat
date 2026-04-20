@@ -1,0 +1,90 @@
+Primary Support Initiatives in the Aﬀected Regions 
+Principal Power-Saving Measures
+● Rotating partial closure of oﬃce ﬂoors
+● Work-style innovation (active take-up of teleworking)
+● Switching to notebook PCs
+● Distributing personal LED desk lights
+● Changing air conditioning settings, consolidating 
+server equipment, etc.
+NTT DATA responded to summer power supply restrictions 
+by establishing the Electric Power Restriction 
+Countermeasures Headquarters to enact power-saving 
+measures at oﬃces and data centers within the service areas 
+of Tokyo and Tohoku electric power companies. At our 
+oﬃces, we targeted a reduction of 30% or more, compared 
+with peak power used during the previous year. We also 
+introduced further measures to reduce power use at our 
+head oﬃce in Toyosu. (These measures were in eﬀect from 
+July 1 through September 22, 2011.)
+At data centers, we prioritized the stable operation of 
+customers’ systems. To achieve this, we introduced 
+measures to save as much power as possible by boosting air 
+conditioning and operating eﬃciencies.
+Power-Saving Measures
+Using IT
+Supporting Schools in the Aﬀected Regions
+We have made available the FairCast Child Safety 
+Communication Network to help schools in the aﬀected 
+regions maintain contact with students’ parents and 
+guardians. We are providing this service free of charge until 
+March 31, 2012 (for 61 schools, as of June 30, 2011).
+Supporting the Recovery of Municipal Governments
+● Providing Satellite Image Maps of the 
+Aﬀected Regions
+In a joint project with the Remote Sensing Technology Center of 
+Japan, we prepare satellite image maps of the coastal areas of 
+Iwate, Miyagi and Fukushima prefectures, making them freely 
+available via a website on March 31, 2011. These maps allow users 
+to compare the state of urban areas before and after the 
+earthquake. This aids in formulating recovery plans and the sharing 
+of regional information. 
+● Providing Disaster Response Information Service
+NTT DATA, NTT DATA TOHOKU CORPORATION, the Japan Weather 
+Association and HALEX Corporation have built and made available 
+a service that constantly monitors Japan Meteorological Agency 
+information, analyzes the risk of damage from heavy rainfall and 
+provides notiﬁcation to oﬃcials in local municipalities. We are 
+providing this service free of charge for a certain period to 
+municipal governments in the aﬀected regions. 
+Supporting Medical Care in the Aﬀected Regions
+To assist the care being provided at evacuation centers by 
+Fukushima Medical University, we have made available free 
+of charge a mobile medical care support system that uses 
+cloud services and tablet terminals so that medical 
+professionals can refer to past examination memos.
+By Collecting Donations and through 
+Volunteer Activities
+Supporting the “sinsai.info” Project
+“sinsai.info” is a website*1 that accumulates disaster-related 
+and geographical information to support rescue eﬀorts by 
+volunteers, Japan’s Self-Defense Forces and rescue teams 
+from other countries. Numerous Group employees 
+volunteer to facilitate the operation of this site.
+Providing Support for Recovery Concerts
+NTT DATA, NTT DATA TOHOKU CORPORATION and the 
+Mori Trust Group 
+sponsored activities by 
+the Sendai 
+Philharmonic 
+Orchestra during May 
+and June of 2011. 
+During this period, we 
+sponsored concerts 
+and set up a special 
+site to provide 
+video feeds.
+Using Agricultural Products from the Aﬀected Regions 
+in Employee Cafeterias
+To assist the aﬀected regions, on April 27, 2011, the NTT 
+Group began prioritizing the use of non-restricted 
+agricultural products from Fukushima, Ibaraki and Tochigi 
+prefectures at its employee cafeterias.
+*1 Operated by OpenStreetMap Foundation Japan, of which an NTT 
+DATA employee voluntarily serves as director, this site became active 
+at 19:07 on March 11, 2011.
+Special recovery concert site
+WEB
+http://www.nttdata.co.jp/earthquake/index.html?fm=sstopc
+For Further Details (Japanese only)
+
+NTT DATA CSR Report 2011

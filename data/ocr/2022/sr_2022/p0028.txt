@@ -1,0 +1,216 @@
+Environment | Regenerating Ecosystems 
+e 
+ 
+ Climate-Related Risks and Opportunities 
+Risks 
+and 
+Opportunities 
+Type 
+Outline 
+Time 
+Horizon 
+Likelihood 
+of 
+Occurrence
+Degree of 
+Impact 
+Our Approach to Financial Impact 
+Financial Impact 
+Our Approach to Countermeasures 
+Countermeasure 
+Costs (FY2022–
+25; cumulative) 
+Risk 1 
+Loss of 
+reputation 
+due to delayed 
+responses 
+Transitional risk 
+(Reputation) 
+Any delay in responding to investor 
+requests for ESG information 
+disclosure could lead to loss of 
+reputation and a decline in share 
+price. 
+Short term
+Virtually 
+certain 
+High 
+Delays in responding to climate change will result in lower 
+evaluation by foreign ESG investors and domestic financial 
+institutions. 
+Our calculation is based on a 1% decline in market capitalization 
+due to lower valuations from foreign investors and domestic 
+financial institutions. 
+Market 
+capitalization 
+–¥34 billion 
+Establish the Green Innovation Office1 as a 
+dedicated organization to accelerate the NTT 
+DATA Group’s response to decarbonization 
+and greening of clients and society through the 
+supply chain; engage in activities spearheaded 
+by the Climate Action Committee 
+¥5 billion 
+Risk 2 
+Data center 
+shutdown 
+due to abnormal 
+weather 
+Physical risk 
+(Acute) 
+Large typhoons, floods, heat waves, 
+torrential rains, and other abnormal 
+weather events increase the risk of 
+data center operational shutdown 
+due to power outages, flooding, and 
+lightning strikes. 
+Short term
+Virtually 
+certain 
+Medium–
+high 
+We have locations in high-risk areas cited in the IPCCʼs Sixth 
+Assessment Report and have taken various measures, including the 
+creation of hazard maps, to ensure business continuity. 
+Our calculation of impact on net sales is based on a five-day 
+shutdown of major data centers located mainly in the Tokyo 
+metropolitan area. 
+Net sales 
+–¥13 billion 
+Maximize BCP for data centers, offices, 
+telecommunications, etc.; allocate expenses 
+for enhancing and renewing data centers, 
+remote access, and maintenance 
+environments, etc. 
+¥8 billion 
+Risk 3 
+Increase in 
+costs due to 
+carbon pricing 
+(e.g., carbon tax)
+Transitional risk 
+(Regulatory) 
+To comply with the Paris Agreement, 
+domestic regulations will be 
+significantly tightened and the cost 
+burden for CO2 emissions will 
+increase. 
+Long term
+Virtually 
+certain 
+Medium–
+high 
+The consensus across global society is that net-zero emissions 
+must be achieved by 2050, and companies are facing growing calls 
+to comply with corresponding laws and regulations. 
+We calculate the estimated cost impact by multiplying remaining 
+emissions (FY2022–2040) by the carbon price under the IEAʼs NetZero Emissions by 2050 Scenario. 
+Note: FY2022–2040: –¥70 billion (cumulative) 
+FY2022–2025 
+–¥7 billion 
+Reduce carbon emissions through energy 
+conservation and introduce renewable energy 
+to decarbonize our own supply chain 
+¥5 billion 
+Opportunity 
+
+Increasing 
+needs to create 
+sustainability- 
+related offerings
+Increasing 
+demand for our 
+products and 
+services 
+Increasing needs to create new 
+offerings to address accelerating 
+decarbonization efforts across society 
+and business 
+Short term
+Very likely
+High 
+We anticipate accelerated decarbonization efforts by our clients, 
+growth of sustainability-related businesses in various industries, and 
+increasing opportunities for digital technology applications due to 
+technological innovation. 
+Our calculation assumes the impact on net sales of creating new 
+sustainability-related offerings in fiscal 2025. 
+Net sales 
+(FY2025) 
++¥200 billion 
+Invest to develop technologies and create 
+sustainability-related offerings that contribute 
+to climate change adaptation and mitigation 
+for society as a whole and for individual 
+companies 
+¥32 billion 
+Opportunity 
+
+Increasing 
+demand of 
+consulting 
+service for 
+sustainable 
+future 
+Increasing 
+demand for our 
+products and 
+services 
+Increasing opportunity to provide 
+consulting services due to growth of 
+sustainability-related businesses in 
+industry 
+Short term
+Very likely
+Medium–
+high 
+We anticipate an increase in opportunities to provide consulting 
+services due to growth in sustainability-related businesses in 
+various industries. 
+Our calculation is based on our assumption that sustainabilityrelated consulting would account for a certain share of overall 
+consulting sales. 
+Net sales 
+(FY2025) 
++¥20 billion 
+Invest in measures to strengthen consulting, 
+such as personnel development for 
+sustainability-related consulting, and 
+organizing environment for development. 
+¥4 billion 
+Opportunity 
+
+Increasing needs 
+for resilient cloud 
+services (e.g., 
+carbon tax) 
+Increasing 
+demand for our 
+products and 
+services 
+Increasing opportunity to provide 
+resilient cloud services due to a 
+growing number of large-scale 
+disasters caused by extreme weather 
+events 
+Short term
+Very likely
+High 
+In addition to increasing abnormal weather events, such as 
+typhoons and localized torrential rains, there is growing demand for 
+decarbonization efforts, including shared equipment use and 
+consolidation to conserve energy, as well as the introduction of 
+renewable energy. These factors underscore a growing need for 
+resilient and low-carbon cloud computing services. 
+Our calculation is based on our assumption of an increase in cloudrelated sales for the entire Group. 
+Net sales 
+(FY2025) 
++¥150 billion 
+Invest to develop cloud-related technologies, 
+strengthen global delivery centers, and in other 
+cloud-related areas 
+¥9 billion 
+[Time horizons] Short term: FY2022–2025; Medium term: FY2026–2030; Long term: FY2031–2050 
+1. Effective from July 2022, the scope of initiatives has expanded as the Sustainability Management Department to facilitate a global integrated response to climate change. 
+
+NTT DATA Sustainability Report 2022 Data Book

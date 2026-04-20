@@ -1,0 +1,122 @@
+Our Basic Stance
+Pursuing a balance between 
+information security and sharing
+The growing prevalence of information 
+technology in every corner of society is 
+accompanied by an increase in security risk. 
+While it is essential that we respond to these 
+risks, focusing too much on information 
+security reduces information utility and 
+sharing, impeding the flow of beneficial 
+information and expertise.
+To attain a balance between ensuring 
+information security and information 
+utility and sharing, the NTT DATA Group is 
+undertaking an array of initiatives based on a 
+two-pronged approach comprised of “logical 
+measures” such as the formulation of rules, 
+education and promotional activities, as well 
+as “technological measures” that include 
+solutions to prevent information leaks.
+To facilitate sharing of expertise, the 
+NTT DATA Group also is promoting internal 
+knowledge sharing and working to establish 
+an information security governance structure. 
+Related initiatives include hosting forums 
+for personnel dedicated to promoting 
+information security and carrying out security 
+accident response training.
+Rules implemented by each 
+company, based on a common 
+Group policy
+In December 1998, NTT DATA formulated 
+an Information Security Policy, 
+comprising a basic policy and compatible 
+countermeasures, to ensure consistent and 
+appropriate handling of information assets. 
+Specific procedures are defined in the 
+Information Security Policy Guidelines, which 
+are distributed to all employees with the 
+Information Security Policy.
+In April 2008, we formulated 
+the NTT DATA Group Security Policy, 
+compiling common rules to construct a 
+groupwide information security structure. 
+Implementation of information management 
+by each Group company in conformance with 
+the unified rules raises overall Group security 
+levels and realizes safe information sharing.
+We also established a Personal 
+Information Protection Policy in July 2001. 
+We have amended this policy and in-house 
+regulations as necessary following the full 
+enactment of the Privacy Protection Act in 
+April 2005.
+NTT DATA Group Unified 
+Security Policy
+Information Security Policy booklet 
+(Japanese only)
+Information Security Policy 
+Guidelines booklet (Japanese only)
+Group Security Policy promotional 
+poster
+Logical Measures
+The dual aims
+of ensuring
+information
+security and
+information utility
+and sharing
+•Formulation of 
+Information Security 
+Policies
+•Information security 
+educational and 
+promotional activities, 
+etc.
+•Introduction of 
+solutions to counter 
+divulgence of 
+information
+•Introduction of Thin 
+Client, etc.
+Technical Measures
+Logical and Technical Measures
+President and CEO
+Internal Audit
+Department
+Business Units,
+Staﬀ Departments,
+etc.
+Head of
+Organization
+Related Staﬀ
+Chief Information Security Oﬃcer (CISO) in Charge of Security Strategies/
+Oﬃcer in Charge of Personal Information Management
+Audit
+Report
+Periodic reports
+Audit
+Members
+Information Security
+Promotion Oﬃcer
+Manager of
+Personal Information
+Protection Department
+Personnel in charge of
+information security promotion
+Information Security
+Committee
+Information Security Steering Organization/
+Personal Information Protection Promotion Organization
+(Information Security Promotion Oﬃce)
+Corporate Planning, R&D, Information 
+Systems, General Aﬀairs, Legal Aﬀairs, 
+Intellectual Property, Training and 
+other departments
+Information Security Management Structure
+Groupwide, we promote the safe sharing of knowledge, through the compatibility of ensuring information security 
+and information utility and sharing while striving to entrench information security governance.
+CSR Infrastructure
+Information Security
+NTT DATA CSR Report 2009

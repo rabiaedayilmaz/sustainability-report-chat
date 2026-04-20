@@ -1,0 +1,64 @@
+System Failure Countermeasures Focusing on Prevention and Response
+Information systems have developed to the point where they have become infrastructure that supports people’s daily lives and industry, so if there were some sort of system failure, it could have an 
+enormous impact on everyday tasks and business.
+ 
+As an IT company that operates many large-scale systems that support society, the NTT DATA 
+Group is advancing extensive system failure response measures based on the dual perspectives of 
+prevention and response. These measures include inspections based on a comprehensive perspective 
+in line with the Information Technology Infrastructure Library (ITIL), ISO 20000, and other standards, 
+deployment of response know-how at the time of a failure, and development of IT service managers.
+ 
+To ensure NTT DATA and NTT DATA Group business continuity when a disaster occurs, we formulated a BCP and regularly review education, training, and business continuity planning as each 
+organization must be able to recover operations as quickly as possible and restore business to standard levels in a short period of time.
+ 
+Meanwhile, the NTT DATA Group will continue overhauling and reinforcing measures for dealing with 
+failures caused by security breaches, which have become a growing social problem in recent years.
+Disaster and System Failure Countermeasures
+The NTT DATA Group provides many information systems and services that support social infrastructure. As a result, a system shutdown or interruption of services in the event of a disaster would have 
+an enormous impact on society and people’s lives. Therefore, we strive to constantly improve disaster BCPs as well as contingency plans for systems and services related to social infrastructure. Since 
+the Great East Japan Earthquake, we have particularly sought opportunities where we can apply the 
+lessons we learned from this difficult experience.
+ Structure for Responding to Earthquakes and Other Large-Scale Natural Disasters
+Plans and a System Responsive to Disaster-Related Risks
+As in the case with the Great East Japan Earthquake, we face the risk of disasters of greater scale 
+and diversity, which further raises the importance of plans and systems for response.
+ 
+In addition to establishing a BCP in the event of a disaster and a contingency plan, NTT DATA is 
+conducting drills to ensure that we swiftly respond for the continuation of our business after a 
+disaster.
+ 
+We hold Companywide drills for all employees, including drills for confirming personal safety and 
+setting up the Disaster Countermeasures Headquarters at the head office. Furthermore, each organization conducts separate drills that reflect the nature of their respective operations in an effort to 
+minimize disaster risks.
+ 
+Protecting our buildings, electrical systems, air conditioners, security, and various functions of our 
+data centers is vital for the operation of information systems. For this reason, we have obtained certification for ISO 22301:2012, an international standard for business continuity management, at all 
+Group-owned buildings and have established a system able to respond in the event of a large earthquake, widespread power outage, or similar incidents.
+Disaster Countermeasures Headquarters
+System manager
+System manager
+System manager
+System manager
+Damage reporting / business 
+continuity decisions
+Individual system operation / 
+restoration services
+Customers
+Head office
+NTT DATA
+Group companies
+Each section
+NTT DATA Group Sustainability Report 2017
+
+CONTENTS
+Message from the President
+Company Data
+CSR in the NTT DATA Group
+Initiatives Targeting Material 
+CSR Issues
+Contribution Activities 
+by Overseas Group Companies
+Social
+Environment
+GRI Standards
+Governance

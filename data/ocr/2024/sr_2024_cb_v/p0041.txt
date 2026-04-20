@@ -1,0 +1,120 @@
+NTT DATA Sustainability Report 2024 Case Book
+Society
+Inclusive Society
+Social issues
+Material Issues
+SDGs
+Easy, Voice-activated Communication: Connecting Seniors with Society
+NTT DATA Japan Corporation
+Business Promotion Group
+Shinkin Bank Division
+Second Financial Sector
+Japan's elderly population is expected to peak in around
+2040, with the numbers of elderly and working-age
+individuals approaching a one-to-one ratio. It is estimated
+that by fiscal 2040, there will be a shortage of about
+570,000 caregivers. Such a shortage of caregivers could
+deprive
+many
+individuals
+of
+treatment
+and
+care
+opportunities, increasing the burden on families. With
+some 40% of family care attributed to working caregivers,
+the economic loss is estimated to be JPY 9 trillion. Social
+security costs are projected to reach JPY 187 trillion in
+fiscal 2040. This gives rise to a need for efforts to extend
+healthy
+life
+expectancy
+through
+measures
+such
+as
+preventive care.
+Meanwhile,
+many
+elderly
+people
+struggle
+to
+use
+smartphones or tablets due to aging-related cognitive
+decline and physical decline, such as numbness in the
+hands, dryness, and decreased vision. A 2023 survey by
+the Cabinet Office found that less than 30% of people
+aged 70 and over frequently use smartphones or tablets.
+Business need
+Solution
+Voista!Ⓡ
+• As the elderly population grows, the medical and welfare personnel shortage worsens and social security costs rise, causing a slowdown in
+economic activity. Extending healthy life expectancy has become a social issue.
+• As society becomes more digital, elderly people often face challenges accessing and using Information and Communication Technology (ICT).
+This leads to inequality in economic activities, social participation, and information access, known as the digital divide*.
+￥NTT DATA has developed Voista!, a senior-friendly
+service that combines a smart display with easy to operate
+with voice commands. The service is offered to senior
+facilities and local governments.
+Since this service is based on voice control, even seniors
+who are not familiar with using smartphones or tablets can
+easily manage to use it. As well as creating opportunities
+for elderly people to speak by engaging with the characters,
+the service promotes wellness by suggesting content such
+as health information, brain training, and videos. For
+communication with families, there are features like video
+calls and an app to share the status of facility users,
+allowing
+facilities
+and
+families
+to
+work
+together
+in
+monitoring.
+In addition, Voista! uses voice prompts to help prevent
+elderly people from forgetting to take their medication. This
+supports their independence and also reduces the burden
+on caregivers and family members.
+The current focus is on assisted living facilities and local
+governments. In the future, NTT DATA plans to offer
+services
+to
+stakeholders
+such
+as
+home
+care
+and
+community-based care providers. NTT DATA
+aims to
+continue connecting local communities and older adults
+across different professions and industries to help solve
+issues in our aging society.
+Impact
+Average usage frequency of
+health content by seniors in
+Iwanai Town, Hokkaido
+3 times a week
+→
+7 times a week
+Recommended frequency of multi-component 
+exercise (such as radio calisthenics) **
+When using Voista!
+The quizzes and exercises included in Voista! are as effective as
+speech in preventing frailty. The daily use of health content indicates
+that actions to prevent frailty are becoming habitual.
+Digital
+Accessibility
+*Digital divide
+The gap between those who can
+use information and communication
+technologies like the internet and
+computers and those who cannot.
+**The Ministry of Health, Labour and Welfare (MHLW) recommends that elderly people engage in multicomponent exercises such as radio calisthenics at least three times a week. (See Physical Activity and Exercise
+Guide for Health Promotion 2023 – Elderly Version published by MHLW)
+Connecting Seniors 
+with Society: Voista!®
+(in Japanese only)

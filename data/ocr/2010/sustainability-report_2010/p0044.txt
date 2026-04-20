@@ -1,0 +1,107 @@
+From ﬁ scal 2010, NTT DATA has enacted three information 
+security strategies and is now putting corresponding 
+measures into place. The strategies are: 1. Practice 
+information security promotional activities targeting 
+globalization and Group expansion; 2. Ensure that basic 
+procedures are followed to prevent accidents from occurring 
+and establish procedures to respond quickly in the event of 
+occurrence; and 3. Cultivate information security awareness 
+beﬁ tting professionals who employ information.
+1. PDCA Double Loop to Promote Groupwide Information 
+Security
+To promote information security management, it is essential 
+to groupwide information security management that the 
+groupwide PDCA cycle and the PDCA cycles of Group 
+companies are operating synchronously. To achieve this 
+goal, in ﬁ scal 2010 the NTT DATA Group commenced an 
+initiative it calls the “PDCA double loop.” 
+One part of the loop, which describes the groupwide 
+PDCA cycle, centers on the NTT DATA Information Security 
+Promotion Oﬃ ce. This loop involves monitoring the 
+conﬁ guration status of Group companies’ information 
+security systems, as well as the implementation status of 
+their educational measures and internal audits. PDCA cycles 
+of Group companies, the other part of the loop, involve 
+cultivating information security promoters, Group company 
+personnel and GSP internal audit staﬀ .
+The NTT DATA Information Security Promotion Oﬃ ce 
+also conducts Group company caravans. In ﬁ scal 2010, the 
+oﬃ ce visited some 70 Group companies, including overseas 
+locations. These visits included eliciting Group companies’ 
+problems and issues, as well as considering on-site advice 
+and improvement proposals. 
+2. Ensuring that Basic Procedures to Prevent Accidents 
+Are Followed and Creating Response Measures 
+Ensuring the safe communication of knowledge requires 
+more than technological measures. Rather, this objective 
+requires that individual employees understand the risks that 
+surround them on an everyday basis and that they 
+consistently follow the basic procedures that are necessary 
+to counter such risks.
+To this end, in ﬁ scal 2010 NTT DATA conducted an 
+information security study. This case study session used past 
+accidents and near-accidents as case studies to serve as a 
+basis for workplace discussions among all employees on 
+ways to counter the risks that are present in everyday 
+operations and to respond to any accidents that might occur. 
+Furthermore, minimizing any damage in the event of an 
+information security accident requires that employees gain 
+an appropriate understanding of the event and respond 
+quickly. To further this objective, NTT DATA has conducted 
+training using a story 
+line named Accident 
+Response Training: 
+DryRun, outlining the 
+series of a 
+hypothetical accident, 
+from outbreak 
+through to 
+conclusion.
+3. Cultivating Information Security Awareness
+To ensure that each employee conducts himself/herself as 
+beﬁ ts an IT professional and consistently responds 
+appropriately, in ﬁ scal 2009 NTT DATA earmarked November 
+as Information Security Enhancement Month for cultivating 
+information security awareness. 
+The Company focused its activities during this month in 
+ﬁ scal 2010 on instilling an understanding of rules related to 
+the handling of information and sought to enact procedures 
+that demonstrate security awareness. In addition to holding 
+information security study sessions, we conducted a test on 
+the safe sharing of knowledge. Conducted through 
+e-learning, this test was designed to evaluate the knowledge 
+and actions that each employee brings to his everyday 
+operations. Furthermore, to bolster awareness the Company 
+put together a handbook summarizing the points involved 
+in the safe sharing of knowledge and prepared and 
+distributed a checklist of voluntary actions. 
+NTT DATA has also designated the last working day of 
+each week as “secure Friday” to encourage employees to 
+reﬂ ect security themes in their everyday activities, such as 
+deleting unnecessary information from their mobile phones. 
+To raise awareness, signs at headquarters entrances remind 
+employees that “Today is ‘secure Friday.’”
+Accident response training
+Note: For additional information, please refer to page 45.
+Overview of the PDCA Double Loop
+NTT DATA
+Action
+Plan
+Do
+Check
+Group
+company
+Action
+Plan
+Do
+Check
+Group company
+support
+Group company
+audits
+Information Security Strategies
+Proposing and introducing strategies to lower 
+information security risks
+NTT DATA CSR Report 2010
+
+CSR Infrastructure

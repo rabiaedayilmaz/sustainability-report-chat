@@ -1,0 +1,79 @@
+Environment 
+
+NTT DATA Sustainability Report 2021 Data Book 
+Measures 
+and costs 
+In fiscal 2020, we invested around ¥22,739 million in total R&D expenses aimed at becoming a partner for clients’ 
+green innovation. To survive amid fierce global competition, we conduct R&D on production technology innovation 
+to enable faster system development, higher quality, the construction of cloud computing platforms and the shift to 
+digitalization, as well as R&D on cutting-edge technologies and innovations for proactively incorporating new 
+technological trends into our business. Under our Medium-Term Management Plan, we are promoting innovation 
+by building a foundation to consolidate and utilize knowledge and know-how related to leading-edge technologies 
+on a global scale, while also refining next-generation production technologies. 
+1.[referenced above?] Set with reference to “State and Trends of Carbon Pricing 2020” (World Bank Group), etc. [to what does this refer?] 
+ 
+ Physical Risks 
+Regarding the physical impact caused by climate change, there is a risk that abnormal weather events, such as large typhoons, 
+flooding, heat waves and torrential rains, could shut down the power supply to data centers, while flooding and lightning could 
+halt operations at data centers. 
+ 
+Risk 3: Data center shutdown due to abnormal weather 
+ 
+Large typhoons, floods, heat waves, torrential rains and other abnormal weather events increase the risk of data center 
+operational shutdown due to power outages, flooding and lightning strikes. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+Some 50% or more of the Group’s sales are connected to its data centers, and its main data centers are located 
+on middle latitudes in the northern hemisphere, which are frequently experiencing heavy rainfall due to climate 
+change. Due to these unique characteristics, the suspension of operations at our data centers could have severe 
+impacts on our business and could negatively impact large-scale systems that support social infrastructure, such 
+as financial and medical services. Accordingly, operational suspensions at our data centers carry the risk of causing 
+enormous damage to society at large. 
+With these factors in mind, the NTT DATA Group has equipped its data centers with in-house emergency 
+generators in readiness for power outages. However, if these generators, which are located underground, stop 
+operating due to flooding, there is a risk that our data center business continuity could be jeopardized. Operation 
+of our data centers could also be interrupted by equipment malfunctions caused by lightning strikes. One day of 
+operational suspension would result in approximately ¥3.2 billion in lost sales (calculated based on the daily sales 
+rates of services provided through our data centers). In reality, we would suffer further damage, such as a decline 
+in trust, so this figure is actually the minimum estimated value. 
+Measures 
+and costs 
+We have been taking various measures to avoid these risks, such as (1) identifying and implementing flood 
+prevention works at data centers where basements present high flood risk based on municipal hazard maps, (2) 
+establishing backup data centers in multiple locations and (3) replacing lightning rods at 15 NTT DATA buildings 
+nationwide. In fiscal 2017, we conducted BCP drills in preparation for disasters, including natural disasters caused 
+by climate change and other factors. We also reconsidered our fuel and water requirements and strengthened our 
+procurement methods. Since fiscal 2018, we have conducted BCP drills with a scenario where a disaster occurs 
+outside weekday daytime hours. We also introduced a web-based system for building-specific disaster 
+management. The system collects, manages and shares information on disaster countermeasures that can be 
+accessed from home or mobile phones and shared by all concerned parties. 
+In March 2020, we established Grid Sky Way LLP together with TEPCO Power Grid, Inc., and Hitachi, Ltd. The 
+activities of the new entity include building and demonstrating a system to enhance the sophistication and resilience 
+of infrastructure facility inspections, including by using drones to inspect electric power equipment, as 
+countermeasures against natural disasters that are becoming more severe due to abnormal weather. (NTT Data’s 
+role is to create an environment for field-testing a drone operational management system.) We believe that the 
+sophistication of these infrastructure facility inspections will reduce the risk of disconnection and other problems in 
+the event of a severe disaster. 
+The annual cost of renewing our air-conditioning systems to reduce power consumption and prevent the 
+shutdown of in-house power generation at data centers in the event of a disaster is around ¥1.2 billion (minimum 
+assumed cost). Combined with the Company's ¥200 million investment in capital for establishing Grid Sky Way, this 
+brings the total cost of disaster risk countermeasures in fiscal 2020 to ¥1.4 billion. 
+Risk 4: Increase in air-conditioning costs due to rising average temperatures 
+ 
+Operating costs will increase in line with rising average temperatures. 
+Assumed 
+business 
+and 
+financial 
+impacts 
+The Group has 17 data centers in Japan and others around the world, mainly in mid-latitude regions of the northern 
+hemisphere, such as Europe and the United States, where average temperatures are rising significantly due to 
+climate change. These rising average global temperatures carry the risk of increasing our operational costs. 
+We estimate that a 1.0°C rise in temperature would increase electricity consumption at our data centers in 
+Japan and overseas by around 4.5 million kWh, resulting in an annual increase in energy costs of around ¥70 
+million. 
+Time horizon: Long term 
+Time horizon: Short term

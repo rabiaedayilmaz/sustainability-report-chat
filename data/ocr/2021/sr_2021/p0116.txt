@@ -1,0 +1,47 @@
+Social 
+
+NTT DATA Sustainability Report 2021 Data Book 
+ 
+ Addressing Serious Issues 
+At the NTT DATA Group, executives and employees are required to promptly notify the quality assurance desk in the event of 
+any serious quality issue with a commercial system. The Quality Assurance Department and external relations desk have an 
+emergency contact system in place, whereby the Corporate Management Committee deliberates countermeasures to highly 
+serious issues. Particularly serious incidents are reported swiftly to senior managers. We also investigate the cause of each 
+incident, consider measures to prevent recurrence, report to the competent authorities as necessary according to laws and 
+regulations and disclose appropriate information to customers through our website. 
+ 
+ Human Resource Development Emphasizing System Management Stability 
+Seeking to stabilize system operations, NTT DATA’s Quality Assurance Department promotes IT-SM community activities to 
+develop human resources who will engage in system operation and maintenance. 
+Our IT-SM community activities include IT service management improvement training, which involves learning through 
+examples of system failure response and prevention, and IT-SM community seminars to serve as forums for presenting and 
+sharing those examples. In addition, we provide support through our IT-SM training (mentoring) school for IT service managers. 
+At this school, two executive IT service managers serve as mentors to pass on skills and expertise, provide psychological support 
+(discussion of concerns) and facilitate personal network building (vertical relationships between IT service managers). 
+Furthermore, we support and develop personnel involved in system operation and maintenance by offering various tools. 
+These include a standardized on-site inspection checklist for stable system operations, a portal site to provide expertise on 
+stable system operations and IT service management, a collection of example failure cases for recovery training, a system 
+development guide aimed at improving operational quality during the development phase and a guide for reducing human errors 
+that contains well-explained strategies and case studies. 
+ 
+Relationships with Customers 
+ 
+ Improving Customer Satisfaction 
+Listening to our customers and working to improve their satisfaction levels is important when considering how we can help 
+resolve social issues through our business. Under its Clients First approach, the NTT DATA Group has achieved a high level of 
+satisfaction among customers by contributing to their success. 
+ 
+ Promoting Improvement through Interviews and Questionnaires 
+Reflecting its belief that a client-oriented approach lies at the root of sustainable corporate growth, NTT DATA conducts oral and 
+written surveys of its regular clients every year. The aim of this self-monitoring exercise is to enable us to deliver improved 
+services from a client standpoint. 
+In fiscal 2020, we conducted interviews with people from 57 client companies and organizations, obtaining information 
+regarding their opinions and requests. We also gained feedback through questionnaires received from 460 people in 188 client 
+companies and organizations. One of the questionnaire items asks respondents if they intend to continue the relationship going 
+forward and if they would like NTT DATA to be their first choice for consultation. In response, 83% of clients wrote “I would like 
+to continue the relationship going forward” and “NTT DATA is my first choice for consultation.” Based on interviews and survey 
+results, the entire Company is engaged in improvement activities, including analysis of results, identification of issues and the 
+formulation and implementation of improvement action plans. 
+We will continue advancing these efforts in a systematic manner to further improve customer satisfaction levels. 
+ 
+ NTT DATA’s Position from Customers’ Perspective

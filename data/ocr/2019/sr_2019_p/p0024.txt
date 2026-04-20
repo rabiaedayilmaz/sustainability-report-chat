@@ -1,0 +1,93 @@
+The Voice of the Stakeholder
+The Japan Aerospace Exploration Agency (JAXA), as a core executive 
+organization that technically supports aerospace development, 
+strives to realize a safe and affluent society through collaboration with 
+various partners. AW3D aims to promote industrial development at 
+a higher level and expand the scope of space utilization through a 
+partnership between JAXA, NTT DATA and RESTEC that allows them 
+to combine and further improve their areas of strength. So far, AW3D 
+has successfully provided solutions for various societal issues, including 
+the provision of natural disaster damage prediction and implementation 
+of water resource surveys. JAXA will continue to strive to make 
+satellite technology a component of social infrastructure through this 
+collaboration with the private sector so as to help create a sustainable 
+society by providing solutions.
+CASE01
+3D Topographical Data Forms the Foundation of Making Communities Safer and More Convenient
+Analyzed image of the virus survey conducted in Niger
+Mr. Takeo Tadono
+Senior Researcher
+Japan Aerospace Exploration Agency 
+(JAXA)
+Yuki Shinohara
+Manager 
+First Sales Group 
+Social Innovation Division
+Yukie Matsuoka
+Assistant Manager 
+First Sales Group 
+Social Innovation Division
+Various application areas
+AW3D can be used for a variety of applications including urban 
+development, agriculture, plant construction/maintenance, 
+airports/harbors, electricity, roads/railways, disaster prevention/
+response and forest/greenery management. The improved 
+accuracy of AW3D has expanded its practical applications for 
+projects in Japan and abroad that require large-scale maps. 
+Even in Japan, where a variety of topographical data has 
+already been created, AW3D has been increasingly used as 
+an alternative to aerial or field surveys due to its advantages, 
+including speed and the newness of information.
+There have been numerous cases of AW3D application. In 
+one case, AW3D was used to conduct simulations of radio 
+wave propagation in order to decide where to install base 
+stations of a cellular network. The world is now embracing 
+the fifth-generation mobile communication system (5G), which 
+requires the use of higher frequency radio waves. The higher 
+the frequency of radio waves, the more straight they become. 
+Such straightness may cause even seemingly insignificant 
+objects such as tall trees in a park or house fences to affect 
+the propagation of radio waves. Increasing the accuracy of 
+simulation is needed to address this situation, which can be 
+dramatically improved by overlaying accurately extracted data 
+on buildings and plants onto the area’s topographical data.
+AW3D has also been used in wind farm construction projects 
+for investigating wind flows from surrounding terrain and for 
+simulating the volume of storm water discharge from mountains 
+or landslide hazards in the event of a heavy downpour.
+Helped identify poliovirus transmission routes
+One case that has been very memorable for us is a project 
+entitled “Identification of Poliovirus Transmission Routes 
+by Understanding River Flow Paths.” The World Health 
+Organization (WHO) regularly samples surface sewage and 
+tests for traces of poliovirus and has chosen to use AW3D 
+to search for more suitable sampling points. The first survey 
+site was Kano in Nigeria, in which analysis was performed on 
+images taken of the site at a 5-meter resolution. The analysis 
+revealed that the actual surface sewage basin was wider by 
+some 2 kilometers to the west and about five times larger in 
+area than originally thought. The reason for WHO to collect 
+sewage samples is to check if they contain the poliovirus in 
+order to prevent polio outbreaks. AW3D has been utilized by 
+WHO to find more appropriate sites to perform the collection.
+It is difficult for many developing countries to create 3D maps 
+on their own. NTT DATA’s AW3D has been adopted by such 
+countries as a convenient solution for offering their citizens 
+safe and secure living environments by providing national land 
+development, disaster prevention and health services.
+Message from the CEO
+Company Data
+Sustainability in the 
+NTT DATA Group
+Efforts to Make Social 
+Contributions through 
+Businesses
+Social
+Environment
+Governance
+GRI Standards
+
+Efforts to Make Social 
+Contributions through 
+Businesses
+NTT DATA Sustainability Report 2019

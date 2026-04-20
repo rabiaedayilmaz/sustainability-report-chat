@@ -1,0 +1,74 @@
+Sustainability Management
+Introduction
+Prosperity positive
+People positive
+Governance
+Appendix
+Metrics Category
+Metrics, Targets, Results, etc.
+GHG emissions
+Metrics: Scope 1, 2, and 3 emissions
+Targets: GHG emissions
+Medium term:
+Make the following reductions by FY2030 
+compared with FY2021.
+Scope 1, 2: Reduce by 68% (SBT1.5˚C level)
+Scope 3: Reduce by 42%
+Note: SBT approved
+Long term:
+Achieve Net-Zero by FY2040 (Scope 1, 2, and 3)
+Achieve Net-Zero for Scope 1 and 2 by 2035
+Note: SBT approved
+Internal carbon 
+price
+¥21,000/t-CO2e (from April 1, 2025)
+Note: Unified price across the NTT Group
+Remuneration
+Implementing the following performance-linked remuneration:
+1. For non–Audit and Supervisory Committee directors (excluding outside directors), 
+remuneration is partly linked to the evaluation of progress in achieving GHG emission- 
+reduction plans.
+2. For employees, bonuses are partly linked to the evaluation of progress in promoting 
+sustainability-related offerings and social contribution activities (applicable for fiscal 
+2022–2024).
+Metrics and Targets 
+(Management Metrics and Targets for Climate-Related Risks and Opportunities)
+Metrics and targets set for climate-related risk management and opportunity-related 
+strategies are below.
+Strategies and costs
+ Active investment in the data center business
+From fiscal 2023 to 2027, we plan to actively invest more than ¥1.5 trillion in our data 
+center business. In fiscal 2024, we began offering approximately 380 MW of new capacity, 
+mainly in North America, bringing the total global capacity to 1,500 MW.
+Time horizon: Short term
+Increasing demand for resilient data centers that 
+contribute to decarbonization
+Business and financial impacts
+In recent years, the frequent occurrence of extreme weather events and growing societal 
+demands for decarbonization have increased the need for companies to strengthen the 
+resilience of their IT infrastructure while maintaining environmental responsibility. In addition, 
+as the use of generative AI rapidly advances, demand for cloud platforms that support massive computational workloads is expected to expand, further increasing the need for our data 
+center services.
+ 
+Our data centers offer not only a robust infrastructure foundation but also high 
+energy-efficiency performance, providing services that combine reliability with environmental 
+responsibility. In addition, we have announced our commitment to achieve Net-Zero Scope 1 
+and Scope 2 GHG emissions in our data centers by 2030, accelerating efforts toward realizing a 
+sustainable society. Through these initiatives, business opportunities for our data center operations are expected to expand.
+Financial impact
+In addition to the increasing frequency of extreme weather events such as typhoons and 
+localized heavy rainfall, growing demands for decarbonization are expected to drive the adoption of energy-saving measures through shared usage and equipment consolidation, as well 
+as the introduction of renewable energy. This is anticipated to increase demand for data 
+center services that are both resilient and contribute to decarbonization. Data center business net sales for fiscal 2025 are projected at ¥544.0 billion.
+Opportunity 
+
+NTT DATA Sustainability Report 2025
+Introduction
+Sustainability Management
+Prosperity positive
+Planet positive
+People positive
+Governance
+Appendix
+Planet positive
+ Climate Change

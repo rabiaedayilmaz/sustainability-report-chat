@@ -1,0 +1,66 @@
+Paradigms for the 
+Global Environment 【Additional Topics】 
+NTT DATA CSR Report 2011 47/67 
+Developing the Offsetting Credit scheme 
+At present, the United Nations employs Kyoto credits as carbon offsets, applied mainly to 
+reduce overseas emissions, but demand is mounting to reduce domestic emissions, as well. 
+In response, in November 2008 Japan’s Ministry of the Environment established the 
+Offsetting Credit (J-VER) scheme to certify the carbon offset credits acquired by reducing or 
+absorbing greenhouse gas emissions on domestic projects. 
+ 
+The ministry commissioned NTT DATA to develop a system for issuing, storing, 
+transferring and invalidating credits and handling other record-keeping aspects of this 
+scheme. This system became operational in March 2009. 
+ 
+In fiscal 2011, we added certain functions and upgraded others to enhance the 
+system’s convenience. We will continue working to ensure stable operation of this system, 
+thereby supporting emissions trading among its participants. 
+ 
+Supporting environmentally friendly product development and CO2 
+reduction through carbon offsets 
+Through the Carbon Offset Products Project (COP)* inaugurated by the NTT DATA Institute 
+of Management Consulting in October 2007, we support the reduction of CO2 emissions 
+from corporate business activities and environmentally friendly strategic product 
+development through carbon offsets. So far, carbon offsets have been used by stores, 
+refrigerator centers, factories and buildings. 
+ 
+Taisei Corporation participated in this system in fiscal 2011, using carbon offsets for 
+its Sapporo Building and technology center, which focus of the company’s energy-saving 
+technologies. As a new COP initiative, the institute also set up the 1 Ton Club as a carbon 
+offset program for individuals using Kyoto credits. From Taisei, 655 employees joined this 
+program, which is designed to offset CO2 emissions resulting from everyday activities. 
+ 
+We plan to approach other companies to increase participation in the 1 Ton Club. 
+ 
+ 
+* Carbon Offset Products Project (COP): This project employs Kyoto credits, which are certified by the 
+United Nations in accordance with the Kyoto Protocol, underpinning the reliability of carbon offsets. 
+ 
+[CHART] COP Results 
+Project 
+Number 
+Participating 
+Companies/Organizations
+CO2 Offset Amount 
+(tons of CO2) 
+(fiscal 2009–2010) 
+Zero-CO2 emissions stores 
+
+CO-OP Net 
+5,770
+Zero-CO2 emissions 
+refrigerator center 
+
+CO-OP Net 
+13,175
+Zero-CO2 emissions 
+factories 
+
+Toppan Printing Co., Ltd. 
+4,614
+Zero-CO2 emissions 
+buildings 
+
+Toppan Printing Co., Ltd., 
+Taisei Corporation 
+3,800

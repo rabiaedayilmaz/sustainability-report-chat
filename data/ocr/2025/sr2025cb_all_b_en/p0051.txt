@@ -1,0 +1,110 @@
+NTT DATA Sustainability Report 2025 Case Book
+Area: Nationwide
+FOOD DONATIONS
+106kg
+Area: Kanagawa Prefecture
+CIJ
+and
+NTT
+DATA
+have
+jointly
+conducted
+farming experience programs and workshops at
+mandarin farms in Oimachi, Kanagawa Prefecture.
+Since 2023, they have been certified as Oimachi
+SDGs Partners.
+SATOYAMA FARMING 
+EXPERIENCE
+
+Area: Nationwide
+NTT DATA Academia
+Approx. 1,900 (parent-child pairs)
+Area: Nationwide
+NTT DATA and ARROWS Inc. provide IT classes
+to junior high students nationwide with the theme
+of creating the future with IT to nurture next-gen
+IT talent.
+SENSEI YONONAKA GAKU
+IT EDUCATION
+Approx.18,000
+Area: Nationwide
+Training programs are provided by NTT DATA
+Group, five other IT companies, Japan's National
+Women's Education Center, and the Japan NPO
+Center
+to
+support
+NPOs
+by enhancing
+their
+utilization of IT technology.
+NPTech INITIATIVE
+Approx. 300*
+Since
+fiscal
+2020,
+NTT
+DATA
+has
+been
+conducting an IT education program called NTT
+DATA
+Academia
+targeting
+elementary
+school
+students to impart knowledge about programming
+and IT systems.
+Education
+Health
+Environmental Conservation
+Donations
+Area: Nationwide
+USED BOOK DONATIONS
+Approx. 2,600 books
+Area: Nationwide
+Since 2024, NTT DATA has participated in the Girls
+Meet STEM Career program organized by the
+Shintaro Yamada D&I Foundation, which provides
+tours of offices and roundtable discussions for
+female junior high and high school students, to
+promote interests in becoming next-gen IT talent.
+CAREER ROUNDTABLE 
+DISCUSSION FOR FEMALE 
+JUNIOR HIGH AND HIGH 
+SCHOOL STUDENTS
+Approx.100
+NTT DATA also engages in various social contribution activities within Japan by leveraging the Group’s strength: technical capabilities. We place
+particular focus on IT education to nurture IT talent that will support the next generation, providing support to a wide range of people, from education
+programs for elementary and junior high school students to IT education support for NPOs.
+Japan Case Studies
+Social Contribution
+People positive
+*Results between April and October 2025
+*Fiscal 2024 results
+NTT DATA has developed an algorithm that takes driving data (speed,
+acceleration, deceleration, etc.) automatically collected from GPS devices
+installed in vehicles and integrates it with map data to detect dangerous
+driving, then uses those characteristics to estimate drivers’ cognitive health.
+ESTIMATING BRAIN HEALTH FROM 
+DRIVING BEHAVIOR DATA
+Area: Nationwide
+Press Release:
+NTT DATA Verifies 
+Effectiveness of 
+Algorithm to Estimate 
+Cognitive Health from 
+Driving Behavior Data 
+| NTT DATA Group
+Driving data collection
+Everyday driving patterns, 
+including speed and 
+acceleration
+AI analysis
+Algorithm analyses driving 
+behavior
+Brain health score
+Detects cognitive decline before 
+subjective symptoms appear
+*Amount of FY2023 and 2024

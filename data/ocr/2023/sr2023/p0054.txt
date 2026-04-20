@@ -1,0 +1,27 @@
+Environment | Regenerating Ecosystems 
+
+NTT DATA Sustainability Report 2023 Data Book 
+Environmental Data 
+ 
+ Overview of Our Environmental Impact (Material Flows) 
+ 
+To minimize the environmental impact of our business activities, NTT DATA monitors and analyzes at what stage and how resources and energy are used and the environmental impact generated. 
+The environmental impact of our business activities derives primarily from GHG emissions resulting from the consumption of energy, mainly as electric power. Other factors, such as the use of 
+paper and water resources and the construction of data centers, also have environmental impacts of various magnitudes. In addition, we cannot ignore the environmental impact of energy 
+consumption resulting from the operation of systems and services provided by NTT DATA at client companies. For these reasons, we strive to correctly ascertain and analyze the environmental 
+impact of our business activities and utilize the findings to make various improvements. 
+*1 Including private power generation from FY2022 
+*2 Indicates CO2 equivalent 
+*3 Thermal recycling has been taken into 
+consideration for the calculation of data. 
+Data aggregation range 
+FY2018: NTT DATA and 69 Group companies (Japan only) 
+FY2019: NTT DATA and 72 Group companies (Japan only) 
+FY2020: NTT DATA and 79 Group companies 
+(Japan and some outside Japan) 
+FY2021: NTT DATA and 91 Group companies (Japan and some outside Japan) 
+FY2022: NTT DATA 158 Group companies (All Group companies except NTT Ltd.) 
+*4 Increase due to expansion of overseas business scope 
+*5 In the FY2021 disclosure, scope definitions based on the type 
+of service provided at data centers were revised in line with 
+the NTT Group standards.
