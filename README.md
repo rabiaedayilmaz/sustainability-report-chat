@@ -10,6 +10,23 @@ curl -X POST http://localhost:8000/ask \
      -d '{"question":"What are 2024 emissions targets?"}'
 ```
 
+```bash
+./start.sh
+curl -X POST http://localhost:8000/agent \
+     -H 'Content-Type: application/json' \
+     -d '{"question":"Compare scope 1+2 emissions targets between 2020 and 2024"}'
+```
+
+## Quick Start
+OCR + embed:
+```bash
+python scripts/index_pdfs.py --phase extract
+```
+Service:
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
+
 ---
 
 ## Highlights
