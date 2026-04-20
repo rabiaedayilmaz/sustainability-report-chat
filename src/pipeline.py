@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import gc
 import resource
-import sys
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import List, Sequence
