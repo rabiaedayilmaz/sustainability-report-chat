@@ -70,8 +70,10 @@ def _pipeline_stub(store=None) -> RAGPipeline:
     p = RAGPipeline.__new__(RAGPipeline)
     p.year_extractor = YearExtractor(["2023", "2024", "2025"])
     p.settings = _StubSettings()
-    if store is not None:
-        p.store = store
+    # Mirror __init__'s lazy dependency fields on the __new__ shell.
+    p._embedder = None
+    p._store = store
+    p._version = None
     return p
 
 
